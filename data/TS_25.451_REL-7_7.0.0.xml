@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 25.451:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.451/25451-700.zip">
+  <front>
+    <title>UTRAN Iupc interface layer 1</title>
+    <workgroup>R3</workgroup>
+    <abstract>The present document specifies the standards allowed to implement Layer 1 on the Iupc interface.</abstract>
+  </front>
+</reference>

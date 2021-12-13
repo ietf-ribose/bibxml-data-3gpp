@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 33.835:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.835/33835-200.zip">
+  <front>
+    <title>Study on authentication and key management for applications based on 3GPP credential in 5G</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

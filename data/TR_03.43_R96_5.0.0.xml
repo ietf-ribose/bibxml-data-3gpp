@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 03.43:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.43/0343-500.zip">
+  <front>
+    <title>Support of Videotex</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

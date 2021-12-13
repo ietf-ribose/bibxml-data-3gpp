@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 46.007:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.007/46007-500.zip">
+  <front>
+    <title>Half rate speech; Test sequences for the GSM half rate speech codec</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

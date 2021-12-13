@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.422:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.422/25422-320.zip">
+  <front>
+    <title>UTRAN Iur interface signalling transport</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the standards for Signalling Transport to be used across Iur Interface.</abstract>
+  </front>
+</reference>

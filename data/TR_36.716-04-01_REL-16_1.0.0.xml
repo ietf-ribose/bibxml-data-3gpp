@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 36.716-04-01:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.716-04-01/36716-04-01-100.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-16 for x bands Down Link (DL) (x = 4, 5) / 1 band Up Link (UL)</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

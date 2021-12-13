@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 03.55:R99/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.55/0355-830.zip">
+  <front>
+    <title>Dual Transfer Mode (DTM); Stage 2</title>
+    <workgroup>G1</workgroup>
+    <workgroup>G2</workgroup>
+  </front>
+</reference>

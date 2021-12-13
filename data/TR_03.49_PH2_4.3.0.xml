@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 03.49:Ph2/4.3.0">
+  <front>
+    <title>Example protocol stacks for interconnecting Cell Broadcast Centre (CBC) and Base Station Controler (BSC)</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

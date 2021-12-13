@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 26.093:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.093/26093-700.zip">
+  <front>
+    <title>Mandatory speech codec speech processing functions Adaptive Multi-Rate (AMR) speech codec; Source controlled rate operation</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S4</workgroup>
+    <abstract>This specification describes the operation of the AMR speech codec during SCR operation.</abstract>
+  </front>
+</reference>

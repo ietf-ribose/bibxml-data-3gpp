@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 25.468:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.468/25468-g00.zip">
+  <front>
+    <title>UTRAN Iuh Interface RANAP User Adaption (RUA) signalling</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

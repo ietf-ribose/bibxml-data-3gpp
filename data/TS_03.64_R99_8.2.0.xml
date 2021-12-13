@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.64:R99/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.64/0364-820.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Overall description of the GPRS radio interface; Stage 2</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

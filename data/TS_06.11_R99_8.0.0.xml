@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.11:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.11/0611-800.zip">
+  <front>
+    <title>Substitution and Muting of Lost Frames for Full Rate Speech Channels</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

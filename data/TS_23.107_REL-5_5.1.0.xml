@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 23.107:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.107/23107-510.zip">
+  <front>
+    <title>Quality of Service (QoS) concept and architecture</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S2</workgroup>
+    <abstract>This specification describes the framework for QoS in UMTS. The document shall be used as a living document which will cover all issues related QoS in UMTS.</abstract>
+  </front>
+</reference>

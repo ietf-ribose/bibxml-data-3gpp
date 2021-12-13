@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 38.423:Rel-15/15.12.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.423/38423-fc0.zip">
+  <front>
+    <title>NG-RAN; Xn Application Protocol (XnAP)</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

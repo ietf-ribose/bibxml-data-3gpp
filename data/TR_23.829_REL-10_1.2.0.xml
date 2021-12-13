@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 23.829:Rel-10/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.829/23829-120.zip">
+  <front>
+    <title>Local IP Access and Selected IP Traffic Offload (LIPA-SIPTO)</title>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

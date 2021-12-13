@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 51.013:Rel-5/5.6.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.013/51013-560.zip">
+  <front>
+    <title>Test specification for Subscriber Identity Module (SIM) Application Programming Interface (API) for Java Card</title>
+    <workgroup>C6</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

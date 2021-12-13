@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 33.917:Rel-6/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.917/33917-070.zip">
+  <front>
+    <title>(Universal) Subscriber Interface Module (U)SIM security reuse by peripheral devices on local interfaces</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

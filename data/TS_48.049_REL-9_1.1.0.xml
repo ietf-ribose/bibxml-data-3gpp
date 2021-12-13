@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 48.049:Rel-9/1.1.0">
+  <front>
+    <title>Base Station Controller - Cell Broadcast Centre (BSC-CBC) interface specification; Cell Broadcast Service Protocol (CBSP)</title>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

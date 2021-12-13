@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.644:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.644/32644-620.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

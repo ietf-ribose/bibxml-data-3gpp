@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.379:Rel-16/16.2.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.379/24379-g20.zip">
+  <front>
+    <title>Mission Critical Push To Talk (MCPTT) call control; Protocol specification</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

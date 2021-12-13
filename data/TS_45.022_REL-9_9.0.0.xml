@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 45.022:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.022/45022-900.zip">
+  <front>
+    <title>GSM/EDGE Radio link management in hierarchical networks</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

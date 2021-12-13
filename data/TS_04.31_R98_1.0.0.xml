@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.31:R98/1.0.0">
+  <front>
+    <title>Location Services (LCS); Mobile Station (MS) - Serving Mobile Location Centre (SMLC) Radio Resource LCS Protocol (RRLP)</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02a</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS 25.304:Rel-8/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-880.zip">
+  <front>
+    <title>User Equipment (UE) procedures in idle mode and procedures for cell reselection in connected mode</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This specification describes the overall idle mode process for the UE and the functional division between the non-access stratum and access stratum in the UE. The UE is in idle mode when the connection of the UE is closed on all layers, e.g. there is neither an MM connection nor an RRC connection.
+This specification presents also examples of inter-layer procedures related to the idle mode processes and describes idle mode functionality of a dual mode UMTS/GSM UE.</abstract>
+  </front>
+</reference>

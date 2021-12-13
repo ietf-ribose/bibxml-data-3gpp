@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 24.081:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.081/24081-300.zip">
+  <front>
+    <title>Line Identification supplementary services; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

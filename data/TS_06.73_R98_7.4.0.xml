@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.73:R98/7.4.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.73/0673-740.zip">
+  <front>
+    <title>Adaptive Multi Rate (AMR) speech; ANSI-C code for the AMR speech codec</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S4 / SMG11</workgroup>
+  </front>
+</reference>

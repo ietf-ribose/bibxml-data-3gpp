@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.203:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.203/33203-c00.zip">
+  <front>
+    <title>3G security; Access security for IP-based services</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

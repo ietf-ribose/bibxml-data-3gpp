@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.658:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.658/29658-900.zip">
+  <front>
+    <title>SIP Transfer of IP Multimedia Service Tariff Information; Protocol specification</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

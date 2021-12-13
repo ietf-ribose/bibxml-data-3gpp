@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.285:Rel-8/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.285/24285-001.zip">
+  <front>
+    <title>Allowed Closed Subscriber Group (CSG) list; Management Object (MO)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

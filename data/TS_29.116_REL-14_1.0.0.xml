@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.116:Rel-14/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.116/29116-100.zip">
+  <front>
+    <title>Representational state transfer over xMB reference point between content provider and BM-SC</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

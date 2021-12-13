@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 09.31:R98/7.4.1">
+  <front>
+    <title>Location Services (LCS); Base Station System Application Part LCS Extension (BSSAP-LE)</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02a</workgroup>
+  </front>
+</reference>

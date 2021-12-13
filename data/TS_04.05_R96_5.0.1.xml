@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.05:R96/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.05/0405-501.zip">
+  <front>
+    <title>Data Link (DL) Layer General Aspects</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

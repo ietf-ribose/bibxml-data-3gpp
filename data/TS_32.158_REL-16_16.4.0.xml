@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.158:Rel-16/16.4.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.158/32158-g40.zip">
+  <front>
+    <title>Management and orchestration;Design rules for REpresentational State Transfer (REST) Solution Sets (SS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

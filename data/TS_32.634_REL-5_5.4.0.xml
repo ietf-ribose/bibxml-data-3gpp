@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.634:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.634/32634-540.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

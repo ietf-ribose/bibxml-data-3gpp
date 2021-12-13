@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 22.140:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.140/22140-420.zip">
+  <front>
+    <title>Multimedia Messaging Service (MMS);  Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.06:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.06/0606-700.zip">
+  <front>
+    <title>Half Rate Speech:  ANSI-C Code for GSM Half Rate Speech Codec</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

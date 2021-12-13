@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 02.06:Ph2/4.5.2" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.06/0206-452.zip">
+  <front>
+    <title>Types of Mobile Stations (MS)</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG01</workgroup>
+  </front>
+</reference>

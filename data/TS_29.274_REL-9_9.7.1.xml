@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.274:Rel-9/9.7.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-971.zip">
+  <front>
+    <title>3GPP Evolved Packet System (EPS); Evolved General Packet Radio Service (GPRS) Tunnelling Protocol for Control plane (GTPv2-C); Stage 3</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

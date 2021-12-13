@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 25.906:Rel-7/0.1.0">
+  <front>
+    <title>Dynamically reconfiguring a Frequency Division Duplex (FDD) User Equipment (UE) receiver to reduce power consumption when desired Quality of Service (QoS) is met</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

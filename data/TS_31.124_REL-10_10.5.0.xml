@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 31.124:Rel-10/10.5.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.124/31124-a50.zip">
+  <front>
+    <title>Mobile Equipment (ME) conformance test specification; Universal Subscriber Identity Module Application Toolkit (USAT) conformance test specification</title>
+    <workgroup>C6</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

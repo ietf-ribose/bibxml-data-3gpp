@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 02.40:R99/8.0.0">
+  <front>
+    <title>Procedures for call progress Indications</title>
+    <workgroup>S1</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SMG01  /  SMG03</workgroup>
+  </front>
+</reference>

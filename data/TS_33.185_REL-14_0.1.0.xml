@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.185:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.185/33185-010.zip">
+  <front>
+    <title>Security aspect for LTE support of Vehicle-to-Everything (V2X) services</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

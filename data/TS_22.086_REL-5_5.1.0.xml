@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 22.086:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.086/22086-510.zip">
+  <front>
+    <title>Advice of Charge (AoC) supplementary services; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>These services are designed to supply to a mobile user sufficient information to allow a real time estimate to be made of the bill which will eventually be levied in the home public land mobile network (PLMN) on the mobile station subscriber.</abstract>
+  </front>
+</reference>

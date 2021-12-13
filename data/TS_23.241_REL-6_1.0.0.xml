@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.241:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.241/23241-100.zip">
+  <front>
+    <title>3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)</title>
+    <workgroup>N4</workgroup>
+    <workgroup>CP</workgroup>
+  </front>
+</reference>

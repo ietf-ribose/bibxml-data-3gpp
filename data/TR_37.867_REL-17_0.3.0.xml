@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 37.867:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.867/37867-030.zip">
+  <front>
+    <title>Downlink interruption for band combinations to conduct dynamic Tx Switching</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

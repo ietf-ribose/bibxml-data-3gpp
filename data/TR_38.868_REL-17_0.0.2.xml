@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 38.868:Rel-17/0.0.2" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.868/38868-002.zip">
+  <front>
+    <title>Study on optimizations of pi/2 BPSK uplink power in NR</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

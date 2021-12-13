@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.74:R98/7.0.3" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.74/0674-703.zip">
+  <front>
+    <title>Test sequences for the GSM Adaptive Multi Rate (AMR) speech codec</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S4 / SMG11</workgroup>
+  </front>
+</reference>

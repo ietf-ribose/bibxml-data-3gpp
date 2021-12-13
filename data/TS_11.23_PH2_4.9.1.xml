@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.23:Ph2/4.9.1" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.23/1123-491.zip">
+  <front>
+    <title>GSM Signalling Aspects Base Station System equipment Specification</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02c</workgroup>
+  </front>
+</reference>

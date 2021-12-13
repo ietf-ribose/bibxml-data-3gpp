@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 12.20:Ph2/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.20/1220-421.zip">
+  <front>
+    <title>Base Station System (BSS) Management Information</title>
+    <workgroup>S5</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SMG06 / SMG03</workgroup>
+  </front>
+</reference>

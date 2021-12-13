@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.300:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.300/32300-e00.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Name convention for Managed Objects</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

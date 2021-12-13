@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.205:Rel-7/7.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.205/23205-770.zip">
+  <front>
+    <title>Bearer-independent circuit-switched core network; Stage 2</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

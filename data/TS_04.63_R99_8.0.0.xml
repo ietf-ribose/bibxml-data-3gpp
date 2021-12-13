@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.63:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.63/0463-800.zip">
+  <front>
+    <title>Packet Data on Signalling channels Service (PDS) Service Description, Stage 3</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 01.33:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.33/0133-800.zip">
+  <front>
+    <title>Lawful Interception requirements for GSM</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

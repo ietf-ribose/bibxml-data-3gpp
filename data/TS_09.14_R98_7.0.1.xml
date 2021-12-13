@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 09.14:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.14/0914-701.zip">
+  <front>
+    <title>Application of ISDN User Part (ISUP) Version 3 for the Integrated Services Digital Network (ISDN) - Public Land Mobile Network (PLMN) signalling interface; Part 1: Protocol specification</title>
+    <workgroup>TISPAN</workgroup>
+    <workgroup>C4</workgroup>
+    <workgroup>SPAN3  / N4  /  SMG03?</workgroup>
+  </front>
+</reference>

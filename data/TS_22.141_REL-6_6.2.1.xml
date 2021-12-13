@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 22.141:Rel-6/6.2.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.141/22141-621.zip">
+  <front>
+    <title>Presence service; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.41:R98/7.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.41/0341-740.zip">
+  <front>
+    <title>Technical Realization of Short Message Service Cell Broadcast (SMSCB)</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2  /  SMG04</workgroup>
+  </front>
+</reference>

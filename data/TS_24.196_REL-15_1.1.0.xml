@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.196:Rel-15/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.196/24196-110.zip">
+  <front>
+    <title>Enhanced Calling Name (eCNAM)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

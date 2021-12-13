@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 25.944:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.944/25944-320.zip">
+  <front>
+    <title>Channel coding and multiplexing examples</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

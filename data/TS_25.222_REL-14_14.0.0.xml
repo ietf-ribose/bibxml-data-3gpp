@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.222:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.222/25222-e00.zip">
+  <front>
+    <title>Multiplexing and channel coding  (TDD)</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+    <abstract>This specification describes multiplexing, channel coding and interleaving for UTRA physical layer TDD mode.</abstract>
+  </front>
+</reference>

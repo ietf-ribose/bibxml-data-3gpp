@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 43.030:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/43_series/43.030/43030-g00.zip">
+  <front>
+    <title>Radio network planning aspects</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

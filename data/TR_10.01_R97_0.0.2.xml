@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 10.01:R97/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.01/1001-002.zip">
+  <front>
+    <title>GSM features and releases</title>
+    <workgroup>SMG3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

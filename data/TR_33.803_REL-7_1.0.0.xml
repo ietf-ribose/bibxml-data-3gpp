@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 33.803:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.803/33803-100.zip">
+  <front>
+    <title>Coexistence between TISPAN and 3GPP authentication schemes</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

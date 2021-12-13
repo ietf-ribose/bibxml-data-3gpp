@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 33.21U:UMTS/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.21U/3321U-200.zip">
+  <front>
+    <title>Security requirements</title>
+    <workgroup>-</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

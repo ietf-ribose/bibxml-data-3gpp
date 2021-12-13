@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 29.109:Rel-9/9.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.109/29109-970.zip">
+  <front>
+    <title>Generic Authentication Architecture (GAA); Zh and Zn Interfaces based on the Diameter protocol; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

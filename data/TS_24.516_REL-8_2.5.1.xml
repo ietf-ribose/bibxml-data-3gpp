@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.516:Rel-8/2.5.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.516/24516-251.zip">
+  <front>
+    <title>TISPAN; PSTN/ISDN simulation services; Malicious Communication Identification (MCID); Protocol specification</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

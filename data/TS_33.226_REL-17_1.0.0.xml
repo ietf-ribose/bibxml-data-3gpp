@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.226:Rel-17/1.0.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.226/33226-100.zip">
+  <front>
+    <title>Security assurance for IP Multimedia Subsystem (IMS)</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

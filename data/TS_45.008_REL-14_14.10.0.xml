@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 45.008:Rel-14/14.10.0" target="http://www.3gpp.org/ftp//Specs/archive/45_series/45.008/45008-ea0.zip">
+  <front>
+    <title>GSM/EDGE Radio subsystem link control</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

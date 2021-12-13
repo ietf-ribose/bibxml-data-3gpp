@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 21.201:Rel-8/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.201/21201-010.zip">
+  <front>
+    <title>Technical Specifications and Technical Reports for an Evolved Packet System (EPS) based 3GPP system</title>
+    <workgroup>SP</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

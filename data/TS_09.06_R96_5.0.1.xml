@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 09.06:R96/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.06/0906-501.zip">
+  <front>
+    <title>Interworking between a Public Land Mobile Network (PLMN) and a Packet Switched Public Data Network/Intergrated Services digital Network (PSPDN/ISDN) for Support of Packet Switched Data Transmission Services</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

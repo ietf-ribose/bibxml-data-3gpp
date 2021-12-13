@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 29.847:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.847/29847-200.zip">
+  <front>
+    <title>Conferencing based on SIP, SDP, and other protocols; Functional models, information flows and protocol details</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

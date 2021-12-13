@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.41:Ph1/4.0.2" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.41/0641-402.zip">
+  <front>
+    <title>Discontinuous Transmission (DTX) for Half Rate Speech Traffic Channels</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

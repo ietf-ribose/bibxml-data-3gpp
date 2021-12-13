@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.391:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.391/24391-c20.zip">
+  <front>
+    <title>Unstructured Supplementary Service Data (USSD) using IP Multimedia (IM) Core Network (CN) subsystem (IMS) Management Object (MO)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

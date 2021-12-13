@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 09.13:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.13/0913-600.zip">
+  <front>
+    <title>Signalling interworking between ISDN supplementary services Application Service Element (ASE) and Mobile Application Part (MAP) protocols</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

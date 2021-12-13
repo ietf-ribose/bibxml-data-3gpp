@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.31:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.31/0831-701.zip">
+  <front>
+    <title>Location Services (LCS): Serving Mobile Location Centre - Serving Mobile Location Centre (SMLC - SMLC); SMLCPP specification</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02a</workgroup>
+  </front>
+</reference>

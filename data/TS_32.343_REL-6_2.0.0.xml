@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.343:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.343/32343-200.zip">
+  <front>
+    <title>Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

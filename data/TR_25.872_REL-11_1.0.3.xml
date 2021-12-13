@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.872:Rel-11/1.0.3" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.872/25872-103.zip">
+  <front>
+    <title>High Speed Packet Access (HSDPA) multipoint transmission</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1, R2, R3</workgroup>
+  </front>
+</reference>

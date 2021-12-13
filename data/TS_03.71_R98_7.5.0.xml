@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.71:R98/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.71/0371-750.zip">
+  <front>
+    <title>Location Services (LCS); Functional description; Stage 2</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S2  /  SMG12</workgroup>
+  </front>
+</reference>

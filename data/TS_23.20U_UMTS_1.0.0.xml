@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.20U:UMTS/1.0.0">
+  <front>
+    <title>Evolution of the GSM platform towards UMTS</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG12</workgroup>
+  </front>
+</reference>

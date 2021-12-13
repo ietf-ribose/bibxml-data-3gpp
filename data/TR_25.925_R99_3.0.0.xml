@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 25.925:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.925/25925-300.zip">
+  <front>
+    <title>Radio Interface for Broadcast/Multicast Services</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

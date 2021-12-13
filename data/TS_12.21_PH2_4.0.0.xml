@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 12.21:Ph2/4.0.0">
+  <front>
+    <title>Network Management (NM) procedures and messages on the A-bis interface</title>
+    <workgroup>G1</workgroup>
+    <workgroup>S5</workgroup>
+    <workgroup>SMG06 / SMG02</workgroup>
+  </front>
+</reference>

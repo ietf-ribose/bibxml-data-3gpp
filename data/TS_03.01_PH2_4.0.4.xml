@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.01:Ph2/4.0.4" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.01/0301-404.zip">
+  <front>
+    <title>Network Functions</title>
+    <workgroup>S2</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SA2 / SMG03</workgroup>
+  </front>
+</reference>

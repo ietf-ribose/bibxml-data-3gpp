@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 38.885:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.885/38885-100.zip">
+  <front>
+    <title>Study on NR Vehicle-to-Everything (V2X)</title>
+    <workgroup>R1</workgroup>
+    <workgroup>R2, R3</workgroup>
+  </front>
+</reference>

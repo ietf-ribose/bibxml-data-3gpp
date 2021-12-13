@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 43.035:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.035/43035-410.zip">
+  <front>
+    <title>Immediate Service Termination (IST); Stage 2</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

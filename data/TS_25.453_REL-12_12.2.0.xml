@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 25.453:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.453/25453-c20.zip">
+  <front>
+    <title>UTRAN Iupc interface Positioning Calculation Application Part (PCAP) signalling</title>
+    <workgroup>R3</workgroup>
+    <abstract>The present document specifies the Positioning Calculation Application Part (PCAP) between the Radio Network Controller (RNC) and the Stand-alone SMLC (SAS).</abstract>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.71:R99/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.71/0871-830.zip">
+  <front>
+    <title>Location Services (LCS); Serving Mobile Location Centre - Base Station System (SMLC-BSS) interface; Layer 3</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02a</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="3GPP.TS 22.082:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.082/22082-a00.zip">
+  <front>
+    <title>Call Forwarding (CF) Supplementary Services; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the supplementary services belonging to the group call offering supplementary services.
+The group of supplementary services call offering supplementary services is divided into four different supplementary services:
+–	call forwarding unconditional (§ 1);
+–	call forwarding on mobile subscriber busy (§ 2);
+–	call forwarding on no reply (§ 3);
+–	call forwarding on mobile subscriber not reachable (§ 4).</abstract>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.165:Rel-10/10.22.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.165/29165-am0.zip">
+  <front>
+    <title>Inter-IMS Network to Network Interface (NNI)</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

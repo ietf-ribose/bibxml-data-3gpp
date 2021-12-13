@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.42:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.42/0342-510.zip">
+  <front>
+    <title>SMS Compression</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2  /  SMG04</workgroup>
+  </front>
+</reference>

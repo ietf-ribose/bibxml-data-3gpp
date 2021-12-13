@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 29.108:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.108/29108-320.zip">
+  <front>
+    <title>Application of the Radio Access Network Application Part (RANAP) on the E-interface</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

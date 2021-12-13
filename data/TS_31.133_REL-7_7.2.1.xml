@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 31.133:Rel-7/7.2.1" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.133/31133-721.zip">
+  <front>
+    <title>IP Multimedia Services Identity Module (ISIM) Application Programming Interface (API); ISIM API for Java Card™</title>
+    <workgroup>C6</workgroup>
+  </front>
+</reference>

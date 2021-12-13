@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 22.278:Rel-8/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.278/22278-000.zip">
+  <front>
+    <title>Service requirements for the Evolved Packet System (EPS)</title>
+    <workgroup>S1</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

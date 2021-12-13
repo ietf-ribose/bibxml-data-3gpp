@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 33.845:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.845/33845-110.zip">
+  <front>
+    <title>Study on storage and transport of 5G Core (5GC) security parameters for Authentication Credential Repository Processing Function (ARPF) authentication</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

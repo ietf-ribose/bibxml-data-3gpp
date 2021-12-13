@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 26.245:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.245/26245-d00.zip">
+  <front>
+    <title>Transparent end-to-end Packet switched Streaming Service (PSS); Timed text format</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

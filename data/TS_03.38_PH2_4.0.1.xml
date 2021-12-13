@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.38:Ph2/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.38/0338-401.zip">
+  <front>
+    <title>Alphabets and language-specific information</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2  /  SMG04</workgroup>
+  </front>
+</reference>

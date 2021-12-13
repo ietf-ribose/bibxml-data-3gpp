@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 38.825:Rel-16/0.1.1" target="http://ftp.3gpp.org//Specs/archive/38_series/38.825/38825-011.zip">
+  <front>
+    <title>Study on NR industrial Internet of Things (IoT)</title>
+    <workgroup>R2</workgroup>
+    <workgroup>R1, R3</workgroup>
+  </front>
+</reference>

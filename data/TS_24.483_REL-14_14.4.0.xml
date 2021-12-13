@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.483:Rel-14/14.4.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.483/24483-e40.zip">
+  <front>
+    <title>Mission Critical Services (MCS) Management Object (MO)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

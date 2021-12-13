@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 38.133:Rel-15/15.13.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.133/38133-fd0.zip">
+  <front>
+    <title>NR; Requirements for support of radio resource management</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

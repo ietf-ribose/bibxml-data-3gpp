@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 03.30:R99/8.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.30/0330-840.zip">
+  <front>
+    <title>Radio Network Planning Aspects</title>
+    <workgroup>GP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

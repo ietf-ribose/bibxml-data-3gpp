@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 27.103:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.103/27103-310.zip">
+  <front>
+    <title>Wide Area Network Synchronization</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2</workgroup>
+    <abstract>This specification describes a definition of a wide area synchronization protocol. The synchron¬ization protocol is based upon infrared mobile communication (IrMC) Level 4 for Release 99. The synchronization protocol is based upon SyncML from Release 4 onwards.</abstract>
+  </front>
+</reference>

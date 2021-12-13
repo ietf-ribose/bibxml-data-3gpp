@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 07.07:Ph2/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.07/0707-430.zip">
+  <front>
+    <title>AT Command set for GSM Mobile Equipment (ME)</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2  /  SMG04</workgroup>
+  </front>
+</reference>

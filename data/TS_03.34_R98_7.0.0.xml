@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.34:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.34/0334-700.zip">
+  <front>
+    <title>High Speed Circuit Switched Data (HSCSD); Stage 2</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

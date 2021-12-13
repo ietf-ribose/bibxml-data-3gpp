@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.83:Ph2/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.83/0383-440.zip">
+  <front>
+    <title>Call Waiting (CW) and Call Hold (HOLD) Supplementary Services; Stage 2</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

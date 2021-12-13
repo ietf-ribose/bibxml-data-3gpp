@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.501:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.501/33501-h30.zip">
+  <front>
+    <title>Security architecture and procedures for 5G System</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

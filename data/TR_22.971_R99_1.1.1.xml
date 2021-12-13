@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR 22.971:R99/1.1.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.971/22971-111.zip">
+  <front>
+    <title>Automatic establishment of roaming relationships</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This report describes a proposed framework for commercial and technical interworking between UMTS home environments and serving networks who have no direct prior commercial agreements with each other. 
+This text is applicable to UMTS standardization within ETSI, and is produced with the intent to clarify the concepts involved, and identify those areas which require standardization.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 42.056:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.056/42056-900.zip">
+  <front>
+    <title>GSM Cordless Telephony System (CTS), Phase 1; Service description; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG01</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 22.401:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.401/22401-700.zip">
+  <front>
+    <title>TISPAN; Videotelephony over NGN Service Description</title>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

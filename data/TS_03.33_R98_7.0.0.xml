@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.33:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.33/0333-700.zip">
+  <front>
+    <title>3G Security; Lawful Interception; Stage 2</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

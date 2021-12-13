@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.333:Rel-14/14.4.0" target="https://www.3gpp.org/ftp//Specs/archive/23_series/23.333/23333-e40.zip">
+  <front>
+    <title>Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function Processor (MRFP) Mp interface: Procedures descriptions</title>
+    <workgroup>C4</workgroup>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

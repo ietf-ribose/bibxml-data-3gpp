@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.301:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.301/25301-510.zip">
+  <front>
+    <title>Radio interface protocol architecture</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This specification describes an overview and overall description of the UE-UTRAN radio interface protocol architecture. Details of the radio protocols will be specified in companion documents.</abstract>
+  </front>
+</reference>

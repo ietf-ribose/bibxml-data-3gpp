@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.363:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.363/32363-700.zip">
+  <front>
+    <title>Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

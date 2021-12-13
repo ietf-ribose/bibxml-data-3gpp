@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.54:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.54/0654-600.zip">
+  <front>
+    <title>Test sequences for the GSM Enhanced Full Rate (EFR)</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

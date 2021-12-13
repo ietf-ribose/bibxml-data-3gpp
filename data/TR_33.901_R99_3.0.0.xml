@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR 33.901:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.901/33901-300.zip">
+  <front>
+    <title>Criteria for cryptographic Algorithm design process</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S3</workgroup>
+    <abstract>This report describes the process used to design cipher and integrity algorithm.</abstract>
+  </front>
+</reference>

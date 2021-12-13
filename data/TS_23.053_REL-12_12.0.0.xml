@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.053:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.053/23053-c00.zip">
+  <front>
+    <title>Tandem Free Operation (TFO); Service description; Stage 2</title>
+    <workgroup>S4</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

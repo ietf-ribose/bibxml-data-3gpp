@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 29.805:Rel-8/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.805/29805-020.zip">
+  <front>
+    <title>InterWorking Function (IWF) between MAP based and Diameter based interfaces</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

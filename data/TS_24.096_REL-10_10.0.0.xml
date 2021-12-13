@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 24.096:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.096/24096-a00.zip">
+  <front>
+    <title>Name Identification supplementary services; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

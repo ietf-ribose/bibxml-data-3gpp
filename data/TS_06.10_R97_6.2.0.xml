@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.10:R97/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.10/0610-620.zip">
+  <front>
+    <title>Full Rate Speech Transcoding</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

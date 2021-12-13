@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.26:R99/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.26/1126-801.zip">
+  <front>
+    <title>Base Station System (BSS) equipment specification; Part 4: Repeaters</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02c</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.71:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.71/0471-800.zip">
+  <front>
+    <title>Location Services (LCS); Mobile radio interface layer 3 specification</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup> SMG02A</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 37.471:Rel-16/1.3.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.471/37471-130.zip">
+  <front>
+    <title>W1 interface; Layer 1</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

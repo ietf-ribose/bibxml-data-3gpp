@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 05.05:Ph2/4.23.1" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-4n1.zip">
+  <front>
+    <title>Radio Transmission and Reception</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

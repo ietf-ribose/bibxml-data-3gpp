@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 25.834:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.834/25834-100.zip">
+  <front>
+    <title>UTRA TDD low chip rate option; Radio protocol aspects</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 22.282:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.282/22282-200.zip">
+  <front>
+    <title>Mission Critical (MC) data</title>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

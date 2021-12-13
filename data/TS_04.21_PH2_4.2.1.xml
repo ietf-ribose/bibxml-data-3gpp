@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.21:Ph2/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.21/0421-421.zip">
+  <front>
+    <title>Rate Adaption on the Mobile Station - Base Station System (MS-BSS) Interface</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

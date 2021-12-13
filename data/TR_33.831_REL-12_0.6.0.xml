@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 33.831:Rel-12/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.831/33831-060.zip">
+  <front>
+    <title>Study on security on spoofed call detection and prevention (Stage 2)</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

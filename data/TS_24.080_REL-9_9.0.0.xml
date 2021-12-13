@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 24.080:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.080/24080-900.zip">
+  <front>
+    <title>Mobile radio interface layer 3 supplementary services specification; Formats and coding</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+    <abstract>This specification describes the coding of information necessary for support of supplementary service operation on the mobile radio interface L3. Details will be specified in other documents.</abstract>
+  </front>
+</reference>

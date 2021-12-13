@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 05.15:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.15/0515-800.zip">
+  <front>
+    <title>Release independent Downlink Advanced Receiver Performance (DARP); Implementation guidelines</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

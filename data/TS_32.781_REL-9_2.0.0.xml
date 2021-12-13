@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.781:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.781/32781-200.zip">
+  <front>
+    <title>Telecommunication management; Home enhanced Node B (HeNB) Subsystem (HeNS); Network Resource Model (NRM); Integration Reference Point (IRP); Requirements</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

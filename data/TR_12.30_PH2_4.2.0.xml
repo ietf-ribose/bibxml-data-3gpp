@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 12.30:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.30/1230-420.zip">
+  <front>
+    <title>ETSI Object Identifier Tree; Mobile Domain O&amp;M</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG06</workgroup>
+  </front>
+</reference>

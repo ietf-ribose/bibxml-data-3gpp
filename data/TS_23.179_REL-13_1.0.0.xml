@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.179:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.179/23179-100.zip">
+  <front>
+    <title>Functional architecture and information flows to support mission critical communication services; Stage 2</title>
+    <workgroup>S6</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 05.08:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.08/0508-610.zip">
+  <front>
+    <title>Radio subsystem link control</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

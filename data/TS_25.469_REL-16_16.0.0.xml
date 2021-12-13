@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 25.469:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.469/25469-g00.zip">
+  <front>
+    <title>UTRAN Iuh interface Home Node B (HNB) Application Part (HNBAP) signalling</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

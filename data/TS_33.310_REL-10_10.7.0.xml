@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 33.310:Rel-10/10.7.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.310/33310-a70.zip">
+  <front>
+    <title>Network Domain Security (NDS); Authentication Framework (AF)</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

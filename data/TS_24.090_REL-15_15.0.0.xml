@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 24.090:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.090/24090-f00.zip">
+  <front>
+    <title>Unstructured Supplementary Service Data (USSD); Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

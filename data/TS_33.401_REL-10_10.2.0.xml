@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.401:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.401/33401-a20.zip">
+  <front>
+    <title>3GPP System Architecture Evolution (SAE); Security architecture</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

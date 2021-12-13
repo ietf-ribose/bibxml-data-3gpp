@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.414:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.414/25414-540.zip">
+  <front>
+    <title>UTRAN Iu interface data transport and transport signalling</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the standards for user data transport protocols and related signalling protocols to establish user plane transport bearers over the Iu interface.</abstract>
+  </front>
+</reference>

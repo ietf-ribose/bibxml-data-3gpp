@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.236:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.236/23236-800.zip">
+  <front>
+    <title>Intra-domain connection of Radio Access Network (RAN) nodes to multiple Core Network (CN) nodes</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

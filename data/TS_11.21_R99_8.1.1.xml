@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.21:R99/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.21/1121-811.zip">
+  <front>
+    <title>Base Station System (BSS) equipment specification; Radio aspects</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02c</workgroup>
+  </front>
+</reference>

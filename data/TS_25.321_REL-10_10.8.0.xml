@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.321:Rel-10/10.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.321/25321-a80.zip">
+  <front>
+    <title>Medium Access Control (MAC) protocol specification</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This specification describes the MAC protocol.</abstract>
+  </front>
+</reference>

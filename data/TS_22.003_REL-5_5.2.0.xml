@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 22.003:Rel-5/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.003/22003-520.zip">
+  <front>
+    <title>Circuit Teleservices supported by a Public Land Mobile Network (PLMN)</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

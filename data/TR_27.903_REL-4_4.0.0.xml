@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 27.903:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.903/27903-400.zip">
+  <front>
+    <title>Discussion of synchronization standards</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2</workgroup>
+  </front>
+</reference>

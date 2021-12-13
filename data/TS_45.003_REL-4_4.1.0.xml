@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 45.003:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.003/45003-410.zip">
+  <front>
+    <title>GSM/EDGE Channel coding</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

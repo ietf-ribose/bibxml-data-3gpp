@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 22.80U:UMTS/2.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.80U/2280U-201.zip">
+  <front>
+    <title>UMTS Relationship to other Standards</title>
+    <workgroup>-</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG01</workgroup>
+  </front>
+</reference>

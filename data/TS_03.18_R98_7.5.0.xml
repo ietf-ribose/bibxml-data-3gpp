@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.18:R98/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.18/0318-750.zip">
+  <front>
+    <title>Basic Call Handling</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

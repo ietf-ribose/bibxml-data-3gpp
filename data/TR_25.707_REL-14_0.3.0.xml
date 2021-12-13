@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.707:Rel-14/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.707/25707-030.zip">
+  <front>
+    <title>Multi-carrier enhancements for UMTS</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

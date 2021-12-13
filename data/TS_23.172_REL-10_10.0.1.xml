@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.172:Rel-10/10.0.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.172/23172-a01.zip">
+  <front>
+    <title>Technical realization of Circuit Switched (CS) multimedia service UDI/RDI fallback and service modification; Stage 2</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

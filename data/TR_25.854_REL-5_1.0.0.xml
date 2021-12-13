@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.854:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.854/25854-100.zip">
+  <front>
+    <title>Uplink Synchronous Transmission Scheme (USTS)</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

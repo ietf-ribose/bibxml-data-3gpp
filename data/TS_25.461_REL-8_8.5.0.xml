@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 25.461:Rel-8/8.5.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.461/25461-850.zip">
+  <front>
+    <title>UTRAN Iuant interface: Layer 1</title>
+    <workgroup>R3</workgroup>
+    <workgroup>R4</workgroup>
+    <abstract>This document specifies the standards allowed to implement Layer 1 on the Iuant interface. The specification of transmission delay requirements and O&amp;M requirements are not in the scope of the present document.</abstract>
+  </front>
+</reference>

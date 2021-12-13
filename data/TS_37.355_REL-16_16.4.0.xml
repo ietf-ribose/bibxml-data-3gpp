@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 37.355:Rel-16/16.4.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.355/37355-g40.zip">
+  <front>
+    <title>LTE Positioning Protocol (LPP)</title>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

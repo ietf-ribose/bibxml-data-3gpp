@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.01:Ph1/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.01/0601-300.zip">
+  <front>
+    <title>Full Rate Speech Processing Functions</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

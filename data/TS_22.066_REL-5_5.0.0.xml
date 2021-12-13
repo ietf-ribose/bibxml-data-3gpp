@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 22.066:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.066/22066-500.zip">
+  <front>
+    <title>Support of Mobile Number Portability (MNP); Service description; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the Stage 1 description of the support of MNP between networks in the same country. It is in response to a study mandate agreed between the European Commission and ETSI under order voucher ETSI/97/M-251.</abstract>
+  </front>
+</reference>

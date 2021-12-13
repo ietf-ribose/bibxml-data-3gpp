@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.297:Rel-6/1.2.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.297/32297-121.zip">
+  <front>
+    <title>Telecommunication management; Charging management; Charging Data Record (CDR) file format and transfer</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.20:Ph1/3.19.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.20/1120-3j0.zip">
+  <front>
+    <title>GSM DCS 1800 Base Station Specification</title>
+    <workgroup>GP</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SMG02c / SMG03</workgroup>
+  </front>
+</reference>

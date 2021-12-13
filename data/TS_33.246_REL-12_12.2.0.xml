@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 33.246:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.246/33246-c20.zip">
+  <front>
+    <title>3G Security; Security of Multimedia Broadcast/Multicast Service (MBMS)</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

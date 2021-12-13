@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 23.558:Rel-17/0.5.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.558/23558-050.zip">
+  <front>
+    <title>Architecture for enabling Edge Applications</title>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

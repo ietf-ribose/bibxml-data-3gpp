@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.12:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.12/0412-701.zip">
+  <front>
+    <title>Short Message Service Cell Broadcast (SMSCB) Support on the Mobile Radio Interface</title>
+    <workgroup>G2</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SMG02  /  SMG04</workgroup>
+  </front>
+</reference>

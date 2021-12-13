@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.996:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.996/25996-d00.zip">
+  <front>
+    <title>Spatial channel model for Multiple Input Multiple Output (MIMO) simulations</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

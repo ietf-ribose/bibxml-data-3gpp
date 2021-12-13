@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 10.43:R99/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.43/1043-120.zip">
+  <front>
+    <title>Support of Localised Service Area (SoLSA); Work Item Status</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG01</workgroup>
+  </front>
+</reference>

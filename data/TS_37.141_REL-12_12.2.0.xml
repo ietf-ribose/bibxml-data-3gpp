@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 37.141:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.141/37141-c20.zip">
+  <front>
+    <title>NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) conformance testing</title>
+    <workgroup>R4</workgroup>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

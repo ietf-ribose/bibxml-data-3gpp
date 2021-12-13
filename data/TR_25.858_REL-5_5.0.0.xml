@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.858:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.858/25858-500.zip">
+  <front>
+    <title>Physical layer aspects of UTRA High Speed Downlink Packet Access</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 29.229:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.229/29229-810.zip">
+  <front>
+    <title>Cx and Dx interfaces based on the Diameter protocol; Protocol details</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

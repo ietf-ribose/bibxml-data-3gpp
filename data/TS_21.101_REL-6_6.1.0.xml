@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 21.101:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.101/21101-610.zip">
+  <front>
+    <title>Technical Specifications and Technical Reports for a UTRAN-based 3GPP system</title>
+    <workgroup>SP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S</workgroup>
+  </front>
+</reference>

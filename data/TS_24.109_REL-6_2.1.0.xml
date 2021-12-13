@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.109:Rel-6/2.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.109/24109-210.zip">
+  <front>
+    <title>Bootstrapping interface (Ub) and network application function interface (Ua); Protocol details</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

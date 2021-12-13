@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.604:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.604/32604-400.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP) Common Management Information Protocol (CMIP) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

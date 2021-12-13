@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.143:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.143/25143-720.zip">
+  <front>
+    <title>UTRA repeater conformance testing</title>
+    <workgroup>R4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R4</workgroup>
+    <abstract>The present document specifies the Radio Frequency (RF) test methods and Minimum Requirements for UTRA Repeaters. These have been derived from, and are consistent with the UTRA Repeater specifications defined in TS 25.106.</abstract>
+  </front>
+</reference>

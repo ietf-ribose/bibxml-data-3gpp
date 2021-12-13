@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 23.041:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.041/23041-a10.zip">
+  <front>
+    <title>Technical realization of Cell Broadcast Service (CBS)</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2</workgroup>
+    <abstract>This specification describes the point-to-multipoint CBS.</abstract>
+  </front>
+</reference>

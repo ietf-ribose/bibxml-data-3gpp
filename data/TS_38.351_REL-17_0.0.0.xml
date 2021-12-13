@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 38.351:Rel-17/0.0.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.351/38351-000.zip">
+  <front>
+    <title>NR; Sidelink Adaptation Layer Protocol</title>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

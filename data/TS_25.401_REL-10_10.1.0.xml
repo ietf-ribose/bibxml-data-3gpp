@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.401:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.401/25401-a10.zip">
+  <front>
+    <title>UTRAN overall description</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the overall architecture of the UTRAN, including internal interfaces and assumptions on the radio and Iu interfaces.</abstract>
+  </front>
+</reference>

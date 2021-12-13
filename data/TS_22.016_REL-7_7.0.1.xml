@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 22.016:Rel-7/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.016/22016-701.zip">
+  <front>
+    <title>International Mobile station Equipment Identities (IMEI)</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the principal purpose and use of unique equipment identities.</abstract>
+  </front>
+</reference>

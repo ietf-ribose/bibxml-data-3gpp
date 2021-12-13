@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 36.860:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.860/36860-100.zip">
+  <front>
+    <title>LTE-Advanced dual uplink inter-band Carrier Aggregation (CA)</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

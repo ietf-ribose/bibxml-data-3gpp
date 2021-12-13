@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.701:Rel-12/2.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.701/25701-201.zip">
+  <front>
+    <title>Study on scalable UMTS Frequency Division Duplex (FDD) bandwidth</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1, R4</workgroup>
+  </front>
+</reference>

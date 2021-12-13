@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 55.205:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.205/55205-c00.zip">
+  <front>
+    <title>Specification of the GSM-MILENAGE algorithms: An example algorithm set for the GSM Authentication and Key Generation Functions A3 and A8</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

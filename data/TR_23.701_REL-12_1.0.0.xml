@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 23.701:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.701/23701-100.zip">
+  <front>
+    <title>Study on Web Real Time Communication (WebRTC) access to IP Multimedia Subsystem (IMS); Stage 2</title>
+    <workgroup>S2</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

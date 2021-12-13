@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 48.020:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.020/48020-f00.zip">
+  <front>
+    <title>Rate adaption on the Base Station System - Mobile-services Switching Centre (BSS - MSC) interface</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

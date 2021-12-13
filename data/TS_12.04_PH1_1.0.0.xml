@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 12.04:Ph1/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.04/1204-100.zip">
+  <front>
+    <title>Performance data measurements</title>
+    <workgroup>S5</workgroup>
+    <workgroup>S1 / CP</workgroup>
+    <workgroup>SMG06 / SMG01 / SMG03</workgroup>
+  </front>
+</reference>

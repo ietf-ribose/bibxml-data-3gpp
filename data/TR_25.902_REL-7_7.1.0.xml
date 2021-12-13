@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 25.902:Rel-7/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.902/25902-710.zip">
+  <front>
+    <title>Iub/Iur congestion control</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 26.401:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.401/26401-c00.zip">
+  <front>
+    <title>General audio codec audio processing functions; Enhanced aacPlus general audio codec; General description</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

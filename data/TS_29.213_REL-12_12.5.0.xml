@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.213:Rel-12/12.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.213/29213-c50.zip">
+  <front>
+    <title>Policy and charging control signalling flows and Quality of Service (QoS) parameter mapping</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

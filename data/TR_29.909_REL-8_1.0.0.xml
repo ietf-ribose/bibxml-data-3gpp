@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 29.909:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.909/29909-100.zip">
+  <front>
+    <title>Diameter-based protocols usage and recommendations in 3GPP</title>
+    <workgroup>C3</workgroup>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 38.905:Rel-16/16.8.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.905/38905-g80.zip">
+  <front>
+    <title>NR; Derivation of test points for radio transmission and reception User Equipment (UE) conformance test cases</title>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

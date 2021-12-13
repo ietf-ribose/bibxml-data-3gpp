@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.77:R99/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.77/0677-811.zip">
+  <front>
+    <title>Minimum Performance Requirements for Noise Suppresser Application to the AMR Speech Encoder</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

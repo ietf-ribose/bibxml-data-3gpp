@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.82:R97/6.0.1" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.82/0682-601.zip">
+  <front>
+    <title>Voice Activity Detection (VAD) for enhanced full rate speech traffic channels</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

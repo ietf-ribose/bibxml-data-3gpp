@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 33.178:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.178/33178-100.zip">
+  <front>
+    <title>Security aspects of early IP Multimedia Subsystem (IMS)</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

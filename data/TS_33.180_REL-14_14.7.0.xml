@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.180:Rel-14/14.7.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.180/33180-e70.zip">
+  <front>
+    <title>Security of the Mission Critical (MC) service</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

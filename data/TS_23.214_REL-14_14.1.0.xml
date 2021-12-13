@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 23.214:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.214/23214-e10.zip">
+  <front>
+    <title>Architecture enhancements for control and user plane separation of EPC nodes</title>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

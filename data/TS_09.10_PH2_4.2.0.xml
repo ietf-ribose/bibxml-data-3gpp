@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 09.10:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.10/0910-420.zip">
+  <front>
+    <title>Information Element Mapping between Mobile Station - Base Station System (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MCS) Signalling Procedures and the Mobile Application Part (MAP)</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

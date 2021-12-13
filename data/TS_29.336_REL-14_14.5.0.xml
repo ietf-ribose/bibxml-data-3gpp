@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.336:Rel-14/14.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.336/29336-e50.zip">
+  <front>
+    <title>Home Subscriber Server (HSS) diameter interfaces for interworking with packet data networks and applications</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

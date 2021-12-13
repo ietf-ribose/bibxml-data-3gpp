@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 05.08dcs:Ph1-DCS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.08dcs/0508dcs-300.zip">
+  <front>
+    <title>Radio Subsystem Link Control (DCS 1800)</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 26.954:Rel-14/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.954/26954-001.zip">
+  <front>
+    <title>Test plan for speech quality and delay through a headset electrical interface</title>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

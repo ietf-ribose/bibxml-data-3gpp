@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.11:R96/5.1.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.11/0411-511.zip">
+  <front>
+    <title>Point-to-Point  (PP) Short Message Service (SMS) Support on Mobile Radio Interface</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

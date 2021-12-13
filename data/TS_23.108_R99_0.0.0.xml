@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 23.108:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.108/23108-000.zip">
+  <front>
+    <title>Mobile radio interface layer 3 specification, core network protocols; Stage 2</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1</workgroup>
+    <abstract>This specification describes the procedures used at the radio interface for call control (CC), mobility management (MM) and session management (SM). It shall hold examples of the structured procedures.</abstract>
+  </front>
+</reference>

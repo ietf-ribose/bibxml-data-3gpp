@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 29.119:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.119/29119-b00.zip">
+  <front>
+    <title>GPRS Tunnelling Protocol (GTP) specification for Gateway Location Register (GLR)</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

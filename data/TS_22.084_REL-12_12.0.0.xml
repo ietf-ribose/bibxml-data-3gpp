@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 22.084:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.084/22084-c00.zip">
+  <front>
+    <title>MultiParty (MPTY) supplementary service; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This supplementary service provides a mobile subscriber with the ability to have a multi-connection call, i.e. a simultaneous communication with more than one party.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 46.051:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.051/46051-600.zip">
+  <front>
+    <title>Enhanced Full Rate (EFR) speech processing functions; General description</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

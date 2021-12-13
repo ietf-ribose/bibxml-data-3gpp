@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 26.975:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.975/26975-300.zip">
+  <front>
+    <title>Performance characterization of the Adaptive Multi-Rate (AMR) speech codec</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

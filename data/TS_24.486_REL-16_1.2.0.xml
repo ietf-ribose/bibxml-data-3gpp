@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.486:Rel-16/1.2.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.486/24486-120.zip">
+  <front>
+    <title>Vehicle-to-Everything (V2X) Application Enabler (VAE) layer; Protocol aspects; Stage 3</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

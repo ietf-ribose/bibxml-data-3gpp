@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 25.950:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.950/25950-401.zip">
+  <front>
+    <title>UTRA High Speed Downlink Packet Access (HSDPA)</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

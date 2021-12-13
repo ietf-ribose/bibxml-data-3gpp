@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 25.463:Rel-7/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.463/25463-710.zip">
+  <front>
+    <title>UTRAN Iuant interface: Remote Electrical Tilting (RET) antennas Application Part (RETAP) signalling</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <abstract>This document specifies the Remote Electrical Tilting Application Part (RETAP) between the implementation specific O&amp;M function and the RET Antenna Control unit function of the Node B. It defines the Iuant interface and its associated signaling procedures.</abstract>
+  </front>
+</reference>

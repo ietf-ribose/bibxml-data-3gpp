@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.68:R96/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.68/0468-501.zip">
+  <front>
+    <title>Group Call Control (GCC) Protocol</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

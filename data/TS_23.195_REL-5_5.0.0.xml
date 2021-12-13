@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 23.195:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.195/23195-500.zip">
+  <front>
+    <title>Provision of User Equipment Specific Behaviour Information (UESBI) to network entities</title>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

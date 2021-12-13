@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 41.061:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.061/41061-400.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); GPRS ciphering algorithm requirements</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

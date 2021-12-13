@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.613:Rel-4/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.613/32613-440.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

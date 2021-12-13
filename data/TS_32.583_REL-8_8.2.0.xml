@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.583:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.583/32583-820.zip">
+  <front>
+    <title>Telecommunication management; Home Node B (HNB) Operations, Administration, Maintenance and Provisioning (OAM&amp;P); Procedure flows for Type 1 interface HNB to HNB Management System (HMS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

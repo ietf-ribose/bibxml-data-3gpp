@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 51.010-2:Rel-5/5.11.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-2/51010-2-5b0.zip">
+  <front>
+    <title>Mobile Station (MS) conformance specification; Part 2: Protocol Implementation Conformance Statement (PICS) proforma specification</title>
+    <workgroup>R5</workgroup>
+    <workgroup>CP, S1</workgroup>
+  </front>
+</reference>

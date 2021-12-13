@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.230:Rel-16/16.6.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.230/29230-g60.zip">
+  <front>
+    <title>Diameter applications; 3GPP specific codes and identifiers</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

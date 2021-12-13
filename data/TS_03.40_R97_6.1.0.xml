@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.40:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.40/0340-610.zip">
+  <front>
+    <title>Technical realization of the Short Message Service (SMS)</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2  /  SMG04</workgroup>
+  </front>
+</reference>

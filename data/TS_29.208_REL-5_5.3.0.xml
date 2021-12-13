@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.208:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.208/29208-530.zip">
+  <front>
+    <title>End-to-end Quality of Service (QoS) signalling flows</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

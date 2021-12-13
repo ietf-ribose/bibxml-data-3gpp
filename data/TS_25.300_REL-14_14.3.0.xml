@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 25.300:Rel-14/14.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.300/25300-e30.zip">
+  <front>
+    <title>Universal Terrestrial Radio Access Network (UTRAN); General description; Stage 2</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

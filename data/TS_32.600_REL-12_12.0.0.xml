@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.600:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.600/32600-c00.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Concept and high-level requirements</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

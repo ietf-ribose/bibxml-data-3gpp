@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 23.787:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.787/23787-010.zip">
+  <front>
+    <title>Study on encrypted traffic detection and verification</title>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

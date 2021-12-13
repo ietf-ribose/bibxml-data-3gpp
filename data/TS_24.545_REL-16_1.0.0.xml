@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.545:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/24_series/24.545/24545-100.zip">
+  <front>
+    <title>Location Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

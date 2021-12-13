@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.222:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.222/33222-d00.zip">
+  <front>
+    <title>Generic Authentication Architecture (GAA); Access to network application functions using Hypertext Transfer Protocol over Transport Layer Security (HTTPS)</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

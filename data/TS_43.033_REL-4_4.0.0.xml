@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 43.033:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.033/43033-400.zip">
+  <front>
+    <title>3G security; Lawful Interception; Stage 2</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 25.470:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.470/25470-c10.zip">
+  <front>
+    <title>UTRAN Iuh Interface PCAP User Adaption (PUA) signalling</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

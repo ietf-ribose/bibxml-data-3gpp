@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 26.452:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.452/26452-g10.zip">
+  <front>
+    <title>Codec for Enhanced Voice Services (EVS); ANSI C code; Alternative fixed-point using updated basic operators</title>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.60:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.60/0360-720.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Service description; Stage 2</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S2  /  SMG12</workgroup>
+  </front>
+</reference>

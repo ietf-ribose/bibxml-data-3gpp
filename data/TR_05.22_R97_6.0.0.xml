@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 05.22:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.22/0522-600.zip">
+  <front>
+    <title>Radio link management in hierarchical networks</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

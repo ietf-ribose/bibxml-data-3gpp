@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 29.060:Rel-13/13.6.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.060/29060-d60.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); GPRS Tunnelling Protocol (GTP) across the Gn and Gp interface</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

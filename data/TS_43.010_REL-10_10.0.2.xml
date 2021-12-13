@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 43.010:Rel-10/10.0.2" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.010/43010-a02.zip">
+  <front>
+    <title>GSM Public Land Mobile Network (PLMN) connection types</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

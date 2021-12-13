@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.07:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.07/0407-420.zip">
+  <front>
+    <title>Mobile Radio Interface Signalling Layer 3 - General Aspects</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

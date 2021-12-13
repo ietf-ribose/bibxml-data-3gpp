@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 25.832:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.832/25832-200.zip">
+  <front>
+    <title>Manifestations of Handover and SRNS relocation</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 22.233:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.233/22233-e00.zip">
+  <front>
+    <title>Transparent end-to-end packet-switched streaming service; Stage 1</title>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

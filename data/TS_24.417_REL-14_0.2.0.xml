@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.417:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.417/24417-020.zip">
+  <front>
+    <title>Management Object (MO) for Originating Identification Presentation (OIP) and Originating Identification Restriction (OIR) using IP Multimedia (IM) Core Network (CN) subsystem</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

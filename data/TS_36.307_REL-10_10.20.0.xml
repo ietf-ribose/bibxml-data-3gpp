@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 36.307:Rel-10/10.20.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.307/36307-ak0.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements on User Equipments (UEs) supporting a release-independent frequency band</title>
+    <workgroup>R4</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

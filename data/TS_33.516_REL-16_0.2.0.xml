@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.516:Rel-16/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.516/33516-020.zip">
+  <front>
+    <title>5G Security Assurance Specification (SCAS) for the Authentication Server Function (AUSF) network product class</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

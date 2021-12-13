@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 23.899:Rel-6/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.899/23899-040.zip">
+  <front>
+    <title>Combining Circuit Switched (CS) bearers with IP Multimeida Subsystem (IMS)</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

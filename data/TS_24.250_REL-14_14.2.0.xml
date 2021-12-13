@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.250:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.250/24250-e20.zip">
+  <front>
+    <title>Protocol for Reliable Data Service; Stage 3</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

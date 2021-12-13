@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.003:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-f20.zip">
+  <front>
+    <title>Numbering, addressing and identification</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

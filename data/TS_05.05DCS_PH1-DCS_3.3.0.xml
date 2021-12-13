@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 05.05dcs:Ph1-DCS/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.05dcs/0505dcs-330.zip">
+  <front>
+    <title>Radio Transmission and Reception (DCS 1800)</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

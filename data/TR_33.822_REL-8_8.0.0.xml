@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 33.822:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.822/33822-800.zip">
+  <front>
+    <title>Security aspects for inter-access mobility between non 3GPP and 3GPP access network</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

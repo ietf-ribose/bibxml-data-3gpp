@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 01.01:R99/8.17.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.01/0101-8h0.zip">
+  <front>
+    <title>Technical Specifications and Technical Reports for a GERAN-based 3GPP system</title>
+    <workgroup>SP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG</workgroup>
+  </front>
+</reference>

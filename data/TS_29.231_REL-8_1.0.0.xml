@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 29.231:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.231/29231-100.zip">
+  <front>
+    <title>Application of SIP-I Protocols to Circuit Switched (CS) core network architecture; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

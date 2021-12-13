@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.06:R96/5.4.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.06/0406-541.zip">
+  <front>
+    <title>Mobile Station - Base Stations System (MS - BSS) Interface Data Link (DL) Layer Specification</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

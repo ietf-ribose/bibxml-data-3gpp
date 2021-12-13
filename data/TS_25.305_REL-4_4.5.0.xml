@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.305:Rel-4/4.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.305/25305-450.zip">
+  <front>
+    <title>Stage 2 functional specification of User Equipment (UE) positioning in UTRAN</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document specifies the stage 2 of the UE Positioning function of UTRAN, which provides the mechanisms to support the calculation of the geographical position of a UE.</abstract>
+  </front>
+</reference>

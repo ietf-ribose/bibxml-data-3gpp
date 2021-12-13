@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.850:Rel-4/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.850/25850-010.zip">
+  <front>
+    <title>UE positioning in UTRAN Iub/Iur protocol aspects</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

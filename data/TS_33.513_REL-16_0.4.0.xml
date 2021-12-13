@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.513:Rel-16/0.4.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.513/33513-040.zip">
+  <front>
+    <title>5G Security Assurance Specification (SCAS); User Plane Function (UPF)</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

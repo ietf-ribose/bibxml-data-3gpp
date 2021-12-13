@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 38.717-01-01:Rel-17/0.6.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.717-01-01/38717-01-01-060.zip">
+  <front>
+    <title>Rel-17 NR intra band Carrier Aggregation for xCC DL/yCC UL including contiguous and non-contiguous spectrum (x&gt;=y)</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

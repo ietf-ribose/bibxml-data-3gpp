@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 26.451:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.451/26451-f00.zip">
+  <front>
+    <title>Codec for Enhanced Voice Services (EVS); Voice Activity Detection (VAD)</title>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

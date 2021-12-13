@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 23.479:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.479/23479-g00.zip">
+  <front>
+    <title>User Equipment (UE) Multimedia Broadcast / Multicast Service (MBMS) Application Programming Interfaces (APIs) for Mission Critical Services (MCX)</title>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

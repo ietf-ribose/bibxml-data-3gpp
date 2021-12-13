@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 26.448:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.448/26448-c00.zip">
+  <front>
+    <title>Codec for Enhanced Voice Services (EVS); Jitter Buffer Management</title>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

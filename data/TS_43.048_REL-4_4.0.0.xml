@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 43.048:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.048/43048-400.zip">
+  <front>
+    <title>Security Mechanisms for SIM Toolkit Application; Stage 2</title>
+    <workgroup>T3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T3</workgroup>
+  </front>
+</reference>

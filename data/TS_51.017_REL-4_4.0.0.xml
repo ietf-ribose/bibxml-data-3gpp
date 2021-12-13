@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 51.017:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.017/51017-400.zip">
+  <front>
+    <title>Subscriber Identity Module (SIM) test specification</title>
+    <workgroup>C6</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

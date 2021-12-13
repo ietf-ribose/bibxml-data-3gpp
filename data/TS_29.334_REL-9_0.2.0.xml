@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.334:Rel-9/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.334/29334-020.zip">
+  <front>
+    <title>IMS Application Level Gateway (IMS-ALG) - IMS Access Gateway (IMS-AGW); Iq Interface; Stage 3</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

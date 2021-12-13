@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.413:Rel-10/10.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.413/25413-a40.zip">
+  <front>
+    <title>UTRAN Iu interface Radio Access Network Application Part (RANAP) signalling</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the signalling between the CN and the UTRAN over the Iu interface.</abstract>
+  </front>
+</reference>

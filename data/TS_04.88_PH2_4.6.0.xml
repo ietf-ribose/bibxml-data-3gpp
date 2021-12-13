@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.88:Ph2/4.6.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.88/0488-460.zip">
+  <front>
+    <title>Call Barring (CB) Supplementary Services; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

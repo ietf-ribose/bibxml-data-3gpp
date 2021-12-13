@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.622:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.622/32622-540.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP); Network Resource Model (NRM)</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

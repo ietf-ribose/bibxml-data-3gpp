@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.454:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.454/24454-800.zip">
+  <front>
+    <title>TISPAN; PSTN/ISDN simulation services; Protocol specification Closed User Group (CUG)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

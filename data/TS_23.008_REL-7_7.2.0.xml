@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.008:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.008/23008-720.zip">
+  <front>
+    <title>Organization of subscriber data</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

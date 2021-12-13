@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.180:Rel-17/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.180/23180-020.zip">
+  <front>
+    <title>Mission critical services support in the Isolated Operation for Public Safety (IOPS) mode of operation</title>
+    <workgroup>S6</workgroup>
+    <workgroup>S2, S3</workgroup>
+  </front>
+</reference>

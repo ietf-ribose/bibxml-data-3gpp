@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.010:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.010/23010-300.zip">
+  <front>
+    <title>GSM Public Land Mobile Network (PLMN) Connection Types</title>
+    <workgroup>-</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3</workgroup>
+  </front>
+</reference>

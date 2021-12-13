@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.293:Rel-8/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.293/24293-010.zip">
+  <front>
+    <title>ICS Protocol over USSD bearer</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

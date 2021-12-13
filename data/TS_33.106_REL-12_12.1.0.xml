@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 33.106:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.106/33106-c10.zip">
+  <front>
+    <title>3G security; Lawful interception requirements</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S3</workgroup>
+    <abstract>Defines all requirements for network based lawful interception.</abstract>
+  </front>
+</reference>

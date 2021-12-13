@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 25.933:Rel-4/1.7.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.933/25933-171.zip">
+  <front>
+    <title>IP transport in UTRAN</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

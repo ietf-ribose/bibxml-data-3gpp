@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 50.099:Rel-5/0.0.15" target="http://www.3gpp.org/ftp/Specs/archive/50_series/50.099/50099-00f.zip">
+  <front>
+    <title>GERAN project plan and open issues</title>
+    <workgroup>GP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

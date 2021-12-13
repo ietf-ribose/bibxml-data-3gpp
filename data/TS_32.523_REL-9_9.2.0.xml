@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.523:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.523/32523-920.zip">
+  <front>
+    <title>Telecommunication management; Self-Organizing Networks (SON); Policy Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 05.08:R96/5.5.0">
+  <front>
+    <title>Radio subsystem link control</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 42.069:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.069/42069-501.zip">
+  <front>
+    <title>Voice Broadcast Service (VBS); Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1  /  SMG01</workgroup>
+  </front>
+</reference>

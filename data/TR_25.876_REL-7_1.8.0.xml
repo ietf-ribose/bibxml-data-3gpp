@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.876:Rel-7/1.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.876/25876-180.zip">
+  <front>
+    <title>Multiple Input Multiple Output (MIMO) antennae in UTRA</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

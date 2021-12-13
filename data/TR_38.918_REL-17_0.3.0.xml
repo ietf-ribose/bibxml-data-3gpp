@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 38.918:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.918/38918-030.zip">
+  <front>
+    <title>Study on 5G NR UE full stack testing for Network Slicing</title>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

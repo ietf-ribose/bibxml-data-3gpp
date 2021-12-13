@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 23.042:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.042/23042-f00.zip">
+  <front>
+    <title>Compression algorithm for text messaging services</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2</workgroup>
+    <abstract>This specification describes the compression algorithm for text messaging services.</abstract>
+  </front>
+</reference>

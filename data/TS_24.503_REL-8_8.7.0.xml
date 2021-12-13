@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.503:Rel-8/8.7.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.503/24503-870.zip">
+  <front>
+    <title>TISPAN; IP Multimedia Call Control Protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP) Stage 3 [3GPP TS 24.229 (Release 7), modified]</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.22:Ph2/4.11.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.22/0322-4b0.zip">
+  <front>
+    <title>Functions related to Mobile Station (MS) in idle mode and group receive mode</title>
+    <workgroup>G1</workgroup>
+    <workgroup>C1</workgroup>
+    <workgroup>SMG02 / N1  /  SMG03A</workgroup>
+  </front>
+</reference>

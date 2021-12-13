@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 36.777:Rel-15/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.777/36777-050.zip">
+  <front>
+    <title>Enhanced LTE support for aerial vehicles</title>
+    <workgroup>R2</workgroup>
+    <workgroup>R1, R3</workgroup>
+  </front>
+</reference>

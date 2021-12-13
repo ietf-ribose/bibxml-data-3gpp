@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 34.122:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.122/34122-700.zip">
+  <front>
+    <title>Terminal conformance specification; Radio transmission and reception (TDD)</title>
+    <workgroup>R5</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T1</workgroup>
+    <abstract>This document specifies the Radio Frequency (RF) test methods and conformance requirements for UTRA User Equipment (UE) operating in the TDD mode. These have been derived from, and are consistent with, the core UTRA specifications. The maximum acceptable measurement uncertainty is specified in the TS for each test, where appropriate.</abstract>
+  </front>
+</reference>

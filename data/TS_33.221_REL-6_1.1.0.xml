@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.221:Rel-6/1.1.0">
+  <front>
+    <title>Generic Authentication Architecture (GAA); Support for subscriber certificates</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

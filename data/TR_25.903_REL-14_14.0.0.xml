@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.903:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.903/25903-e00.zip">
+  <front>
+    <title>Continuous connectivity for packet data users</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1, R2, R4</workgroup>
+  </front>
+</reference>

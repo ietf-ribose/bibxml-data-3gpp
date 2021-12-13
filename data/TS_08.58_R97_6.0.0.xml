@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.58:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-600.zip">
+  <front>
+    <title>Base Station Controler - Base Transceiver Station  (BCS-BTS) Interface Layer 3 Specification</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

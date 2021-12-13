@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 06.08:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.08/0608-700.zip">
+  <front>
+    <title>Half Rate Speech; Performance Characterization of the GSM Half Rate speech codec</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

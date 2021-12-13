@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 25.317:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.317/25317-900.zip">
+  <front>
+    <title>High Speed Packet Access (HSPA); Requirements on User Equipments (UEs) supporting a release-independent frequency band combination</title>
+    <workgroup>R2</workgroup>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

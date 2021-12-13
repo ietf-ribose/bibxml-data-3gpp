@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.14:R99/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.14/0414-830.zip">
+  <front>
+    <title>Individual equipment type requirements and interworking; Special conformance testing functions</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

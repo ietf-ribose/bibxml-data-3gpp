@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.153:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.153/23153-a10.zip">
+  <front>
+    <title>Out of band transcoder control; Stage 2</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

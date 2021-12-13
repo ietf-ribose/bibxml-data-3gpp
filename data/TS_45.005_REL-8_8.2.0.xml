@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 45.005:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.005/45005-820.zip">
+  <front>
+    <title>GSM/EDGE Radio transmission and reception</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

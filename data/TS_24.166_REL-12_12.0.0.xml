@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.166:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.166/24166-c00.zip">
+  <front>
+    <title>3GPP IP Multimedia Subsystem (IMS) conferencing Management Object (MO)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

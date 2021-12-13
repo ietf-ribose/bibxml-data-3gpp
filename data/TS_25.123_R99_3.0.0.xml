@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.123:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.123/25123-300.zip">
+  <front>
+    <title>Requirements for support of radio resource management  (TDD)</title>
+    <workgroup>R4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R4</workgroup>
+    <abstract>This specification describes the requirements for support of radio resource management for TDD including requirements on measurements in UTRAN and the UE as well as on node dynamic behaviour and interaction, in terms of delay and response characteristics.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.164:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.164/29164-b00.zip">
+  <front>
+    <title>Interworking between the 3GPP CS domain with BICC or ISUP as signalling protocol and external SIP-I networks</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

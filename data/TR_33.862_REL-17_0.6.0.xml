@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 33.862:Rel-17/0.6.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.862/33862-060.zip">
+  <front>
+    <title>Study on security aspects of the Message Service for MIoT over the 5G System (MSGin5G)</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

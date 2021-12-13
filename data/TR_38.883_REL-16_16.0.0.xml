@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 38.883:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.883/38883-g00.zip">
+  <front>
+    <title>Study on support of NR downlink 256 Quadrature Amplitude Modulation (QAM) for frequency range 2 (FR2)</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

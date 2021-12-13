@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.58ext:Ph1-EXT/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.58ext/0858ext-300.zip">
+  <front>
+    <title>Base Station Controler - Base Transceiver Station  (BCS-BTS) Interface (Ext)</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

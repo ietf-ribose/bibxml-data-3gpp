@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.60:R96/5.0.0">
+  <front>
+    <title>Enhanced full rate speech transcoding</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

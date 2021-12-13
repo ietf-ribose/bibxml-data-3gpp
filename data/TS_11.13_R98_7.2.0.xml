@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 11.13:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.13/1113-720.zip">
+  <front>
+    <title>Test specification for Subscriber Interface Module (SIM) Application Programme Interface (API) for Java card</title>
+    <workgroup>C6</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

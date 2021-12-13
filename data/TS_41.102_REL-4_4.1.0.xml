@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 41.102:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.102/41102-410.zip">
+  <front>
+    <title>GSM Release 4 specifications</title>
+    <workgroup>SP</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 24.068:R99/3.1.0">
+  <front>
+    <title>Group Call Control (GCC) Protocol</title>
+    <workgroup>N1</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

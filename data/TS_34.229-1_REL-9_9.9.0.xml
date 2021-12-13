@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 34.229-1:Rel-9/9.9.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.229-1/34229-1-990.zip">
+  <front>
+    <title>Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 1: Protocol conformance specification</title>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

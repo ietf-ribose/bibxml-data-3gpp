@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 37.985:Rel-16/0.0.1" target="http://ftp.3gpp.org//Specs/archive/37_series/37.985/37985-001.zip">
+  <front>
+    <title>Overall description of Radio Access Network (RAN) aspects for Vehicle-to-everything (V2X) based on LTE and NR</title>
+    <workgroup>R1</workgroup>
+    <workgroup>R2, R3, R4</workgroup>
+  </front>
+</reference>

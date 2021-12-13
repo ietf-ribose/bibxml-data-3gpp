@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.434:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.434/25434-e00.zip">
+  <front>
+    <title>UTRAN Iub interface data transport and transport signalling for Common Transport Channel data streams</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the UTRAN RNC-Node B (Iub) interface data transport and transport signalling for CCH data streams.</abstract>
+  </front>
+</reference>

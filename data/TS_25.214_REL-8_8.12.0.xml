@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.214:Rel-8/8.12.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.214/25214-8c0.zip">
+  <front>
+    <title>Physical layer procedures (FDD)</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+    <abstract>This specification describes and establishes the characteristics of the physical layer procedures in the FDD mode of UTRA.</abstract>
+  </front>
+</reference>

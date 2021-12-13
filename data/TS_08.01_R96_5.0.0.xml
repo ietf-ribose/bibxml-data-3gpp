@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.01:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.01/0801-500.zip">
+  <front>
+    <title>General Aspects on the BSS-MSC Interface</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

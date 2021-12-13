@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 37.900:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.900/37900-200.zip">
+  <front>
+    <title>Radio Frequency (RF)  requirements for Multicarrier and Multiple Radio Access Technology (Multi-RAT) Base Station (BS)</title>
+    <workgroup>R4</workgroup>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

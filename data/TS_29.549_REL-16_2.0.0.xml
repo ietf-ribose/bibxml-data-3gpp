@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.549:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/29_series/29.549/29549-200.zip">
+  <front>
+    <title>Service Enabler Architecture Layer for Verticals (SEAL); Application Programming Interface (API) specification; Stage 3</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

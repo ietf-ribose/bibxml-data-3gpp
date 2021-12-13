@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 36.881:Rel-13/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.881/36881-050.zip">
+  <front>
+    <title>Study on latency reduction techniques for LTE</title>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

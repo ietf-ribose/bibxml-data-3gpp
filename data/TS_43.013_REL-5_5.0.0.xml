@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 43.013:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.013/43013-500.zip">
+  <front>
+    <title>Discontinuous Reception (DRX) in the GSM system</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

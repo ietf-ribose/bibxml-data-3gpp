@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 05.10:R97/6.3.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.10/0510-630.zip">
+  <front>
+    <title>Radio subsystem synchronization</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

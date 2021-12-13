@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.223:Rel-7/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.223/33223-001.zip">
+  <front>
+    <title>Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture (GBA) Push function</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

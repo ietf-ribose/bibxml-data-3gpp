@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 33.918:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.918/33918-100.zip">
+  <front>
+    <title>Generic Authentication Architecture (GAA); Early implementation of Hypertext Transfer Protocol over Transport Layer Security (HTTPS) connection between a Universal Integrated Circuit Card (UICC) and a Network Application Function (NAF)</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

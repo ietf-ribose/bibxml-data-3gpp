@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 24.030:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.030/24030-a00.zip">
+  <front>
+    <title>Location Services (LCS); Supplementary service operations; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 / SMG03</workgroup>
+  </front>
+</reference>

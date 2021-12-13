@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 25.879:Rel-5/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.879/25879-030.zip">
+  <front>
+    <title>Separation of resource reservation and radio link activation</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

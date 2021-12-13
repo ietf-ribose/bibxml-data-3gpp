@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.127:R99/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.127/23127-030.zip">
+  <front>
+    <title>Virtual Home Environment (VHE) / Open Service Access (OSA)</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

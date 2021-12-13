@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.218:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.218/23218-620.zip">
+  <front>
+    <title>IP Multimedia (IM) session handling; IM call model; Stage 2</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

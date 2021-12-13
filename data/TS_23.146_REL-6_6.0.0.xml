@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.146:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.146/23146-600.zip">
+  <front>
+    <title>Technical realization of facsimile Group 3 non-transparent</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3</workgroup>
+  </front>
+</reference>

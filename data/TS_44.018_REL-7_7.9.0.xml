@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 44.018:Rel-7/7.9.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.018/44018-790.zip">
+  <front>
+    <title>Mobile radio interface layer 3 specification; GSM/EDGE Radio Resource Control (RRC) protocol</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

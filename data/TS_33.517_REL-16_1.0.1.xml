@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.517:Rel-16/1.0.1" target="http://ftp.3gpp.org//Specs/archive/33_series/33.517/33517-101.zip">
+  <front>
+    <title>5G Security Assurance Specification (SCAS) for the Security Edge Protection Proxy (SEPP) network product class</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

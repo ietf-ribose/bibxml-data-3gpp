@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 24.087:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.087/24087-g00.zip">
+  <front>
+    <title>User-to-User Signalling (UUS) Supplementary Service; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

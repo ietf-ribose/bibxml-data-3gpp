@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 07.01:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.01/0701-700.zip">
+  <front>
+    <title>General on Terminal Adaptation Functions (TAF) for Mobile Stations (MS)</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

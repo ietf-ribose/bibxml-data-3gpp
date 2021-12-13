@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 12.05:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.05/1205-420.zip">
+  <front>
+    <title>Subscriber Related Call and Event Data</title>
+    <workgroup>S5</workgroup>
+    <workgroup>S1</workgroup>
+    <workgroup>SMG06 / SMG01</workgroup>
+  </front>
+</reference>

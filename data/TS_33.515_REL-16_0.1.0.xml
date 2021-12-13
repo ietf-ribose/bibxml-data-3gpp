@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.515:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.515/33515-010.zip">
+  <front>
+    <title> 5G Security Assurance Specification (SCAS) for the Session Management Function (SMF) network product class</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

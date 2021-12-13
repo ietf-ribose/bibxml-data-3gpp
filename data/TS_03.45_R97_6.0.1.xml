@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.45:R97/6.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.45/0345-601.zip">
+  <front>
+    <title>Technical Realization of Facsimile Group 3 Service - transparent</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

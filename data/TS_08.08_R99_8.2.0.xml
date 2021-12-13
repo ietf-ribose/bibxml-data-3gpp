@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.08:R99/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.08/0808-820.zip">
+  <front>
+    <title>Mobile-services Switching Centre - Base Station system (MSC-BSS) Interface Layer 3 Specification</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 46.060:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/46_series/46.060/46060-g00.zip">
+  <front>
+    <title>Enhanced Full Rate (EFR) speech transcoding</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

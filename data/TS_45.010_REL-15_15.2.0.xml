@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 45.010:Rel-15/15.2.0" target="http://www.3gpp.org/ftp//Specs/archive/45_series/45.010/45010-f20.zip">
+  <front>
+    <title>GSM/EDGE Radio subsystem synchronization</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

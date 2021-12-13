@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 33.200:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.200/33200-420.zip">
+  <front>
+    <title>3G Security; Network Domain Security (NDS); Mobile Application Part (MAP) application layer security</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

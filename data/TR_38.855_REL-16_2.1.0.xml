@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 38.855:Rel-16/2.1.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.855/38855-210.zip">
+  <front>
+    <title>Study on NR positioning support</title>
+    <workgroup>R1</workgroup>
+    <workgroup>R2, R3</workgroup>
+  </front>
+</reference>

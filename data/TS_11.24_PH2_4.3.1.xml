@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.24:Ph2/4.3.1" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.24/1124-431.zip">
+  <front>
+    <title>GSM Transcoding and Rate Adaptation: Base Station System Equipment Specification</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02c</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 44.118:Rel-5/5.5.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.118/44118-550.zip">
+  <front>
+    <title>Mobile radio interface layer 3 specification; Radio Resource Control (RRC) protocol; Iu mode</title>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

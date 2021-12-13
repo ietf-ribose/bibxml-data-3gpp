@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.219:Rel-15/15.3.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.219/29219-f30.zip">
+  <front>
+    <title>Policy and charging control: Spending limit reporting over Sy reference point</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

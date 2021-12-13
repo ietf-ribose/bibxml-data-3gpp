@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 24.088:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.088/24088-700.zip">
+  <front>
+    <title>Call Barring (CB) supplementary service; Stage 3</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

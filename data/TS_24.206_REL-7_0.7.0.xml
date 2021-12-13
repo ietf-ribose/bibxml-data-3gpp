@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.206:Rel-7/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.206/24206-070.zip">
+  <front>
+    <title>Voice call continuity between Circuit Switched (CS) and IP Multimedia Subsystem (IMS); Stage 3</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

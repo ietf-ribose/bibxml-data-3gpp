@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 23.802:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.802/23802-100.zip">
+  <front>
+    <title>Architectural enhancements for end-to-end Quality of Service (QoS)</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

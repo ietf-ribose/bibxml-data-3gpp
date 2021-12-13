@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 23.852:Rel-11/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.852/23852-020.zip">
+  <front>
+    <title>Study on S2a Mobility based on GPRS Tunnelling Protocol (GTP) and Wireless Local Area Network (WLAN) access to the Enhanced Packet Core (EPC) network (SaMOG); Stage 2</title>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

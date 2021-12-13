@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.123:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.123/32123-900.zip">
+  <front>
+    <title>Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

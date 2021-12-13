@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 32.645:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.645/32645-530.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

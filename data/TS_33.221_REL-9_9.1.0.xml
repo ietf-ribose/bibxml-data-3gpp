@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.221:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.221/33221-910.zip">
+  <front>
+    <title>Generic Authentication Architecture (GAA); Support for subscriber certificates</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

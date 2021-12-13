@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.32:Ph2/4.3.1" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.32/0632-431.zip">
+  <front>
+    <title>Voice Activity Detection (VAD)</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

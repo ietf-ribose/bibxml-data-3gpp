@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 30.06U:UMTS/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.06U/3006U-100.zip">
+  <front>
+    <title>UTRA concept evaluation</title>
+    <workgroup>SP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

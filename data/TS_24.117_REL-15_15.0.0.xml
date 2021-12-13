@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.117:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.117/24117-f00.zip">
+  <front>
+    <title>TV service configuration Management Object (MO)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

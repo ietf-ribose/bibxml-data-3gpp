@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.12dcs:Ph1-DCS/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.12dcs/0312dcs-301.zip">
+  <front>
+    <title>Location Registration Procedures (DCS 1800)</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

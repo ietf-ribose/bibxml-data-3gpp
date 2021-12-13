@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 41.103:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.103/41103-500.zip">
+  <front>
+    <title>GSM Release 5 specifications</title>
+    <workgroup>SP</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

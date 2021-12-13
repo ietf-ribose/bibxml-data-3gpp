@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 26.115:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.115/26115-b00.zip">
+  <front>
+    <title>Echo control for speech and multimedia services</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 44.004:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.004/44004-500.zip">
+  <front>
+    <title>GSM/EDGE Layer 1; General Requirements</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

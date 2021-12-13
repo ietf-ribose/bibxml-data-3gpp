@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 23.717:Rel-13/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.717/23717-001.zip">
+  <front>
+    <title>Enabling Transcoder Free Operation During SRVCC (PS to CS)</title>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

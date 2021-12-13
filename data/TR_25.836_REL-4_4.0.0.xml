@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 25.836:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.836/25836-400.zip">
+  <front>
+    <title>Node B synchronization for TDD</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

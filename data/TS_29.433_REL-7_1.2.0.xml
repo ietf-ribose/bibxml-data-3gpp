@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.433:Rel-7/1.2.0">
+  <front>
+    <title>TISPAN; IP Multimedia; Diameter based protocol for the interfaces between the Call Session Control Function and the User Profile Server Function/Subscription Locator Function; Signalling flows and protocol details [3GPP TS 29.228 and 29.229 modified]</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

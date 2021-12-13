@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.14:R96/5.0.0">
+  <front>
+    <title>Specification of the SIM Application Toolkit (SAT) for the Subscriber Identity Module - Mobile Equipment (SIM-ME) interface</title>
+    <workgroup>C6</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG09</workgroup>
+  </front>
+</reference>

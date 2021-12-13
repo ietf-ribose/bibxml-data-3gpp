@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.08:R96/5.15.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.08/0408-5f1.zip">
+  <front>
+    <title>Mobile radio interface layer 3 specification</title>
+    <workgroup>C1</workgroup>
+    <workgroup>G2</workgroup>
+    <workgroup>N1  /  SMG03A / SMG02</workgroup>
+  </front>
+</reference>

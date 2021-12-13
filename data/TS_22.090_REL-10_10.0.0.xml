@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS 22.090:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.090/22090-a00.zip">
+  <front>
+    <title>Unstructured Supplementary Service Data (USSD); Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>There are two modes of USSD: MMI-mode and application mode. MMI-mode USSD is for the transparent transport of MMI strings entered by the user to the network and for the transparent transport of text strings from the network that are displayed by the mobile for user information.
+Application mode USSD is for the transparent transport of data between the network and the mobile station. Application mode USSD is intended to be used by applications in the network and their peer applications in the UE.
+The communication over the radio interface takes place on the signalling channels using short dialogues with peak data throughput rate capabilities of up to approximately 600 bits/s outside of a call and 1 000 bits/s during a call.</abstract>
+  </front>
+</reference>

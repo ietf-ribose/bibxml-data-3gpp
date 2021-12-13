@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 23.009:Rel-4/4.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.009/23009-470.zip">
+  <front>
+    <title>Handover procedures</title>
+    <workgroup>C4</workgroup>
+    <workgroup>N1</workgroup>
+  </front>
+</reference>

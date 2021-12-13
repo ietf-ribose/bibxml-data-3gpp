@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.50:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.50/0350-701.zip">
+  <front>
+    <title>Transmission Planning Aspects of the Speech Service in the GSM Public Land Mobile Network (PLMN) System</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

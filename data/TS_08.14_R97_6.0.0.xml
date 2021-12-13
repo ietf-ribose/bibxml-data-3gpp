@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.14:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.14/0814-600.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN) interface; Gb Interface Layer 1</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

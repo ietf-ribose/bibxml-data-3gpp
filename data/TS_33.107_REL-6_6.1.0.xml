@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 33.107:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.107/33107-610.zip">
+  <front>
+    <title>3G security; Lawful interception architecture and functions</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

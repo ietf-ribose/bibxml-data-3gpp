@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 33.941:Rel-6/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.941/33941-050.zip">
+  <front>
+    <title>Presence service; Security</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

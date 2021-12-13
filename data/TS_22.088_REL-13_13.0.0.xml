@@ -1,0 +1,18 @@
+<reference anchor="3GPP.TS 22.088:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.088/22088-d00.zip">
+  <front>
+    <title>Call Barring (CB) supplementary services; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>The call restriction supplementary services allow the possibility for a mobile subscriber to have barring of certain categories of outgoing or incoming calls at the mobile subscribers access.
+The group of call restriction services includes two supplementary services:
+–	barring of outgoing calls;
+–	barring of incoming calls.
+By use of subscription options, the mobile subscriber can at provision time select a set of one or more barring programs to determine the categories of calls to be barred. The following categories are defined:
+–	all outgoing calls;
+–	outgoing international calls;
+–	outgoing international calls except those directed to the home PLMN country;
+–	all incoming calls;
+–	incoming calls when roaming outside the home PLMN country.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.481:Rel-16/16.3.0" target="https://www.3gpp.org/ftp//Specs/archive/24_series/24.481/24481-g30.zip">
+  <front>
+    <title>Mission Critical Services (MCS) group management; Protocol specification</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

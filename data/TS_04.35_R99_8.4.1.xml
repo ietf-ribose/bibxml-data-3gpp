@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.35:R99/8.4.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.35/0435-841.zip">
+  <front>
+    <title>Location Services (LCS); Broadcast network assistance for Enhanced Observed Time Difference (E-OTD) and Global Positioning System (GPS) positioning methods</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02a</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.862:Rel-6/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.862/25862-110.zip">
+  <front>
+    <title>RAB support for IMS</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 37.472:Rel-16/16.2.0" target="https://www.3gpp.org/ftp//Specs/archive/37_series/37.472/37472-g20.zip">
+  <front>
+    <title>W1 interface; Signalling transport</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

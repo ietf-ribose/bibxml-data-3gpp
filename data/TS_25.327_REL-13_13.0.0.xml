@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 25.327:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.327/25327-d00.zip">
+  <front>
+    <title>High Speed Packet Access (HSPA); Requirements on User Equipments (UEs) supporting a release-independent frequency band and multi-carrier configuration</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

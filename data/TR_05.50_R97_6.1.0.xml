@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 05.50:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.50/0550-610.zip">
+  <front>
+    <title>Background for RF Requirements</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

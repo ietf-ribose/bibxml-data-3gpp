@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 29.802:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.802/29802-200.zip">
+  <front>
+    <title>(G)MSC-S - (G)MSC-S Nc Interface based on the SIP-I protocol</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

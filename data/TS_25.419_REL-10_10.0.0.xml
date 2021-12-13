@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.419:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.419/25419-a00.zip">
+  <front>
+    <title>UTRAN Iu-BC interface: Service Area Broadcast Protocol (SABP)</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This document specifies the Service Area Broadcast Protocol (SABP) between the Cell Broadcast Centre (CBC) and the Radio Network Controller (RNC).</abstract>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 02.04:Ph1/3.6.1" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.04/0204-361.zip">
+  <front>
+    <title>General on Supplementary Services</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1  /  SMG01</workgroup>
+  </front>
+</reference>

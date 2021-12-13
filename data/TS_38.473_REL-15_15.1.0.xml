@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 38.473:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.473/38473-f10.zip">
+  <front>
+    <title>NG-RAN; F1 Application Protocol (F1AP)</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

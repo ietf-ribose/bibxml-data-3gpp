@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 22.060:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.060/22060-320.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Service description; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the Stage 1 description of the GPRS.</abstract>
+  </front>
+</reference>

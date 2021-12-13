@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.90:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.90/0490-500.zip">
+  <front>
+    <title>Unstructured Supplementary Service Data (USSD)</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

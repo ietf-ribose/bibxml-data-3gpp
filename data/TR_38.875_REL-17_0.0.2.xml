@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 38.875:Rel-17/0.0.2" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.875/38875-002.zip">
+  <front>
+    <title>Study on support of reduced capability NR devices</title>
+    <workgroup>R1</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

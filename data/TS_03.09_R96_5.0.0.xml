@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.09:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.09/0309-500.zip">
+  <front>
+    <title>Handover Procedures</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 44.005:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/44_series/44.005/44005-g00.zip">
+  <front>
+    <title>GSM/EDGE Data Link (DL) Layer; General aspects</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

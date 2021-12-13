@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.204:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.204/33204-700.zip">
+  <front>
+    <title>3G Security; Network Domain Security (NDS); Transaction Capabilities Application Part (TCAP)  user security</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 21.111:R99/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.111/21111-330.zip">
+  <front>
+    <title>USIM and IC card requirements</title>
+    <workgroup>C6</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T3</workgroup>
+    <abstract>This specification describes the requirements of the USIM and the USIM IC card (UICC). These are derived from the service and security requirements defined in the respective specifications. The document is the basis for the detailed specification of the USIM and the UICC, and the interface to the terminal.</abstract>
+  </front>
+</reference>

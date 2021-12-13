@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 38.901:Rel-14/14.1.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.901/38901-e11.zip">
+  <front>
+    <title>Study on channel model for frequencies from 0.5 to 100 GHz</title>
+    <workgroup>R1</workgroup>
+    <workgroup>R2, R3, R4</workgroup>
+  </front>
+</reference>

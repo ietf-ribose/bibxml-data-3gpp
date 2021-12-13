@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS 25.431:Rel-9/9.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.431/25431-901.zip">
+  <front>
+    <title>UTRAN Iub interface Layer 1</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the standards allowed to implement Layer 1 on the Iub interface.&#13;
+The specification of transmission delay requirements and O&amp;M requirements is not in the scope of this specification.</abstract>
+  </front>
+</reference>

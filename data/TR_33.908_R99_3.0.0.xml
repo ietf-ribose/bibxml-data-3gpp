@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 33.908:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.908/33908-300.zip">
+  <front>
+    <title>3G Security; General report on the design, specification and evaluation of 3GPP standard confidentiality and integrity algorithms</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

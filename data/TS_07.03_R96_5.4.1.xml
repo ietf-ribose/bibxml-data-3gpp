@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 07.03:R96/5.4.1" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.03/0703-541.zip">
+  <front>
+    <title>Terminal Adaptation Functions (TAF) for Services Using Synchronous Bearer Capabilities</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

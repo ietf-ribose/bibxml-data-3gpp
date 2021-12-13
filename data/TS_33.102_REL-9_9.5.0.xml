@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 33.102:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.102/33102-950.zip">
+  <front>
+    <title>3G security; Security architecture</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S3</workgroup>
+    <abstract>Provides a specification of all security mechanisms and protocols, except algorithms.</abstract>
+  </front>
+</reference>

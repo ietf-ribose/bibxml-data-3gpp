@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 44.012:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.012/44012-401.zip">
+  <front>
+    <title>Short Message Service Cell Broadcast (SMSCB) support on the mobile radio interface</title>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

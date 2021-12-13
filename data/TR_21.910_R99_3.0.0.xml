@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 21.910:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.910/21910-300.zip">
+  <front>
+    <title>Multi-mode UE issues; categories, principles and procedures</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2</workgroup>
+  </front>
+</reference>

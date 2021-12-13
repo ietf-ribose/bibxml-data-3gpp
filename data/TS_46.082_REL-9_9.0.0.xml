@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 46.082:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.082/46082-900.zip">
+  <front>
+    <title>Voice Activity Detector (VAD) for Enhanced Full Rate (EFR) speech traffic channels</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

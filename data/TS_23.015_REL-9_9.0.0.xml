@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.015:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.015/23015-900.zip">
+  <front>
+    <title>Technical realization of Operator Determined Barring (ODB)</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

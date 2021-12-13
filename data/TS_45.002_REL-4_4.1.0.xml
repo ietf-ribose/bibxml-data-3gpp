@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 45.002:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.002/45002-410.zip">
+  <front>
+    <title>GSM/EDGE Multiplexing and multiple access on the radio path</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

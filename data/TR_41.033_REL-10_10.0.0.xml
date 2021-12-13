@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 41.033:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.033/41033-a00.zip">
+  <front>
+    <title>Lawful Interception requirements for GSM</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

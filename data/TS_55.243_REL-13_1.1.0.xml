@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 55.243:Rel-13/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.243/55243-110.zip">
+  <front>
+    <title>Specification of the GIA4 integrity algorithm for General Packet Radio Service (GPRS); Design conformance test data</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

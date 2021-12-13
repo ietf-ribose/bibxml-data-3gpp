@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.10-4:R99/8.4.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-4/1110-4-840.zip">
+  <front>
+    <title>Mobile Station (MS) conformance specification; Part 4: Subscriber Identity Module (SIM) application toolkit conformance test specification</title>
+    <workgroup>C6</workgroup>
+    <workgroup>G2, G3new</workgroup>
+    <workgroup>SMG07</workgroup>
+  </front>
+</reference>

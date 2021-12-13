@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 44.064:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.064/44064-600.zip">
+  <front>
+    <title>Mobile Station - Serving GPRS Support Node (MS-SGSN); Logical Link Control (LLC) Layer Specification</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

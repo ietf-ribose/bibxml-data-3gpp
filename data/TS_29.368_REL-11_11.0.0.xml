@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.368:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.368/29368-b00.zip">
+  <front>
+    <title>Tsp interface protocol between the MTC Interworking Function (MTC-IWF) and Service Capability Server (SCS)</title>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

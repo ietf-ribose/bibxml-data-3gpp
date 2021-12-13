@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 46.032:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.032/46032-f00.zip">
+  <front>
+    <title>Full rate speech; Voice Activity Detector (VAD) for full rate speech traffic channels</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

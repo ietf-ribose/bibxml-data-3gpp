@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 05.14:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.14/0514-610.zip">
+  <front>
+    <title>Release independent frequency bands; Implementation guidelines</title>
+    <workgroup>G1</workgroup>
+    <workgroup>G2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.302:Rel-4/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.302/25302-440.zip">
+  <front>
+    <title>Services provided by the physical layer</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This specification describes a technical specification of the services provided by the physical layer of UTRA to upper layers.</abstract>
+  </front>
+</reference>

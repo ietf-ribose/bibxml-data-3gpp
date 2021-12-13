@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.384:Rel-13/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.384/24384-030.zip">
+  <front>
+    <title>Mission Critical Push To Talk (MCPTT) configuration management; Protocol specification</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

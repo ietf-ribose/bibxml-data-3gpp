@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 46.085:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/46_series/46.085/46085-g00.zip">
+  <front>
+    <title>Subjective tests on the interoperability of the Half Rate / Full Rate / Enhanced Full Rate (HR/FR/EFR) speech codecs, single, tandem and tandem free operation</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

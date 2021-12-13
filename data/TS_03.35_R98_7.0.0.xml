@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.35:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.35/0335-700.zip">
+  <front>
+    <title>Immediate Service Termination (IST); Stage 2</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

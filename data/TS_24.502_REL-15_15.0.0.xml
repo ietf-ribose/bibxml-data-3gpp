@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.502:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.502/24502-f00.zip">
+  <front>
+    <title>Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

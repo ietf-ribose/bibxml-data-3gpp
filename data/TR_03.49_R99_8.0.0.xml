@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 03.49:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.49/0349-800.zip">
+  <front>
+    <title>Example protocol stacks for interconnecting Cell Broadcast Centre (CBC) and Base Station Controler (BSC)</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 28.612:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.612/28612-200.zip">
+  <front>
+    <title>Telecommunication management; Evolved Packet Core (EPC) and non-3GPP access interworking system Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 12.03:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.03/1203-700.zip">
+  <front>
+    <title>Security Management</title>
+    <workgroup>S5</workgroup>
+    <workgroup>S1 / CP</workgroup>
+    <workgroup>SMG06 / SMG01 / SMG03</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 38.425:Rel-15/15.7.0" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.425/38425-f70.zip">
+  <front>
+    <title>NG-RAN; NR user plane protocol</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

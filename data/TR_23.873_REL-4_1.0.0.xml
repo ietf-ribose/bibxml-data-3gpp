@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 23.873:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.873/23873-100.zip">
+  <front>
+    <title>Feasibility study for transport and control separation in the PS CN domain</title>
+    <workgroup>S2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

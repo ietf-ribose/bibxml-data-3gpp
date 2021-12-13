@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 07.08:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.08/0708-520.zip">
+  <front>
+    <title>GSM Application Programming Interface</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

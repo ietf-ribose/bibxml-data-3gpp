@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 48.016:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.016/48016-540.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN) interface; Network service</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

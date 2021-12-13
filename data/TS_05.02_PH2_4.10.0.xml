@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 05.02:Ph2/4.10.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.02/0502-4a0.zip">
+  <front>
+    <title>Multiplexing and Multiple Access on the Radio Path</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

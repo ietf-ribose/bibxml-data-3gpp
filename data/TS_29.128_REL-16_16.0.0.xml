@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.128:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.128/29128-g00.zip">
+  <front>
+    <title>Mobility Management Entity (MME) and Serving GPRS Support Node (SGSN) interfaces for interworking with packet data networks and applications</title>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

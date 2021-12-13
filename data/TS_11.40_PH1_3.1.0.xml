@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 11.40:Ph1/3.1.0">
+  <front>
+    <title>GSM System Simulator specification</title>
+    <workgroup>G3new</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG07</workgroup>
+  </front>
+</reference>

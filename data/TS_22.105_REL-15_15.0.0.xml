@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 22.105:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.105/22105-f00.zip">
+  <front>
+    <title>Services and service capabilities</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>Pre-UMTS systems have largely standardized the complete sets of bearer services, teleservices and supplementary services which they provide. One major difference between UMTS and pre-UMTS systems is that service capabilities rather than services are standardized for UMTS, allowing service differentiation and system continuity. This document describes how and what kind of services the UMTS user has access to.</abstract>
+  </front>
+</reference>

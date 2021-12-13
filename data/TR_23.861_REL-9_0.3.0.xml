@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 23.861:Rel-9/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.861/23861-030.zip">
+  <front>
+    <title>Network based IP flow mobility</title>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

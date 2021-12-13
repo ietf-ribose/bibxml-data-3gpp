@@ -1,0 +1,15 @@
+<reference anchor="3GPP.TS 22.022:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.022/22022-910.zip">
+  <front>
+    <title>Personalisation of Mobile Equipment (ME); Mobile functionality specification</title>
+    <workgroup>S1</workgroup>
+    <workgroup>S3</workgroup>
+    <workgroup>S3</workgroup>
+    <abstract>This specification describes functional specifications of five features to personalize UE. These features are called:
+- network personalization;
+- network subset personalization;
+- service provider (SP) personalization;
+- corporate personalization;
+- UMTS subscriber identity module (USIM) personalization.
+This specification describes requirements for UE, which provide these personalization features.</abstract>
+  </front>
+</reference>

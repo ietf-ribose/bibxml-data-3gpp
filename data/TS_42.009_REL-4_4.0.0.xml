@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 42.009:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.009/42009-400.zip">
+  <front>
+    <title>Security aspects</title>
+    <workgroup>S3</workgroup>
+    <workgroup>CP, S1</workgroup>
+    <workgroup>SMG10  /  SMG01  /  SMG03</workgroup>
+  </front>
+</reference>

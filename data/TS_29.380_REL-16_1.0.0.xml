@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.380:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.380/29380-100.zip">
+  <front>
+    <title>Mission Critical Push To Talk (MCPTT) media plane control interworking with Land Mobile Radio (LMR) systems; Stage 3</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

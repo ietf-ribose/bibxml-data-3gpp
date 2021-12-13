@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 44.021:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.021/44021-f00.zip">
+  <front>
+    <title>Rate adaption on the Mobile Station - Base Station System (MS - BSS) interface</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

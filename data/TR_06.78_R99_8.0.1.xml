@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 06.78:R99/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.78/0678-801.zip">
+  <front>
+    <title>Results of the AMR noise suppression selection phase</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TR 35.934:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/35_series/35.934/35934-c00.zip">
+  <front>
+    <title>Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 4: Report on the design and evaluation</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

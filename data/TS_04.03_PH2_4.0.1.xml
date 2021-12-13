@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.03:Ph2/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.03/0403-401.zip">
+  <front>
+    <title>Mobile Station - Base Station System (MS - BSS) Interface Channel Structures and Access Capabilities</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

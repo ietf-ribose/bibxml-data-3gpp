@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 44.318:Rel-8/8.6.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.318/44318-860.zip">
+  <front>
+    <title>Generic Access Network (GAN); Mobile GAN interface layer 3 specification</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

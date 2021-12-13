@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 38.175:Rel-16/16.0.0" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.175/38175-g00.zip">
+  <front>
+    <title>NR; Integrated Access and Backhaul (IAB) Electromagnetic Compatibility (EMC)</title>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

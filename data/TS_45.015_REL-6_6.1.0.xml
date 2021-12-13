@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 45.015:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.015/45015-610.zip">
+  <front>
+    <title>GSM/EDGE Release independent Downlink Advanced Receiver Performance (DARP); Implementation guidelines</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

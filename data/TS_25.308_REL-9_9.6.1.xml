@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 25.308:Rel-9/9.6.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.308/25308-961.zip">
+  <front>
+    <title>High Speed Downlink Packet Access (HSDPA); Overall description; Stage 2</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document is a technical specification of the overall support of High Speed Downlink Packet Access in U0.</abstract>
+  </front>
+</reference>

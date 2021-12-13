@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 22.043:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.043/22043-310.zip">
+  <front>
+    <title>Support of Localized Service Area (SoLSA); Service description; Stage 1</title>
+    <workgroup>S1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

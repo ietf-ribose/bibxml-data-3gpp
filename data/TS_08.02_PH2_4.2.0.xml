@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.02:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.02/0802-420.zip">
+  <front>
+    <title>Base Station System - Mobile Services Switching Centre (BSS-MSC) Interface - Interface Principles</title>
+    <workgroup>G2</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

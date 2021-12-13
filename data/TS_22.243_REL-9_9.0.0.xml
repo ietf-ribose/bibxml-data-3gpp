@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 22.243:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.243/22243-900.zip">
+  <front>
+    <title>Speech recognition framework for automated voice services; Stage 1</title>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

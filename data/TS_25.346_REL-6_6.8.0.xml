@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 25.346:Rel-6/6.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.346/25346-680.zip">
+  <front>
+    <title>Introduction of the Multimedia Broadcast/Multicast Service (MBMS) in the Radio Access Network (RAN); Stage 2</title>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document is a technical specification of the overall support of Multimedia Broadcast and Multicast Services in UTRA.</abstract>
+  </front>
+</reference>

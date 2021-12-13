@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.61:Ph2/4.0.2" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.61/0861-402.zip">
+  <front>
+    <title>In-band control of remote transcoders and rate adaptors for half rate traffic channels</title>
+    <workgroup>G1</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SMG02  /  SMG03</workgroup>
+  </front>
+</reference>

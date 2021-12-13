@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.111-7:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.111-7/32111-7-810.zip">
+  <front>
+    <title>Telecommunication management; Fault Management; Part 7: Alarm IRP SOAP Solution Set (SS)</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

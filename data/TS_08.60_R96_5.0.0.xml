@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 08.60:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.60/0860-500.zip">
+  <front>
+    <title>In-band control of remote transcoders and rate adaptors for Enhanced Full Rate (EFR) and full rate traffic channels</title>
+    <workgroup>G1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 23.814:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.814/23814-000.zip">
+  <front>
+    <title>Separating RR and MM specific parts of the MS Classmark</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 33.326:Rel-17/0.1.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.326/33326-010.zip">
+  <front>
+    <title>Security Assurance Specification (SCAS) for the Network Slice-Specific Authentication and Authorization Function (NSSAAF) network product class</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

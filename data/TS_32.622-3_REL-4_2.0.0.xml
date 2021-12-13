@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 32.622-3:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.622-3/32622-3-200.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Part 3: UTRAN network resources Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set</title>
+    <workgroup>S5</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

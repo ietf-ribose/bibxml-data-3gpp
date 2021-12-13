@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.15:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.15/0315-610.zip">
+  <front>
+    <title>Technical Realization of Operator Determined Barring (ODB)</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

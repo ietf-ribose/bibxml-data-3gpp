@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 09.05:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.05/0905-700.zip">
+  <front>
+    <title>Interworking between the PLMN and the PSPDN for PAD Access</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

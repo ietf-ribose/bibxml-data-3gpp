@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR 25.946:Rel-4/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.946/25946-011.zip">
+  <front>
+    <title>RAB Quality of Service (QoS) Negotiation over Iu</title>
+    <workgroup>R3</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

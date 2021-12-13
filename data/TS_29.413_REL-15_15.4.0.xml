@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 29.413:Rel-15/15.4.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.413/29413-f40.zip">
+  <front>
+    <title>Application of the NG Application Protocol (NGAP) to non-3GPP access</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

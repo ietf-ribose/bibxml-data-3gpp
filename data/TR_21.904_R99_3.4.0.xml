@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 21.904:R99/3.4.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.904/21904-340.zip">
+  <front>
+    <title>User Equipment (UE) capability requirements</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>T2</workgroup>
+  </front>
+</reference>

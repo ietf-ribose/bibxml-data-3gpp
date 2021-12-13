@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TR 30.04U:UMTS/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.04U/3004U-301.zip">
+  <front>
+    <title>Definition of the limited number of UTRA concepts</title>
+    <workgroup>GP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

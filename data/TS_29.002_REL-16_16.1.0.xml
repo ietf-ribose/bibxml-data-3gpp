@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 29.002:Rel-16/16.1.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.002/29002-g10.zip">
+  <front>
+    <title>Mobile Application Part (MAP) specification</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

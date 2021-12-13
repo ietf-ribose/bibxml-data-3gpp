@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 29.018:Rel-12/12.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.018/29018-c30.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Serving GPRS Support Node (SGSN) - Visitors Location Register (VLR); Gs interface layer 3 specification</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 25.106:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.106/25106-410.zip">
+  <front>
+    <title>UTRA repeater radio transmission and reception</title>
+    <workgroup>R4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>R4</workgroup>
+    <abstract>The present document establishes the minimum radio frequency performance of UTRA repeaters.</abstract>
+  </front>
+</reference>

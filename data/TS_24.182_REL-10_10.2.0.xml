@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.182:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.182/24182-a20.zip">
+  <front>
+    <title>IP Multimedia Subsystem (IMS) Customized Alerting Tones (CAT); Protocol specification</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

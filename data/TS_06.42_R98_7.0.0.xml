@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 06.42:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.42/0642-700.zip">
+  <front>
+    <title>Voice Activity Detection (VAD) for Half Rate Speech Traffic Channels</title>
+    <workgroup>S4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

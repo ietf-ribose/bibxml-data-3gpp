@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 43.045:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.045/43045-400.zip">
+  <front>
+    <title>Technical realization of facsimile group 3 transparent</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.501:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.501/24501-h30.zip">
+  <front>
+    <title>Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

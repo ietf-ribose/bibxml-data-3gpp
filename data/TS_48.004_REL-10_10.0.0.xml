@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 48.004:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.004/48004-a00.zip">
+  <front>
+    <title>Base Station System - Mobile-services Switching Centre (BSS - MSC) interface; Layer 1 specification</title>
+    <workgroup>RP</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

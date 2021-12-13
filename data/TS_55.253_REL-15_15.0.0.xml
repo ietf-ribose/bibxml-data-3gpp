@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 55.253:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.253/55253-f00.zip">
+  <front>
+    <title>Specification of the GEA5 encryption and GIA5 integrity algorithms for General Packet Radio Service (GPRS); Design conformance test data</title>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

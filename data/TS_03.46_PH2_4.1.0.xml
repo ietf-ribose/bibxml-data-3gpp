@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.46:Ph2/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.46/0346-410.zip">
+  <front>
+    <title>Technical Realization of Facsimile Group 3 Service - non transparent</title>
+    <workgroup>C3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 23.280:Rel-17/17.2.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.280/23280-h20.zip">
+  <front>
+    <title>Common functional architecture to support mission critical services; Stage 2</title>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

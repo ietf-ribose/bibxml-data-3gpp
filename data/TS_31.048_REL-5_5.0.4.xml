@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS 31.048:Rel-5/5.0.4" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.048/31048-504.zip">
+  <front>
+    <title>Security mechanisms for the (U)SIM application toolkit; Test specification</title>
+    <workgroup>C6</workgroup>
+    <workgroup>-</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 04.65:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.65/0465-510.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Mobile Station (MS) - Serving GPRS Support Node (SGSN); Subnetwork Dependent Convergence Protocol (SNDCP)</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

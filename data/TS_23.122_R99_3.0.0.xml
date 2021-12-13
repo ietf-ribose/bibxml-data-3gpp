@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 23.122:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.122/23122-300.zip">
+  <front>
+    <title>Non-Access-Stratum (NAS) functions related to Mobile Station (MS) in idle mode</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1</workgroup>
+    <abstract>This specification shall give an overview of the tasks undertaken by a Mobile Station (MS) when in idle mode, that is, switched on but not having a dedicated channel allocated, e.g. not making or receiving a call, or when in group receive mode, that is, receiving a group call or broadcast call but not having a dedicated connection. It also describes the corresponding network functions.</abstract>
+  </front>
+</reference>

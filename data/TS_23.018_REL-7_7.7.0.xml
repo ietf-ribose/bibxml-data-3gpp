@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.018:Rel-7/7.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.018/23018-770.zip">
+  <front>
+    <title>Basic call handling; Technical realization</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

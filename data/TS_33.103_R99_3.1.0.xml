@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 33.103:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.103/33103-310.zip">
+  <front>
+    <title>3G security; Integration guidelines</title>
+    <workgroup>S3</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>S3</workgroup>
+    <abstract>-</abstract>
+  </front>
+</reference>

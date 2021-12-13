@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 23.081:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.081/23081-800.zip">
+  <front>
+    <title>Line Identification supplementary services; Stage 2</title>
+    <workgroup>C4</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

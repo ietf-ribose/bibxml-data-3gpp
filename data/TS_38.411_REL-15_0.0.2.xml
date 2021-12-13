@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 38.411:Rel-15/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.411/38411-002.zip">
+  <front>
+    <title>NG-RAN; NG layer 1</title>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

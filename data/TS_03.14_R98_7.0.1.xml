@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 03.14:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.14/0314-701.zip">
+  <front>
+    <title>Support of Dual Tone Multi-Frequency Signalling (DTMF) via the GSM System</title>
+    <workgroup>C1</workgroup>
+    <workgroup>-</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

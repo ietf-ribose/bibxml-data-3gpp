@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 24.305:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.305/24305-100.zip">
+  <front>
+    <title>Selective Disabling of 3GPP User Equipment Capabilities (SDoUE) Management Object (MO)</title>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

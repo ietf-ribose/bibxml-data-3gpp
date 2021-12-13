@@ -1,0 +1,6 @@
+<reference anchor="3GPP.TS 22.273:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.273/22273-700.zip">
+  <front>
+    <title>TISPAN; Multimedia Telephony with PSTN/ISDN simulation services</title>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

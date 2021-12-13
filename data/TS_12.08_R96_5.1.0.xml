@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS 12.08:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.08/1208-510.zip">
+  <front>
+    <title>Subscriber and Equipment trace</title>
+    <workgroup>S5</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SMG06 / SMG03</workgroup>
+  </front>
+</reference>

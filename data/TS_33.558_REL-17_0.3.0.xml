@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.558:Rel-17/0.3.0">
+<reference anchor="3GPP.TS 33.558:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.558/33558-030.zip">
   <front>
     <title>Security aspects of enhancement of support for enabling edge applications</title>
     <workgroup>S3</workgroup>

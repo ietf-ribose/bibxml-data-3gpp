@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.941:Rel-17/1.3.0">
+<reference anchor="3GPP.TR 29.941:Rel-17/1.3.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.941/29941-130.zip">
   <front>
     <title>Guidelines on Port Allocation for New 3GPP Interfaces</title>
     <workgroup>C4</workgroup>

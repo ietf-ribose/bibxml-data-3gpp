@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.807:Rel-7/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.807/23807-020.zip">
   <front>
     <title>Feasibility study for enhancement of radio performance for Voice over IP Multimedia Subsystem (VoIMS); Report on technical options and conclusions</title>
+    <author fullname="MERIAU, Laurence">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

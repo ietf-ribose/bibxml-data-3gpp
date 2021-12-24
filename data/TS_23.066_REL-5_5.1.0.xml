@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.066:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.066/23066-510.zip">
   <front>
     <title>Support of Mobile Number Portability (MNP); Technical realization; Stage 2</title>
+    <author fullname="HODGES, Phil">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4</workgroup>
   </front>
 </reference>

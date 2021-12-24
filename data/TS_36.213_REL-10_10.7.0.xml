@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.213:Rel-10/10.7.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.213/36213-a70.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Physical layer procedures</title>
+    <author fullname="NANGIA, Vijay">
+      <organization>Motorola Mobility UK Ltd.</organization>
+    </author>
     <workgroup>R1</workgroup>
   </front>
 </reference>

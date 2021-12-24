@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 50.099:Rel-4/0.0.6" target="http://www.3gpp.org/ftp/Specs/archive/50_series/50.099/50099-006.zip">
   <front>
     <title>GERAN project plan and open issues</title>
+    <author fullname="GRANT, Marc">
+      <organization>AT&amp;T GNS Belgium SPRL</organization>
+    </author>
     <workgroup>GP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

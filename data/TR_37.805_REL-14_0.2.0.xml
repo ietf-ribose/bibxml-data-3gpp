@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.805:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.805/37805-020.zip">
   <front>
     <title>Study on HSPA and LTE Joint Operation</title>
+    <author fullname="CAO, Gen">
+      <organization>China Unicom</organization>
+    </author>
     <workgroup>R3</workgroup>
     <workgroup>R2</workgroup>
   </front>

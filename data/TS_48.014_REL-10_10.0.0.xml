@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 48.014:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.014/48014-a00.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN) interface; Gb interface Layer 1</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

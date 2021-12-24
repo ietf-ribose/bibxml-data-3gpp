@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR 26.805:Rel-17/1.0.1" target="https://ftp.3gpp.org//Specs/archive/26_series/26.805/26805-101.zip">
+  <front>
+    <title>Study on Media Production over 5G NPN Systems</title>
+    <author fullname="LOHMAR, Thorsten">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

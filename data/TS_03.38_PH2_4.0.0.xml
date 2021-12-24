@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.38:Ph2/4.0.0">
   <front>
     <title>Alphabets and language-specific information</title>
+    <author fullname="BURBIDGE, Richard">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2  /  SMG04</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.598:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.598/29598-h30.zip">
   <front>
     <title>Unstructured data storage services</title>
+    <author fullname="ASKERUP, Anders">
+      <organization>Hewlett-Packard Enterprise</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

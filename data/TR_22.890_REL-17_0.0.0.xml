@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.890:Rel-17/0.0.0" target="http://ftp.3gpp.org//Specs/archive/22_series/22.890/22890-000.zip">
   <front>
     <title>Study on supporting railway smart station services</title>
+    <author fullname="HAN, Andrew Min-gyu">
+      <organization>Hansung University</organization>
+    </author>
     <workgroup>S1</workgroup>
     <workgroup>S6</workgroup>
   </front>

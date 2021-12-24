@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 29.816:Rel-10/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.816/29816-030.zip">
   <front>
     <title>Study on PCRF failure and restoration</title>
+    <author fullname="PUNZ, Gottfried">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>C3</workgroup>
     <workgroup>C4</workgroup>
   </front>

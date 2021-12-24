@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.280:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.280/22280-200.zip">
   <front>
     <title>Mission Critical Services Common Requirements (MCCoRe); Stage 1</title>
+    <author fullname="THIESSEN, Andrew">
+      <organization>U.S. Department of Commerce</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

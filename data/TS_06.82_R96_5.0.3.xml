@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 06.82:R96/5.0.3" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.82/0682-503.zip">
   <front>
     <title>Voice Activity Detection (VAD) for enhanced full rate speech traffic channels</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

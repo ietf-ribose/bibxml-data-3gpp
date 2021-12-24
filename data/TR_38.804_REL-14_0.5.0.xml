@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.804:Rel-14/0.5.0">
   <front>
     <title>Study on new radio access technology Radio interface protocol aspects</title>
+    <author fullname="TAKAHASHI, Hideaki">
+      <organization>DOCOMO Communications Lab.</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

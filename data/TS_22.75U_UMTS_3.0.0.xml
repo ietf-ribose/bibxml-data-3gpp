@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 22.75U:UMTS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.75U/2275U-300.zip">
   <front>
     <title>Service aspects; Advanced addressing</title>
-    <workgroup>-</workgroup>
+    <author fullname="KLEIER, Stephan">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 28.405:Rel-17/17.0.0">
+  <front>
+    <title>Telecommunication management; Quality of Experience (QoE) measurement collection; Control and configuration</title>
+    <author fullname="PETERSEN, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

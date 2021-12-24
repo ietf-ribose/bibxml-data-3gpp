@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 33.511:Rel-16/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.511/33511-000.zip">
   <front>
     <title>Security Assurance Specification (SCAS) for the next generation Node B (gNodeB) network product class</title>
+    <author fullname="WONG, Marcus">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

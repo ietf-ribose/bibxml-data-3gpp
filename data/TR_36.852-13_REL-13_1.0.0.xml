@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.852-13:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.852-13/36852-13-100.zip">
   <front>
     <title>LTE Advanced inter-band Carrier Aggregation (CA) (2DL/1UL)</title>
+    <author fullname="LINDELL, Per">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

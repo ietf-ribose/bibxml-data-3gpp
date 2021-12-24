@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 29.199-15:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-15/29199-15-800.zip">
   <front>
     <title>Open Service Access (OSA); Parlay X web services; Part 15: Message broadcast</title>
+    <author fullname="KIM, JeongHwan">
+      <organization>ETRI</organization>
+    </author>
     <workgroup>CP</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

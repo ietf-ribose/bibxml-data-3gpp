@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 52.021:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/52_series/52.021/52021-c00.zip">
   <front>
     <title>Network Management (NM) procedures and messages on the A-bis interface</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>S5</workgroup>
   </front>

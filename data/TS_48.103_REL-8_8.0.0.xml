@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 48.103:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.103/48103-800.zip">
   <front>
     <title>Base Station System - Media GateWay  (BSS-MGW) interface; User plane transport mechanism</title>
+    <author fullname="ROBERT, Michel">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>RP</workgroup>
   </front>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.868:Rel-15/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.868/32868-040.zip">
   <front>
     <title>Telecommunication management;Study on Operations, Administration and Maintenance (OAM) aspects of Long Term Evolution (LTE) and Wireless LAN (WLAN) integration</title>
+    <author fullname="YAO, Yizhi">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

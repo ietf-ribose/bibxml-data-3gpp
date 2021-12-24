@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.409:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.409/32409-a00.zip">
   <front>
     <title>Telecommunication management; Performance Management (PM); Performance measurements; IP Multimedia Subsystem (IMS)</title>
+    <author fullname="YU, Chengzhi">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

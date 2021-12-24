@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.851:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.851/26851-b00.zip">
   <front>
     <title>Enhancements to Multimedia (EMM); Download Delivery Enhancements (DDE) and IMS-based PSS and MBMS streaming synchronization Enhancements (IPME) aspects</title>
+    <author fullname="TURCOTTE, Eric">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

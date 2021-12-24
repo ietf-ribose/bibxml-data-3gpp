@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 22.00U:UMTS/1.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.00U/2200U-130.zip">
   <front>
     <title>UMTS Phase 1</title>
-    <workgroup>-</workgroup>
+    <author fullname="VERRIER, David">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>

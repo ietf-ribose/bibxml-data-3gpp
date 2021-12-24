@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.791:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.791/36791-100.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Acces (E-UTRA) 2.4 GHz Time Division Duplex (TDD) Band for US</title>
+    <author fullname="DOOLEY, John">
+      <organization>GLOBALSTAR Inc.</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

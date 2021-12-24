@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 01.48:R96/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.48/0148-501.zip">
   <front>
     <title>ISDN-based DECT/GSM interworking; Feasibility study</title>
+    <author fullname="SCARRONE, Enrico">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>
 </reference>

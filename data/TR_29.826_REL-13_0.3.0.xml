@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 29.826:Rel-13/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.826/29826-030.zip">
   <front>
     <title>P-CSCF restoration enhancements for WLAN</title>
+    <author fullname="LANDAIS, Bruno">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

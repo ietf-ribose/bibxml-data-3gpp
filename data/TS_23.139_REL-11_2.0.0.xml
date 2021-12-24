@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.139:Rel-11/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.139/23139-200.zip">
   <front>
     <title>3GPP system - fixed broadband access network interworking; Stage 2</title>
+    <author fullname="ROMMER, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

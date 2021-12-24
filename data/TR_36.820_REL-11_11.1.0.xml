@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.820:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.820/36820-b10.zip">
   <front>
     <title>LTE for 700 MHz digital dividend</title>
+    <author fullname="QUESETH, Olav">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

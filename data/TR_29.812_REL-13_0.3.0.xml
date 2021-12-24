@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 29.812:Rel-13/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.812/29812-030.zip">
   <front>
     <title>Study on SCC AS Restoration</title>
+    <author fullname="DU, Xiaoning">
+      <organization>CATR</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

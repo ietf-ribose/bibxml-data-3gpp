@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.712:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.712/23712-100.zip">
   <front>
     <title>Study on warning status reporting</title>
+    <author fullname="SANDERS, Peter">
+      <organization>one2many B.V.</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

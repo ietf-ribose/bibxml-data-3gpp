@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 26.913:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.913/26913-000.zip">
   <front>
     <title>Quantitative performance evaluation of real-time packet switched multimedia services over 3G</title>
+    <author fullname="HONKO, Harri">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S4</workgroup>
   </front>
 </reference>

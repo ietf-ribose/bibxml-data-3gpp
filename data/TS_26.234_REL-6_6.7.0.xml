@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 26.234:Rel-6/6.7.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.234/26234-670.zip">
   <front>
     <title>Transparent end-to-end Packet-switched Streaming Service (PSS); Protocols and codecs</title>
+    <author fullname="GABIN, Frederic">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 37.461:Rel-8/1.8.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.461/37461-180.zip">
   <front>
     <title>Iuant interface: Layer 1</title>
+    <author fullname="REININGER, Philippe">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

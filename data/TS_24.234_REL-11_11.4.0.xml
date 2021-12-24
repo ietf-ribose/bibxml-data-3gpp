@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 24.234:Rel-11/11.4.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.234/24234-b40.zip">
   <front>
     <title>3GPP system to Wireless Local Area Network (WLAN) interworking; WLAN User Equipment (WLAN UE) to network protocols; Stage 3</title>
+    <author fullname="KÅLL, Jan">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 45.871:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.871/45871-e00.zip">
   <front>
     <title>Study on Multiple Input Multiple Output (MIMO) for GSM/EDGE downlink</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>RP</workgroup>
   </front>
 </reference>

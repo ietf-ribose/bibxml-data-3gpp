@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.281:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.281/32281-g00.zip">
   <front>
     <title>Telecommunication management; Charging management; Announcement service</title>
+    <author fullname="SHRADER, David">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

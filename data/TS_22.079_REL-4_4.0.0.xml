@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 22.079:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.079/22079-400.zip">
   <front>
     <title>Support of Optimal Routeing (SOR); Service definition; Stage 1</title>
+    <author fullname="SCARRONE, Enrico">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
     <abstract>Support of optimal routing is a network feature to reduce the number of unnecessary inter-network call legs when the subscriber is roaming.</abstract>
   </front>

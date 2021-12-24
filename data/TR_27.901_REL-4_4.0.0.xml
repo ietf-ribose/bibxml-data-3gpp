@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 27.901:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.901/27901-400.zip">
   <front>
     <title>Report on Terminal Interfaces - An Overview</title>
+    <author fullname="NEAL, Adrian">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2</workgroup>
   </front>
 </reference>

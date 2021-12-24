@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 32.277:Rel-17/17.0.0">
+  <front>
+    <title>Telecommunication management; Charging management; Proximity-based Services (ProSe) charging</title>
+    <author fullname="CHENG, Hong">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

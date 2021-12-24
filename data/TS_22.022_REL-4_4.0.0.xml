@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.022:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.022/22022-400.zip">
   <front>
     <title>Personalisation of Mobile Equipment (ME); Mobile functionality specification</title>
+    <author fullname="LOTTIN, Philippe">
+      <organization>Orange</organization>
+    </author>
     <workgroup>S1</workgroup>
     <workgroup>S3</workgroup>
     <workgroup>S3</workgroup>

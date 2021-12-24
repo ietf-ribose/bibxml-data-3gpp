@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.743:Rel-6/6.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.743/32743-630.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <author fullname="HU, Yaxi">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

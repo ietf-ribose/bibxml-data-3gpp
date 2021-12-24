@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.156:Rel-16/16.3.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.156/32156-g30.zip">
   <front>
     <title>Telecommunication management; Fixed Mobile Convergence (FMC) model repertoire</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

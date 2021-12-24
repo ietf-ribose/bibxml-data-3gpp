@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.844:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.844/32844-200.zip">
   <front>
     <title>Study of charging support of Proximity-based Services (ProSe) direct communication for public safety use</title>
+    <author fullname="CHENG, Hong">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

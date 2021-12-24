@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.307:Rel-9/9.15.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.307/36307-9f0.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements on User Equipments (UEs) supporting a release-independent frequency band</title>
+    <author fullname="NAKAMURA, Takaharu">
+      <organization>Fujitsu Limited</organization>
+    </author>
     <workgroup>R4</workgroup>
     <workgroup>R2</workgroup>
   </front>

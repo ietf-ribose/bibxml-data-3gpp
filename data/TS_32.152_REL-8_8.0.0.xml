@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.152:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.152/32152-800.zip">
   <front>
     <title>Telecommunication management; Integration Reference Point (IRP) Information Service (IS) Unified Modelling Language (UML) repertoire</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

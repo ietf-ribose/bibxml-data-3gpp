@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.855:Rel-16/1.8.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.855/33855-180.zip">
   <front>
     <title>Study on security aspects of the 5G Service Based Architecture (SBA)</title>
+    <author fullname="JOST, Christine">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

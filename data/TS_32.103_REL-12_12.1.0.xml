@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.103:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.103/32103-c10.zip">
   <front>
     <title>Telecommunication management; Integration Reference Point (IRP) overview and usage guide</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

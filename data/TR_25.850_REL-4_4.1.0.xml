@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 25.850:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.850/25850-410.zip">
   <front>
     <title>UE positioning in UTRAN Iub/Iur protocol aspects</title>
+    <author fullname="HAUTALA, Jari">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

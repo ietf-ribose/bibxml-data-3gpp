@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.899:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.899/22899-100.zip">
   <front>
     <title>Study on enhancements to user location reporting support</title>
+    <author fullname="ZHANG, Zhuoyun">
+      <organization>China Unicom</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

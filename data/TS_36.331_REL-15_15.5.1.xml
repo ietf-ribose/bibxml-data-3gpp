@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.331:Rel-15/15.5.1" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.331/36331-f51.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Resource Control (RRC); Protocol specification</title>
+    <author fullname="JIN, Seungri">
+      <organization>Samsung Electronics Co., Ltd</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

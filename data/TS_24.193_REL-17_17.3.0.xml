@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 24.193:Rel-17/17.3.0">
+  <front>
+    <title>5G System;Access Traffic Steering, Switching and Splitting (ATSSS); Stage 3</title>
+    <author fullname="ZHOU, Xingyue">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

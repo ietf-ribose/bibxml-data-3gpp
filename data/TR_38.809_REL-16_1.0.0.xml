@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.809:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/38_series/38.809/38809-100.zip">
   <front>
     <title>NR; Background for integrated access and backhaul radio transmission and reception </title>
+    <author fullname="LI, Yankun">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

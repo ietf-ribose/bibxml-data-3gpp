@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.607:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.607/32607-900.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP); SOAP Solution Set (SS)</title>
+    <author fullname="LI, Gang">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

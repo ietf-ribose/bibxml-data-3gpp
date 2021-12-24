@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.315:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.315/24315-010.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) Operator Determined Barring (ODB); Stage 3: protocol specification</title>
+    <author fullname="SKROCKI, Mariusz">
+      <organization>Orange</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

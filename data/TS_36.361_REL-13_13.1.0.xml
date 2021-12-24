@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.361:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.361/36361-d10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-WLAN Radio Level Integration Using Ipsec Tunnel  (LWIP) encapsulation; Protocol specification</title>
+    <author fullname="HENTTONEN, Tero">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

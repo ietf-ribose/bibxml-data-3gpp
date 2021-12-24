@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 27.002:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.002/27002-810.zip">
   <front>
     <title>Terminal Adaptation Functions (TAF) for services using asynchronous bearer capabilities</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N3</workgroup>
   </front>
 </reference>

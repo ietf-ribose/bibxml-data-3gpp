@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.582:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.582/29582-h20.zip">
   <front>
     <title>Mission Critical Data (MCData)  interworking with Land Mobile Radio (LMR) systems; Stage 3</title>
+    <author fullname="KILGOUR, Kit">
+      <organization>Sepura Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

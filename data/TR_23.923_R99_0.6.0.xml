@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 23.923:R99/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.923/23923-060.zip">
   <front>
     <title>Combined GSM and Mobile IP mobility handling in UMTS IP CN</title>
+    <author fullname="HUBBARD, Elisabeth">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2</workgroup>
   </front>
 </reference>

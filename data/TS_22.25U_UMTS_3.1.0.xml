@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 22.25U:UMTS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.25U/2225U-310.zip">
   <front>
     <title>Quality of Service (QoS) and network performance</title>
-    <workgroup>-</workgroup>
+    <author fullname="TIAINEN, Seppo">
+      <organization>TeliaSonera AB</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>

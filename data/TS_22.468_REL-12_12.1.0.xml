@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.468:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.468/22468-c10.zip">
   <front>
     <title>Group Communication System Enablers (GCSE)</title>
+    <author fullname="MERKEL, Jürgen">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

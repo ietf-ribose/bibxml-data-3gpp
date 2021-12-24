@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 09.10:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.10/0910-720.zip">
   <front>
     <title>Information Element Mapping between Mobile Station - Base Station System (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MCS) Signalling Procedures and the Mobile Application Part (MAP)</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4  /  SMG03?</workgroup>
   </front>
 </reference>

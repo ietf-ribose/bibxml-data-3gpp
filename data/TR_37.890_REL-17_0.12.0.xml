@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.890:Rel-17/0.12.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.890/37890-0c0.zip">
   <front>
     <title>Feasibility Study on 6 GHz for LTE and NR in Licensed and Unlicensed Operations</title>
+    <author fullname="EVERAERE, Dominique">
+      <organization>Ericsson Limited</organization>
+    </author>
     <workgroup>RP</workgroup>
   </front>
 </reference>

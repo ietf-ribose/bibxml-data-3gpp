@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.307:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.307/25307-400.zip">
   <front>
     <title>Requirements on User Equipments (UEs) supporting a release-independent frequency band</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2, R4</workgroup>
     <abstract>This document specifies requirements on UEs supporting a frequency band that is independent of release.</abstract>

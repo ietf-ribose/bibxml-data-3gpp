@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 23.874:Rel-4/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.874/23874-120.zip">
   <front>
     <title>Feasibility study of architecture for network requested PDP context activation with User-ID</title>
+    <author fullname="KITADA, Yoshinori">
+      <organization>NTT COMWARE Corporation</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

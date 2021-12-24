@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.834:Rel-11/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.834/32834-110.zip">
   <front>
     <title>Study on Operations, Administration and Maintenance (OAM) aspects of inter-Radio-Access-Technology (RAT) energy saving</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

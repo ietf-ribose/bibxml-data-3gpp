@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.952:Rel-12/0.0.4" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.952/26952-004.zip">
   <front>
     <title>Codec for Enhanced Voice Services (EVS); Performance characterization</title>
+    <author fullname="VARGA, Imre">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

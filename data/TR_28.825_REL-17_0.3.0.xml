@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 28.825:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.825/28825-030.zip">
   <front>
-    <title>Study on management aspects of 5G network sharing</title>
+    <title>Management and orchestration; Study on management aspects of 5G network sharing</title>
+    <author fullname="SUN, Mingrui">
+      <organization>China Unicom</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

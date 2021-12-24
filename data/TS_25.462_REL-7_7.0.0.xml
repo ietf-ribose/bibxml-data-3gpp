@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 25.462:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.462/25462-700.zip">
   <front>
     <title>UTRAN Iuant interface: Signalling transport</title>
+    <author fullname="KULAKOV, Alexey">
+      <organization>Vodafone GmbH</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <abstract>This document specifies the signalling transport related to RETAP signalling to be used across the Iuant interface.</abstract>
   </front>
 </reference>

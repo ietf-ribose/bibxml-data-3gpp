@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 31.112:Rel-5/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.112/31112-520.zip">
   <front>
     <title>Universal Subscriber Identity Module Application Toolkit (USAT) interpreter architecture description</title>
+    <author fullname="MASSASCUSA, Sofia">
+      <organization>STMicroelectronics</organization>
+    </author>
     <workgroup>C6</workgroup>
     <abstract>This document defines the overall architecture for the USAT Interpreter system including the role models, system architecture and information flow.</abstract>
   </front>

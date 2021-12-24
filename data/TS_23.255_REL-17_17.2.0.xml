@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 23.255:Rel-17/17.2.0">
+  <front>
+    <title>Application layer support for Uncrewed Aerial System (UAS); Functional architecture and information flows;</title>
+    <author fullname="AMOGH, Niranth">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

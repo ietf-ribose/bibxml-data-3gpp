@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.166:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.166/24166-f00.zip">
   <front>
     <title>3GPP IP Multimedia Subsystem (IMS) conferencing Management Object (MO)</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

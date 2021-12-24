@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.724:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.724/23724-010.zip">
   <front>
     <title>Study on Cellular Internet of Things (CIoT) support and evolution for the 5G System (5GS)</title>
+    <author fullname="SPEICHER, Sebastian">
+      <organization>Qualcomm Wireless GmbH</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

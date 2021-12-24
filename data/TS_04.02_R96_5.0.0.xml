@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 04.02:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.02/0402-500.zip">
   <front>
     <title>GSM Public Land Mobile Network (PLMN) Access Reference Configuration</title>
+    <author fullname="WASS, Mikael">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

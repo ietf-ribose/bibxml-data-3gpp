@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.173:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.173/24173-900.zip">
   <front>
     <title>IMS Multimedia telephony communication service and supplementary services; Stage 3</title>
+    <author fullname="AXELL, Jörgen">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.829:Rel-10/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.829/23829-020.zip">
   <front>
     <title>Local IP Access and Selected IP Traffic Offload (LIPA-SIPTO)</title>
+    <author fullname="HÉDÉ, Patrice">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

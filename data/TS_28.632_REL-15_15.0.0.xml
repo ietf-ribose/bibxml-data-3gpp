@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.632:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.632/28632-f00.zip">
   <front>
     <title>Telecommunication management; Inventory Management (IM) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
+    <author fullname="ZHU, Weihong">
+      <organization>ZTE Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

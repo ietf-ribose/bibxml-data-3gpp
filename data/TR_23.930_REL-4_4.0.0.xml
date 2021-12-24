@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 23.930:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.930/23930-400.zip">
   <front>
     <title>Iu principles</title>
+    <author fullname="AXERUD, Bo">
+      <organization>NOKIA TELECOMMUNICATIONS</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2</workgroup>
     <abstract>This specification describes the requirements on the Iu and studies relevant principles to guide further standardization of the related interface(s).</abstract>
   </front>

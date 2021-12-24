@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.803:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.803/33803-700.zip">
   <front>
     <title>Coexistence between TISPAN and 3GPP authentication schemes</title>
+    <author fullname="FOUQUET, Sylvie">
+      <organization>Orange</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

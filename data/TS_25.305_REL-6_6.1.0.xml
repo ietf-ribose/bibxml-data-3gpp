@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.305:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.305/25305-610.zip">
   <front>
     <title>Stage 2 functional specification of User Equipment (UE) positioning in UTRAN</title>
+    <author fullname="PROVVEDI, Simone">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

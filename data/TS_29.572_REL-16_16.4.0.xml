@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.572:Rel-16/16.4.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.572/29572-g40.zip">
   <front>
     <title>5G System; Location Management Services; Stage 3</title>
+    <author fullname="YUNJIE, Lu">
+      <organization>Ericsson Japan K.K.</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

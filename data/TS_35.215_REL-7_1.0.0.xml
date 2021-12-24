@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 35.215:Rel-7/1.0.0">
   <front>
     <title>Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 &amp; UIA2; Document 1: UEA2 and UIA2 specifications</title>
+    <author fullname="SAHLIN, Bengt">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

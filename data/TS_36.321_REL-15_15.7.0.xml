@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.321:Rel-15/15.7.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.321/36321-f70.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Medium Access Control (MAC) protocol specification</title>
+    <author fullname="KARLSSON, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

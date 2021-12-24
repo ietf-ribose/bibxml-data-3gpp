@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.838:Rel-13/1.6.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.838/32838-160.zip">
   <front>
     <title>Telecommunication management; Gap analysis between 3GPP SA5 specifications and NGMN Top Operational Efficiency (OPE) recommendations</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

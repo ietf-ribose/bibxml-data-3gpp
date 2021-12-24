@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.19:R99/8.4.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.19/0319-841.zip">
   <front>
     <title>Subscriber Identity Module Application Programming Interface (SIM API) for Java Card</title>
+    <author fullname="HANS, Sebastian">
+      <organization>Oracle Corporation</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T3</workgroup>
   </front>
 </reference>

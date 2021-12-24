@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 03.01:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.01/0301-610.zip">
   <front>
     <title>Network Functions</title>
+    <author fullname="GAASVIK, Per-Ola">
+      <organization>COMVIQ GSM AB</organization>
+    </author>
     <workgroup>S2</workgroup>
     <workgroup>CP</workgroup>
     <workgroup>SA2 / SMG03</workgroup>

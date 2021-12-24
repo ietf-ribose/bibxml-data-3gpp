@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.633:Rel-6/6.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.633/32633-640.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

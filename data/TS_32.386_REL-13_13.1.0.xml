@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.386:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.386/32386-d10.zip">
   <front>
     <title>Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); Solution Set (SS) definitions</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

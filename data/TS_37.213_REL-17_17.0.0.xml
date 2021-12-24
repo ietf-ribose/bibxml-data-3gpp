@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 37.213:Rel-17/17.0.0">
+  <front>
+    <title>Physical layer procedures for shared spectrum channel access</title>
+    <author fullname="FALAHATI, Sorour">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

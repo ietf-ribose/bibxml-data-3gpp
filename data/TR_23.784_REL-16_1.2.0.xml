@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.784:Rel-16/1.2.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.784/23784-120.zip">
   <front>
     <title>Study on discreet listening and logging for mission critical services</title>
+    <author fullname="CHATER-LEA, David">
+      <organization>Motorola Solutions UK Ltd.</organization>
+    </author>
     <workgroup>S6</workgroup>
   </front>
 </reference>

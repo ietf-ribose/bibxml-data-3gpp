@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.814:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.814/22814-a00.zip">
   <front>
     <title>Location Services (LCS) support in Evolved Packet Core (EPC) for non-3GPP accesses</title>
+    <author fullname="SONG, Jin han">
+      <organization>SK Telecom</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

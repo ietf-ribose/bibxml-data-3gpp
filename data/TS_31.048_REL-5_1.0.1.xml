@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 31.048:Rel-5/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.048/31048-101.zip">
   <front>
     <title>Security mechanisms for the (U)SIM application toolkit; Test specification</title>
+    <author fullname="PHAN, Ly Thanh">
+      <organization>Gemalto N.V.</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

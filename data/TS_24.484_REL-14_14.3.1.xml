@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.484:Rel-14/14.3.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.484/24484-e31.zip">
   <front>
     <title>Mission Critical Services (MCS) configuration management; Protocol specification</title>
+    <author fullname="OPRESCU, Val">
+      <organization>AT&amp;T</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

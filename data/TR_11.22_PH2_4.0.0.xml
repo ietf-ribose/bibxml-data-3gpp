@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 11.22:Ph2/4.0.0">
   <front>
     <title>GSM Base Station and Ancillary Equipment, Physical and Electronical Parameters, Application of Standards and Guidance Notes</title>
+    <author fullname="PERRY, Malcolm">
+      <organization>NOKIA UK R&amp;D Ltd</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02c</workgroup>
   </front>
 </reference>

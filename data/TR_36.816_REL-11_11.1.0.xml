@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.816:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.816/36816-b10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Study on signalling and procedure for interference avoidance for in-device coexistence</title>
+    <author fullname="HU, Zhenping">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

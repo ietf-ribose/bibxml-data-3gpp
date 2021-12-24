@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 25.460:Rel-15/15.1.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.460/25460-f10.zip">
   <front>
     <title>UTRAN Iuant interface: General aspects and principles</title>
+    <author fullname="KULAKOV, Alexey">
+      <organization>Vodafone GmbH</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <abstract>This document is an introduction to the TSG RAN TS 25.46x series of UMTS Technical Specifications that define the Iuant Interface. The logical Iuant interface is a Node B internal interface between the implementation specific O&amp;M function and the Remote Electrical Tilting (RET) Antenna Control unit function of the Node B.</abstract>
   </front>
 </reference>

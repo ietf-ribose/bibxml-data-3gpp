@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.791:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.791/32791-b00.zip">
   <front>
     <title>Telecommunication management; Common Radio Access Technology (RAT) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements</title>
+    <author fullname="PETERSEN, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

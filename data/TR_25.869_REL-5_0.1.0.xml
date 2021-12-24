@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 25.869:Rel-5/0.1.0">
   <front>
     <title>Transmitter diversity solutions for multiple antennas</title>
+    <author fullname="KIM, Sung-Jin">
+      <organization>Samsung Electronics Co., Ltd</organization>
+    </author>
     <workgroup>R1</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

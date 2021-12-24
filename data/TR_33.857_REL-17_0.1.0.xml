@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.857:Rel-17/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.857/33857-010.zip">
   <front>
     <title>Study on enhanced security support for Non-Public Networks (NPN)</title>
+    <author fullname="JOST, Christine">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

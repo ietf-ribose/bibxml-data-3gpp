@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 08.51:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.51/0851-600.zip">
   <front>
     <title>Base Station Controller - Base Tranceiver Station (BSC-BTS) Interface General Aspects</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>G2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

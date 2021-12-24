@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.231:Rel-8/8.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.231/29231-840.zip">
   <front>
     <title>Application of SIP-I Protocols to Circuit Switched (CS) core network architecture; Stage 3</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
     <workgroup>C3</workgroup>
   </front>

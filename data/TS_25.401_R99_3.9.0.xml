@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 25.401:R99/3.9.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.401/25401-390.zip">
   <front>
     <title>UTRAN overall description</title>
+    <author fullname="HELMERS, Hakon">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the overall architecture of the UTRAN, including internal interfaces and assumptions on the radio and Iu interfaces.</abstract>
   </front>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.253:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.253/32253-g00.zip">
   <front>
     <title>Telecommunication management; Charging management; Control Plane (CP) data transfer domain charging </title>
+    <author fullname="GARDELLA, Maryse">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

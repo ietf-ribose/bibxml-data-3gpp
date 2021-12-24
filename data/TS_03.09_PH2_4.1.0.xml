@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.09:Ph2/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.09/0309-410.zip">
   <front>
     <title>Handover Procedures</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

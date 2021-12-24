@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 23.303:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.303/23303-h00.zip">
+  <front>
+    <title>Proximity-based services (ProSe); Stage 2</title>
+    <author fullname="ZISIMOPOULOS, Haris">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

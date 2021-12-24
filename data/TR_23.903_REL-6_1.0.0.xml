@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 23.903:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.903/23903-100.zip">
   <front>
     <title>Redial solution for voice-video switching</title>
+    <author fullname="PUDNEY, Chris">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

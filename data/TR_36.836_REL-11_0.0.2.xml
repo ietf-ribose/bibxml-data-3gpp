@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.836:Rel-11/0.0.2">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Study on mobile relay</title>
+    <author fullname="HU, Haijing">
+      <organization>CATT</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

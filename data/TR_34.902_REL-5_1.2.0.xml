@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 34.902:Rel-5/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.902/34902-120.zip">
   <front>
     <title>Derivation of test tolerances for multi-cell Radio Resource Management (RRM) conformance tests</title>
+    <author fullname="KOLODZIEJ, Jakub">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

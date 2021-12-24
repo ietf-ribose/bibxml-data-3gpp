@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.849:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.849/32849-100.zip">
   <front>
     <title>Study on Charging aspects of Roaming End-to-end scenarios with VoLTE IMS and interconnecting networks</title>
+    <author fullname="JESSKE, Roland">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

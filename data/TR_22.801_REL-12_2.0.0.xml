@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.801:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.801/22801-200.zip">
   <front>
     <title>Study on non-MTC mobile data applications impacts</title>
+    <author fullname="DEOL, Amar">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

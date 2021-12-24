@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 43.005:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.005/43005-500.zip">
   <front>
     <title>Technical performance objectives</title>
+    <author fullname="HIETALAHTI, Hannu">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>CP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG03</workgroup>
   </front>
 </reference>

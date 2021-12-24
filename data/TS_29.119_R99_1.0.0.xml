@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 29.119:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.119/29119-100.zip">
   <front>
     <title>GPRS Tunnelling Protocol (GTP) specification for Gateway Location Register (GLR)</title>
+    <author fullname="NODA, Aki">
+      <organization>Fujitsu Limited</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4</workgroup>
   </front>
 </reference>

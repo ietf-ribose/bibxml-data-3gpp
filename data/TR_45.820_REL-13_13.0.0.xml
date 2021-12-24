@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 45.820:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.820/45820-d00.zip">
   <front>
     <title>Cellular system support for ultra-low complexity and low throughput Internet of Things (CIoT)</title>
+    <author fullname="PUDNEY, Chris">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>RP</workgroup>
   </front>

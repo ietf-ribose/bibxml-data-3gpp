@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 02.06dcs:Ph1-DCS/2.0.0">
   <front>
     <title>Types of Mobile Stations (MS) - DCS 1800</title>
+    <author fullname="TOFABI, Amin">
+      <organization>SONY</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>
 </reference>

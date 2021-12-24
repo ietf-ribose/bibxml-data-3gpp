@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.215:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.215/25215-b00.zip">
   <front>
     <title>Physical layer; Measurements (FDD)</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
     <workgroup>R1</workgroup>

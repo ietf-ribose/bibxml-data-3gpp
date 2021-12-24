@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.420:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.420/38420-f00.zip">
   <front>
     <title>NG-RAN; Xn general aspects and principles</title>
+    <author fullname="LOPES, Luis">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

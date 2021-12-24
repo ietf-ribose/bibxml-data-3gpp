@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 26.139:Rel-16/0.0.1" target="http://ftp.3gpp.org//Specs/archive/26_series/26.139/26139-001.zip">
   <front>
     <title>Real-time Transport Protocol (RTP) / RTP Control Protocol (RTCP) verification procedures</title>
+    <author fullname="BURMAN, Bo">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

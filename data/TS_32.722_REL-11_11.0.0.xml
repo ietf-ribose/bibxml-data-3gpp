@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.722:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.722/32722-b00.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); information Service (IS)</title>
+    <author fullname="HU, Yaxi">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

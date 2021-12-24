@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 11.11dcs:Ph1-DCS/3.3.0">
   <front>
     <title>Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) Interface (DCS 1800)</title>
+    <author fullname="GUTHERY, Scott B.">
+      <organization>WorldCell</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG09</workgroup>
   </front>
 </reference>

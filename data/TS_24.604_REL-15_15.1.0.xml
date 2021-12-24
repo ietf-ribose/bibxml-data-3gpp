@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.604:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.604/24604-f10.zip">
   <front>
     <title>Communication Diversion (CDIV) using IP Multimedia (IM) Core Network (CN) subsystem;  Protocol specification</title>
+    <author fullname="BAKKER, John-Luc">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

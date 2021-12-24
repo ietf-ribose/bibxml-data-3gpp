@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 05.01dcs:Ph1-DCS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.01dcs/0501dcs-300.zip">
   <front>
     <title>Physical Layer on the Radio Path (General Description) (DCS 1800)</title>
+    <author fullname="JOKINEN, Harri">
+      <organization>BROADCOM CORPORATION</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

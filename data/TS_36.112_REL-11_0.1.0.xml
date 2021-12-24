@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.112:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.112/36112-010.zip">
   <front>
     <title>Location Measurement Unit (LMU) conformance specification;  Network based positioning systems in Evolved Universal Terrestrial Radio Access Network (E-UTRAN)</title>
+    <author fullname="BROOKS, Terri">
+      <organization>TruePosition</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.860:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.860/25860-500.zip">
   <front>
     <title>Radio acces bearer support enhancements</title>
+    <author fullname="MIKOLA, Juha">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
   </front>

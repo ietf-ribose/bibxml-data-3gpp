@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 34.108:Rel-11/11.13.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-bd0.zip">
   <front>
     <title>Common test environments for User Equipment (UE); Conformance testing</title>
+    <author fullname="MATTISSON, Leif">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R5</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T1</workgroup>
     <abstract>This document contains definitions of reference conditions and test signals, default parameters, reference Radio Bearer configurations, common requirements for test equipment and generic set-up procedures for use in UE conformance tests.</abstract>
   </front>

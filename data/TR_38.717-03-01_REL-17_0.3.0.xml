@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.717-03-01:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.717-03-01/38717-03-01-030.zip">
   <front>
     <title>Rel-17 NR inter-band Carrier Aggregation for 3 bands DL with 1 band UL</title>
+    <author fullname="SONG, Yuexia">
+      <organization>CATT</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

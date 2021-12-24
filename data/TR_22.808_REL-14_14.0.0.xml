@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.808:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.808/22808-e00.zip">
   <front>
     <title>Study on Flexible Mobile Service Steering (FMSS)</title>
+    <author fullname="LU, Lu">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

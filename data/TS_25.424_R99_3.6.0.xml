@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 25.424:R99/3.6.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.424/25424-360.zip">
   <front>
     <title>UTRAN Iur interface data transport &amp; transport signalling for Common Transport Channel data streams</title>
+    <author fullname="ZHANG, Hongzhuo">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the UTRAN RNS-RNS (Iur) interface data transport and transport signalling for common transport channel data streams.</abstract>
   </front>

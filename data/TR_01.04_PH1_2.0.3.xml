@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 01.04:Ph1/2.0.3">
   <front>
     <title>Abbreviations and acronyms</title>
+    <author fullname="HOWELL, Andrew">
+      <organization>HOME OFFICE</organization>
+    </author>
     <workgroup>GP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG</workgroup>
   </front>
 </reference>

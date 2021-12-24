@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 30.817:Rel-7/0.0.8" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.817/30817-008.zip">
   <front>
     <title>Telecommunication management; Project scheduling and open issues for SA5, Release 7</title>
+    <author fullname="ZOICAS, Adrian">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

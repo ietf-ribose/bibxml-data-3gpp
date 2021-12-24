@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.919:Rel-6/1.0.1">
   <front>
     <title>3G Security; Generic Authentication Architecture (GAA); System description</title>
+    <author fullname="VAN MOFFAERT, Annelies">
+      <organization>Alcatel-Lucent Bell NV</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

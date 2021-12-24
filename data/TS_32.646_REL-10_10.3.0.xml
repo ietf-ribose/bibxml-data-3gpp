@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.646:Rel-10/10.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.646/32646-a30.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Solution Set (SS) definitions</title>
+    <author fullname="LI, Gang">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

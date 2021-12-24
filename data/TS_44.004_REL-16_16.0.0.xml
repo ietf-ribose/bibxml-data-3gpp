@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 44.004:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/44_series/44.004/44004-g00.zip">
   <front>
     <title>GSM/EDGE Layer 1; General Requirements</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

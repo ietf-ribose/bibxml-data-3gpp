@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.516:Rel-8/2.5.0">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services; Malicious Communication Identification (MCID); Protocol specification</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

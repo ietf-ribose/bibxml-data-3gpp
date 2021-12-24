@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 23.867:Rel-6/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.867/23867-040.zip">
   <front>
     <title>Internet Protocol (IP) based IP Multimedia Subsystem (IMS) emergency sessions</title>
+    <author fullname="LIEBHART, Rainer">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

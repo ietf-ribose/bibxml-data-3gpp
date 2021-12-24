@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.879:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.879/33879-010.zip">
   <front>
     <title>Study on security enhancements for Mission Critical Push To Talk (MCPTT) over LTE</title>
+    <author fullname="HAIGH, Peter">
+      <organization>CESG</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

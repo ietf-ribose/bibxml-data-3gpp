@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.838:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.838/23838-900.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) service continuity enhancements; Service, policy and interaction; Stage 2</title>
+    <author fullname="ZHANG, Heng liang">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

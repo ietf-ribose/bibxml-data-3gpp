@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.302:Rel-8/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.302/24302-110.zip">
   <front>
     <title>Access to the 3GPP Evolved Packet Core (EPC) via non-3GPP access networks; Stage 3</title>
+    <author fullname="CHIN, ChenHo">
+      <organization>Guangdong OPPO Mobile Telecom.</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

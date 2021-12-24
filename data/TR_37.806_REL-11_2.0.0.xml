@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.806:Rel-11/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.806/37806-200.zip">
   <front>
     <title>Extending 850 MHz study Technical Report</title>
+    <author fullname="BERGLJUNG, Christian">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

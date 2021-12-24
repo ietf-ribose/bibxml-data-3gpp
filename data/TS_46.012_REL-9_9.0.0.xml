@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 46.012:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.012/46012-900.zip">
   <front>
     <title>Full rate speech; Comfort noise aspect for full rate speech traffic channels</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.654:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.654/28654-e00.zip">
   <front>
     <title>Telecommunication management; GSM/EDGE Radio Access Network (GERAN) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

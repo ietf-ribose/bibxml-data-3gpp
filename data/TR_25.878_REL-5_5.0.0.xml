@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.878:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.878/25878-500.zip">
   <front>
     <title>RL timing adjustment</title>
+    <author fullname="MYHRE, Elena">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

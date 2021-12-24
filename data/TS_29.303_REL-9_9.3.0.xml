@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.303:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.303/29303-930.zip">
   <front>
     <title>Domain Name System Procedures; Stage 3</title>
+    <author fullname="MORAND, Lionel">
+      <organization>Orange</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

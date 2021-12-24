@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.805:Rel-9/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.805/36805-120.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Study on minimization of drive-tests in next generation networks</title>
+    <author fullname="KITAZOE, Masato">
+      <organization>QUALCOMM JAPAN LLC.</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

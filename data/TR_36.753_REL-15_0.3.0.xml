@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.753:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.753/36753-030.zip">
   <front>
     <title>TDD operating band in the L-band for LTE</title>
+    <author fullname="LIU, Liehai">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

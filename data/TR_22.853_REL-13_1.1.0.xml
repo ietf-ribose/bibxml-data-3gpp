@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.853:Rel-13/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.853/22853-110.zip">
   <front>
     <title>Study on Service Exposure and Enablement Support (SEES) requirements</title>
+    <author fullname="NORP, Toon">
+      <organization>TNO</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

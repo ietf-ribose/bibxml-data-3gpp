@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 30.20U:UMTS/2.0.0">
   <front>
     <title>Technical characteristics, capabilities and limitations of mobile satellite systems applicable to the UMTS</title>
-    <workgroup>-</workgroup>
+    <author fullname="RAPELI, Juha">
+      <organization>PHILIPS CONSUMER COMMUNICATION</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG</workgroup>
   </front>

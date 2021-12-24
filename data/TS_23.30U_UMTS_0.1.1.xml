@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.30U:UMTS/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.30U/2330U-011.zip">
   <front>
     <title>Iu principles</title>
+    <author fullname="SODERBACKA, Lauri">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>smg3</workgroup>
   </front>
 </reference>

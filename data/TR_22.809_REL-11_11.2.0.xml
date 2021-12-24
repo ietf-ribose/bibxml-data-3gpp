@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.809:Rel-11/11.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.809/22809-b20.zip">
   <front>
     <title>Feasibility study on support for 3GPP voice interworking with enterprise IP-PBX (VINE)</title>
+    <author fullname="BOMARSI, Eric">
+      <organization>Taqua LLC</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

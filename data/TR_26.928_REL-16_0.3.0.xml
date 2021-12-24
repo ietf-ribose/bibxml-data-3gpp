@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.928:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.928/26928-030.zip">
   <front>
     <title>Extended Reality (XR) in 5G</title>
+    <author fullname="STOCKHAMMER, Thomas">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 33.303:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.303/33303-100.zip">
   <front>
     <title>Proximity-based Services (ProSe); Security aspects</title>
+    <author fullname="ESCOTT, Adrian">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.511:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.511/32511-900.zip">
   <front>
     <title>Telecommunication management; Automatic Neighbour Relation (ANR) management; Concepts and requirements</title>
+    <author fullname="PETERSEN, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

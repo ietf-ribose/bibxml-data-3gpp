@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 25.934:Rel-4/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.934/25934-020.zip">
   <front>
     <title>AAL2 QoS optimization</title>
+    <author fullname="YOSHIMURA, Takayuki">
+      <organization>Vodafone K.K.</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
   </front>
 </reference>

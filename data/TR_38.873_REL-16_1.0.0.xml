@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.873:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/38_series/38.873/38873-100.zip">
   <front>
     <title>Time Division Duplex (TDD) operating band in Band n48</title>
+    <author fullname="ANGELOW, Iwajlo">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.852:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.852/26852-e10.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); Extensions and profiling</title>
+    <author fullname="BOUAZIZI, Imed">
+      <organization>Samsung Telecoms America</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

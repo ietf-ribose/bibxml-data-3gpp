@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.127:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.127/23127-420.zip">
   <front>
     <title>Virtual Home Environment (VHE) / Open Service Access (OSA)</title>
+    <author fullname="GOURRAUD, Christophe">
+      <organization>ERICSSON Research Cananda</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2</workgroup>
   </front>
 </reference>

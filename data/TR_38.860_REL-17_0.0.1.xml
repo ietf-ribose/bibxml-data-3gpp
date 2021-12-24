@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.860:Rel-17/0.0.1">
   <front>
     <title>Study on extended 600MHz NR band </title>
+    <author fullname="SHAFI, Mansoor">
+      <organization>Spark NZ Ltd</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

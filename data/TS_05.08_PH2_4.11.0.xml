@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 05.08:Ph2/4.11.0">
   <front>
     <title>Radio subsystem link control</title>
+    <author fullname="EL-SAIGH, Amer">
+      <organization>OOREDOO</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

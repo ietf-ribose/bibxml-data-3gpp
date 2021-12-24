@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.282:Rel-16/16.4.1" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.282/24282-g41.zip">
   <front>
     <title>Mission Critical Data (MCData) signalling control; Protocol specification</title>
+    <author fullname="KAPALE, Kiran">
+      <organization>Samsung R&amp;D Institute India</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

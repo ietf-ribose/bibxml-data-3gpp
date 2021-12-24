@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 22.141:Rel-15/15.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.141/22141-f00.zip">
   <front>
     <title>Presence service; Stage 1</title>
+    <author fullname="HOWELL, Andrew">
+      <organization>HOME OFFICE</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

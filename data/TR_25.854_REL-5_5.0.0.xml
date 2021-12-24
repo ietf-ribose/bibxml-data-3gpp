@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.854:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.854/25854-500.zip">
   <front>
     <title>Uplink Synchronous Transmission Scheme (USTS)</title>
+    <author fullname="KIM, Duk Kyung">
+      <organization>SK Telecom</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

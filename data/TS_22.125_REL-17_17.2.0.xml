@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.125:Rel-17/17.2.0" target="https://www.3gpp.org/ftp//Specs/archive/22_series/22.125/22125-h20.zip">
   <front>
     <title>Unmanned Aerial System (UAS) support in 3GPP</title>
+    <author fullname="HALL, Edward">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

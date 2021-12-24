@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 25.422:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.422/25422-a10.zip">
   <front>
     <title>UTRAN Iur interface signalling transport</title>
+    <author fullname="HELMERS, Hakon">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the standards for Signalling Transport to be used across Iur Interface.</abstract>
   </front>

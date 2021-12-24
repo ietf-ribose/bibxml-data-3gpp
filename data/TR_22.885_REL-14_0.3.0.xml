@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.885:Rel-14/0.3.0">
   <front>
     <title>Study on LTE support for Vehicle-to-Everything (V2X) services</title>
+    <author fullname="LEE, Ki-Dong">
+      <organization>LG Electronics Inc.</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

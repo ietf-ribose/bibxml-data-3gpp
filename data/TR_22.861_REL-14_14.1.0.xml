@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.861:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.861/22861-e10.zip">
   <front>
     <title>Massive Internet of Things</title>
+    <author fullname="NEAL, Adrian">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

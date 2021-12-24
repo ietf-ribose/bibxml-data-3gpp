@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 05.10:R99/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.10/0510-880.zip">
   <front>
     <title>Radio subsystem synchronization</title>
+    <author fullname="JOKINEN, Harri">
+      <organization>BROADCOM CORPORATION</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

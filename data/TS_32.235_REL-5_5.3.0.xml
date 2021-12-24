@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.235:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.235/32235-530.zip">
   <front>
     <title>Telecommunication management; Charging management; Charging data description for application services</title>
+    <author fullname="GOERMER, Gerald">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

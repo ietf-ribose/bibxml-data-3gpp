@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 37.355:Rel-16/16.7.0">
+  <front>
+    <title>LTE Positioning Protocol (LPP)</title>
+    <author fullname="KITAZOE, Masato">
+      <organization>QUALCOMM JAPAN LLC.</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

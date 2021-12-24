@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 25.430:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.430/25430-600.zip">
   <front>
     <title>UTRAN Iub Interface: general aspects and principles</title>
+    <author fullname="WILSON, Mick">
+      <organization>FUJITSU Laboratories of Europe</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the TSG RAN TS 25.43x series of UMTS technical specifications that define the Iub interface. The Iub interface is a logical interface for the interconnection of Node B and RNC components of the UTRAN.</abstract>
   </front>

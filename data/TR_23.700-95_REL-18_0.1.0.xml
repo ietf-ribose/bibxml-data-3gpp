@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.700-95:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-95/23700-95-010.zip">
   <front>
     <title>Study on application enablement aspects for subscriber-aware northbound API access</title>
+    <author fullname="SUZUKI, Yuji">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>S6</workgroup>
   </front>
 </reference>

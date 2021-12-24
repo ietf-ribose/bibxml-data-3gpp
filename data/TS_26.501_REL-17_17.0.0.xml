@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 26.501:Rel-17/17.0.0">
+  <front>
+    <title>5G Media Streaming (5GMS); General description and architecture</title>
+    <author fullname="GABIN, Frederic">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

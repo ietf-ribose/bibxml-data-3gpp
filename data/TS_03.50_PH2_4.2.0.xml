@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.50:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.50/0350-420.zip">
   <front>
     <title>Transmission Planning Aspects of the Speech Service in the GSM Public Land Mobile Network (PLMN) System</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

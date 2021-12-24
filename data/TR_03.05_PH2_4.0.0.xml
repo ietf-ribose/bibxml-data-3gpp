@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 03.05:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.05/0305-400.zip">
   <front>
     <title>Technical performance objectives</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>CP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG03</workgroup>
   </front>
 </reference>

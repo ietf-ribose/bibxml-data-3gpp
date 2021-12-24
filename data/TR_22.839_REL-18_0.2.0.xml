@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.839:Rel-18/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.839/22839-020.zip">
   <front>
     <title>Study on vehicle-mounted relays</title>
+    <author fullname="PICA, Francesco">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

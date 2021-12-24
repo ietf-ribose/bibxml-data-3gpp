@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.422:Rel-7/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.422/32422-730.zip">
   <front>
     <title>Telecommunication management; Subscriber and equipment trace; Trace control and configuration management</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

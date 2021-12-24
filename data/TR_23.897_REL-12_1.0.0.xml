@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.897:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.897/23897-100.zip">
   <front>
     <title>Feasibility study on IP Multimedia Subsystem (IMS) business trunking for Internet Protocol Private Branch Exchange (IP-PBX) in Static Mode of Operation</title>
+    <author fullname="ZARRI, Michele">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

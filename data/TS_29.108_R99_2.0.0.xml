@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 29.108:R99/2.0.0">
   <front>
     <title>Application of the Radio Access Network Application Part (RANAP) on the E-interface</title>
+    <author fullname="AHMED, Ayaz">
+      <organization>Nokia Solutions &amp; Networks (I)</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
   </front>
 </reference>

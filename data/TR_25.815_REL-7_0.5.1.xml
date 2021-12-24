@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.815:Rel-7/0.5.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.815/25815-051.zip">
   <front>
     <title>Signalling enhancements for Circuit Switched (CS) and Packet Switched (PS) connections; Analyses and recommendations</title>
+    <author fullname="PIRSKANEN, Juho">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>C1, R1, R2, R3</workgroup>
   </front>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 26.307:Rel-13/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.307/26307-120.zip">
   <front>
     <title>Presentation layer for 3GPP services</title>
+    <author fullname="BOUAZIZI, Imed">
+      <organization>Samsung Telecoms America</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

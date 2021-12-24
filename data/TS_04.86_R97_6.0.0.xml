@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 04.86:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.86/0486-600.zip">
   <front>
     <title>Advice of Charge (AoC) Supplementary Services; Stage 3</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4  /  SMG03?</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 06.12:Ph2/4.0.4" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.12/0612-404.zip">
   <front>
     <title>Comfort Noise Aspects for Full Rate Speech Traffic Channels</title>
+    <author fullname="NAVARRO, William">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.933:Rel-14/1.1.0">
   <front>
     <title>Study on Context Aware Service Delivery in RAN for LTE</title>
+    <author fullname="KIMBA DIT ADAMOU, Boubacar">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

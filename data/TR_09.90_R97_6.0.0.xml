@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 09.90:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.90/0990-600.zip">
   <front>
     <title>Interworking between Phase 1 Infrastructure and Phase 2 Mobile Stations (MS)</title>
+    <author fullname="BURBIDGE, Richard">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.304:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.304/24304-810.zip">
   <front>
     <title>Mobility management based on Mobile IPv4; User Equipment (UE) - foreign agent interface; Stage 3</title>
+    <author fullname="HERRERO-VERON, Christian">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

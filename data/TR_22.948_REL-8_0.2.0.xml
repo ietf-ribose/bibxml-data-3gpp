@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.948:Rel-8/0.2.0">
   <front>
     <title>Study of requirements of IP-Multimedia Subsystem (IMS) convergent multimedia conferencing</title>
+    <author fullname="HUANG, Qing">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

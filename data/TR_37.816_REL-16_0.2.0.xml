@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.816:Rel-16/0.2.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.816/37816-020.zip">
   <front>
     <title>Study on RAN-centric data collection and utilization for LTE and NR</title>
+    <author fullname="LIU, Liang">
+      <organization>China Mobile International Ltd</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

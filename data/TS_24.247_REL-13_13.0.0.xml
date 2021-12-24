@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.247:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-d00.zip">
   <front>
     <title>Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3</title>
+    <author fullname="WEI, haitao">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

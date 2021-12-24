@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 11.10-4:R99/1.0.0">
   <front>
     <title>Mobile Station (MS) conformance specification; Part 4: Subscriber Identity Module (SIM) application toolkit conformance test specification</title>
+    <author fullname="WILLENBRINK, Udo">
+      <organization>Comprion GmbH</organization>
+    </author>
     <workgroup>C6</workgroup>
     <workgroup>G2, G3new</workgroup>
     <workgroup>SMG07</workgroup>

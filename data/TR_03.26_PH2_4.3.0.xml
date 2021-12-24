@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 03.26:Ph2/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.26/0326-430.zip">
   <front>
     <title>Multiband operation of GSM/DCS 1800 by a single operator</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>G1</workgroup>
     <workgroup>CP</workgroup>
     <workgroup>SMG02  /  SMG03</workgroup>

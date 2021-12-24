@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.791:Rel-16/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.791/23791-200.zip">
   <front>
     <title>Study of enablers for Network Automation for 5G</title>
+    <author fullname="WU, Xiaobo">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

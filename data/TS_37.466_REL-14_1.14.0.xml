@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 37.466:Rel-14/1.14.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.466/37466-1e0.zip">
   <front>
     <title>Iuant interface: Application part</title>
+    <author fullname="REININGER, Philippe">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

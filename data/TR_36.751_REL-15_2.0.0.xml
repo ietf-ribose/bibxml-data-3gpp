@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.751:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.751/36751-200.zip">
   <front>
     <title>FDD operating band in the L-band for LTE</title>
+    <author fullname="ANDO, Kei">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>R4</workgroup>
     <workgroup>R3</workgroup>
   </front>

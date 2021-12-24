@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.414:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.414/36414-100.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 data transport</title>
+    <author fullname="REININGER, Philippe">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.306:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.306/36306-800.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio access capabilities</title>
+    <author fullname="CHOI, Hyung-Nam">
+      <organization>Motorola Mobility UK Ltd.</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

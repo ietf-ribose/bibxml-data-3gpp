@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.292:Rel-8/0.3.0">
   <front>
     <title>IP Multimedia Subsystem (IMS) centralized services; Stage 2</title>
+    <author fullname="BENNETT, Andy">
+      <organization>Cisco Systems Belgium</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 41.101:Rel-12/12.0.1" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.101/41101-c01.zip">
   <front>
     <title>Technical Specifications and Technical Reports for a GERAN-based 3GPP system</title>
+    <author fullname="FIRMIN, Frederic">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>SP</workgroup>
   </front>
 </reference>

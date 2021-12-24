@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 32.111:R99/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.111/32111-110.zip">
   <front>
     <title>3G Fault Management</title>
+    <author fullname="CICCHITTO, Gaetano">
+      <organization>Nokia Siemens Networks S.p.A</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S5</workgroup>
   </front>
 </reference>

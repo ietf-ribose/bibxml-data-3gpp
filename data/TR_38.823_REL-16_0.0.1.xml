@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.823:Rel-16/0.0.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.823/38823-001.zip">
   <front>
     <title>Study of further enhancement for disaggregated gNB</title>
+    <author fullname="SEN, Xu">
+      <organization>China Telecom Corporation Ltd.</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.367:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.367/25367-930.zip">
   <front>
     <title>Mobility procedures for Home Node B (HNB); Overall description; Stage 2</title>
+    <author fullname="PICA, Francesco">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
   </front>

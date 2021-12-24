@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.79:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.79/0379-520.zip">
   <front>
     <title>Support of Optimal Routeing phase 1; Stage 2</title>
+    <author fullname="RUSSELL, Nick">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4  /  SMG03?</workgroup>
   </front>
 </reference>

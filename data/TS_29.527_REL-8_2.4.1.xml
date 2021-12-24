@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.527:Rel-8/2.4.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.527/29527-241.zip">
   <front>
     <title>TISPAN; Endorsement of the SIP-ISUP Interworking between the IP Multimedia (IM) Core Network (CN) subsystem and Circuit Switched (CS) networks [3GPP TS 29.163 (Release 7), modified]</title>
+    <author fullname="KREIPL, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.927:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.927/25927-a00.zip">
   <front>
     <title>Solutions for energy saving within UTRA Node B</title>
+    <author fullname="BHAT, Prakash">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

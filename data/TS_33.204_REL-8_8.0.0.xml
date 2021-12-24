@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 33.204:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.204/33204-800.zip">
   <front>
     <title>3G Security; Network Domain Security (NDS); Transaction Capabilities Application Part (TCAP)  user security</title>
+    <author fullname="JERICHOW, Anja">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

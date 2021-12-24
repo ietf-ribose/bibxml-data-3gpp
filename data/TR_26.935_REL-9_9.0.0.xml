@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 26.935:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.935/26935-900.zip">
   <front>
     <title>Packet Switched (PS) conversational multimedia applications; Performance characterisation of default codecs</title>
+    <author fullname="JUNG, Kyunghun">
+      <organization>Samsung Electronics Co., Ltd</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

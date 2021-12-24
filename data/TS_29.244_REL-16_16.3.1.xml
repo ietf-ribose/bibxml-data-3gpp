@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.244:Rel-16/16.3.1" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.244/29244-g31.zip">
   <front>
     <title>Interface between the Control Plane and the User Plane nodes</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

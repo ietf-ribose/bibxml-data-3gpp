@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 28.804:Rel-16/0.7.0">
   <front>
     <title>Telecommunication management; Study on tenancy concept in 5G networks and network slicing management</title>
+    <author fullname="ZHU, Lei">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

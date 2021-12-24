@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 42.017:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.017/42017-400.zip">
   <front>
     <title>Subscriber Identity Module (SIM); Functional characteristics</title>
+    <author fullname="PHAN, Ly Thanh">
+      <organization>Gemalto N.V.</organization>
+    </author>
     <workgroup>C6</workgroup>
     <workgroup>S1</workgroup>
     <workgroup>SMG09  /  SMG01</workgroup>

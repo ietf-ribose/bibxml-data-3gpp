@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 06.01:Ph2/4.0.7" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.01/0601-407.zip">
   <front>
     <title>Full Rate Speech Processing Functions</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

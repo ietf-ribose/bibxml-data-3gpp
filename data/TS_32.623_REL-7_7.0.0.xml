@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.623:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.623/32623-700.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

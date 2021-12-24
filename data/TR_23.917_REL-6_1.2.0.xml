@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 23.917:Rel-6/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.917/23917-120.zip">
   <front>
     <title>Dynamic policy control enhancements for end-to-end Quality of Service (QoS)</title>
+    <author fullname="MOUSSET, Claire">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

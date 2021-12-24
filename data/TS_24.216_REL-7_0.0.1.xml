@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.216:Rel-7/0.0.1">
   <front>
     <title>Communication Continuity Management Object (MO)</title>
+    <author fullname="LU, Yang">
+      <organization>Vodafone GmbH</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

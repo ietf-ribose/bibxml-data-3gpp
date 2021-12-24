@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.841:Rel-12/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.841/32841-150.zip">
   <front>
     <title>Telecommunication management; Study on Wireless Local Area Network (WLAN) management</title>
+    <author fullname="CHOU, Joey">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

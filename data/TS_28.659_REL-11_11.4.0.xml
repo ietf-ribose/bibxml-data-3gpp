@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.659:Rel-11/11.4.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.659/28659-b40.zip">
   <front>
     <title>Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

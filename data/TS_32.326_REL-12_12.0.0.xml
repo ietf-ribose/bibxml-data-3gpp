@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.326:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.326/32326-c00.zip">
   <front>
     <title>Telecommunication management; Test management Integration Reference Point (IRP): Solution Set (SS) definitions</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

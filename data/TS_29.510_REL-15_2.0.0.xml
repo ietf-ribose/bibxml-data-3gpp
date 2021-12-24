@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.510:Rel-15/2.0.0">
   <front>
     <title>5G System; Network function repository services; Stage 3</title>
+    <author fullname="DE GREGORIO, Jesus">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

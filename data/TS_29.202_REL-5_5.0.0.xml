@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.202:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.202/29202-500.zip">
   <front>
     <title>Signalling System No. 7 (SS7) signalling transport in core network; Stage 3</title>
+    <author fullname="DE GREGORIO, Jesus">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

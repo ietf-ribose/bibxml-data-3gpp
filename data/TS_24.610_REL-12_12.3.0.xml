@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.610:Rel-12/12.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.610/24610-c30.zip">
   <front>
     <title>Communication HOLD (HOLD) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification</title>
+    <author fullname="AXELL, Jörgen">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

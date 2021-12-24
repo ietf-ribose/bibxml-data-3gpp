@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 24.879:Rel-7/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.879/24879-110.zip">
   <front>
     <title>Combining Circuit-Switched (CS) calls and IP Multimedia Subsystem  (IMS) sessions</title>
+    <author fullname="DAWES, Peter">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.818:Rel-7/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.818/23818-011.zip">
   <front>
     <title>Optimisations and Enhancements for Realtime IMS Communication</title>
+    <author fullname="TERRILL, Stephen">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

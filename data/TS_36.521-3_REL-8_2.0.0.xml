@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.521-3:Rel-8/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.521-3/36521-3-200.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Radio Resource Management (RRM) conformance testing</title>
+    <author fullname="VORA, Mayur">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

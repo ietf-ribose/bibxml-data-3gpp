@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.444:Rel-9/9.0.3" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.444/25444-903.zip">
   <front>
     <title>Iuh data transport</title>
+    <author fullname="GODIN, Philippe">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

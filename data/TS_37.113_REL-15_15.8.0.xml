@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 37.113:Rel-15/15.8.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.113/37113-f80.zip">
   <front>
     <title>NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) Electromagnetic Compatibility (EMC)</title>
+    <author fullname="SKOLD, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
     <workgroup>RP</workgroup>
   </front>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 29.061:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.061/29061-b10.zip">
   <front>
     <title>Interworking between the Public Land Mobile Network (PLMN) supporting packet based services and Packet Data Networks (PDN)</title>
+    <author fullname="LIANG, Tianmei">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N3</workgroup>
   </front>
 </reference>

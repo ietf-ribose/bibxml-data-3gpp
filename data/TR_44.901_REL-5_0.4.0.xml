@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 44.901:Rel-5/0.4.0">
   <front>
     <title>GSM/EDGE External Network Assisted Cell Change (NACC)</title>
+    <author fullname="BACKLUND, Ingemar">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

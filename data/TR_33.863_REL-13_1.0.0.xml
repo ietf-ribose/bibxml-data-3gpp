@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.863:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.863/33863-100.zip">
   <front>
     <title>Study on battery efficient security for very low throughput Machine Type Communication (MTC) devices</title>
+    <author fullname="EVANS, Tim P.">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

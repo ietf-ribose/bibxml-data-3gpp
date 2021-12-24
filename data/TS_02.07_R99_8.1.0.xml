@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 02.07:R99/8.1.0">
   <front>
     <title>Mobile Station (MS) Features</title>
+    <author fullname="TOFABI, Amin">
+      <organization>SONY</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>
 </reference>

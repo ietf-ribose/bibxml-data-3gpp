@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 22.011:Rel-14/14.5.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.011/22011-e50.zip">
   <front>
     <title>Service accessibility</title>
+    <author fullname="LOTTIN, Philippe">
+      <organization>Orange</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the service access procedures as presented to the user. The document contains definitions and procedures are provided for international roaming, national roaming and regionally provided service. These are mandatory in relation to the technical realization of the UE.</abstract>
   </front>

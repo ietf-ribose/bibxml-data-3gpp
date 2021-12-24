@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 49.031:Rel-6/6.3.0" target="http://www.3gpp.org/ftp/Specs/archive/49_series/49.031/49031-630.zip">
   <front>
     <title>Location Services (LCS); Base Station System Application Part LCS Extension (BSSAP-LE)</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02a</workgroup>
   </front>
 </reference>

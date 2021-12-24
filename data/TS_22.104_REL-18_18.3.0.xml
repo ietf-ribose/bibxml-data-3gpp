@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 22.104:Rel-18/18.3.0">
+  <front>
+    <title>Service requirements for cyber-physical control applications in vertical domains</title>
+    <author fullname="WALEWSKI, Joachim">
+      <organization>Siemens AG</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

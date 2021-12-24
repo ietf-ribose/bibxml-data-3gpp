@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.874:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.874/33874-040.zip">
   <front>
     <title>Study on enhanced security for Phase 2 network slicing</title>
+    <author fullname="LEI, Zander (Zhongding)">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

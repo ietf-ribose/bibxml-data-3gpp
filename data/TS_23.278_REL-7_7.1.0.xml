@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.278:Rel-7/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.278/23278-710.zip">
   <front>
     <title>Customised Applications for Mobile network Enhanced Logic (CAMEL) Phase 4; Stage 2; IM CN Interworking</title>
+    <author fullname="BERRY, Nigel. H">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N2</workgroup>
   </front>
 </reference>

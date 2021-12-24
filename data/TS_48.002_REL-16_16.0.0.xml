@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 48.002:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/48_series/48.002/48002-g00.zip">
   <front>
     <title>Base Station System - Mobile-services Switching Centre (BSS - MSC) interface; Interface principles</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

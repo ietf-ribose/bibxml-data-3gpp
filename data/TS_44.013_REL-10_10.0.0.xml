@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 44.013:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.013/44013-a00.zip">
   <front>
     <title>Performance requirements on the mobile radio interface</title>
+    <author fullname="LU, Yang">
+      <organization>Vodafone GmbH</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

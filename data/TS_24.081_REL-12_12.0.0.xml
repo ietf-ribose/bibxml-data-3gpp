@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 24.081:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.081/24081-c00.zip">
   <front>
     <title>Line Identification supplementary services; Stage 3</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4 (ex NSS)</workgroup>
   </front>
 </reference>

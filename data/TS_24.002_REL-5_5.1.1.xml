@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 24.002:Rel-5/5.1.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.002/24002-511.zip">
   <front>
     <title>GSM - UMTS Public Land Mobile Network (PLMN) Access Reference Configuration</title>
+    <author fullname="JOHANSSON, Kaj">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1</workgroup>
   </front>
 </reference>

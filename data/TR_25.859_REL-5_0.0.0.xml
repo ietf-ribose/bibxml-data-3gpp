@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.859:Rel-5/0.0.0">
   <front>
     <title>User Equipment (UE) positioning enhancements for 1.28 Mcps TDD</title>
+    <author fullname="MEI, Xiaohua">
+      <organization>CATT</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
   </front>

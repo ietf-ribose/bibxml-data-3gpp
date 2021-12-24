@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 08.04:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.04/0804-600.zip">
   <front>
     <title>Base Station System - Mobile Services Switching Centre (BSS-MSC) Interface Layer 1 Specification</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>G2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

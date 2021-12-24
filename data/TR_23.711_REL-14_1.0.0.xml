@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.711:Rel-14/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.711/23711-100.zip">
   <front>
     <title>Enhancements of dedicated core networks selection mechanism</title>
+    <author fullname="GUSTAFSSON, Roland">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

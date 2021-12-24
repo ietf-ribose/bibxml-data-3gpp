@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.032:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.032/23032-400.zip">
   <front>
     <title>Universal Geographical Area Description (GAD)</title>
+    <author fullname="HIETALAHTI, Hannu">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2</workgroup>
   </front>
 </reference>

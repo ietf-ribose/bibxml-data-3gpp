@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.532:Rel-16/16.6.0" target="https://www.3gpp.org/ftp//Specs/archive/28_series/28.532/28532-g60.zip">
   <front>
     <title>Management and orchestration; Generic management services</title>
+    <author fullname="ZHANG, Kai">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

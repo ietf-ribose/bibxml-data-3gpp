@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 37.145-2:Rel-14/14.11.0" target="https://www.3gpp.org/ftp//Specs/archive/37_series/37.145-2/37145-2-eb0.zip">
   <front>
     <title>Active Antenna System (AAS) Base Station (BS) conformance testing;  Part 2: radiated conformance testing</title>
+    <author fullname="KYBETT, Richard">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

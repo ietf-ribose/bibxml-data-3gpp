@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 46.081:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.081/46081-c00.zip">
   <front>
     <title>Discontinuous Transmission (DTX) for Enhanced Full Rate (EFR) speech traffic channels</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

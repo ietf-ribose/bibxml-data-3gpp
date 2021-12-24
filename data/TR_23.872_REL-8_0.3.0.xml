@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.872:Rel-8/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.872/23872-030.zip">
   <front>
     <title>Study on architecture of IP Multimedia Subsystem (IMS) based Customized Alerting Tone (CAT)</title>
+    <author fullname="WANG, Jing">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

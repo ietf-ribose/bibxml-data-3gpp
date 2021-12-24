@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.486:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.486/29486-h10.zip">
   <front>
     <title>V2X Application Enabler (VAE) Services; Stage 3</title>
+    <author fullname="ZHOU, Xiaoyun">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

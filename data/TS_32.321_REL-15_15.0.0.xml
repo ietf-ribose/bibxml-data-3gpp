@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.321:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.321/32321-f00.zip">
   <front>
     <title>Telecommunication management; Test management Integration Reference Point (IRP); Requirements</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

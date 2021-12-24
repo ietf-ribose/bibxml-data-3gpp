@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.71:R98/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.71/0371-730.zip">
   <front>
     <title>Location Services (LCS); Functional description; Stage 2</title>
+    <author fullname="BROOK, Richard">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2  /  SMG12</workgroup>
   </front>
 </reference>

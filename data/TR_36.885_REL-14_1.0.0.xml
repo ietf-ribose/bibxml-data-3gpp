@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.885:Rel-14/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.885/36885-100.zip">
   <front>
     <title>Study on LTE-based V2X services</title>
+    <author fullname="SEO, Hanbyul">
+      <organization>LG Electronics Inc.</organization>
+    </author>
     <workgroup>R1</workgroup>
     <workgroup>R2, R3</workgroup>
   </front>

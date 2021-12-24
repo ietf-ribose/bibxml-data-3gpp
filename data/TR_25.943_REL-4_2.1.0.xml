@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 25.943:Rel-4/2.1.0">
   <front>
     <title>Deployment aspects</title>
+    <author fullname="SKOLD, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R4</workgroup>
   </front>
 </reference>

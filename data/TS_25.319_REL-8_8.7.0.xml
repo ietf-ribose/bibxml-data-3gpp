@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.319:Rel-8/8.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.319/25319-870.zip">
   <front>
     <title>Enhanced uplink; Overall description; Stage 2</title>
+    <author fullname="SHRESTHA, Bharat">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
   </front>

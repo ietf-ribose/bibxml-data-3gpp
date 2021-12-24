@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.790:Rel-15/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.790/36790-010.zip">
   <front>
     <title>LAA/eLAA for the “CBRS” 3.5GHz band in the United States</title>
+    <author fullname="GRANT, Marc">
+      <organization>AT&amp;T GNS Belgium SPRL</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

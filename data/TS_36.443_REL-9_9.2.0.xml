@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.443:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.443/36443-920.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); M2 Application Protocol (M2AP)</title>
+    <author fullname="XU, Steven">
+      <organization>Nokia Solutions &amp;Network Korea</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

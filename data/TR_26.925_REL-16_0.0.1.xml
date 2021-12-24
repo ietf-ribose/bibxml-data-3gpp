@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.925:Rel-16/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.925/26925-001.zip">
   <front>
     <title>Typical traffic characteristics of media services on 3GPP networks</title>
+    <author fullname="GABIN, Frederic">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.421:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.421/29421-700.zip">
   <front>
     <title>TISPAN; NGN Release 1; Endorsement of 3GPP TS 29.162 Interworking between IM CN Sub-system and IP networks</title>
+    <author fullname="KREIPL, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

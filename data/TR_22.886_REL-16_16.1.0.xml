@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.886:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.886/22886-g10.zip">
   <front>
     <title>Study on enhancement of 3GPP support for 5G V2X services</title>
+    <author fullname="CHUN, SungDuck">
+      <organization>LG Electronics France</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.883:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.883/23883-900.zip">
   <front>
     <title>Study on enhancements to IMS Centralized Services (ICS)</title>
+    <author fullname="BENNETT, Andy">
+      <organization>Cisco Systems Belgium</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.160:Rel-17/17.0.0" target="https://www.3gpp.org/ftp//Specs/archive/32_series/32.160/32160-h00.zip">
   <front>
     <title>Management and orchestration; Management service template</title>
+    <author fullname="GROENENDIJK, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

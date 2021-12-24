@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.558:Rel-17/0.1.2" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.558/23558-012.zip">
   <front>
     <title>Architecture for enabling Edge Applications</title>
+    <author fullname="GUPTA, Nishant">
+      <organization>Samsung Electronics Co., Ltd</organization>
+    </author>
     <workgroup>S6</workgroup>
   </front>
 </reference>

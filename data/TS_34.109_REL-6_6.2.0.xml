@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 34.109:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.109/34109-620.zip">
   <front>
     <title>Terminal logical test interface; Special conformance testing functions</title>
+    <author fullname="EKLOF, Cecilia">
+      <organization>Ericsson India Private Limited</organization>
+    </author>
     <workgroup>R2</workgroup>
     <workgroup>R5</workgroup>
     <workgroup>T1 / R2</workgroup>

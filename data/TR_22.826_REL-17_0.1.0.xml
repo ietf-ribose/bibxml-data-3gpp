@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.826:Rel-17/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.826/22826-010.zip">
   <front>
     <title>Study on communication services for critical medical applications</title>
+    <author fullname="LAGRANGE, Mathieu">
+      <organization>B-Com</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

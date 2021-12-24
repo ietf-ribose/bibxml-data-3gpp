@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 04.69:R96/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.69/0469-530.zip">
   <front>
     <title>Broadcast Call Control (BCC) protocol</title>
+    <author fullname="LAUSTER, Reinhard">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

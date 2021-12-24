@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.830:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.830/32830-200.zip">
   <front>
     <title>Telecommunication management; Study on version handling over Itf-N</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

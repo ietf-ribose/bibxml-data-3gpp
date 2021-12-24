@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.682:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.682/28682-020.zip">
   <front>
     <title>Telecommunication management; Wireless Local Area Network (WLAN) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
+    <author fullname="CHOU, Joey">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

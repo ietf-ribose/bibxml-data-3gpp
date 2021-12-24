@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.521-1:Rel-16/16.8.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-1/38521-1-g80.zip">
   <front>
     <title>NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 1: Range 1 standalone</title>
+    <author fullname="SHI, Yu">
+      <organization>China Unicom</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

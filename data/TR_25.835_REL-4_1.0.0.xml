@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 25.835:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.835/25835-100.zip">
   <front>
     <title>Report on hybrid ARQ type II/III</title>
+    <author fullname="SITTE, Armin">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>R2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R2</workgroup>
   </front>
 </reference>

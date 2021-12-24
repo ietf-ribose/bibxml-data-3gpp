@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.855:Rel-16/1.0.4" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.855/38855-104.zip">
   <front>
     <title>Study on NR positioning support</title>
+    <author fullname="KHORYAEV, Alexey">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>R1</workgroup>
     <workgroup>R2, R3</workgroup>
   </front>

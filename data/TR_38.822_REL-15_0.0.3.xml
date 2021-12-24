@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.822:Rel-15/0.0.3" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.822/38822-003.zip">
   <front>
     <title>NR; User Equipment (UE) feature list</title>
+    <author fullname="LIM, Seau Sian">
+      <organization>Intel K.K.</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

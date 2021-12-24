@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.117:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.117/24117-200.zip">
   <front>
     <title>TV service configuration Management Object (MO)</title>
+    <author fullname="CATOVIC, Amer">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

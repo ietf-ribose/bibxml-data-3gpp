@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.983:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.983/22983-800.zip">
   <front>
     <title>Services alignment and migration</title>
+    <author fullname="FRIEL, Chris">
+      <organization>Telefonica Germany GmbH</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

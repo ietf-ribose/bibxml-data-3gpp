@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 44.021:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.021/44021-500.zip">
   <front>
     <title>Rate adaption on the Mobile Station - Base Station System (MS - BSS) interface</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

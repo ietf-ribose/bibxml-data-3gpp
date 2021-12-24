@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.888:Rel-11/1.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.888/23888-170.zip">
   <front>
     <title>System improvements for Machine-Type Communications (MTC)</title>
+    <author fullname="JAIN, Puneet">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

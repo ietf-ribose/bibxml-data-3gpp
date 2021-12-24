@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.800:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.800/22800-200.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) subscription and access scenarios</title>
+    <author fullname="FRANK, Robert">
+      <organization>TeliaSonera AB</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

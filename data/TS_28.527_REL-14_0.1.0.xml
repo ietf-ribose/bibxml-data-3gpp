@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.527:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.527/28527-010.zip">
   <front>
     <title>Telecommunication management; Life Cycle Management (LCM) for mobile networks that include virtualized network functions; Stage 2 </title>
+    <author fullname="ANDRIANOV, Anatoly">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

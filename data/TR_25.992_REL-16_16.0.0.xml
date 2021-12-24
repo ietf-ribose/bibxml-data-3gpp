@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.992:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.992/25992-g00.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); UTRAN/GERAN requirements</title>
+    <author fullname="PIRSKANEN, Juho">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>RP</workgroup>
   </front>

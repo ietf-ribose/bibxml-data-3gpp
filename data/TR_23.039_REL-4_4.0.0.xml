@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 23.039:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.039/23039-400.zip">
   <front>
     <title>Interface Protocols for the connection of Short Message Service Centers (SMSCs) to Short Message Entities (SMEs)</title>
+    <author fullname="BURBIDGE, Richard">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2</workgroup>
   </front>
 </reference>

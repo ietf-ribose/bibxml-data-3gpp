@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.507:Rel-8/0.3.2">
   <front>
     <title>TISPAN; Voice Call Continuity (VCC); Stage 2 [3GPP TS 23.206 Release 7, modified]</title>
+    <author fullname="BERTENYI, Balazs">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

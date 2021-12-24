@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.167:Rel-11/11.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.167/23167-b50.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) emergency sessions</title>
+    <author fullname="WONG, Curt">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

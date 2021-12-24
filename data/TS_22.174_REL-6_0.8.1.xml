@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.174:Rel-6/0.8.1">
   <front>
     <title>Push Service; Service aspects; Stage 1</title>
+    <author fullname="MUSTAPHA, Mona">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 25.103:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.103/25103-200.zip">
   <front>
     <title>RF parameters in support of RRM</title>
+    <author fullname="FRANCESCHI, Olle">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R4</workgroup>
   </front>
 </reference>

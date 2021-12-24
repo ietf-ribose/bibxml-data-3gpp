@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.162:Rel-10/10.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.162/29162-a50.zip">
   <front>
     <title>Interworking between the IM CN subsystem and IP networks</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

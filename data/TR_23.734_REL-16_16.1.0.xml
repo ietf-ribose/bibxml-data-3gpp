@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.734:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.734/23734-g10.zip">
   <front>
     <title>Study on enhancement of 5G System (5GS) for vertical and Local Area Network (LAN) services</title>
+    <author fullname="CHANDRAMOULI, Devaki">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

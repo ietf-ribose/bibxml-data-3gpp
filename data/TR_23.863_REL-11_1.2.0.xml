@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.863:Rel-11/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.863/23863-120.zip">
   <front>
     <title>Support of Short Message Service (SMS) in IP Multimedia Subsystem (IMS) without Mobile Station International ISDN Number (MSISDN); Stage 2</title>
+    <author fullname="WONG, Curt">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

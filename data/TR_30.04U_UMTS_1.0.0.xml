@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 30.04U:UMTS/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.04U/3004U-100.zip">
   <front>
     <title>Definition of the limited number of UTRA concepts</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>GP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

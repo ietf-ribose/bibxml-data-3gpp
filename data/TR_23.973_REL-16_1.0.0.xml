@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.973:Rel-16/1.0.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.973/23973-100.zip">
   <front>
     <title>User data interworking, coexistence and migration</title>
+    <author fullname="JIANG, Yi">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

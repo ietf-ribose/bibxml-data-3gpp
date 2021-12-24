@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 27.005:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.005/27005-501.zip">
   <front>
     <title>Use of Data Terminal Equipment - Data Circuit terminating Equipment (DTE - DCE) interface for Short Message Service (SMS) and Cell Broadcast Service (CBS)</title>
+    <author fullname="AGHILI, Behrouz">
+      <organization>InterDigital Communications</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes three interface protocols for control of SMS functions within a GSM mobile telephone from a remote terminal via an asynchronous interface.</abstract>
   </front>

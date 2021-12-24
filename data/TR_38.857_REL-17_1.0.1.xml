@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.857:Rel-17/1.0.1">
   <front>
     <title>Study on NR positioning enhancements</title>
+    <author fullname="MUNIER, Florent">
+      <organization>Ericsson Inc.</organization>
+    </author>
     <workgroup>R1</workgroup>
     <workgroup>R2</workgroup>
   </front>

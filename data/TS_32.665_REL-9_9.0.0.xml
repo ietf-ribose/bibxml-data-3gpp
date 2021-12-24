@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.665:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.665/32665-900.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Kernel CM Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions</title>
+    <author fullname="ZHANG, Kai">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

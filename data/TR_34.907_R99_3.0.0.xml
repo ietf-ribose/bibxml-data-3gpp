@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 34.907:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.907/34907-300.zip">
   <front>
     <title>Report on electrical safety requirements and regulations</title>
+    <author fullname="TOUFIK, Issam">
+      <organization>NGComm-Solutions</organization>
+    </author>
     <workgroup>R4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2</workgroup>
   </front>
 </reference>

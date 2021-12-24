@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.454:Rel-8/2.1.0">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services; Protocol specification Closed User Group (CUG)</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

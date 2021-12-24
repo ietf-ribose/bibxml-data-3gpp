@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.182:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.182/24182-930.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) Customized Alerting Tones (CAT); Protocol specification</title>
+    <author fullname="LAUSTER, Reinhard">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.423:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.423/36423-950.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 Application Protocol (X2AP)</title>
+    <author fullname="QIU, Liwei">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

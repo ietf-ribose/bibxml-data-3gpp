@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.845:Rel-16/0.4.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.845/33845-040.zip">
   <front>
     <title>Study on storage and transport of 5G Core (5GC) security parameters for Authentication Credential Repository Processing Function (ARPF) authentication</title>
+    <author fullname="EVANS, Tim P.">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 43.130:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.130/43130-e00.zip">
   <front>
     <title>GSM/EDGE Iur-g interface; Stage 2</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

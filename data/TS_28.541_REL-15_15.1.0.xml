@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.541:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.541/28541-f10.zip">
   <front>
     <title>Management and orchestration; 5G Network Resource Model (NRM); Stage 2 and stage 3</title>
+    <author fullname="PING, Jing">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

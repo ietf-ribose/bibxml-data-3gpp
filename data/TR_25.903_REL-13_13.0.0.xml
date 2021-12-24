@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.903:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.903/25903-d00.zip">
   <front>
     <title>Continuous connectivity for packet data users</title>
+    <author fullname="BAKER, Matthew">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1, R2, R4</workgroup>
   </front>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.309:Rel-17/0.5.0">
   <front>
     <title>Bootstrapping Server Function (GBA's BSF) Services </title>
+    <author fullname="DE GREGORIO, Jesus">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

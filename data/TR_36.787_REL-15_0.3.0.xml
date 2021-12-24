@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.787:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.787/36787-030.zip">
   <front>
     <title>Vehicle-to-Everything (V2X) new band combinations</title>
+    <author fullname="LIM, Suhwan">
+      <organization>LG Electronics Inc.</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

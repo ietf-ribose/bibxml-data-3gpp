@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.876:Rel-6/1.1.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.876/25876-111.zip">
   <front>
     <title>Multiple Input Multiple Output (MIMO) antennae in UTRA</title>
+    <author fullname="HUANG, Howard">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

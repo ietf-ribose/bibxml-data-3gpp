@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.314:Rel-16/16.3.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.314/38314-g30.zip">
   <front>
     <title>NR; Layer 2 measurements</title>
+    <author fullname="CHEN, Ningyu">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>R2</workgroup>
     <workgroup>R3, R4</workgroup>
   </front>

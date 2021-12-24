@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 28.815:Rel-17/1.2.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.815/28815-120.zip">
   <front>
     <title>Study on charging aspects of edge computing</title>
+    <author fullname="YAO, Yizhi">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

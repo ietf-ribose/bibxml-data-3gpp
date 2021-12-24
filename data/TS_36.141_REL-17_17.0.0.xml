@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.141:Rel-17/17.0.0" target="https://www.3gpp.org/ftp//Specs/archive/36_series/36.141/36141-h00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS) conformance testing</title>
+    <author fullname="NAKAMURA, Takaharu">
+      <organization>Fujitsu Limited</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.741:Rel-14/1.0.3">
   <front>
     <title>Study on further enhancements to Coordinated Multi-Point (CoMP) operation for LTE</title>
+    <author fullname="ALEXEI, Davydov">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>R1</workgroup>
   </front>
 </reference>

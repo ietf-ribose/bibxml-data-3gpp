@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 10.71:R98/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.71/1071-100.zip">
   <front>
     <title>Project scheduling and open issues:Location services (LCS)</title>
+    <author fullname="GARAPATY, Sonia">
+      <organization>Nortel Networks (USA)</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1  /  SMG01</workgroup>
   </front>
 </reference>

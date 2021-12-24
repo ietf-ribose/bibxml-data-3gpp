@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.787:Rel-15/0.0.0">
   <front>
     <title>Study on encrypted traffic detection and verification</title>
+    <author fullname="XU, Yang">
+      <organization>China Unicom</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

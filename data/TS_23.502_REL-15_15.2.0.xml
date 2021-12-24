@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.502:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.502/23502-f20.zip">
   <front>
     <title>Procedures for the 5G System (5GS)</title>
+    <author fullname="HEDMAN, Peter">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

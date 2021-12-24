@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 29.415:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.415/29415-f00.zip">
   <front>
     <title>Core network Nb interface user plane protocols</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.009:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.009/23009-a20.zip">
   <front>
     <title>Handover procedures</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
     <workgroup>N1</workgroup>
   </front>

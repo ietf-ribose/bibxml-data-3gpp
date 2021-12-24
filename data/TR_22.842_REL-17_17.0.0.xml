@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.842:Rel-17/17.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.842/22842-h00.zip">
   <front>
     <title>Study on Network Controlled Interactive Service (NCIS) in the 5G System (5GS)</title>
+    <author fullname="NING, Yang">
+      <organization>Beijing OPPO Com. corp., ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

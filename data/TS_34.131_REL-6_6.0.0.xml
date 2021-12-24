@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 34.131:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.131/34131-600.zip">
   <front>
     <title>Test Specification for C-language binding to (Universal) Subscriber Interface Module ((U)SIM) Application Programming Interface (API)</title>
+    <author fullname="KRUSE, Heiko">
+      <organization>Morpho Cards GmbH</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
     <abstract>This document covers the minimum characteristics considered necessary in order to provide compliance to 3GPP TS 31.131 "'C'-language binding to (U)SIM API".</abstract>
   </front>
 </reference>

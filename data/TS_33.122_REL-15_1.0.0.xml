@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 33.122:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.122/33122-100.zip">
   <front>
     <title>Security aspects of Common API Framework (CAPIF) for 3GPP northbound APIs</title>
+    <author fullname="RAJADURAI, Rajavelsamy">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

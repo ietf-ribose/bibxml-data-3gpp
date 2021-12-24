@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 55.217:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.217/55217-620.zip">
   <front>
     <title>3G Security; Specification of the A5/3 encryption algorithms for GSM and ECSD, and the GEA3 encryption algorithm for GPRS; Document 2: Implementors' test data</title>
+    <author fullname="SAHLIN, Bengt">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

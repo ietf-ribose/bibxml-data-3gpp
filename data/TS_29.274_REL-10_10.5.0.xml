@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.274:Rel-10/10.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-a50.zip">
   <front>
     <title>3GPP Evolved Packet System (EPS); Evolved General Packet Radio Service (GPRS) Tunnelling Protocol for Control plane (GTPv2-C); Stage 3</title>
+    <author fullname="LANDAIS, Bruno">
+      <organization>Nokia France</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

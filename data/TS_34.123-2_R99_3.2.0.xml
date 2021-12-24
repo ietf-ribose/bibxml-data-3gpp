@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 34.123-2:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-2/34123-2-320.zip">
   <front>
     <title>User Equipment (UE) conformance specification; Part 2: Implementation conformance statement (ICS) proforma specification</title>
+    <author fullname="GENOUD, Olivier">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>R5</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T1</workgroup>
     <abstract>This document provides the Implementation Conformance Statement (ICS) proforma for 3rd Generation User Equipment (UE), in compliance with the relevant requirements, and in accordance with the relevant guidance given in ISO/IEC 9646-7 and ETS 300 406. This document also specifies a recommended applicability statement for the test cases included in TS 34.123-1. These applicability statements are based on the features implemented in the UE.</abstract>
   </front>

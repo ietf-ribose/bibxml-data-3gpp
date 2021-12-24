@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.843:Rel-12/1.0.1">
   <front>
     <title>Study on LTE device  to device proximity services; Radio aspects</title>
+    <author fullname="PATIL, Shailesh">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
     <workgroup>R1</workgroup>
   </front>
 </reference>

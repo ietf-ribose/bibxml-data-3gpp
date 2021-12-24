@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.868:Rel-11/0.6.3" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.868/37868-063.zip">
   <front>
     <title>RAN Improvements for Machine-type Communications</title>
+    <author fullname="GAO, Jeff">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>R2</workgroup>
     <workgroup>R1, R3, R4</workgroup>
   </front>

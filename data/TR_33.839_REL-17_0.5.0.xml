@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.839:Rel-17/0.5.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.839/33839-050.zip">
   <front>
-    <title>Study on security aspects of enhancement of support for edge computing in 5G Core (5GC)</title>
+    <title>Study on security aspects of enhancement of support for edge computing in the 5G Core (5GC)</title>
+    <author fullname="ZHANG, Bo">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.622-2:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.622-2/32622-2-200.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Part 2: UTRAN network resources Integration Reference Point (IRP): Network Resource Model (NRM)</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

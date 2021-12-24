@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.88:Ph2/4.6.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.88/0388-461.zip">
   <front>
     <title>Call Barring (CB) supplementary services; Stage 2</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4  /  SMG03?</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 51.010-3:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-3/51010-3-600.zip">
   <front>
     <title>Mobile Station (MS) conformance specification; Part 3: Layer3 (L3) Abstract Test Suite (ATS)</title>
+    <author fullname="GENOUD, Olivier">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>R5</workgroup>
     <workgroup>CP, S1</workgroup>
     <workgroup>SMG07 / SMG01 / SMG02 / SMG03 / SMG04 / SMG09</workgroup>

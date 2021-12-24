@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.921:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.921/25921-600.zip">
   <front>
     <title>Guidelines and principles for protocol description and error handling</title>
+    <author fullname="BARRETO, Luis">
+      <organization>NOKIA UK R&amp;D Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

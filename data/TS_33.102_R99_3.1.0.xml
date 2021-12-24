@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 33.102:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.102/33102-310.zip">
   <front>
     <title>3G security; Security architecture</title>
+    <author fullname="JERICHOW, Anja">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>S3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S3</workgroup>
     <abstract>Provides a specification of all security mechanisms and protocols, except algorithms.</abstract>
   </front>

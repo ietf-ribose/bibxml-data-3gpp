@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.282:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.282/22282-e00.zip">
   <front>
     <title>Mission Critical (MC) data</title>
+    <author fullname="VILLEBRUN, Emmanuelle">
+      <organization>MINISTERE DE L'INTERIEUR</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

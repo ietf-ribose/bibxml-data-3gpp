@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 21.917:Rel-17/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/21_series/21.917/21917-010.zip">
   <front>
     <title>Release 17 Description; Summary of Rel-17 Work Items</title>
+    <author fullname="SULTAN, Alain">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>SP</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.234:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.234/29234-100.zip">
   <front>
     <title>3GPP system to Wireless Local Area Network (WLAN) interworking; Stage 3</title>
+    <author fullname="KÅLL, Jan">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

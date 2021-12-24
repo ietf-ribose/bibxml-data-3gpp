@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.211:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.211/25211-720.zip">
   <front>
     <title>Physical channels and mapping of transport channels onto physical channels (FDD)</title>
+    <author fullname="PARKVALL, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
     <workgroup>R1</workgroup>

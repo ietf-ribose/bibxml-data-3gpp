@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.944:Rel-5/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.944/22944-200.zip">
   <front>
     <title>Report on service requirements for UE functionality split</title>
+    <author fullname="WU, Jian (Jim) Jun">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

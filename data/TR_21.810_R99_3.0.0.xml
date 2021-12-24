@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 21.810:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.810/21810-300.zip">
   <front>
     <title>Report on multi-mode UE issues; ongoing work and identified additional work</title>
+    <author fullname="RODERMUND, Friedhelm">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>T2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2</workgroup>
   </front>
 </reference>

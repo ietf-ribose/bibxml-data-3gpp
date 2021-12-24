@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 45.001:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.001/45001-430.zip">
   <front>
     <title>GSM/EDGE Physical layer on the radio path; General description</title>
+    <author fullname="CHEN, Jun">
+      <organization>HiSilicon Technologies Co. Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

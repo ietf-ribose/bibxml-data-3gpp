@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.304:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-800.zip">
   <front>
     <title>User Equipment (UE) procedures in idle mode and procedures for cell reselection in connected mode</title>
+    <author fullname="CHEN, Jun">
+      <organization>HiSilicon Technologies Co. Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 05.90:Ph2/4.2.0">
   <front>
     <title>GSM Electromagnetic Compatibility (EMC) considerations</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

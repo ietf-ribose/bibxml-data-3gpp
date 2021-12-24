@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 29.209:Rel-6/2.0.1">
   <front>
     <title>Policy control over Gq interface</title>
+    <author fullname="FERNANDEZ, Susana">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

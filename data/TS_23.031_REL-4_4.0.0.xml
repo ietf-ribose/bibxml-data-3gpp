@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 23.031:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.031/23031-400.zip">
   <front>
     <title>3G Security; Fraud Information Gathering System (FIGS); Technical realization; Stage 2</title>
+    <author fullname="SAHLIN, Bengt">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

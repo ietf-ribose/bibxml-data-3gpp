@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.524:Rel-15/15.1.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.524/29524-f10.zip">
   <front>
     <title>5G System; Cause codes mapping between 5GC interfaces; Stage 3</title>
+    <author fullname="BOURNELLE, Julien">
+      <organization>Orange</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

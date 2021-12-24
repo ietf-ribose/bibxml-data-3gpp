@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.331:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.331/32331-g00.zip">
   <front>
     <title>Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); Requirements</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

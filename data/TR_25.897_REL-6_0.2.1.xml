@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 25.897:Rel-6/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.897/25897-021.zip">
   <front>
     <title>Feasibility study on the evolution of UTRAN architecture</title>
+    <author fullname="KEKKI, Sami">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

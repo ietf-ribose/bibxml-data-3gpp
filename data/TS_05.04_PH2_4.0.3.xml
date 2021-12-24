@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 05.04:Ph2/4.0.3" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.04/0504-403.zip">
   <front>
     <title>Modulation</title>
+    <author fullname="SEBIRE, Benoist">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

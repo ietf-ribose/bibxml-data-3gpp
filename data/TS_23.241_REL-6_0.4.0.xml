@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.241:Rel-6/0.4.0">
   <front>
     <title>3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)</title>
+    <author fullname="KOZA, Yvette">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>N4</workgroup>
     <workgroup>CP</workgroup>
   </front>

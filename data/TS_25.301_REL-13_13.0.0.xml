@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.301:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.301/25301-d00.zip">
   <front>
     <title>Radio interface protocol architecture</title>
+    <author fullname="VAN DER ZEE, Martin">
+      <organization>Nanjing Ericsson Panda Com Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

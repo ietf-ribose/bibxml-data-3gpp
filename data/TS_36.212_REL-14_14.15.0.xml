@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.212:Rel-14/14.15.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.212/36212-ef0.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Multiplexing and channel coding</title>
+    <author fullname="CLASSON, Brian">
+      <organization>Futurewei Technologies</organization>
+    </author>
     <workgroup>R1</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.324:R99/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.324/25324-010.zip">
   <front>
     <title>Broadcast/Multicast Control (BMC)</title>
+    <author fullname="PICA, Francesco">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.333:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.333/32333-700.zip">
   <front>
     <title>Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <author fullname="LI, Gang">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

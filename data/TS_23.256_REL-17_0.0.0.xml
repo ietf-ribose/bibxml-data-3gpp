@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.256:Rel-17/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.256/23256-000.zip">
   <front>
     <title>Support of Uncrewed Aerial Systems (UAS) connectivity, identification and tracking; Stage 2</title>
+    <author fullname="STEFANO, Faccin">
+      <organization>QUALCOMM Europe Inc. - Italy</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 28.805:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.805/28805-g10.zip">
   <front>
     <title>Telecommunication management; Study on management aspects of communication services </title>
+    <author fullname="GROENENDIJK, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

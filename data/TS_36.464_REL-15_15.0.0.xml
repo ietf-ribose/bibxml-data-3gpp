@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.464:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.464/36464-f00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Wireless Local Area Network (WLAN); Xw data transport</title>
+    <author fullname="SIROTKIN, Sasha">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

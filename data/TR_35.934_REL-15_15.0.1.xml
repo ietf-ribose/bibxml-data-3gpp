@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 35.934:Rel-15/15.0.1" target="http://www.3gpp.org/ftp/Specs/archive/35_series/35.934/35934-f01.zip">
   <front>
     <title>Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 4: Report on the design and evaluation</title>
+    <author fullname="BARRY, Aguibou">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

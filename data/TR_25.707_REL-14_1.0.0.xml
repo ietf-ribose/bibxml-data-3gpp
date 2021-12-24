@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.707:Rel-14/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.707/25707-100.zip">
   <front>
     <title>Multi-carrier enhancements for UMTS</title>
+    <author fullname="ZHANG, Peng">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

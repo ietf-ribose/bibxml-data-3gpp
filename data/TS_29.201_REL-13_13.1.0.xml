@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.201:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.201/29201-d10.zip">
   <front>
     <title>Representational State Transfer (REST) reference point between Application Function (AF) and Protocol Converter (PC)</title>
+    <author fullname="BRINKMANN, Horst">
+      <organization>Alcatel-Lucent Deutschland AG</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.813:Rel-10/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.813/23813-011.zip">
   <front>
     <title>Study on policy solutions and enhancements</title>
+    <author fullname="BARI, Farooq">
+      <organization>AT&amp;T</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

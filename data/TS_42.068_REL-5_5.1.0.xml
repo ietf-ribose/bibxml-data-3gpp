@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 42.068:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.068/42068-510.zip">
   <front>
     <title>Voice Group Call Service (VGCS); Stage 1</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1  /  SMG01</workgroup>
   </front>
 </reference>

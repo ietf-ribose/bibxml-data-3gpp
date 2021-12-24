@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.827:Rel-17/0.0.1" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.827/37827-001.zip">
   <front>
     <title>Rel-17 Power Class 2 for EN-DC with xLTE band + yNR DL with 1LTE+1(TDD) NR UL band (x= 2, 3, y=1; x=1, 2, y=2)</title>
+    <author fullname="LINDELL, Per">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

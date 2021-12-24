@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.331:Rel-15/15.5.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.331/38331-f51.zip">
   <front>
     <title>NR; Radio Resource Control (RRC); Protocol specification</title>
+    <author fullname="PALM, Hakan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R2</workgroup>
   </front>
 </reference>

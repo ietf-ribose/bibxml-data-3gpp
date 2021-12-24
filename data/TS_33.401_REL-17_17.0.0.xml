@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 33.401:Rel-17/17.0.0">
+  <front>
+    <title>3GPP System Architecture Evolution (SAE); Security architecture</title>
+    <author fullname="PRASAD, Anand">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

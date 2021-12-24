@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.702:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.702/25702-c10.zip">
   <front>
     <title>Study on Dedicated Channel (DCH) enhancements for UMTS</title>
+    <author fullname="BHARADWAJ, Arjun">
+      <organization>QUALCOMM JAPAN LLC.</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

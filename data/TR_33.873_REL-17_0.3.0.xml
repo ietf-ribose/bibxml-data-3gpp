@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.873:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.873/33873-030.zip">
   <front>
     <title>Study on the security of the system enablers for devices having Multiple Universal Subscriber Identity Modules (MUSIM)</title>
+    <author fullname="KOLEKAR, Abhijeet">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.111:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.111/25111-b00.zip">
   <front>
     <title>Location Measurement Unit (LMU) performance specification; User Equipment (UE) positioning in UTRAN</title>
+    <author fullname="BROOKS, Terri">
+      <organization>TruePosition</organization>
+    </author>
     <workgroup>R4</workgroup>
     <workgroup>R2</workgroup>
   </front>

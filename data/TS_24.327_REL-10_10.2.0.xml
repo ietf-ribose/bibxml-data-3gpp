@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.327:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.327/24327-a20.zip">
   <front>
     <title>Mobility between 3GPP Wireless Local Area Network (WLAN) interworking (I-WLAN) and 3GPP systems; General Packet Radio System (GPRS) and 3GPP I-WLAN aspects; Stage 3</title>
+    <author fullname="KORTEBI, Riadh">
+      <organization>Orange</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.405:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.405/32405-a10.zip">
   <front>
     <title>Telecommunication management; Performance Management (PM); Performance measurements; Universal Terrestrial Radio Access Network (UTRAN)</title>
+    <author fullname="HU, Yaxi">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

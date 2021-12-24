@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.803:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.803/23803-200.zip">
   <front>
     <title>Evolution of policy control and charging</title>
+    <author fullname="BERTENYI, Balazs">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

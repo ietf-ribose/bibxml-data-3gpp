@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.273:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.273/23273-h20.zip">
   <front>
     <title>5G System (5GS) Location Services (LCS); Stage 2</title>
+    <author fullname="AI, Ming">
+      <organization>CATT</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

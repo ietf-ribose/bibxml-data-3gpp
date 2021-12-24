@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.503:Rel-15/0.6.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.503/29503-061.zip">
   <front>
     <title>5G System; Unified Data Management Services; Stage 3</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Shanghai Bell</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

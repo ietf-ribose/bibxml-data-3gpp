@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.521-4:Rel-15/15.2.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-4/38521-4-f20.zip">
   <front>
     <title>NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 4: Performance</title>
+    <author fullname="BALASUBRAMANIAN, Vijay">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.837:Rel-17/0.1.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.837/38837-010.zip">
   <front>
     <title>UE RF Requirements for Transparent Tx Diversity (TxD) for NR</title>
+    <author fullname="FENG, Sanjun">
+      <organization>vivo Communication Technology</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

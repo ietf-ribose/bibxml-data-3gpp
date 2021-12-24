@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 24.811:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.811/24811-110.zip">
   <front>
     <title>Study on the support for minimization of service interruption</title>
+    <author fullname="PARK, Sang Min">
+      <organization>LG Electronics France</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.861:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.861/32861-100.zip">
   <front>
     <title>Telecommunication management; Study on application and partitioning of Interface N (Itf-N)</title>
+    <author fullname="LI, Jian">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

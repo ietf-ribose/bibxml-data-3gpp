@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.825:Rel-16/0.0.0">
   <front>
     <title>Study on Remote Identification of Unmanned Aerial Systems (UAS)</title>
+    <author fullname="HALL, Edward">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

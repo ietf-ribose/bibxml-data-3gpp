@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.199:Rel-6/0.0.2">
   <front>
     <title>Open Service Access (OSA); Web Services Application Programming Interface (API)  for OSA; Parlay X services</title>
+    <author fullname="VAN RIJSSEN, Erwin">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>N5</workgroup>
   </front>
 </reference>

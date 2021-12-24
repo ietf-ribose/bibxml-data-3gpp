@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.579-6:Rel-14/0.0.4" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-6/36579-6-004.zip">
   <front>
     <title>Mission Critical (MC) services over LTE; Part 6: Mission Critical Video (MCVideo) User Equipment (UE) Protocol conformance specification</title>
+    <author fullname="KAHN, Jason">
+      <organization>NIST</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

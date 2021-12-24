@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.420:Rel-8/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.420/36420-011.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 general aspects and principles</title>
+    <author fullname="HELMERS, Hakon">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

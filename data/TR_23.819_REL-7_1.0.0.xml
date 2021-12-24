@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.819:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.819/23819-100.zip">
   <front>
     <title>Terminating session handling</title>
+    <author fullname="SONG, Osok">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

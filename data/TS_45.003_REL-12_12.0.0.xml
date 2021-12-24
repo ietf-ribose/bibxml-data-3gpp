@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 45.003:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.003/45003-c00.zip">
   <front>
     <title>GSM/EDGE Channel coding</title>
+    <author fullname="ERIKSSON LÖWENMARK, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

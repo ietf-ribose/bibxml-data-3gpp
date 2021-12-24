@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 45.050:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.050/45050-400.zip">
   <front>
     <title>GSM/EDGE Background for Radio Frequency (RF) requirements</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

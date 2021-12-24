@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.714-00-00:Rel-14/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.714-00-00/36714-00-00-070.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced intra-band Carrier Aggregation (CA) Rel-14 for x Down Link (DL) / y Up Link (UL) including contiguous and non-contiguous spectrum</title>
+    <author fullname="LINDELL, Per">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

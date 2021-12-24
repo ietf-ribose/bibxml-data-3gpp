@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.484:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.484/25484-a10.zip">
   <front>
     <title>Automatic Neighbour Relation (ANR) for UTRAN; Stage 2</title>
+    <author fullname="GAO, Yin">
+      <organization>ZTE Corporation</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

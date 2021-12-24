@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.905:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.905/38905-100.zip">
   <front>
     <title>NR; Derivation of test points for radio transmission and reception User Equipment (UE) conformance test cases</title>
+    <author fullname="JOHANSSON, Mats">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

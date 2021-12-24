@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.78:R98/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.78/0378-750.zip">
   <front>
     <title>Ccustomized Applications for Mobile network Enhanced Logic (CAMEL) Phase 2; Stage 2</title>
+    <author fullname="LANTELME, Isabelle">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N2</workgroup>
   </front>
 </reference>

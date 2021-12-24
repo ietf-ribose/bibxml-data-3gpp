@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.895:Rel-6/1.2.2" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.895/25895-122.zip">
   <front>
     <title>Analysis of higher chip rates for UTRA TDD evolution</title>
+    <author fullname="BEALE, Martin">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

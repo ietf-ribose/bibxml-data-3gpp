@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 21.101:Rel-10/10.3.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.101/21101-a30.zip">
   <front>
     <title>Technical Specifications and Technical Reports for a UTRAN-based 3GPP system</title>
+    <author fullname="FIRMIN, Frederic">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>SP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S</workgroup>
   </front>
 </reference>

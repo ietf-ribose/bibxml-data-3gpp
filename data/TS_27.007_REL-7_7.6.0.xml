@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 27.007:Rel-7/7.6.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.007/27007-760.zip">
   <front>
     <title>AT command set for User Equipment (UE)</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes a profile of AT commands and recommends that this profile be used for controlling mobile equipment (ME) functions and GSM network services from a terminal equipment (TE) through terminal adaptor (TA).</abstract>
   </front>

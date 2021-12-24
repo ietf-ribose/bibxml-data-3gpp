@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.401:Rel-9/9.11.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.401/23401-9b0.zip">
   <front>
     <title>General Packet Radio Service (GPRS) enhancements for Evolved Universal Terrestrial Radio Access Network (E-UTRAN) access</title>
+    <author fullname="PUDNEY, Chris">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

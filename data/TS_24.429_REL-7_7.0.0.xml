@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.429:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.429/24429-700.zip">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services: Explicit Communication Transfer (ECT); Protocol specification</title>
+    <author fullname="DRAGE, Keith">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

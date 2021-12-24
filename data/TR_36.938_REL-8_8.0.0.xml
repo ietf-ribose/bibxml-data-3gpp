@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.938:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.938/36938-800.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Improved network controlled mobility between E-UTRAN and 3GPP2/mobile WiMAX radio technologies</title>
+    <author fullname="BI, Hao">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>R2</workgroup>
     <workgroup>R4</workgroup>
   </front>

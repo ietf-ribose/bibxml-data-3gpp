@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 10.17:R97/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.17/1017-100.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Charging in GPRS</title>
-    <workgroup>-</workgroup>
+    <author fullname="HEATON, Graham">
+      <organization>Empower Interactive Group Ltd</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG06</workgroup>
   </front>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 22.082:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.082/22082-e00.zip">
   <front>
     <title>Call Forwarding (CF) Supplementary Services; Stage 1</title>
+    <author fullname="LOTTIN, Philippe">
+      <organization>Orange</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the supplementary services belonging to the group call offering supplementary services.
 The group of supplementary services call offering supplementary services is divided into four different supplementary services:

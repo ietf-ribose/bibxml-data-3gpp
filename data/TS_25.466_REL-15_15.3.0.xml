@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 25.466:Rel-15/15.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.466/25466-f30.zip">
   <front>
     <title>UTRAN Iuant interface: Application part</title>
+    <author fullname="KULAKOV, Alexey">
+      <organization>Vodafone GmbH</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

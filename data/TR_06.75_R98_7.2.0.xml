@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 06.75:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.75/0675-720.zip">
   <front>
     <title>Performance characterization of the GSM Adaptive Multi-Rate (AMR) speech codec</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S4  /  SMG11</workgroup>
   </front>
 </reference>

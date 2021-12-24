@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.254:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.254/32254-g10.zip">
   <front>
     <title>Telecommunication management; Charging management; Exposure function Northbound Application Program Interfaces (APIs) charging</title>
+    <author fullname="CHEN, SHAN">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

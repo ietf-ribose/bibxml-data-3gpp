@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.385:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.385/24385-g10.zip">
   <front>
     <title>V2X services Management Object (MO)</title>
+    <author fullname="PARK, Sang Min">
+      <organization>LG Electronics France</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

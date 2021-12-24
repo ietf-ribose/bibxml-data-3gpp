@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.857:Rel-10/1.10.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.857/23857-1a0.zip">
   <front>
     <title>Study of Evolved Packet Core (EPC) nodes restoration</title>
+    <author fullname="LU, Fei">
+      <organization>ZTE Corporation</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

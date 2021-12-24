@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.508:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-900.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); Common test environments for User Equipment (UE) conformance testing</title>
+    <author fullname="JOHN, Jacob">
+      <organization>Motorola Mobility UK Ltd.</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

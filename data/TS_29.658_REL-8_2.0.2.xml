@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.658:Rel-8/2.0.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.658/29658-202.zip">
   <front>
     <title>SIP Transfer of IP Multimedia Service Tariff Information; Protocol specification</title>
+    <author fullname="KREIPL, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

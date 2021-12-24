@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.941:Rel-15/0.2.0">
   <front>
     <title>Radio Frequency (RF) conformance testing background for radiated Base Station (BS) requirements</title>
+    <author fullname="SZYDELKO, Michal">
+      <organization>Huawei Technologies Sweden AB</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

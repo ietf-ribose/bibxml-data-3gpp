@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.208:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.208/29208-540.zip">
   <front>
     <title>End-to-end Quality of Service (QoS) signalling flows</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

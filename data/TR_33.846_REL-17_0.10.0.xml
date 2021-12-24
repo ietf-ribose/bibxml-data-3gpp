@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.846:Rel-17/0.10.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.846/33846-0a0.zip">
   <front>
     <title>Study on authentication enhancements in the 5G System (5GS)</title>
+    <author fullname="TSIATSIS, Vlasios">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

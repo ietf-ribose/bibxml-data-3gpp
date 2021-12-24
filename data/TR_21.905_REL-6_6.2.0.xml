@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 21.905:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.905/21905-620.zip">
   <front>
     <title>Vocabulary for 3GPP Specifications</title>
+    <author fullname="FIRMIN, Frederic">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>SP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
     <abstract>Document 21.905 is a collection of terms, definitions and abbreviations related to the baseline documents defining the objectives and systems framework. This document provides a tool for further work on the technical documentation and facilitates their understanding.</abstract>
   </front>

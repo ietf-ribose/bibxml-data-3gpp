@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 22.140:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.140/22140-a00.zip">
   <front>
     <title>Multimedia Messaging Service (MMS);  Stage 1</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
   </front>
 </reference>

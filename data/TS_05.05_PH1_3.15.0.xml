@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 05.05:Ph1/3.15.0">
   <front>
     <title>Radio Transmission and Reception</title>
+    <author fullname="SAMUELSSON, Mats">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

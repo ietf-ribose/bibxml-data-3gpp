@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 33.434:Rel-17/17.0.0">
+  <front>
+    <title>Security aspects of Service Enabler Architecture Layer (SEAL) for verticals</title>
+    <author fullname="RAJADURAI, Rajavelsamy">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

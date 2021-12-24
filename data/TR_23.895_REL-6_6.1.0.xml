@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.895:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.895/23895-610.zip">
   <front>
     <title>Provision of UE specific behaviour information to network entities</title>
+    <author fullname="PUDNEY, Chris">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

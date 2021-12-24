@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.104:Rel-8/0.0.2">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS) radio transmission and reception</title>
+    <author fullname="SKOLD, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

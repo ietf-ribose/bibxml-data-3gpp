@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.165:Rel-9/9.8.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.165/29165-980.zip">
   <front>
     <title>Inter-IMS Network to Network Interface (NNI)</title>
+    <author fullname="QUERIO, Roberto">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

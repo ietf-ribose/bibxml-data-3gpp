@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.896:Rel-6/0.2.1">
   <front>
     <title>Feasibility study for enhanced uplink for UTRA FDD</title>
+    <author fullname="RANTA-AHO, Karri">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

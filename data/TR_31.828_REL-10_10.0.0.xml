@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 31.828:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.828/31828-a00.zip">
   <front>
     <title>UICC access to IMS</title>
+    <author fullname="PRACA, Denis">
+      <organization>Gemalto N.V.</organization>
+    </author>
     <workgroup>C6</workgroup>
   </front>
 </reference>

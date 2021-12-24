@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 26.223:Rel-14/14.4.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.223/26223-e40.zip">
   <front>
     <title>Telepresence using the IP Multimedia Subsystem (IMS); Media handling and interaction</title>
+    <author fullname="OYMAN, Ozgur">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

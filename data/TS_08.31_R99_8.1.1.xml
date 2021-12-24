@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 08.31:R99/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.31/0831-811.zip">
   <front>
     <title>Location Services (LCS): Serving Mobile Location Centre - Serving Mobile Location Centre (SMLC - SMLC); SMLCPP specification</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>G2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02a</workgroup>
   </front>
 </reference>

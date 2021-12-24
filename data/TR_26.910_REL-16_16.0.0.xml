@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.910:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.910/26910-g00.zip">
   <front>
     <title>Study on media handling aspects of Radio Access Network (RAN) delay budget reporting in Multimedia Telephony Service for Internet Protocol (IP) Multimedia Subsystem (IMS) (MTSI)</title>
+    <author fullname="OYMAN, Ozgur">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

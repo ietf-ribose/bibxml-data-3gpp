@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.833:R99/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.833/25833-110.zip">
   <front>
     <title>Physical layer items not for inclusion in Release 99</title>
+    <author fullname="BAKER, Matthew">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
     <workgroup>R1</workgroup>

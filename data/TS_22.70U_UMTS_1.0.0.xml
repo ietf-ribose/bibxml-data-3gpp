@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 22.70U:UMTS/1.0.0">
   <front>
     <title>Virtual Home Environment</title>
-    <workgroup>-</workgroup>
+    <author fullname="OGUNBEKUN, Jumoke">
+      <organization>FUJITSU Laboratories of Europe</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>

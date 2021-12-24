@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.831:Rel-16/0.0.2" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.831/38831-002.zip">
   <front>
     <title>User Equipment (UE) Radio Frequency (RF) requirements for Frequency Range 2 (FR2)</title>
+    <author fullname="VASENKARI, Petri">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

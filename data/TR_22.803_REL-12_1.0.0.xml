@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.803:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.803/22803-100.zip">
   <front>
     <title>Feasibility study for Proximity Services (ProSe)</title>
+    <author fullname="HOVEY, Rich">
+      <organization>Qualcomm Inc</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

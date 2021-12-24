@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.743:Rel-16/1.2.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.743/23743-120.zip">
   <front>
     <title>Study on optimisations on UE radio capability signalling</title>
+    <author fullname="ZISIMOPOULOS, Haris">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

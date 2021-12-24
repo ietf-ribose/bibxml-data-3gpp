@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.902:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.902/26902-f00.zip">
   <front>
     <title>Video codec performance</title>
+    <author fullname="STOCKHAMMER, Thomas">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

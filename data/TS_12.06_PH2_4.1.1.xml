@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 12.06:Ph2/4.1.1" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.06/1206-411.zip">
   <front>
     <title>Network Configuration Management and Administration</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
     <workgroup>CP</workgroup>
     <workgroup>SMG06 / SMG03</workgroup>

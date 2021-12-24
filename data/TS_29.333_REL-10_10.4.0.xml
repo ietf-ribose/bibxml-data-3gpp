@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.333:Rel-10/10.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.333/29333-a40.zip">
   <front>
     <title>Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function Processor (MRFP) Mp interface; Stage 3</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

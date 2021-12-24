@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 37.171:Rel-14/14.6.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.171/37171-e60.zip">
   <front>
     <title>Universal Terrestrial Radio Access (UTRA) and Evolved UTRA (E-UTRA); User Equipment (UE) performance requirements for Radio Access Technology (RAT) Independent Positioning Enhancements</title>
+    <author fullname="SEIBERT, Cristina">
+      <organization>NextNav</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.804:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.804/22804-020.zip">
   <front>
     <title>Study on Communication for Automation in Vertical domains (CAV)</title>
+    <author fullname="WALEWSKI, Joachim">
+      <organization>Siemens AG</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

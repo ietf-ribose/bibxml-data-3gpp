@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 09.05:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.05/0905-500.zip">
   <front>
     <title>Interworking between the PLMN and the PSPDN for PAD Access</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N3 / SMG03D</workgroup>
   </front>
 </reference>

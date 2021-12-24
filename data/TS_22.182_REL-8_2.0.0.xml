@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.182:Rel-8/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.182/22182-200.zip">
   <front>
     <title>Customized Alerting Tones (CAT) requirements; Stage 1</title>
+    <author fullname="HUANG, Qing">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

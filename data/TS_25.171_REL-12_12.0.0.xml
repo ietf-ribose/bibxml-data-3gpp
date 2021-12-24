@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.171:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.171/25171-c00.zip">
   <front>
     <title>Requirements for support of Assisted Global Positioning System (A-GPS); Frequency Division Duplex (FDD)</title>
+    <author fullname="SHEN, Donglin">
+      <organization>ZTE Corporation</organization>
+    </author>
     <workgroup>R4</workgroup>
     <abstract>The present document establishes the minimum performance requirements for A-GPS for FDD mode of UTRA for the User Equipment (UE).</abstract>
   </front>

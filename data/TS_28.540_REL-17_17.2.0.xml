@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 28.540:Rel-17/17.2.0">
+  <front>
+    <title>Management and orchestration; 5G Network Resource Model (NRM); Stage 1</title>
+    <author fullname="PING, Jing">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

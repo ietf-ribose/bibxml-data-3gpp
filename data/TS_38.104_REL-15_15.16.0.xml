@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 38.104:Rel-15/15.16.0">
+  <front>
+    <title>NR; Base Station (BS) radio transmission and reception</title>
+    <author fullname="SKOLD, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

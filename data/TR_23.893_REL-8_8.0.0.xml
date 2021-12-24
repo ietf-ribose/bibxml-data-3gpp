@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.893:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.893/23893-800.zip">
   <front>
     <title>Feasibility study on multimedia session continuity; Stage 2</title>
+    <author fullname="SONG, Jae seung">
+      <organization>LG Electronics Inc.</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

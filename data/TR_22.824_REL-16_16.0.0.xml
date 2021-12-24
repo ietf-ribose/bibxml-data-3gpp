@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.824:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.824/22824-g00.zip">
   <front>
     <title>Study on 5G message service for MIoT</title>
+    <author fullname="ZHENG, Jianping">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

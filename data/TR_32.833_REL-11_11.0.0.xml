@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.833:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.833/32833-b00.zip">
   <front>
     <title>Telecommunication management; Study on management of converged networks</title>
+    <author fullname="SCHMIDT, Jörg">
+      <organization>Nokia Siemens Networks LLC</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

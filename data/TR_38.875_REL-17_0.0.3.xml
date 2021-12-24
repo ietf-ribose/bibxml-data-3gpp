@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.875:Rel-17/0.0.3" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.875/38875-003.zip">
   <front>
     <title>Study on support of reduced capability NR devices</title>
+    <author fullname="BERGMAN, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R1</workgroup>
     <workgroup>R2</workgroup>
   </front>

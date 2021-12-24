@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 05.09:R98/7.5.1" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.09/0509-751.zip">
   <front>
     <title>Link adaptation</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
     <workgroup>G1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

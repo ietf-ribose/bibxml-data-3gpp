@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 23.913:Rel-4/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.913/23913-001.zip">
   <front>
     <title>UMTS Turbo-Charger</title>
-    <workgroup>-</workgroup>
+    <author fullname="GARAPATY, Sonia">
+      <organization>Nortel Networks (USA)</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>N1</workgroup>
   </front>

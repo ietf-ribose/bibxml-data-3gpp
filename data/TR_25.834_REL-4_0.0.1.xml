@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.834:Rel-4/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.834/25834-001.zip">
   <front>
     <title>UTRA TDD low chip rate option; Radio protocol aspects</title>
+    <author fullname="LIU, YanHui">
+      <organization>CATT</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

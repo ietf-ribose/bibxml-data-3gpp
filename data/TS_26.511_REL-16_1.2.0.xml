@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 26.511:Rel-16/1.2.0" target="http://ftp.3gpp.org//Specs/archive/26_series/26.511/26511-120.zip">
   <front>
     <title>5G Media Streaming (5GMS); Profiles, codecs and formats</title>
+    <author fullname="TENIOU, Gilles">
+      <organization>Orange</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 24.486:Rel-17/17.2.0">
+  <front>
+    <title>Vehicle-to-Everything (V2X) Application Enabler (VAE) layer; Protocol aspects; Stage 3</title>
+    <author fullname="HERRERO-VERON, Christian">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

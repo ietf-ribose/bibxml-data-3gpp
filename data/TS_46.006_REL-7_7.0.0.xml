@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 46.006:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.006/46006-700.zip">
   <front>
     <title>Half rate speech; ANSI-C code for the GSM half rate speech codec</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

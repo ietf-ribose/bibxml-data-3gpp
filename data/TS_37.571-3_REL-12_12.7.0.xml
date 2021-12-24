@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 37.571-3:Rel-12/12.7.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-3/37571-3-c70.zip">
   <front>
     <title>User Equipment (UE) conformance specification for UE positioning; Part 3: Implementation Conformance Statement (ICS)</title>
+    <author fullname="CATMUR, Richard">
+      <organization>Spirent Communications</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

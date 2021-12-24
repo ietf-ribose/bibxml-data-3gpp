@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 25.935:Rel-4/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.935/25935-001.zip">
   <front>
     <title>RRM optimisation</title>
+    <author fullname="VAN LIESHOUT, Gert-Jan">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
   </front>
 </reference>

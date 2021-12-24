@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 44.063:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.063/44063-400.zip">
   <front>
     <title>Packet Data on Signalling channels Service (PDS) Service Description, Stage 3</title>
+    <author fullname="JACOBSOHN, Dieter">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>N1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.554:Rel-17/1.0.0" target="https://ftp.3gpp.org//Specs/archive/23_series/23.554/23554-100.zip">
   <front>
     <title>Application architecture for MSGin5G Service; Stage 2</title>
+    <author fullname="LIU, Yue">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S6</workgroup>
   </front>
 </reference>

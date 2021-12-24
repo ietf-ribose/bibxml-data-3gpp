@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.321:Rel-7/7.9.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.321/25321-790.zip">
   <front>
     <title>Medium Access Control (MAC) protocol specification</title>
+    <author fullname="AHMED, Ayaz">
+      <organization>Nokia Solutions &amp; Networks (I)</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.434:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.434/23434-100.zip">
   <front>
     <title>Service Enabler Architecture Layer for Verticals (SEAL); Functional architecture and information flows</title>
+    <author fullname="PATTAN, Basavaraj (Basu)">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>S6</workgroup>
   </front>
 </reference>

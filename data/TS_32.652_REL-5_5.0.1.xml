@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.652:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.652/32652-501.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP); Network Resource Model (NRM)</title>
+    <author fullname="PETERSEN, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.702:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.702/28702-b10.zip">
   <front>
     <title>Telecommunication management; Core Network (CN) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
+    <author fullname="HESKIN, Eamon">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

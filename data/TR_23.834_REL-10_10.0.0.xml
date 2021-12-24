@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.834:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.834/23834-a00.zip">
   <front>
     <title>Study on General Packet Radio Service (GPRS) Tunelling Protocol (GTP) based S2b; Stage 2</title>
+    <author fullname="LANDAIS, Bruno">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

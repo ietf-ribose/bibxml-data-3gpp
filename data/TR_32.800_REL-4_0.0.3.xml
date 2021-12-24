@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.800:Rel-4/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.800/32800-003.zip">
   <front>
     <title>Telecommunication management; Management level procedures and interaction with UTRAN</title>
+    <author fullname="BODEN, Bert">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

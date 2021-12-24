@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.594:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.594/29594-020.zip">
   <front>
     <title>5G System; Spending Limit Control Service; Stage 3</title>
+    <author fullname="BRINKMANN, Horst">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

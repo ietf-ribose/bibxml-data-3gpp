@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 38.211:Rel-17/17.0.0">
+  <front>
+    <title>NR; Physical channels and modulation</title>
+    <author fullname="PARKVALL, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

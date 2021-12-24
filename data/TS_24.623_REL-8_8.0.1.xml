@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.623:Rel-8/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.623/24623-801.zip">
   <front>
     <title>Extensible Markup Language (XML) Configuration Access Protocol (XCAP) over the Ut interface for Manipulating Supplementary Services</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

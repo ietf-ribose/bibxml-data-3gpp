@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.967:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.967/26967-c00.zip">
   <front>
     <title>eCall data transfer; In-band modem solution</title>
+    <author fullname="LEUNG, Nikolai">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

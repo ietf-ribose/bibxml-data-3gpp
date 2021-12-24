@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.885:Rel-15/15.3.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.885/37885-f30.zip">
   <front>
     <title>Study on evaluation methodology of new Vehicle-to-Everything (V2X) use cases for LTE and NR</title>
+    <author fullname="SEO, Hanbyul">
+      <organization>LG Electronics Inc.</organization>
+    </author>
     <workgroup>R1</workgroup>
   </front>
 </reference>

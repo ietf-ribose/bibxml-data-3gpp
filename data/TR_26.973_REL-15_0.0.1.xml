@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.973:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.973/26973-001.zip">
   <front>
     <title>Update to fixed-point basic operators</title>
+    <author fullname="PAWATE, Raj">
+      <organization>Cadence Design Systems Inc.</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

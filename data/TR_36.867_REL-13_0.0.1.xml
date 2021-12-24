@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.867:Rel-13/0.0.1">
   <front>
     <title>Study on LTE DL 4 Rx antenna ports</title>
+    <author fullname="CHEN LARSSON, Maomao">
+      <organization>Ericsson GmbH, Eurolab</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

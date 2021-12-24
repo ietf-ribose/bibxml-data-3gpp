@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.205:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.205/29205-800.zip">
   <front>
     <title>Application of Q.1900 series to bearer independent Circuit Switched (CS) core network architecture; Stage 3</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

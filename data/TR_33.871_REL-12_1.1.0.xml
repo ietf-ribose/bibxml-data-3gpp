@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.871:Rel-12/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.871/33871-110.zip">
   <front>
     <title>Study on security for Web Real Time Communications (WebRTC) IP Multimedia Subsystem (IMS) client access to IMS</title>
+    <author fullname="OHLSSON, Oscar">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

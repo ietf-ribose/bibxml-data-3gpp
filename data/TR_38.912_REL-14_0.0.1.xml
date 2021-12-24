@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.912:Rel-14/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.912/38912-001.zip">
   <front>
     <title>Study on New Radio (NR) access technology</title>
+    <author fullname="TAKEDA, Kazuaki">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>RP</workgroup>
   </front>
 </reference>

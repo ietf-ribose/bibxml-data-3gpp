@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 21.01U:UMTS/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.01U/2101U-301.zip">
   <front>
     <title>Requirements for the UMTS Terrestrial Radio Access (UTRA) system</title>
+    <author fullname="MOULSLEY, Tim">
+      <organization>FUJITSU Laboratories of Europe</organization>
+    </author>
     <workgroup>R6</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

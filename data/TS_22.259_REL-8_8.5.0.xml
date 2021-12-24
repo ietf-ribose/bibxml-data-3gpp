@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.259:Rel-8/8.5.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.259/22259-850.zip">
   <front>
     <title>Service requirements for Personal Network Management (PNM); Stage 1</title>
+    <author fullname="MUSTAPHA, Mona">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

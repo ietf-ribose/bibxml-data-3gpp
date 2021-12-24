@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.118:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.118/29118-d00.zip">
   <front>
     <title>Mobility Management Entity (MME) - Visitor Location Register (VLR) SGs interface specification</title>
+    <author fullname="SHU, Lin">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

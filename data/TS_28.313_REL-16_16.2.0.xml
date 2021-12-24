@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 28.313:Rel-16/16.2.0">
+  <front>
+    <title>Management and orchestration; Self-Organizing Networks (SON) for 5G networks</title>
+    <author fullname="CHOU, Joey">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

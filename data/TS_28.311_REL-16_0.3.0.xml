@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.311:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.311/28311-030.zip">
   <front>
     <title>Management and orchestration; Network policy management for mobile networks based on Network Function Virtualization (NFV) scenarios</title>
+    <author fullname="ZHANG, Hao">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

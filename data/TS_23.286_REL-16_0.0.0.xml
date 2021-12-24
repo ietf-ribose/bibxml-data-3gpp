@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.286:Rel-16/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.286/23286-000.zip">
   <front>
     <title>Application layer support for Vehicle-to-Everything (V2X) services; Functional architecture and information flows</title>
+    <author fullname="AMOGH, Niranth">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>S6</workgroup>
   </front>
 </reference>

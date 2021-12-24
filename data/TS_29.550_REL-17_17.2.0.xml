@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.550:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.550/29550-h20.zip">
   <front>
     <title>5G System; Steering of roaming application function services; Stage 3</title>
+    <author fullname="HAOUARI, wafa">
+      <organization>Orange</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

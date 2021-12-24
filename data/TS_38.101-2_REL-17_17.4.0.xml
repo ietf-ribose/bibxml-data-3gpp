@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 38.101-2:Rel-17/17.4.0">
+  <front>
+    <title>NR; User Equipment (UE) radio transmission and reception; Part 2: Range 2 Standalone</title>
+    <author fullname="VINTOLA, Ville">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.296:Rel-8/8.2.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.296/32296-821.zip">
   <front>
     <title>Telecommunication management; Charging management; Online Charging System (OCS): Applications and interfaces</title>
+    <author fullname="GARDELLA, Maryse">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

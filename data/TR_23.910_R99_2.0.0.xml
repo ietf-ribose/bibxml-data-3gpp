@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 23.910:R99/2.0.0">
   <front>
     <title>Circuit switched data bearer services</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N3</workgroup>
   </front>
 </reference>

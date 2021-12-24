@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 26.171:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.171/26171-d00.zip">
   <front>
     <title>Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; General description</title>
+    <author fullname="BRUHN, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

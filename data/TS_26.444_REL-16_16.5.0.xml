@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 26.444:Rel-16/16.5.0">
+  <front>
+    <title>Codec for Enhanced Voice Services (EVS); Test sequences</title>
+    <author fullname="POBLOTH, Harald">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

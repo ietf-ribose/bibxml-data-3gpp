@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.980:Rel-7/0.2.0">
   <front>
     <title>Network composition feasibility study</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

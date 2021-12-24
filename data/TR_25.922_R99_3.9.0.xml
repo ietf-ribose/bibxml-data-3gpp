@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.922:R99/3.9.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.922/25922-390.zip">
   <front>
     <title>Radio resource management strategies</title>
+    <author fullname="BULDORINI, Andrea">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

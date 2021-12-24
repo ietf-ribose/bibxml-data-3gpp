@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 43.055:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.055/43055-500.zip">
   <front>
     <title>Dual Transfer Mode (DTM); Stage 2</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>RP</workgroup>
   </front>

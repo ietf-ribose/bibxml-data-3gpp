@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR 22.878:Rel-18/18.2.0">
+  <front>
+    <title>Study on 5G timing resiliency system</title>
+    <author fullname="COVELL, Betsy">
+      <organization>Nokia</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

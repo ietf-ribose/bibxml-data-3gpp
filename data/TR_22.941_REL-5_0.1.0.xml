@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.941:Rel-5/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.941/22941-010.zip">
   <front>
     <title>IP based multimedia framework; Stage 0</title>
+    <author fullname="WOHLERT, Randolph">
+      <organization>SBC Technology Resources</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

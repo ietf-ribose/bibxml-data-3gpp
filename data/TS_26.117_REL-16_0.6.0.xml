@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 26.117:Rel-16/0.6.0" target="http://ftp.3gpp.org//Specs/archive/26_series/26.117/26117-060.zip">
   <front>
     <title>5G Media Streaming (5GMS); Speech and audio profiles</title>
+    <author fullname="STOCKHAMMER, Thomas">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

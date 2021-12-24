@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 11.12:Ph2/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.12/1112-421.zip">
   <front>
     <title>Specification on the 3 volt subscriber identity module Equipment (SIM-ME)  Interface</title>
+    <author fullname="LINDHOLM, Rune">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG09</workgroup>
   </front>
 </reference>

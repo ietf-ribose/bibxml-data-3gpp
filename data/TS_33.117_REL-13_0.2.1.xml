@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 33.117:Rel-13/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.117/33117-021.zip">
   <front>
     <title>Catalogue of general security assurance requirements </title>
+    <author fullname="ZUGENMAIER, Alf">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

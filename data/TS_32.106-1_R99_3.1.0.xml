@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 32.106-1:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-1/32106-1-310.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Part 1: Concept and requirements</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S5</workgroup>
   </front>
 </reference>

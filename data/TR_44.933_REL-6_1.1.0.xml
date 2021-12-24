@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 44.933:Rel-6/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.933/44933-110.zip">
   <front>
     <title>Seamless support of streaming services in GERAN A/Gb mode</title>
+    <author fullname="GESSNER, Christina">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>G2</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

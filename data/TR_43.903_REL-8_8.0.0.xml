@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 43.903:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.903/43903-800.zip">
   <front>
     <title>A-interface over IP study (AINTIP)</title>
+    <author fullname="WANG, Shuaiyu">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>RP</workgroup>
   </front>

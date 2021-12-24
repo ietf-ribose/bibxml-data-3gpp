@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.822:Rel-12/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.822/37822-020.zip">
   <front>
     <title>Study on next generation Self-Optimizing Network (SON) for UTRAN and E-UTRAN</title>
+    <author fullname="KORDYBACH, Krzysztof">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

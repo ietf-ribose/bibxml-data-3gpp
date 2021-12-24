@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 29.016:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.016/29016-g00.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Serving GPRS Support Node (SGSN) - Visitors Location Register (VLR); Gs interface network service specification</title>
+    <author fullname="AGHILI, Behrouz">
+      <organization>InterDigital Communications</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1</workgroup>
   </front>
 </reference>

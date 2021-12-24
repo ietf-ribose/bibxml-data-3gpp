@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.223:Rel-8/8.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.223/25223-850.zip">
   <front>
     <title>Spreading and modulation (TDD)</title>
+    <author fullname="MEDINA, Gerardo">
+      <organization>Ericsson Japan K.K.</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
     <workgroup>R1</workgroup>

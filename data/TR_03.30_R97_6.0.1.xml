@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 03.30:R97/6.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.30/0330-601.zip">
   <front>
     <title>Radio Network Planning Aspects</title>
+    <author fullname="TEGTH, Ulf">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>GP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

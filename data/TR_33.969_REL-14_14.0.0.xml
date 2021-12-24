@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.969:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.969/33969-e00.zip">
   <front>
     <title>Study on security aspects of Public Warning System (PWS)</title>
+    <author fullname="MATTSSON, John">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

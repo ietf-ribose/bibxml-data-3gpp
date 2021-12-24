@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.714-02-02:Rel-14/0.8.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.714-02-02/36714-02-02-080.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-14 for 2 Down Link (DL) / 2 Up Link (UL)</title>
+    <author fullname="LIU, Ye">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

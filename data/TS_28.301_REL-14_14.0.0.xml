@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.301:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.301/28301-e00.zip">
   <front>
     <title>Telecommunication management; Licensed Shared Access (LSA) Controller (LC) Integration Reference Point (IRP); Requirements</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

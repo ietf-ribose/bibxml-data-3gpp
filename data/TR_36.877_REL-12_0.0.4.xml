@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.877:Rel-12/0.0.4" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.877/36877-004.zip">
   <front>
     <title>LTE Device to Device Proximity Services; User Equipment (UE) radio transmission and reception</title>
+    <author fullname="GULATI, Kapil">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>R4</workgroup>
     <workgroup>R1, R2</workgroup>
   </front>

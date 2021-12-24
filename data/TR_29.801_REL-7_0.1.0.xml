@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 29.801:Rel-7/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.801/29801-010.zip">
   <front>
     <title>Feasibility study of using M2PA in 3GPP networks</title>
+    <author fullname="ZHAO, Yuyi">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

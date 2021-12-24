@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.453:Rel-7/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.453/25453-710.zip">
   <front>
     <title>UTRAN Iupc interface Positioning Calculation Application Part (PCAP) signalling</title>
+    <author fullname="OZTURK, Ozcan">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>R3</workgroup>
     <abstract>The present document specifies the Positioning Calculation Application Part (PCAP) between the Radio Network Controller (RNC) and the Stand-alone SMLC (SAS).</abstract>
   </front>

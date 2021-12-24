@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.598:Rel-16/0.1.0">
   <front>
     <title>Unstructured data storage services</title>
+    <author fullname="ASKERUP, Anders">
+      <organization>Hewlett-Packard Enterprise</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

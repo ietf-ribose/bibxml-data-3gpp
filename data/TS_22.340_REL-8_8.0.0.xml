@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.340:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.340/22340-800.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) messaging; Stage 1</title>
+    <author fullname="MIETTINEN, Natalia">
+      <organization>NOKIA UK R&amp;D Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

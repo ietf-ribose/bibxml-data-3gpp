@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.292:Rel-10/10.9.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.292/24292-a90.zip">
   <front>
     <title>IP Multimedia (IM) Core Network (CN) subsystem Centralized Services (ICS); Stage 3</title>
+    <author fullname="AXELL, Jörgen">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

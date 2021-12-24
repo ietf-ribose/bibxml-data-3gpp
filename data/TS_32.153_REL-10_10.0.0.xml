@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.153:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.153/32153-a00.zip">
   <front>
     <title>Telecommunication management;  Integration Reference Point (IRP) technology specific templates, rules and guidelines</title>
+    <author fullname="PETERSEN, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

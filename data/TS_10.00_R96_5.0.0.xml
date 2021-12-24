@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 10.00:R96/5.0.0">
   <front>
     <title>Digital Cellular Telecommunication System Feature Description</title>
+    <author fullname="BERTENYI, Balazs">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG12</workgroup>
   </front>
 </reference>

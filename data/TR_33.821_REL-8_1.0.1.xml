@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.821:Rel-8/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.821/33821-101.zip">
   <front>
     <title>Rationale and track of security decisions in Long Term Evolution (LTE) RAN / 3GPP System Architecture Evolution (SAE)</title>
+    <author fullname="ZHANG, Dajiang">
+      <organization>Microsoft Europe SARL</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 29.875:Rel-9/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.875/29875-120.zip">
   <front>
     <title>Interworking Proxy between GTP based and PMIP based interfaces</title>
+    <author fullname="MATSUURA, Takaaki">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

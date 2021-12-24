@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 29.865:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.865/29865-800.zip">
   <front>
     <title>Inter-IMS network to network interface</title>
+    <author fullname="ASCOLESE, Antonio">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

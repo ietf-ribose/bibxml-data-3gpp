@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 03.58:R97/6.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.58/0358-601.zip">
   <front>
     <title>Characterisation, test methods and quality assessment for handsfree Mobile Stations (MSs)</title>
+    <author fullname="QUINQUIS, Catherine">
+      <organization>Orange</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

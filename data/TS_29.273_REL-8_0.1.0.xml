@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.273:Rel-8/0.1.0">
   <front>
     <title>Evolved Packet System (EPS); 3GPP EPS AAA interfaces</title>
+    <author fullname="DE GREGORIO, Jesus">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR 29.829:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.829/29829-h00.zip">
+  <front>
+    <title>Service-based support for SMS in 5GC</title>
+    <author fullname="LIU, Liu">
+      <organization>China Telecom Corporation Ltd.</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.820:Rel-8/0.0.0">
   <front>
     <title>3G Home Node B (HNB) study item Technical Report</title>
+    <author fullname="THOMAS, Howard">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.116:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.116/23116-b00.zip">
   <front>
     <title>Super-Charger technical realization; Stage 2</title>
+    <author fullname="WILD, Peter A.">
+      <organization>Vodafone GmbH</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4</workgroup>
   </front>
 </reference>

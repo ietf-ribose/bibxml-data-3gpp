@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 26.281:Rel-14/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.281/26281-100.zip">
   <front>
     <title>Mission Critical Video (MCVideo); Codecs and media handling</title>
+    <author fullname="LAMBROU, John">
+      <organization>Motorola Solutions Germany</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.271:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.271/23271-800.zip">
   <front>
     <title>Functional stage 2 description of Location Services (LCS)</title>
+    <author fullname="WONG, Gavin">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2</workgroup>
   </front>
 </reference>

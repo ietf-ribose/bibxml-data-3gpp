@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.805:Rel-6/0.2.0">
   <front>
     <title>DS-CDMA introduction in the 800 MHz band</title>
+    <author fullname="NAKAMURA, Takehiro">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

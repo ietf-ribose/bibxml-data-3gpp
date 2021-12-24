@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 22.907:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.907/22907-200.zip">
   <front>
     <title>Terminal concepts</title>
-    <workgroup>-</workgroup>
+    <author fullname="TOLVANEN, Mika">
+      <organization>NOKIA MOBILE PHONES</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
   </front>

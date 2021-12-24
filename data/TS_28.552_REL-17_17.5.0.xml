@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 28.552:Rel-17/17.5.0">
+  <front>
+    <title>Management and orchestration; 5G performance measurements</title>
+    <author fullname="YAO, Yizhi">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

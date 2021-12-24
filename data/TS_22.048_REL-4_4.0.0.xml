@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.048:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.048/22048-400.zip">
   <front>
     <title>Security mechanisms for the (U)SIM application toolkit; Stage 1</title>
+    <author fullname="PHAN, Ly Thanh">
+      <organization>Gemalto N.V.</organization>
+    </author>
     <workgroup>C6</workgroup>
     <workgroup>S3</workgroup>
     <abstract>This document provides standardised security mechanisms in conjunction with the SIM Application Toolkit for the interface between a 3G or GSM PLMN Entity and a UICC at the functional level.</abstract>

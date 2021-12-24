@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 28.809:Rel-17/1.0.2" target="https://www.3gpp.org/ftp//Specs/archive/28_series/28.809/28809-102.zip">
   <front>
     <title>Study on enhancement of management data analytics</title>
+    <author fullname="YAO, Yizhi">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
     <workgroup>R3, S2</workgroup>
   </front>

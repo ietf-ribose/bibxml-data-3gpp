@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.863:Rel-17/0.1.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.863/38863-010.zip">
   <front>
     <title>Non-terrestrial networks (NTN) related RF and co-existence aspects</title>
+    <author fullname="JIN, Yiran">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

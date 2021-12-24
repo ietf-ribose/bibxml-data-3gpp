@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.887:Rel-12/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.887/36887-030.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on energy saving enhancement for E-UTRAN</title>
+    <author fullname="KIMBA DIT ADAMOU, Boubacar">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

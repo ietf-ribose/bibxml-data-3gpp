@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 23.976:Rel-6/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.976/23976-050.zip">
   <front>
     <title>Push architecture</title>
+    <author fullname="ALFANO, Nicholas">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

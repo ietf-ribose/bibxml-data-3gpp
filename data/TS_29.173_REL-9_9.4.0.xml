@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.173:Rel-9/9.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.173/29173-940.zip">
   <front>
     <title>Location Services (LCS); Diameter-based SLh interface for Control Plane LCS</title>
+    <author fullname="MORAND, Lionel">
+      <organization>Orange</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

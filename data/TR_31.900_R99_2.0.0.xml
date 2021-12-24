@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 31.900:R99/2.0.0">
   <front>
     <title>SIM/USIM internal and external interworking aspects</title>
+    <author fullname="KALINER, Stefan">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C6</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.340:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.340/38340-030.zip">
   <front>
     <title>NR; Backhaul Adaptation Protocol (BAP) specification</title>
+    <author fullname="SHI, Yulong">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>R2</workgroup>
     <workgroup>R1, R3, R4</workgroup>
   </front>

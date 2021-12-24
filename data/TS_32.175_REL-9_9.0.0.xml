@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.175:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.175/32175-900.zip">
   <front>
     <title>Telecommunication management; Subscription Management (SuM) Network Resource Model (NRM) Integration Reference Point (IRP): eXtensible Markup Language (XML) definition</title>
+    <author fullname="HESKIN, Eamon">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

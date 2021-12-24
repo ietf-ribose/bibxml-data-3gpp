@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.682:Rel-15/15.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.682/23682-f30.zip">
   <front>
     <title>Architecture enhancements to facilitate communications with packet data networks and applications</title>
+    <author fullname="JAIN, Puneet">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>S2</workgroup>
     <workgroup>S3</workgroup>
   </front>

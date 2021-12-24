@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.171:R99/3.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.171/23171-350.zip">
   <front>
     <title>Location Services (LCS); Functional description; Stage 2 (UMTS)</title>
+    <author fullname="WONG, Gavin">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2</workgroup>
   </front>
 </reference>

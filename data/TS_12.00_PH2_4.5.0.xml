@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 12.00:Ph2/4.5.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.00/1200-450.zip">
   <front>
     <title>Objectives and Structure of GSM Public Land Mobile Network (PLMN) Management</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG06</workgroup>
   </front>
 </reference>

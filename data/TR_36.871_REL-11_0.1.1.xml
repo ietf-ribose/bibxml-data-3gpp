@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.871:Rel-11/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.871/36871-011.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Downlink Multiple Input Multiple Output (MIMO) enhancement for LTE-Advanced</title>
+    <author fullname="BOCCARDI, Federico">
+      <organization>Ofcom (U.K.)</organization>
+    </author>
     <workgroup>R1</workgroup>
   </front>
 </reference>

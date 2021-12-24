@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.851:Rel-12/0.8.0">
   <front>
     <title>Inter-band carrier aggregation</title>
+    <author fullname="KHAN, Asif Ali">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

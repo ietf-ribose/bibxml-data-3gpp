@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 25.951:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.951/25951-d00.zip">
   <front>
     <title>FDD Base Station (BS) classification</title>
+    <author fullname="SÄYNÄJÄKANGAS, Tuomo">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>R4</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

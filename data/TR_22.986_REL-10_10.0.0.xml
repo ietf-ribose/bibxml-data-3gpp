@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.986:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.986/22986-a00.zip">
   <front>
     <title>Study on Service Specific Access Control</title>
+    <author fullname="ISOBE, Shin-ichi">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

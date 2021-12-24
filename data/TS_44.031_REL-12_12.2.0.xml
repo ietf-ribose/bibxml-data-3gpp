@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 44.031:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.031/44031-c20.zip">
   <front>
     <title>Location Services (LCS); Mobile Station (MS) - Serving Mobile Location Centre (SMLC) Radio Resource LCS Protocol (RRLP)</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02a</workgroup>
   </front>
 </reference>

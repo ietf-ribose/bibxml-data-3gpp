@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.800:Rel-12/0.3.0">
   <front>
     <title>Technical Report on UMTS Heterogeneous Networks</title>
+    <author fullname="COZZO, Carmela">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

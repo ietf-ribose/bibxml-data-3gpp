@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 33.21U:UMTS/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.21U/3321U-010.zip">
   <front>
     <title>Security requirements</title>
-    <workgroup>-</workgroup>
+    <author fullname="BERGMANN, Ansgar">
+      <organization>Hillebrand GmbH</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG10</workgroup>
   </front>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.215:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.215/38215-200.zip">
   <front>
     <title>NR; Physical layer measurements</title>
+    <author fullname="ALEXEI, Davydov">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>R1</workgroup>
   </front>
 </reference>

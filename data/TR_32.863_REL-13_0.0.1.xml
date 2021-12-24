@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.863:Rel-13/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.863/32863-001.zip">
   <front>
     <title>Telecommunication management; Fixed Mobile Convergence (FMC) metadefinitions for measurements and Key Performance Indicators (KPIs)</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

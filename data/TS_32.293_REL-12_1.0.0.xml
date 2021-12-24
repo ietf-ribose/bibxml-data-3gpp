@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.293:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.293/32293-100.zip">
   <front>
     <title>Telecommunication management; Charging management; Proxy function</title>
+    <author fullname="SHRADER, David">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

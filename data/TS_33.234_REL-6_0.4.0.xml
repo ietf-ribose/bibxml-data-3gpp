@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 33.234:Rel-6/0.4.0">
   <front>
     <title>3G security; Wireless Local Area Network (WLAN) interworking security</title>
+    <author fullname="LEHTOVIRTA, Vesa">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

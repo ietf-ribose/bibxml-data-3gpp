@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 22.934:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.934/22934-200.zip">
   <front>
     <title>Feasibility study on 3GPP system to Wireless Local Area Network (WLAN) interworking</title>
+    <author fullname="YOUNGE, Mark">
+      <organization>Everything Everywhere Limited</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

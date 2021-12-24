@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.931:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.931/26931-100.zip">
   <front>
     <title>Evaluation of Additional Acoustic Tests for Speech Telephony</title>
+    <author fullname="REIMES, Jan">
+      <organization>HEAD acoustics GmbH</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

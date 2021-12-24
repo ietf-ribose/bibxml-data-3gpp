@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.834:Rel-12/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.834/36834-030.zip">
   <front>
     <title>LTE Advanced intra-band contiguous Carrier Aggregation in Band 3</title>
+    <author fullname="CUI, Fei">
+      <organization>China Unicom</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

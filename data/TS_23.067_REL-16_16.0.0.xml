@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.067:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.067/23067-g00.zip">
   <front>
     <title>enhanced Multi-Level Precedence and Pre-emption Service (eMLPP); Stage 2</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4</workgroup>
   </front>
 </reference>

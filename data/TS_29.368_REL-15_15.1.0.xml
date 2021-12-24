@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.368:Rel-15/15.1.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.368/29368-f10.zip">
   <front>
     <title>Tsp interface protocol between the MTC Interworking Function (MTC-IWF) and Service Capability Server (SCS)</title>
+    <author fullname="XU, Wenliang">
+      <organization>Ericsson India Private Limited</organization>
+    </author>
     <workgroup>C3</workgroup>
   </front>
 </reference>

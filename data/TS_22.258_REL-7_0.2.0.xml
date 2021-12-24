@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 22.258:Rel-7/0.2.0">
   <front>
     <title>Service requirements for an All-IP Network (AIPN); Stage 1</title>
+    <author fullname="SACHNO, Chris">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

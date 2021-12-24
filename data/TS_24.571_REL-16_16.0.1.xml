@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.571:Rel-16/16.0.1" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.571/24571-g01.zip">
   <front>
     <title>5G System (5GS); Control plane Location Services (LCS) procedures; Stage 3</title>
+    <author fullname="YONG, Jiang">
+      <organization>CATT</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

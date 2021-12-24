@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 46.076:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.076/46076-700.zip">
   <front>
     <title>Adaptive Multi-Rate (AMR) speech codec; Study phase report</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

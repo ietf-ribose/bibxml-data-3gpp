@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 43.010:Rel-8/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.010/43010-801.zip">
   <front>
     <title>GSM Public Land Mobile Network (PLMN) connection types</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

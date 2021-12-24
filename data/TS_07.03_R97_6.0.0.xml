@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 07.03:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.03/0703-600.zip">
   <front>
     <title>Terminal Adaptation Functions (TAF) for Services Using Synchronous Bearer Capabilities</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N3 / SMG03D</workgroup>
   </front>
 </reference>

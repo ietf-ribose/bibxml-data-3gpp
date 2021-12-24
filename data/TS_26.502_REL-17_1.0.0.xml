@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 26.502:Rel-17/1.0.0">
   <front>
     <title>5G Multicast-Broadcast User Service Architecture </title>
+    <author fullname="BRADBURY, Richard">
+      <organization>BBC</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

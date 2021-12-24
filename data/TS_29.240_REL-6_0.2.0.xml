@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.240:Rel-6/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.240/29240-020.zip">
   <front>
     <title>3GPP Generic User Profile (GUP); Stage 3; Network</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

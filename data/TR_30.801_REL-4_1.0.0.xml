@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 30.801:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.801/30801-100.zip">
   <front>
     <title>Overall Project  Plan</title>
+    <author fullname="SULTAN, Alain">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S2</workgroup>
   </front>
 </reference>

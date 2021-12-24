@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 26.975:R99/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.975/26975-110.zip">
   <front>
     <title>Performance characterization of the Adaptive Multi-Rate (AMR) speech codec</title>
+    <author fullname="BRUHN, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.691:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.691/32691-b00.zip">
   <front>
     <title>Telecommunication management; Inventory Management (IM) network resources Integration Reference Point (IRP): Requirements</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

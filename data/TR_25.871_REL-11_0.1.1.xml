@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.871:Rel-11/0.1.1">
   <front>
     <title>Uplink Multiple Input Multiple Output (MIMO) for High Speed Packet Access (HSPA)</title>
+    <author fullname="SAMBHWANI, Sharad">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

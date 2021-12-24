@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.161:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.161/23161-010.zip">
   <front>
     <title>Network-Based IP Flow Mobility (NBIFOM); Stage 2</title>
+    <author fullname="SO, Tricci">
+      <organization>ZTE Wistron Telecom AB</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

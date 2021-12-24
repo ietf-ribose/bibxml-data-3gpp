@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 43.901:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.901/43901-900.zip">
   <front>
     <title>Feasibility Study on generic access to A/Gb interface</title>
+    <author fullname="KUCHIBHOTLA, Ravi">
+      <organization>Motorola Mobility UK Ltd.</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

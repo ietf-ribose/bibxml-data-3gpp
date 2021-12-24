@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.802:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.802/22802-100.zip">
   <front>
     <title>Study on scenarios where multiple APNs are needed</title>
+    <author fullname="MACCHI, Ilario">
+      <organization>GIESECKE &amp; DEVRIENT GmbH</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.11:Ph1/1.2.0">
   <front>
     <title>Technical Realization of Supplementary Services - General Aspects</title>
+    <author fullname="KOZA, Yvette">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4  /  SMG03?</workgroup>
   </front>
 </reference>

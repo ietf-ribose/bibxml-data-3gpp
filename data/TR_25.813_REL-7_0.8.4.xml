@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.813:Rel-7/0.8.4" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.813/25813-084.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Radio interface protocol aspects</title>
+    <author fullname="SEBIRE, Benoist">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
   </front>

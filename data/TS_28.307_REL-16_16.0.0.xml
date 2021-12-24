@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 28.307:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.307/28307-g00.zip">
   <front>
     <title>Telecommunication management; Quality of Experience (QoE) measurement collection Integration Reference Point (IRP); Requirements</title>
+    <author fullname="PETERSEN, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

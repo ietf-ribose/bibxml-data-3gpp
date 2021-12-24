@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 31.120:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.120/31120-500.zip">
   <front>
     <title>UICC-terminal interface; Physical, electrical and logical test specification</title>
+    <author fullname="PHAN, Ly Thanh">
+      <organization>Gemalto N.V.</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T3</workgroup>
     <abstract>This document tests the physical, electrical and logical requirements as specified in TS 31.101.</abstract>
   </front>

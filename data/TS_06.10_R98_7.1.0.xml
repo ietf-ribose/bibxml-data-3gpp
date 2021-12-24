@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 06.10:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.10/0610-710.zip">
   <front>
     <title>Full Rate Speech Transcoding</title>
+    <author fullname="HELLWIG, Karl">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

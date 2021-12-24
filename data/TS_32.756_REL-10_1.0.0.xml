@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.756:Rel-10/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.756/32756-100.zip">
   <front>
     <title>Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) Definitions</title>
+    <author fullname="ZHANG, Kai">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

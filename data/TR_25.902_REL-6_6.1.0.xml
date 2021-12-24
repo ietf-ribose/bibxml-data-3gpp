@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.902:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.902/25902-610.zip">
   <front>
     <title>Iub/Iur congestion control</title>
+    <author fullname="MCWILLIAMS, Brendan">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

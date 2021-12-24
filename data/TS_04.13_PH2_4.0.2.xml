@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 04.13:Ph2/4.0.2" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.13/0413-402.zip">
   <front>
     <title>Performance Requirements on Mobile Radio Interface</title>
+    <author fullname="DAWES, Peter">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

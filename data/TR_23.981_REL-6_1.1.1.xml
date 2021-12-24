@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.981:Rel-6/1.1.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.981/23981-111.zip">
   <front>
     <title>Interworking aspects and migration scenarios for IPv4-based IP Multimedia Subsystem (IMS) implementations</title>
+    <author fullname="MILINSKI, Alexander">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

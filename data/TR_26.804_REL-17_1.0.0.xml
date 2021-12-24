@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.804:Rel-17/1.0.0">
   <front>
     <title>Study on 5G media streaming extensions</title>
+    <author fullname="LOHMAR, Thorsten">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 33.909:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.909/33909-400.zip">
   <front>
     <title>3G Security; Report on the design and evaluation of the MILENAGE algorithm set; Deliverable 5: An example algorithm for the 3GPP authentication and key generation functions</title>
+    <author fullname="WALKER, Michael">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S3</workgroup>
   </front>
 </reference>

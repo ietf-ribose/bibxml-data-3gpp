@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 10.78:R98/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.78/1078-100.zip">
   <front>
     <title>Project scheduling and open issues: CAMEL</title>
+    <author fullname="APRATH, Stefan">
+      <organization>Vodafone GmbH</organization>
+    </author>
     <workgroup>S2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG12</workgroup>
   </front>
 </reference>

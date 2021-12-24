@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.899:Rel-15/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.899/32899-110.zip">
   <front>
     <title>Telecommunication management; Charging management;Study on charging aspects of 5G system architecture phase 1</title>
+    <author fullname="CHEN, SHAN">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 32.382:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.382/32382-200.zip">
   <front>
     <title>Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); Information Service (IS)</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

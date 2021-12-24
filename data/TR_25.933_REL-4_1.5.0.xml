@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 25.933:Rel-4/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.933/25933-150.zip">
   <front>
     <title>IP transport in UTRAN</title>
+    <author fullname="GODIN, Philippe">
+      <organization>Alcatel-Lucent</organization>
+    </author>
     <workgroup>R3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>R3</workgroup>
   </front>
 </reference>

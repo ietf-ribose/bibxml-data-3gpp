@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 11.17:R99/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.17/1117-810.zip">
   <front>
     <title>Subscriber Identity Module (SIM) test specification</title>
+    <author fullname="SANDSCHNEIDER, Hajo">
+      <organization>Comprion GmbH</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG09</workgroup>
   </front>
 </reference>

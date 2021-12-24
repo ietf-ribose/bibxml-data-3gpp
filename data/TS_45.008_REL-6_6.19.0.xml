@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 45.008:Rel-6/6.19.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.008/45008-6j0.zip">
   <front>
     <title>GSM/EDGE Radio subsystem link control</title>
+    <author fullname="ERIKSSON LÖWENMARK, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>RP</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

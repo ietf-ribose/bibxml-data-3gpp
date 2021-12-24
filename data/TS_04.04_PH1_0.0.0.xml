@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 04.04:Ph1/0.0.0">
   <front>
     <title>Layer 1 - General Requirements</title>
+    <author fullname="ISAACS, Ken">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>G2</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG02</workgroup>
   </front>
 </reference>

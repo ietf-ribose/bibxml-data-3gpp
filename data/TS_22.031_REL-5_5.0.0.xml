@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 22.031:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.031/22031-500.zip">
   <front>
     <title>3G Security; Fraud Information Gathering System (FIGS); Service description; Stage 1</title>
+    <author fullname="BLECKERT, Peter">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

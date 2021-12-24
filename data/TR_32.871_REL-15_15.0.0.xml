@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 32.871:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.871/32871-f00.zip">
   <front>
     <title>Study on policy management for mobile networks based on Network Function Virtualization (NFV) scenarios</title>
+    <author fullname="LIU, Jinglei">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
     <workgroup>S5</workgroup>
   </front>
 </reference>

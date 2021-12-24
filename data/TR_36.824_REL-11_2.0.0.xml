@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.824:Rel-11/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.824/36824-200.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE coverage enhancements</title>
+    <author fullname="CHEN, Peng">
+      <organization>China Telecommunications</organization>
+    </author>
     <workgroup>R1</workgroup>
     <workgroup>R2</workgroup>
   </front>

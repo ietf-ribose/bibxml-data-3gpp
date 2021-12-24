@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 34.910:Rel-4/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.910/34910-001.zip">
   <front>
     <title>Identification of test requirements for regulatory purposes in different regions/countries</title>
+    <author fullname="NIELSEN, Bjarke">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>R5</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T1</workgroup>
   </front>
 </reference>

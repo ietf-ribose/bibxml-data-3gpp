@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.803:Rel-17/1.2.1" target="https://ftp.3gpp.org//Specs/archive/26_series/26.803/26803-121.zip">
   <front>
     <title>Study on 5G Media Streaming Extensions for Edge Processing</title>
+    <author fullname="BOUAZIZI, Imed">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

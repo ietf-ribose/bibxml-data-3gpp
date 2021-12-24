@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 32.102:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.102/32102-420.zip">
   <front>
     <title>Telecommunication management; Architecture</title>
+    <author fullname="JARVILEHTO, Ilkka">
+      <organization>TeliaSonera AB</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S5</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 33.216:Rel-15/15.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.216/33216-f10.zip">
   <front>
     <title>Security Assurance Specification (SCAS) for the evolved Node B (eNB) network product class</title>
+    <author fullname="WONG, Marcus">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

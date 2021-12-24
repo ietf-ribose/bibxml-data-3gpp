@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 38.415:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.415/38415-100.zip">
   <front>
     <title>NG-RAN; PDU session user plane protocol</title>
+    <author fullname="GODIN, Philippe">
+      <organization>Nokia France</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

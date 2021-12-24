@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.054:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.054/23054-300.zip">
   <front>
     <title>Shared Interworking Functions (SIWF); Stage 2</title>
+    <author fullname="HOLM, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>N3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N3</workgroup>
   </front>
 </reference>

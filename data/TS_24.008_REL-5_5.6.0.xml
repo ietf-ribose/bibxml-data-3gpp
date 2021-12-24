@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 24.008:Rel-5/5.6.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.008/24008-560.zip">
   <front>
     <title>Mobile radio interface Layer 3 specification; Core network protocols; Stage 3</title>
+    <author fullname="CHIN, ChenHo">
+      <organization>Guangdong OPPO Mobile Telecom.</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1</workgroup>
     <abstract>This specification describes the procedures used at the radio interface for CC, MM and SM.
 The procedures currently described are for the CC of circuit-switched connections, SM for GPRS services, MM and radio resource management for circuit-switched and GPRS services.</abstract>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.912:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.912/36912-930.zip">
   <front>
     <title>Feasibility study for Further Advancements for E-UTRA (LTE-Advanced)</title>
+    <author fullname="NAKAMURA, Takehiro">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>R1</workgroup>
     <workgroup>R1, R2, R3, R4</workgroup>
   </front>

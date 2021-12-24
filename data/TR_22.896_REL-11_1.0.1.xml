@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.896:Rel-11/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.896/22896-101.zip">
   <front>
     <title>Study on continuity of data sessions to local networks</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

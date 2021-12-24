@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 23.222:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.222/23222-g10.zip">
   <front>
     <title>Common API Framework for 3GPP Northbound APIs</title>
+    <author fullname="PATTAN, Basavaraj (Basu)">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>S6</workgroup>
     <workgroup>C3, C4, S1, S2, S3, S5</workgroup>
   </front>

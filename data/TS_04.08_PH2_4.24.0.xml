@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 04.08:Ph2/4.24.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.08/0408-4o0.zip">
   <front>
     <title>Mobile radio interface layer 3 specification</title>
+    <author fullname="BURBIDGE, Richard">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
     <workgroup>G2</workgroup>
     <workgroup>N1  /  SMG03A / SMG02</workgroup>

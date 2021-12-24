@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.444:Rel-11/11.5.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.444/36444-b50.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); M3 Application Protocol (M3AP)</title>
+    <author fullname="MA, Zijiang">
+      <organization>ZTE Corporation</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

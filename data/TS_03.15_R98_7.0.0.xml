@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 03.15:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.15/0315-700.zip">
   <front>
     <title>Technical Realization of Operator Determined Barring (ODB)</title>
+    <author fullname="RUSSELL, Nick">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4  /  SMG03?</workgroup>
   </front>
 </reference>

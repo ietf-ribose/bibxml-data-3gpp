@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 37.801:Rel-10/0.12.0">
   <front>
     <title>UMTS-LTE 3500 MHz Work Item Technical Repor</title>
+    <author fullname="SKOLD, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

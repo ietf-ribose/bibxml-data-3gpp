@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.212:R99/3.10.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.212/25212-3a0.zip">
   <front>
     <title>Multiplexing and channel coding (FDD)</title>
+    <author fullname="MEDINA, Gerardo">
+      <organization>Ericsson Japan K.K.</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
     <workgroup>R1</workgroup>

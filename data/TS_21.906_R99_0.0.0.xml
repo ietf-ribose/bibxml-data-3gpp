@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 21.906:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.906/21906-000.zip">
   <front>
     <title>reserved</title>
+    <author fullname="CLAYTON, Michael">
+      <organization>EMCOM Ltd</organization>
+    </author>
     <workgroup>-</workgroup>
   </front>
 </reference>

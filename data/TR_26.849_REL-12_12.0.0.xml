@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.849:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.849/26849-c00.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS) improvements; MBMS operation on demand</title>
+    <author fullname="HALL, Edward">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

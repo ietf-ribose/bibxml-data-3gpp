@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 24.508:Rel-8/2.7.0">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services Terminating Identification Presentation (TIP) and Terminating Identification Restriction (TIR); Protocol specification</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Germany</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

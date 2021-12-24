@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 24.010:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.010/24010-a10.zip">
   <front>
     <title>Mobile radio interface  layer 3; Supplementary services specification; General aspects</title>
+    <author fullname="SUBRAMANIAN, Ramachandran">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>C4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N4 (ex NSS)</workgroup>
     <abstract>This specification describes the general aspects of the specification of supplementary services at the Layer 3 radio interface. Details will be specified in other documents.</abstract>
   </front>

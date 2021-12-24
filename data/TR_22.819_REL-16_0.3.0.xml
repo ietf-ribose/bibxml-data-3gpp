@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.819:Rel-16/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.819/22819-030.zip">
   <front>
     <title>Feasibility Study on Maritime Communication Services over 3GPP system</title>
+    <author fullname="KOO, Hyounhee">
+      <organization>SyncTechno Inc.</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 04.57:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.57/0457-701.zip">
   <front>
     <title>GSM Cordless Telephony System (CTS), (Phase 1) CTS CTS supervising system Layer 3 Specification</title>
+    <author fullname="DRAGE, Keith">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

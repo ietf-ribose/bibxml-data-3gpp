@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 32.623-1:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.623-1/32623-1-200.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Part 1: GERAN network resources Integration Reference Point (IRP): requirements</title>
+    <author fullname="PIRT, Trevor">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>S5</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

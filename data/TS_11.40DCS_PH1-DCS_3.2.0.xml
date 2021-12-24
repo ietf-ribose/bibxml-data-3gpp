@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 11.40dcs:Ph1-DCS/3.2.0">
   <front>
     <title>DCS 1800 System Simulator conformity specification</title>
+    <author fullname="BERGMANN, Ansgar">
+      <organization>Hillebrand GmbH</organization>
+    </author>
     <workgroup>G3new</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG07</workgroup>
   </front>
 </reference>

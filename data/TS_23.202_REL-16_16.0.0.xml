@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 23.202:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.202/23202-g00.zip">
   <front>
     <title>Circuit switched data bearer services</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.950:Rel-9/0.1.8">
   <front>
     <title>Study on Surround Sound codec extension for Packet Switched Streaming (PSS) and Multimedia Broadcast/Multicast Service (MBMS)</title>
+    <author fullname="PLOGSTIES, Jan">
+      <organization>Fraunhofer IIS</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

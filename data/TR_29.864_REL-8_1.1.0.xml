@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 29.864:Rel-8/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.864/29864-110.zip">
   <front>
     <title>Study on IMS Application Server (AS) service data descriptions for AS interoperability</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

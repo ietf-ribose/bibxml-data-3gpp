@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.812:Rel-10/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.812/23812-100.zip">
   <front>
     <title>Feasibility study on IP Multimedia Subsystem (IMS) evolution</title>
+    <author fullname="LI, Gang">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.523-1:Rel-16/16.9.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-g90.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 1: Protocol conformance specification</title>
+    <author fullname="WU, Yuchun">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>R5</workgroup>
   </front>
 </reference>

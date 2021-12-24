@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 01.60:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.60/0160-600.zip">
   <front>
     <title>GPRS requirements</title>
+    <author fullname="SCARRONE, Enrico">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG01</workgroup>
   </front>
 </reference>

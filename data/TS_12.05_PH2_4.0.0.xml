@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 12.05:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.05/1205-400.zip">
   <front>
     <title>Subscriber Related Call and Event Data</title>
+    <author fullname="GOERMER, Gerald">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>S5</workgroup>
     <workgroup>S1</workgroup>
     <workgroup>SMG06 / SMG01</workgroup>

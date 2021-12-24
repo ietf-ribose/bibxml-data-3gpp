@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 51.017:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.017/51017-420.zip">
   <front>
     <title>Subscriber Identity Module (SIM) test specification</title>
+    <author fullname="VIRK, Amandeep">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

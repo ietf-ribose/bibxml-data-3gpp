@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 24.581:Rel-17/17.1.0">
+  <front>
+    <title>Mission Critical Video (MCVideo) media plane control; Protocol specification</title>
+    <author fullname="WEI, haitao">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

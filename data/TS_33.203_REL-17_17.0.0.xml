@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS 33.203:Rel-17/17.0.0">
+  <front>
+    <title>3G security; Access security for IP-based services</title>
+    <author fullname="BEN HENDA, Noamen">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 11.11:R99/8.6.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.11/1111-860.zip">
   <front>
     <title>Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) Interface</title>
+    <author fullname="L'HERITEAU, Denis">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>C6</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG09</workgroup>
   </front>
 </reference>

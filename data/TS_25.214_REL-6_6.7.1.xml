@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.214:Rel-6/6.7.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.214/25214-671.zip">
   <front>
     <title>Physical layer procedures (FDD)</title>
+    <author fullname="COZZO, Carmela">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
     <workgroup>R1</workgroup>

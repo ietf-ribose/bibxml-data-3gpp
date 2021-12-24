@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 29.210:Rel-6/0.3.0">
   <front>
     <title>Charging rule provisioning over Gx interface</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>C3</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

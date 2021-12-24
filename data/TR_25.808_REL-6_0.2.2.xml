@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.808:Rel-6/0.2.2" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.808/25808-022.zip">
   <front>
     <title>FDD enhanced uplink; Physical layer aspects</title>
+    <author fullname="RANTA-AHO, Karri">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R1</workgroup>
   </front>

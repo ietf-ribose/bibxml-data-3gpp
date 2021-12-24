@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 22.925:R99/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.925/22925-110.zip">
   <front>
     <title>Quality of Service (QoS) and network performance</title>
-    <workgroup>-</workgroup>
+    <author fullname="ERIKSSON, Olle">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
   </front>

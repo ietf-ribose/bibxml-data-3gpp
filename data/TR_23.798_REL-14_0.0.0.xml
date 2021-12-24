@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 23.798:Rel-14/0.0.0">
   <front>
     <title>Study on Isolated E-UTRAN Operation for Public Safety; Enhancements</title>
+    <author fullname="MOUQUET, Antoine">
+      <organization>Orange</organization>
+    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

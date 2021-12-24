@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.875:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.875/36875-200.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Extension of dual connectivity in E-UTRAN</title>
+    <author fullname="XU, Lixiang">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

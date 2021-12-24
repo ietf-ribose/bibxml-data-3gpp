@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.981:Rel-14/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.981/26981-003.zip">
   <front>
     <title>MBMS Extensions for Provisioning and Content Ingestion</title>
+    <author fullname="PARK, Kyungmo">
+      <organization>Samsung Electronics Co., Ltd</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

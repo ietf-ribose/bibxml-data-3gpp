@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 22.001:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.001/22001-900.zip">
   <front>
     <title>Principles of circuit telecommunication services supported by a Public Land Mobile Network (PLMN)</title>
+    <author fullname="MIETTINEN, Natalia">
+      <organization>NOKIA UK R&amp;D Ltd</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
   </front>
 </reference>

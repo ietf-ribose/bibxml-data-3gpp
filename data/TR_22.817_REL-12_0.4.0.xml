@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 22.817:Rel-12/0.4.0">
   <front>
     <title>Study on UICC/USIM enhancements</title>
+    <author fullname="MACCHI, Ilario">
+      <organization>GIESECKE &amp; DEVRIENT GmbH</organization>
+    </author>
     <workgroup>S1</workgroup>
   </front>
 </reference>

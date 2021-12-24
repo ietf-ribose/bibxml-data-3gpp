@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 25.303:Rel-4/4.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.303/25303-450.zip">
   <front>
     <title>Interlayer procedures in Connected Mode</title>
+    <author fullname="SEBIRE, Benoist">
+      <organization>Nokia Networks</organization>
+    </author>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

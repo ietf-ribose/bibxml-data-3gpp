@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 33.105:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.105/33105-b00.zip">
   <front>
     <title>3G Security; Cryptographic algorithm requirements</title>
+    <author fullname="CHIKAZAWA, Takeshi">
+      <organization>Mitsubishi Electric Corp</organization>
+    </author>
     <workgroup>S3</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S3</workgroup>
     <abstract>Defines requirements for standard cipher and integrity algorithm.</abstract>
   </front>

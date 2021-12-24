@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 36.101:Rel-9/9.11.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.101/36101-9b0.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception</title>
+    <author fullname="LIM, Suhwan">
+      <organization>LG Electronics Inc.</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

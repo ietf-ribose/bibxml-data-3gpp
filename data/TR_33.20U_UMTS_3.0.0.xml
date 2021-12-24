@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TR 33.20U:UMTS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.20U/3320U-300.zip">
   <front>
     <title>Security principles for the UMTS</title>
-    <workgroup>-</workgroup>
+    <author fullname="BERGMANN, Ansgar">
+      <organization>Hillebrand GmbH</organization>
+    </author>
     <workgroup>-</workgroup>
     <workgroup>SMG10</workgroup>
   </front>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 26.801:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.801/26801-100.zip">
   <front>
     <title>User Equipment (UE) supporting handset mode with non-traditional earpieces</title>
+    <author fullname="SCHEVCIW, Andre">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
     <workgroup>S4</workgroup>
   </front>
 </reference>

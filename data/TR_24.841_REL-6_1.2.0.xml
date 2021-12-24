@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 24.841:Rel-6/1.2.0">
   <front>
     <title>Presence service based on Session Initiation Protocol (SIP); Functional models, information flows and protocol details</title>
+    <author fullname="DRAGE, Keith">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
   </front>
 </reference>

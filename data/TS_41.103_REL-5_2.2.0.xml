@@ -1,7 +1,9 @@
 <reference anchor="3GPP.TS 41.103:Rel-5/2.2.0">
   <front>
     <title>GSM Release 5 specifications</title>
+    <author fullname="MEREDITH, John M">
+      <organization>ETSI</organization>
+    </author>
     <workgroup>SP</workgroup>
-    <workgroup>-</workgroup>
   </front>
 </reference>

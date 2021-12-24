@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 33.814:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.814/33814-100.zip">
   <front>
     <title>Study on the security of the enhancement to the 5G Core (5GC) location services</title>
+    <author fullname="ZHOU, Wei">
+      <organization>CATT</organization>
+    </author>
     <workgroup>S3</workgroup>
   </front>
 </reference>

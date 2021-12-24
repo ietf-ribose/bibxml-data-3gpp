@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 06.60:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.60/0660-700.zip">
   <front>
     <title>Enhanced full rate speech transcoding</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
     <workgroup>S4</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>SMG11</workgroup>
   </front>
 </reference>

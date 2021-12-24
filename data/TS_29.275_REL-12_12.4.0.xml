@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS 29.275:Rel-12/12.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.275/29275-c40.zip">
   <front>
     <title>Proxy Mobile IPv6 (PMIPv6) based Mobility and Tunnelling protocols; Stage 3</title>
+    <author fullname="MATSUURA, Takaaki">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
     <workgroup>C4</workgroup>
   </front>
 </reference>

@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 23.038:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.038/23038-a00.zip">
   <front>
     <title>Alphabets and language-specific information</title>
+    <author fullname="CHIN, ChenHo">
+      <organization>Guangdong OPPO Mobile Telecom.</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes the language specific requirements for the terminals including character coding.</abstract>
   </front>

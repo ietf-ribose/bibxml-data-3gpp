@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 38.817-02:Rel-15/0.0.1">
   <front>
     <title>General aspects for Base Station (BS) Radio Frequency (RF) for NR</title>
+    <author fullname="SKOLD, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 36.876:Rel-13/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.876/36876-101.zip">
   <front>
     <title>Study on further enhancements of small cell high layer aspects for LTE</title>
+    <author fullname="HAN, Feng">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
     <workgroup>R3</workgroup>
   </front>
 </reference>

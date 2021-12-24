@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 04.68:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.68/0468-710.zip">
   <front>
     <title>Group Call Control (GCC) Protocol</title>
+    <author fullname="LAUSTER, Reinhard">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>
 </reference>

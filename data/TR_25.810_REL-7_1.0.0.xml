@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TR 25.810:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.810/25810-100.zip">
   <front>
     <title>UMTS 2.6 GHz (FDD) Work Item Technical Report</title>
+    <author fullname="SÄYNÄJÄKANGAS, Tuomo">
+      <organization>Nokia Networks Oy</organization>
+    </author>
     <workgroup>R4</workgroup>
   </front>
 </reference>

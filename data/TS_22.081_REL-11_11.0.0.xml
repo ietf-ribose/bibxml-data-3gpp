@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TS 22.081:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.081/22081-b00.zip">
   <front>
     <title>Line Identification supplementary services; Stage 1</title>
+    <author fullname="RODERMUND, Friedhelm">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
     <workgroup>S1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the supplementary services belonging to the group line identification supplementary services. The group of line identification supplementary services is divided into the following four supplementary services:
 CLIP:	calling line identification presentation (clause 1);

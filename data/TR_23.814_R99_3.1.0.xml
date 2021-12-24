@@ -1,8 +1,10 @@
 <reference anchor="3GPP.TR 23.814:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.814/23814-310.zip">
   <front>
     <title>Separating RR and MM specific parts of the MS Classmark</title>
+    <author fullname="MAYER, Georg">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
     <workgroup>C1</workgroup>
-    <workgroup>-</workgroup>
     <workgroup>N1</workgroup>
   </front>
 </reference>

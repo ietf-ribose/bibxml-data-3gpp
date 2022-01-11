@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.310:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.310/33310-c00.zip">
+<reference anchor="3GPP.TS.33.310:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.310/33310-c00.zip">
   <front>
     <title>Network Domain Security (NDS); Authentication Framework (AF)</title>
     <author fullname="JERICHOW, Anja">

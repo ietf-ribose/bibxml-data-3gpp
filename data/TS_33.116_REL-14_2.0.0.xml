@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.116:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.116/33116-200.zip">
+<reference anchor="3GPP.TS.33.116:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.116/33116-200.zip">
   <front>
     <title>Security Assurance Specification (SCAS) for the MME network product class</title>
     <author fullname="ZUGENMAIER, Alf">

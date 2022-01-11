@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.976:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.976/23976-900.zip">
+<reference anchor="3GPP.TR.23.976:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.976/23976-900.zip">
   <front>
     <title>Push architecture</title>
     <author fullname="ALFANO, Nicholas">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 02.22:R96/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.22/0222-530.zip">
+<reference anchor="3GPP.TS.02.22:R96/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.22/0222-530.zip">
   <front>
     <title>Stage 1 for personalisation of GSM ME</title>
     <author fullname="SCARRONE, Enrico">

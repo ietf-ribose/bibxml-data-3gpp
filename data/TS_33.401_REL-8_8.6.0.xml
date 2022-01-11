@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.401:Rel-8/8.6.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.401/33401-860.zip">
+<reference anchor="3GPP.TS.33.401:Rel-8/8.6.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.401/33401-860.zip">
   <front>
     <title>3GPP System Architecture Evolution (SAE); Security architecture</title>
     <author fullname="PRASAD, Anand">

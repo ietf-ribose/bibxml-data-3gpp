@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.337:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.337/24337-b30.zip">
+<reference anchor="3GPP.TS.24.337:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.337/24337-b30.zip">
   <front>
     <title>IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem (IMS) inter-UE transfer; Stage 3</title>
     <author fullname="WEI, haitao">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.870:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.870/37870-200.zip">
+<reference anchor="3GPP.TR.37.870:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.870/37870-200.zip">
   <front>
     <title>Study on Multi-RAT joint coordination</title>
     <author fullname="KIMBA DIT ADAMOU, Boubacar">

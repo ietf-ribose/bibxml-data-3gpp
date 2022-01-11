@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.717-02-01:Rel-17/0.6.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.717-02-01/38717-02-01-060.zip">
+<reference anchor="3GPP.TR.38.717-02-01:Rel-17/0.6.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.717-02-01/38717-02-01-060.zip">
   <front>
     <title>Rel-17 NR Inter-band Carrier Aggregation/Dual Connectivity for 2 bands DL with x bands UL (x=1,2)</title>
     <author fullname="CAO, Aijun">

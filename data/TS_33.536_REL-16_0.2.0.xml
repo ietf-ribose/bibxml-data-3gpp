@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.536:Rel-16/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.536/33536-020.zip">
+<reference anchor="3GPP.TS.33.536:Rel-16/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.536/33536-020.zip">
   <front>
     <title>Security aspects of 3GPP support for advanced Vehicle-to-Everything (V2X) services</title>
     <author fullname="KIM, Dongjoo">

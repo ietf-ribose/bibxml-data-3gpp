@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.862:Rel-17/0.1.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.862/33862-010.zip">
+<reference anchor="3GPP.TR.33.862:Rel-17/0.1.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.862/33862-010.zip">
   <front>
     <title>Study on security aspects of the Message Service for MIoT over the 5G System (MSGin5G)</title>
     <author fullname="HUANG, Xiaoting">

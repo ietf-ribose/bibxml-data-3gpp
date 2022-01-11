@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 05.50:R99/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.50/0550-810.zip">
+<reference anchor="3GPP.TR.05.50:R99/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.50/0550-810.zip">
   <front>
     <title>Background for RF Requirements</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

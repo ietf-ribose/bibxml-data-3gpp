@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 35.919:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/35_series/35.919/35919-d00.zip">
+<reference anchor="3GPP.TR.35.919:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/35_series/35.919/35919-d00.zip">
   <front>
     <title>Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 &amp; UIA2; Document 5: Design and evaluation report</title>
     <author fullname="SAHLIN, Bengt">

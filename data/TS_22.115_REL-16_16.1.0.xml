@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.115:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.115/22115-g10.zip">
+<reference anchor="3GPP.TS.22.115:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.115/22115-g10.zip">
   <front>
     <title>Service aspects; Charging and billing</title>
     <author fullname="SCARRONE, Enrico">

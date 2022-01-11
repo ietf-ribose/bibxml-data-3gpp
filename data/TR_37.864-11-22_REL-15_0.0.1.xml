@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.864-11-22:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.864-11-22/37864-11-22-001.zip">
+<reference anchor="3GPP.TR.37.864-11-22:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.864-11-22/37864-11-22-001.zip">
   <front>
     <title>E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 1 Down Link (DL) / 1 Up Link (UL) and inter- / intra-band NR 2 Down Link (DL) / 2 Up Link (UL) bands (Frequency Range 1 (FR1) + Frequency Range 2 (FR2))</title>
     <author fullname="OGUMA, Yuta">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.806:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.806/32806-700.zip">
+<reference anchor="3GPP.TR.32.806:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.806/32806-700.zip">
   <front>
     <title>Telecommunication management; Application guide for use of Integration Reference Points (IRPs) on peer-to-peer (p2p) interface</title>
     <author fullname="TOCHE, Christian">

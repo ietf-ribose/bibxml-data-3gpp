@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 51.011:Rel-4/4.6.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.011/51011-460.zip">
+<reference anchor="3GPP.TS.51.011:Rel-4/4.6.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.011/51011-460.zip">
   <front>
     <title>Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) interface</title>
     <author fullname="PHAN, Ly Thanh">

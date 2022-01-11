@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.716-03-01:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.716-03-01/38716-03-01-100.zip">
+<reference anchor="3GPP.TR.38.716-03-01:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.716-03-01/38716-03-01-100.zip">
   <front>
     <title>NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 3 bands Down Link (DL) / 1 bands Up Link (UL)</title>
     <author fullname="SONG, Yuexia">

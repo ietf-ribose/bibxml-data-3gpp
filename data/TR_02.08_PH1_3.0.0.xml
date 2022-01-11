@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 02.08:Ph1/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.08/0208-300.zip">
+<reference anchor="3GPP.TR.02.08:Ph1/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.08/0208-300.zip">
   <front>
     <title>Quality of Service (QoS) / GSM system performance</title>
     <author fullname="TWINGLER, Jonas">

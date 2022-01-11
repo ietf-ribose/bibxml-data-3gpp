@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.107:Rel-5/5.11.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.107/23107-5b0.zip">
+<reference anchor="3GPP.TS.23.107:Rel-5/5.11.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.107/23107-5b0.zip">
   <front>
     <title>Quality of Service (QoS) concept and architecture</title>
     <author fullname="RINNE, Janne">

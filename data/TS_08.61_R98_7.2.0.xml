@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 08.61:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.61/0861-720.zip">
+<reference anchor="3GPP.TS.08.61:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.61/0861-720.zip">
   <front>
     <title>In-band control of remote transcoders and rate adaptors for half rate traffic channels</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

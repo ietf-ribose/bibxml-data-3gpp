@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.04:R98/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.04/0504-730.zip">
+<reference anchor="3GPP.TS.05.04:R98/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.04/0504-730.zip">
   <front>
     <title>Modulation</title>
     <author fullname="SEBIRE, Benoist">

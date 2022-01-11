@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 44.013:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.013/44013-d00.zip">
+<reference anchor="3GPP.TS.44.013:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.013/44013-d00.zip">
   <front>
     <title>Performance requirements on the mobile radio interface</title>
     <author fullname="LU, Yang">

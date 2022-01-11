@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.122:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.122/29122-200.zip">
+<reference anchor="3GPP.TS.29.122:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.122/29122-200.zip">
   <front>
     <title>T8 reference point for Northbound APIs</title>
     <author fullname="YAN, Yali">

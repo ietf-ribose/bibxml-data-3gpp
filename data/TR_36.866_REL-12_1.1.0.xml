@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.866:Rel-12/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.866/36866-110.zip">
+<reference anchor="3GPP.TR.36.866:Rel-12/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.866/36866-110.zip">
   <front>
     <title>Study on Network-Assisted Interference Cancellation and Suppression (NAIC) for LTE</title>
     <author fullname="ZHUANG, Jeff">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.855:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.855/25855-100.zip">
+<reference anchor="3GPP.TR.25.855:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.855/25855-100.zip">
   <front>
     <title>High Speed Downlink Packet Access (HSDPA); Overall UTRAN description</title>
     <author fullname="KUCHIBHOTLA, Ravi">

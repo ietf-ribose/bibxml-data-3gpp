@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 28.809:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.809/28809-h00.zip">
+<reference anchor="3GPP.TR.28.809:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.809/28809-h00.zip">
   <front>
     <title>Study on enhancement of management data analytics</title>
     <author fullname="YAO, Yizhi">

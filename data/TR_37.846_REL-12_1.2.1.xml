@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.846:Rel-12/1.2.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.846/37846-121.zip">
+<reference anchor="3GPP.TR.37.846:Rel-12/1.2.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.846/37846-121.zip">
   <front>
     <title>Study on 2GHz Frequency Division Duplex) FDD for Universal Terrestrial Radio Access (UTRA) and LTE in Region 1 (1980-2010 MHz and 2170-2200 MHz Bands)</title>
     <author fullname="KIM, John">

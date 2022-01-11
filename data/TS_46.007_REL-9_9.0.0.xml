@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.007:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.007/46007-900.zip">
+<reference anchor="3GPP.TS.46.007:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.007/46007-900.zip">
   <front>
     <title>Half rate speech; Test sequences for the GSM half rate speech codec</title>
     <author fullname="JÄRVINEN, Kari">

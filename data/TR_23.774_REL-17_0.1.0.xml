@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.774:Rel-17/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.774/23774-010.zip">
+<reference anchor="3GPP.TR.23.774:Rel-17/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.774/23774-010.zip">
   <front>
     <title>Study on mission critical services over 5G multicast broadcast system</title>
     <author fullname="OPRESCU, Val">

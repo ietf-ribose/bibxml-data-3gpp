@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.243:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.243/22243-700.zip">
+<reference anchor="3GPP.TS.22.243:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.243/22243-700.zip">
   <front>
     <title>Speech recognition framework for automated voice services; Stage 1</title>
     <author fullname="WILLIAMS, David Hugh">

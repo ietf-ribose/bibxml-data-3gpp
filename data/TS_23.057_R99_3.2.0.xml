@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.057:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.057/23057-320.zip">
+<reference anchor="3GPP.TS.23.057:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.057/23057-320.zip">
   <front>
     <title>Mobile Execution Environment (MExE); Functional description; Stage 2</title>
     <author fullname="BRENK, Lars">

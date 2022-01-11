@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.292:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.292/23292-910.zip">
+<reference anchor="3GPP.TS.23.292:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.292/23292-910.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) centralized services; Stage 2</title>
     <author fullname="BENNETT, Andy">

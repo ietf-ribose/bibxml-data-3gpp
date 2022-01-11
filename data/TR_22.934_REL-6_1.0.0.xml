@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.934:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.934/22934-100.zip">
+<reference anchor="3GPP.TR.22.934:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.934/22934-100.zip">
   <front>
     <title>Feasibility study on 3GPP system to Wireless Local Area Network (WLAN) interworking</title>
     <author fullname="YOUNGE, Mark">

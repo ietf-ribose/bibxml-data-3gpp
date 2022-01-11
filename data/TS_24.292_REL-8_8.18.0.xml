@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.292:Rel-8/8.18.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.292/24292-8I0.zip">
+<reference anchor="3GPP.TS.24.292:Rel-8/8.18.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.292/24292-8I0.zip">
   <front>
     <title>IP Multimedia (IM) Core Network (CN) subsystem Centralized Services (ICS); Stage 3</title>
     <author fullname="AXELL, Jörgen">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.881:Rel-15/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.881/26881-003.zip">
+<reference anchor="3GPP.TR.26.881:Rel-15/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.881/26881-003.zip">
   <front>
     <title>Forward Error Correction (FEC) for Mission Critical Services</title>
     <author fullname="LAMBROU, John">

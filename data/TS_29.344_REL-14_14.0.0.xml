@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.344:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.344/29344-e00.zip">
+<reference anchor="3GPP.TS.29.344:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.344/29344-e00.zip">
   <front>
     <title>Proximity-services (ProSe) function to Home Subscriber Server (HSS) aspects; Stage 3</title>
     <author fullname="SHI, Susan">

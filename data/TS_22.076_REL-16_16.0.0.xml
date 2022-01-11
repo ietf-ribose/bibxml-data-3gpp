@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.076:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.076/22076-g00.zip">
+<reference anchor="3GPP.TS.22.076:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.076/22076-g00.zip">
   <front>
     <title>Noise suppression for the AMR codec; Service description; Stage 1</title>
     <author fullname="USAI, Paolino">

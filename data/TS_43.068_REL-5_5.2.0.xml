@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.068:Rel-5/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.068/43068-520.zip">
+<reference anchor="3GPP.TS.43.068:Rel-5/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.068/43068-520.zip">
   <front>
     <title>Voice Group Call Service (VGCS); Stage 2</title>
     <author fullname="LAUSTER, Reinhard">

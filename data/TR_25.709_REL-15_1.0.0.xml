@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.709:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.709/25709-100.zip">
+<reference anchor="3GPP.TR.25.709:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.709/25709-100.zip">
   <front>
     <title>Study on a simplified HS-SCCH for UMTS</title>
     <author fullname="MEDINA, Gerardo">

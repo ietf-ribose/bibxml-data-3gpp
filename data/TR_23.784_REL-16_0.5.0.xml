@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.784:Rel-16/0.5.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.784/23784-050.zip">
+<reference anchor="3GPP.TR.23.784:Rel-16/0.5.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.784/23784-050.zip">
   <front>
     <title>Study on discreet listening and logging for mission critical services</title>
     <author fullname="CHATER-LEA, David">

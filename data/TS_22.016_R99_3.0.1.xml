@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.016:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.016/22016-301.zip">
+<reference anchor="3GPP.TS.22.016:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.016/22016-301.zip">
   <front>
     <title>International Mobile station Equipment Identities (IMEI)</title>
     <author fullname="MIETTINEN, Natalia">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.950:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.950/22950-700.zip">
+<reference anchor="3GPP.TR.22.950:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.950/22950-700.zip">
   <front>
     <title>Priority service feasibility study</title>
     <author fullname="GARRAHAN, James">

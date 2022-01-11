@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 13.34:R96/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.34/1334-100.zip">
+<reference anchor="3GPP.TS.13.34:R96/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.34/1334-100.zip">
   <front>
     <title>Attachment requirements for Global System for Mobile communications (GSM); High Speed Circuit Switched Data (HSCSD) Multislot Mobile Stations; Access</title>
     <workgroup>MSG</workgroup>

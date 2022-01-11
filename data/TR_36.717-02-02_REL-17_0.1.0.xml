@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.717-02-02:Rel-17/0.1.0" target="https://ftp.3gpp.org//Specs/archive/36_series/36.717-02-02/36717-02-02-010.zip">
+<reference anchor="3GPP.TR.36.717-02-02:Rel-17/0.1.0" target="https://ftp.3gpp.org//Specs/archive/36_series/36.717-02-02/36717-02-02-010.zip">
   <front>
     <title>Rel-17 LTE inter-band Carrier Aggregation for 2 bands DL with 2 bands UL</title>
     <author fullname="LIU, Ye">

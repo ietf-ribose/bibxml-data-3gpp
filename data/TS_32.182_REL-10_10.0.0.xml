@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.182:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.182/32182-a00.zip">
+<reference anchor="3GPP.TS.32.182:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.182/32182-a00.zip">
   <front>
     <title>Telecommunication management; User Data Convergence (UDC); Common baseline information model (CBIM)</title>
     <author fullname="TOVINGER, Thomas">

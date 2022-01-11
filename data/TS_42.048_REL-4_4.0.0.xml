@@ -1,9 +1,6 @@
-<reference anchor="3GPP.TS 42.048:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.048/42048-400.zip">
+<reference anchor="3GPP.TS.42.048:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.048/42048-400.zip">
   <front>
     <title>Security mechanisms for the SIM Application Toolkit; Stage 1</title>
-    <author fullname="L'HERITEAU, Denis">
-      <organization>Waiting for new Company</organization>
-    </author>
     <workgroup>T3</workgroup>
     <workgroup>S3</workgroup>
     <workgroup>T3  /  SMG10</workgroup>

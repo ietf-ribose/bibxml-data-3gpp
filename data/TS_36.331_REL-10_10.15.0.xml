@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.331:Rel-10/10.15.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-af0.zip">
+<reference anchor="3GPP.TS.36.331:Rel-10/10.15.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-af0.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Resource Control (RRC); Protocol specification</title>
     <author fullname="JIN, Seungri">

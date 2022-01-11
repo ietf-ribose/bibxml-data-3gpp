@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.222:Rel-11/11.2.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.222/33222-b21.zip">
+<reference anchor="3GPP.TS.33.222:Rel-11/11.2.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.222/33222-b21.zip">
   <front>
     <title>Generic Authentication Architecture (GAA); Access to network application functions using Hypertext Transfer Protocol over Transport Layer Security (HTTPS)</title>
     <author fullname="LEHTOVIRTA, Vesa">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 44.064:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.064/44064-430.zip">
+<reference anchor="3GPP.TS.44.064:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.064/44064-430.zip">
   <front>
     <title>Mobile Station - Serving GPRS Support Node (MS-SGSN); Logical Link Control (LLC) Layer Specification</title>
     <author fullname="AGHILI, Behrouz">

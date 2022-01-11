@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.421:Rel-10/10.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.421/36421-a01.zip">
+<reference anchor="3GPP.TS.36.421:Rel-10/10.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.421/36421-a01.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 layer 1</title>
     <author fullname="ZHANG, Hongzhuo">

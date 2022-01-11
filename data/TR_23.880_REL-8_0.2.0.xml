@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.880:Rel-8/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.880/23880-020.zip">
+<reference anchor="3GPP.TR.23.880:Rel-8/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.880/23880-020.zip">
   <front>
     <title>Stage 2 for Registration in Densely-populated area (RED); Solution Placeholder</title>
     <author fullname="TANAKA, Itsuma">

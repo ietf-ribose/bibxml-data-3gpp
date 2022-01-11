@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.817:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.817/29817-c10.zip">
+<reference anchor="3GPP.TR.29.817:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.817/29817-c10.zip">
   <front>
     <title>Study on eXtensible Markup Language (XML) based access of the Application Function (AF) to the Policy and Charging Rules Function (PCRF)</title>
     <author fullname="BRINKMANN, Horst">

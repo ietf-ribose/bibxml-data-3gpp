@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.769:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.769/23769-100.zip">
+<reference anchor="3GPP.TR.23.769:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.769/23769-100.zip">
   <front>
     <title>Group based enhancements</title>
     <author fullname="ZHANG, Wanqiang">

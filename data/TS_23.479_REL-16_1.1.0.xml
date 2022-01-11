@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.479:Rel-16/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.479/23479-110.zip">
+<reference anchor="3GPP.TS.23.479:Rel-16/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.479/23479-110.zip">
   <front>
     <title>User Equipment (UE) Multimedia Broadcast / Multicast Service (MBMS) Application Programming Interfaces (APIs) for Mission Critical Services (MCX)</title>
     <author fullname="ZHANG, Ling">

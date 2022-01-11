@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.401:Rel-9/9.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.401/36401-921.zip">
+<reference anchor="3GPP.TS.36.401:Rel-9/9.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.401/36401-921.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Architecture description</title>
     <author fullname="NG, Cheng Hock">

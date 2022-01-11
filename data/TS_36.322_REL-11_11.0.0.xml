@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.322:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.322/36322-b00.zip">
+<reference anchor="3GPP.TS.36.322:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.322/36322-b00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Link Control (RLC) protocol specification</title>
     <author fullname="HARADA, Kouhei">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.905:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.905/33905-g00.zip">
+<reference anchor="3GPP.TR.33.905:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.905/33905-g00.zip">
   <front>
     <title>Recommendations for Trusted Open Platforms</title>
     <author fullname="HOLTMANNS, Silke">

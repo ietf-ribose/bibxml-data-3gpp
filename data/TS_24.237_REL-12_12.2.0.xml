@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.237:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.237/24237-c20.zip">
+<reference anchor="3GPP.TS.24.237:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.237/24237-c20.zip">
   <front>
     <title>IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem (IMS) service continuity; Stage 3</title>
     <author fullname="SHAH, Sapan">

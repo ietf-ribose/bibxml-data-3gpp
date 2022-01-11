@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.280:Rel-8/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.280/32280-021.zip">
+<reference anchor="3GPP.TS.32.280:Rel-8/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.280/32280-021.zip">
   <front>
     <title>Telecommunication management; Charging management; Advice of Charge (AoC) service</title>
     <author fullname="GARDELLA, Maryse">

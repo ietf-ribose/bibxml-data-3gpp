@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 28.732:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.732/28732-d00.zip">
+<reference anchor="3GPP.TS.28.732:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.732/28732-d00.zip">
   <front>
     <title>Telecommunication management; Transport Network (TN) interface Network Resource Model (NRM) Integration Reference Point (IRP);  Information Service (IS)</title>
     <author fullname="TSE, Edwin">

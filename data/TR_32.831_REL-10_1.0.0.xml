@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.831:Rel-10/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.831/32831-100.zip">
+<reference anchor="3GPP.TR.32.831:Rel-10/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.831/32831-100.zip">
   <front>
     <title>Telecommunication management; Study on alignment of 3GPP Performance Management (PM) and TeleManagement Forum (TMF) Interface Program (TIP) Performance Management</title>
     <author fullname="SUDARSAN, Padma">

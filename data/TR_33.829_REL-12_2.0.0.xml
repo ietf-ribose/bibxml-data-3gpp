@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.829:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.829/33829-200.zip">
+<reference anchor="3GPP.TR.33.829:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.829/33829-200.zip">
   <front>
     <title>Extended IP Multimedia Subsystem (IMS) media plane security features</title>
     <author fullname="HOWARD, Peter">

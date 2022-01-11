@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.842:Rel-12/1.7.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.842/37842-170.zip">
+<reference anchor="3GPP.TR.37.842:Rel-12/1.7.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.842/37842-170.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial Radio Access (UTRA; Radio Frequency (RF) requirement background for Active Antenna System (AAS) Base Station (BS)</title>
     <author fullname="KYBETT, Richard">

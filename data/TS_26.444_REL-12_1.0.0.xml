@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.444:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.444/26444-100.zip">
+<reference anchor="3GPP.TS.26.444:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.444/26444-100.zip">
   <front>
     <title>Codec for Enhanced Voice Services (EVS); Test sequences</title>
     <author fullname="POBLOTH, Harald">

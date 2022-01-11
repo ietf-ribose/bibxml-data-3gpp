@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 10.60:R96/5.3.4" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.60/1060-534.zip">
+<reference anchor="3GPP.TS.10.60:R96/5.3.4" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.60/1060-534.zip">
   <front>
     <title>General Packet Radio Services (GPRS); Project Scheduling and Open Issues</title>
     <author fullname="PETERSEN, Johan">

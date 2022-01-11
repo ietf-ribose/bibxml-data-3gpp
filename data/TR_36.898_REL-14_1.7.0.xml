@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.898:Rel-14/1.7.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.898/36898-170.zip">
+<reference anchor="3GPP.TR.36.898:Rel-14/1.7.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.898/36898-170.zip">
   <front>
     <title>Network Assistance for Network Synchronization</title>
     <author fullname="WANG, Yan">

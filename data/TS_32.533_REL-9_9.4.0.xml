@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.533:Rel-9/9.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.533/32533-940.zip">
+<reference anchor="3GPP.TS.32.533:Rel-9/9.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.533/32533-940.zip">
   <front>
     <title>Telecommunication management; Software management (SwM); Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
     <author fullname="ZOU, Lan">

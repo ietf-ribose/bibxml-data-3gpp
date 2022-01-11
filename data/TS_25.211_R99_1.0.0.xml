@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.211:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.211/25211-100.zip">
+<reference anchor="3GPP.TS.25.211:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.211/25211-100.zip">
   <front>
     <title>Physical channels and mapping of transport channels onto physical channels (FDD)</title>
     <author fullname="PARKVALL, Stefan">

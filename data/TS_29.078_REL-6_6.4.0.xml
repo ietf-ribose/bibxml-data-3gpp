@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.078:Rel-6/6.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.078/29078-640.zip">
+<reference anchor="3GPP.TS.29.078:Rel-6/6.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.078/29078-640.zip">
   <front>
     <title>Customised Applications for Mobile network Enhanced Logic (CAMEL) Phase X; CAMEL Application Part (CAP) specification</title>
     <author fullname="DE GREGORIO, Jesus">

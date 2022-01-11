@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.831:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.831/36831-b00.zip">
+<reference anchor="3GPP.TR.36.831:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.831/36831-b00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced Carrier Aggregation (CA) in band 7</title>
     <author fullname="MA, Zhangchao">

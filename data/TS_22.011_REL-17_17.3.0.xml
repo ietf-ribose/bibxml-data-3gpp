@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.011:Rel-17/17.3.0" target="https://www.3gpp.org/ftp//Specs/archive/22_series/22.011/22011-h30.zip">
+<reference anchor="3GPP.TS.22.011:Rel-17/17.3.0" target="https://www.3gpp.org/ftp//Specs/archive/22_series/22.011/22011-h30.zip">
   <front>
     <title>Service accessibility</title>
     <author fullname="LOTTIN, Philippe">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.864:Rel-10/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.864/25864-200.zip">
+<reference anchor="3GPP.TR.25.864:Rel-10/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.864/25864-200.zip">
   <front>
     <title>Downlink configurations for Four-carrier High Speed Download Packet Access (4C-HSDPA)</title>
     <author fullname="BHARADWAJ, Arjun">

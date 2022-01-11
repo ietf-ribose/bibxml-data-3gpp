@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 45.914:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.914/45914-930.zip">
+<reference anchor="3GPP.TR.45.914:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.914/45914-930.zip">
   <front>
     <title>Circuit switched voice capacity evolution for GSM/EDGE Radio Access Network (GERAN)</title>
     <author fullname="HOFMANN, Juergen">

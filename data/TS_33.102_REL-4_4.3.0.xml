@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.102:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.102/33102-430.zip">
+<reference anchor="3GPP.TS.33.102:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.102/33102-430.zip">
   <front>
     <title>3G security; Security architecture</title>
     <author fullname="JERICHOW, Anja">

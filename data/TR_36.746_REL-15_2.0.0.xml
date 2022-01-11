@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.746:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.746/36746-200.zip">
+<reference anchor="3GPP.TR.36.746:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.746/36746-200.zip">
   <front>
     <title>Study on further enhancements to LTE Device to Device (D2D), UE to network relays for Internet of Things (IoT) and wearables</title>
     <author fullname="LEE, Jaewook">

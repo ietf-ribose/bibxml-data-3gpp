@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.872:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.872/33872-020.zip">
+<reference anchor="3GPP.TR.33.872:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.872/33872-020.zip">
   <front>
     <title>Study on security enhancements to Web Real Time Communication (WebRTC) access to IP Multimedia Subsystem (IMS)</title>
     <author fullname="LEHTOVIRTA, Vesa">

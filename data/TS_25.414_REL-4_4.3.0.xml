@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.414:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.414/25414-430.zip">
+<reference anchor="3GPP.TS.25.414:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.414/25414-430.zip">
   <front>
     <title>UTRAN Iu interface data transport and transport signalling</title>
     <author fullname="SHI, Nianshan">

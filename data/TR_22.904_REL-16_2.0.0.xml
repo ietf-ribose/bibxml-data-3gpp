@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.904:Rel-16/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.904/22904-200.zip">
+<reference anchor="3GPP.TR.22.904:Rel-16/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.904/22904-200.zip">
   <front>
     <title>Study on user-centric identifiers and authentication</title>
     <author fullname="BISCHINGER, Kurt">

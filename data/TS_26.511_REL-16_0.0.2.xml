@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.511:Rel-16/0.0.2" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.511/26511-002.zip">
+<reference anchor="3GPP.TS.26.511:Rel-16/0.0.2" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.511/26511-002.zip">
   <front>
     <title>5G Media Streaming (5GMS); Profiles, codecs and formats</title>
     <author fullname="TENIOU, Gilles">

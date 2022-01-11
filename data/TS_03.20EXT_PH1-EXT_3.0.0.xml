@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.20ext:Ph1-EXT/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.20ext/0320ext-300.zip">
+<reference anchor="3GPP.TS.03.20ext:Ph1-EXT/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.20ext/0320ext-300.zip">
   <front>
     <title>Security-related fetwork functions (Ext)</title>
     <author fullname="NGUYEN NGOC, Sebastien">

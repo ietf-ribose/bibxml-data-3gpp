@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.892:Rel-8/0.5.6" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.892/23892-056.zip">
+<reference anchor="3GPP.TR.23.892:Rel-8/0.5.6" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.892/23892-056.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) centralized services</title>
     <author fullname="BENNETT, Andy">

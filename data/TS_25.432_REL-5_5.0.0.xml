@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.432:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.432/25432-500.zip">
+<reference anchor="3GPP.TS.25.432:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.432/25432-500.zip">
   <front>
     <title>UTRAN Iub interface: signalling transport</title>
     <author fullname="WILSON, Mick">

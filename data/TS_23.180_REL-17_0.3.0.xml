@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.180:Rel-17/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.180/23180-030.zip">
+<reference anchor="3GPP.TS.23.180:Rel-17/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.180/23180-030.zip">
   <front>
     <title>Mission critical services support in the Isolated Operation for Public Safety (IOPS) mode of operation</title>
     <author fullname="SOLANO, Camilo">

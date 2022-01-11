@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.273:Rel-6/0.5.0">
+<reference anchor="3GPP.TS.26.273:Rel-6/0.5.0">
   <front>
     <title>ANSI-C code for the fixed-point Extended Adaptive Multi-Rate - Wideband (AMR-WB+) speech codec</title>
     <author fullname="BRUHN, Stefan">

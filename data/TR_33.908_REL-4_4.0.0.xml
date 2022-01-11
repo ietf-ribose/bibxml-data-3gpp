@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.908:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.908/33908-400.zip">
+<reference anchor="3GPP.TR.33.908:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.908/33908-400.zip">
   <front>
     <title>3G Security; General report on the design, specification and evaluation of 3GPP standard confidentiality and integrity algorithms</title>
     <author fullname="WALKER, Michael">

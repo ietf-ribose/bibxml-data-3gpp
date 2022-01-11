@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.978:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.978/33978-700.zip">
+<reference anchor="3GPP.TR.33.978:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.978/33978-700.zip">
   <front>
     <title>Security aspects of early IP Multimedia Subsystem (IMS)</title>
     <author fullname="HOWARD, Peter">

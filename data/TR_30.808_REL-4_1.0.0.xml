@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 30.808:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.808/30808-100.zip">
+<reference anchor="3GPP.TR.30.808:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.808/30808-100.zip">
   <front>
     <title>Project plan on Packet Architecture and Circuit Architecture</title>
     <author fullname="DROPMANN, Ulrich">

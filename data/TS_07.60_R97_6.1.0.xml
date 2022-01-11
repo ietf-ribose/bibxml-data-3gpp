@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 07.60:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.60/0760-610.zip">
+<reference anchor="3GPP.TS.07.60:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.60/0760-610.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Mobile Station (MS) supporting GPRS</title>
     <author fullname="BIONDIC, Nevenka">

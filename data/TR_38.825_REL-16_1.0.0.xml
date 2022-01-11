@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.825:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/38_series/38.825/38825-100.zip">
+<reference anchor="3GPP.TR.38.825:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/38_series/38.825/38825-100.zip">
   <front>
     <title>Study on NR industrial Internet of Things (IoT)</title>
     <author fullname="KOZIOL, Dawid">

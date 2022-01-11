@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.063:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.063/43063-400.zip">
+<reference anchor="3GPP.TS.43.063:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.063/43063-400.zip">
   <front>
     <title>Packet Data on Signalling channels service (PDS) Service description, Stage 2</title>
     <author fullname="JACOBSOHN, Dieter">

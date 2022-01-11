@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.810:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.810/36810-900.zip">
+<reference anchor="3GPP.TR.36.810:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.810/36810-900.zip">
   <front>
     <title>Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial Radio Access (E-UTRA); UMTS / LTE in 800 MHz for Europe</title>
     <author fullname="QUESETH, Olav">

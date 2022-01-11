@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 44.031:Rel-6/6.4.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.031/44031-640.zip">
+<reference anchor="3GPP.TS.44.031:Rel-6/6.4.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.031/44031-640.zip">
   <front>
     <title>Location Services (LCS); Mobile Station (MS) - Serving Mobile Location Centre (SMLC) Radio Resource LCS Protocol (RRLP)</title>
     <author fullname="HOFMANN, Juergen">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 27.001:Rel-4/4.10.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.001/27001-4a0.zip">
+<reference anchor="3GPP.TS.27.001:Rel-4/4.10.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.001/27001-4a0.zip">
   <front>
     <title>General on Terminal Adaptation Functions (TAF) for Mobile Stations (MS)</title>
     <author fullname="BIONDIC, Nevenka">

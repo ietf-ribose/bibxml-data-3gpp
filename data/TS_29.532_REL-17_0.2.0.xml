@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.532:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.532/29532-020.zip">
+<reference anchor="3GPP.TS.29.532:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.532/29532-020.zip">
   <front>
     <title>5G System; 5G Multicast-Broadcast Session Management Services; Stage 3</title>
     <author fullname="GULBANI, Giorgi">

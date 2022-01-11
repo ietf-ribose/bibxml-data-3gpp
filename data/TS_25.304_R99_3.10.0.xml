@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.304:R99/3.10.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-3a0.zip">
+<reference anchor="3GPP.TS.25.304:R99/3.10.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-3a0.zip">
   <front>
     <title>User Equipment (UE) procedures in idle mode and procedures for cell reselection in connected mode</title>
     <author fullname="CHEN, Jun">

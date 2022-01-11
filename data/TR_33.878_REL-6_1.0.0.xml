@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.878:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.878/33878-100.zip">
+<reference anchor="3GPP.TR.33.878:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.878/33878-100.zip">
   <front>
     <title>Security aspects of early IMS</title>
     <author fullname="HOWARD, Peter">

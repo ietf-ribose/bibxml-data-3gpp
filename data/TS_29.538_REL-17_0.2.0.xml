@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.538:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.538/29538-020.zip">
+<reference anchor="3GPP.TS.29.538:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.538/29538-020.zip">
   <front>
     <title>Enabling MSGin5G Service; Application Programming Interfaces (API) specification; Stage 3</title>
     <author fullname="HUANG, Zhenning">

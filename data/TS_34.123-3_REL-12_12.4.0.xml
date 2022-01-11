@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.123-3:Rel-12/12.4.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-3/34123-3-c40.zip">
+<reference anchor="3GPP.TS.34.123-3:Rel-12/12.4.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-3/34123-3-c40.zip">
   <front>
     <title>User Equipment (UE) conformance specification; Part 3: Abstract test suite (ATS)</title>
     <author fullname="GENOUD, Olivier">

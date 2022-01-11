@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.413:Rel-16/16.2.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.413/38413-g20.zip">
+<reference anchor="3GPP.TS.38.413:Rel-16/16.2.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.413/38413-g20.zip">
   <front>
     <title>NG-RAN; NG Application Protocol (NGAP)</title>
     <author fullname="KELLEY, Sean">

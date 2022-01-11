@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.124:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.124/34124-720.zip">
+<reference anchor="3GPP.TS.34.124:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.124/34124-720.zip">
   <front>
     <title>Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment</title>
     <author fullname="SORENSEN, Ole Bak">

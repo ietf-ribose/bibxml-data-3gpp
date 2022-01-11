@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 44.001:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.001/44001-400.zip">
+<reference anchor="3GPP.TS.44.001:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.001/44001-400.zip">
   <front>
     <title>Mobile Station - Base Station System (MS - BSS) interface; General aspects and principles</title>
     <author fullname="JOHANSSON, Kaj">

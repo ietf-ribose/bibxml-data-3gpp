@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.756:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.756/25756-020.zip">
+<reference anchor="3GPP.TR.25.756:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.756/25756-020.zip">
   <front>
     <title>RAN sharing enhancements for UMTS</title>
     <author fullname="YANG, Xudong">

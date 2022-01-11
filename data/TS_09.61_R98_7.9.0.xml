@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 09.61:R98/7.9.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.61/0961-790.zip">
+<reference anchor="3GPP.TS.09.61:R98/7.9.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.61/0961-790.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Interworking between the Public Land Mobile Network (PLMN) supporting GPRS and Packet Data Networks (PDN)</title>
     <author fullname="EMANUELSSON, Sven-ove">

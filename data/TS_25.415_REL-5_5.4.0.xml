@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.415:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.415/25415-540.zip">
+<reference anchor="3GPP.TS.25.415:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.415/25415-540.zip">
   <front>
     <title>UTRAN Iu interface user plane protocols</title>
     <author fullname="SHI, Nianshan">

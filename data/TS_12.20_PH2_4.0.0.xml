@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 12.20:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.20/1220-400.zip">
+<reference anchor="3GPP.TS.12.20:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.20/1220-400.zip">
   <front>
     <title>Base Station System (BSS) Management Information</title>
     <author fullname="TOCHE, Christian">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 48.018:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.018/48018-910.zip">
+<reference anchor="3GPP.TS.48.018:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.018/48018-910.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN); BSS GPRS protocol (BSSGP)</title>
     <author fullname="HOFMANN, Juergen">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.142:Rel-8/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.142/25142-880.zip">
+<reference anchor="3GPP.TS.25.142:Rel-8/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.142/25142-880.zip">
   <front>
     <title>Base Station (BS) conformance testing (TDD)</title>
     <author fullname="MEYER, Juergen">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.435:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.435/32435-d00.zip">
+<reference anchor="3GPP.TS.32.435:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.435/32435-d00.zip">
   <front>
     <title>Telecommunication management; Performance measurement; eXtensible Markup Language (XML) file format definition</title>
     <author fullname="ZOU, Lan">

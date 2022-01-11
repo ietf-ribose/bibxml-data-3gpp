@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 45.022:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.022/45022-700.zip">
+<reference anchor="3GPP.TS.45.022:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.022/45022-700.zip">
   <front>
     <title>GSM/EDGE Radio link management in hierarchical networks</title>
     <author fullname="HOFMANN, Juergen">

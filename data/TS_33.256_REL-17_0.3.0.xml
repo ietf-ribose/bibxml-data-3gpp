@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.256:Rel-17/0.3.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.256/33256-030.zip">
+<reference anchor="3GPP.TS.33.256:Rel-17/0.3.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.256/33256-030.zip">
   <front>
     <title>Security aspects of Uncrewed Aerial Systems (UAS)</title>
     <author fullname="ESCOTT, Adrian">

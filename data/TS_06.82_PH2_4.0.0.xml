@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.82:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.82/0682-400.zip">
+<reference anchor="3GPP.TS.06.82:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.82/0682-400.zip">
   <front>
     <title>Voice Activity Detection (VAD) for enhanced full rate speech traffic channels</title>
     <author fullname="JÄRVINEN, Kari">

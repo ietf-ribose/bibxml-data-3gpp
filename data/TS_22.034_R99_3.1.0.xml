@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.034:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.034/22034-310.zip">
+<reference anchor="3GPP.TS.22.034:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.034/22034-310.zip">
   <front>
     <title>High Speed Circuit Switched Data (HSCSD); Stage 1</title>
     <author fullname="MIETTINEN, Natalia">

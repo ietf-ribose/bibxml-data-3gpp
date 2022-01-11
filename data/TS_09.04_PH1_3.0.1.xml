@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 09.04:Ph1/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.04/0904-301.zip">
+<reference anchor="3GPP.TS.09.04:Ph1/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.04/0904-301.zip">
   <front>
     <title>Interworking between the Public Land Mobile Network (PLMN) and the Circuit Switched Public Data Network (CSPDN)</title>
     <author fullname="BIONDIC, Nevenka">

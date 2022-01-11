@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.803:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.803/23803-700.zip">
+<reference anchor="3GPP.TR.23.803:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.803/23803-700.zip">
   <front>
     <title>Evolution of policy control and charging</title>
     <author fullname="BERTENYI, Balazs">

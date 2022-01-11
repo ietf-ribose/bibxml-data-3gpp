@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.13:Ph1/3.0.2" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.13/0313-302.zip">
+<reference anchor="3GPP.TS.03.13:Ph1/3.0.2" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.13/0313-302.zip">
   <front>
     <title>Discontinuous Reception (DRX) in the GSM System</title>
     <author fullname="USAI, Paolino">

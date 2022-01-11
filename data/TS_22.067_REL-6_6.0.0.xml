@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.067:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.067/22067-600.zip">
+<reference anchor="3GPP.TS.22.067:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.067/22067-600.zip">
   <front>
     <title>enhanced Multi Level Precedence and Pre-emption service (eMLPP); Stage 1</title>
     <author fullname="SWETINA, Joerg">

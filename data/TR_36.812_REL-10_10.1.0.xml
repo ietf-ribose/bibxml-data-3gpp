@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.812:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.812/36812-a10.zip">
+<reference anchor="3GPP.TR.36.812:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.812/36812-a10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE TDD 2600MHz in US work item Technical Report</title>
     <author fullname="HART, Michael">

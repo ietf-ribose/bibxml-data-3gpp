@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.943:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.943/25943-420.zip">
+<reference anchor="3GPP.TR.25.943:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.943/25943-420.zip">
   <front>
     <title>Deployment aspects</title>
     <author fullname="SKOLD, Johan">

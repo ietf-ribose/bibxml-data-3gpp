@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 02.02:R96/5.3.2" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.02/0202-532.zip">
+<reference anchor="3GPP.TS.02.02:R96/5.3.2" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.02/0202-532.zip">
   <front>
     <title>Bearer Services (BS) Supported by a GSM Public Land Mobile Network (PLMN)</title>
     <author fullname="CARPENTER, Paul">

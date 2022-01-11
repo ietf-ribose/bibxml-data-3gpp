@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.01:Ph2/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.01/0301-401.zip">
+<reference anchor="3GPP.TS.03.01:Ph2/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.01/0301-401.zip">
   <front>
     <title>Network Functions</title>
     <author fullname="GAASVIK, Per-Ola">

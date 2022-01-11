@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.94:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.94/0694-700.zip">
+<reference anchor="3GPP.TS.06.94:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.94/0694-700.zip">
   <front>
     <title>Voice Activity Detector (VAD) for Adaptive Multi Rate (AMR) speech traffic channels</title>
     <author fullname="USAI, Paolino">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.645:Rel-7/7.6.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.645/32645-760.zip">
+<reference anchor="3GPP.TS.32.645:Rel-7/7.6.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.645/32645-760.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition</title>
     <author fullname="TOCHE, Christian">

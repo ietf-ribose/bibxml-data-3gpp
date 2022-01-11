@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.853:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.853/25853-310.zip">
+<reference anchor="3GPP.TR.25.853:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.853/25853-310.zip">
   <front>
     <title>Delay budget within the access stratum</title>
     <author fullname="VON BRANDT, Armin">

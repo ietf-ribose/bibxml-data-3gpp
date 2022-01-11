@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.116:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.116/25116-a00.zip">
+<reference anchor="3GPP.TS.25.116:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.116/25116-a00.zip">
   <front>
     <title>UTRA repeater radio transmission and reception (LCR TDD)</title>
     <author fullname="YAN, Qin">

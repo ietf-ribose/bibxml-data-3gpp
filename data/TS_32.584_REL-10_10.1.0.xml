@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.584:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.584/32584-a10.zip">
+<reference anchor="3GPP.TS.32.584:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.584/32584-a10.zip">
   <front>
     <title>Telecommunication management; Home Node B (HNB) Operations, Administration, Maintenance and Provisioning (OAM&amp;P); XML definitions for Type 1 interface HNB to HNB Management System (HMS)</title>
     <author fullname="ANDRIANOV, Anatoly">

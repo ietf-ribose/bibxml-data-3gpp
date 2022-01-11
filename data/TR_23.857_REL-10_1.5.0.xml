@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.857:Rel-10/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.857/23857-150.zip">
+<reference anchor="3GPP.TR.23.857:Rel-10/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.857/23857-150.zip">
   <front>
     <title>Study of Evolved Packet Core (EPC) nodes restoration</title>
     <author fullname="LU, Fei">

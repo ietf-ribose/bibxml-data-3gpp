@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.201:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.201/38201-g00.zip">
+<reference anchor="3GPP.TS.38.201:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.201/38201-g00.zip">
   <front>
     <title>NR; Physical layer; General description</title>
     <author fullname="NAGATA, Satoshi">

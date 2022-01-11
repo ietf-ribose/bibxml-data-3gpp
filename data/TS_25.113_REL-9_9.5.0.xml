@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.113:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.113/25113-950.zip">
+<reference anchor="3GPP.TS.25.113:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.113/25113-950.zip">
   <front>
     <title>Base station (BS) and repeater electromagnetic compatibility (EMC)</title>
     <author fullname="BARNES, David">

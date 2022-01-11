@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.853:Rel-16/0.7.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.853/33853-070.zip">
+<reference anchor="3GPP.TR.33.853:Rel-16/0.7.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.853/33853-070.zip">
   <front>
     <title>Study on key issues and potential solutions for integrity protection of the User Plane (UP)</title>
     <author fullname="EVANS, Tim P.">

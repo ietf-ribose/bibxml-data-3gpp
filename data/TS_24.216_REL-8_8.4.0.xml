@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.216:Rel-8/8.4.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.216/24216-840.zip">
+<reference anchor="3GPP.TS.24.216:Rel-8/8.4.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.216/24216-840.zip">
   <front>
     <title>Communication Continuity Management Object (MO)</title>
     <author fullname="LU, Yang">

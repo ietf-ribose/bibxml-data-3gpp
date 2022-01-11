@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 21.06U:UMTS/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.06U/2106U-200.zip">
+<reference anchor="3GPP.TR.21.06U:UMTS/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.06U/2106U-200.zip">
   <front>
     <title>O&amp;M requirements for the UMTS</title>
     <author fullname="WEICHSELBAUM, Steffen">

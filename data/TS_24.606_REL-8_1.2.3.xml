@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.606:Rel-8/1.2.3" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.606/24606-123.zip">
+<reference anchor="3GPP.TS.24.606:Rel-8/1.2.3" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.606/24606-123.zip">
   <front>
     <title>Message Waiting Indication (MWI) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification</title>
     <author fullname="WEI, haitao">

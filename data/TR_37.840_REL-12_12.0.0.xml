@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.840:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.840/37840-c00.zip">
+<reference anchor="3GPP.TR.37.840:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.840/37840-c00.zip">
   <front>
     <title>Study of Radio Frequency (RF) and Electromagnetic Compatibility (EMC) requirements for Active Antenna Array System (AAS) base station</title>
     <author fullname="ZHANG, Ronnie">

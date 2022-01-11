@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 28.516:Rel-14/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.516/28516-110.zip">
+<reference anchor="3GPP.TS.28.516:Rel-14/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.516/28516-110.zip">
   <front>
     <title>Telecommunication management; Fault Management (FM) for mobile networks that include virtualized network functions; Procedures</title>
     <author fullname="ZHANG, Kai">

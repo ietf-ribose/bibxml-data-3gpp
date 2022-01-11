@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.868:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.868/25868-500.zip">
+<reference anchor="3GPP.TR.25.868:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.868/25868-500.zip">
   <front>
     <title>Node B synchronization for 1,28 Mcps TDD</title>
     <author fullname="HU, Jinling">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 37.340:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.340/37340-030.zip">
+<reference anchor="3GPP.TS.37.340:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.340/37340-030.zip">
   <front>
     <title>NR; Multi-connectivity; Overall description; Stage-2</title>
     <author fullname="PAROLARI, Sergio">

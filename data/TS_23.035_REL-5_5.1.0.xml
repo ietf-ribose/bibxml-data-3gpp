@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.035:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.035/23035-510.zip">
+<reference anchor="3GPP.TS.23.035:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.035/23035-510.zip">
   <front>
     <title>Immediate Service Termination (IST); Stage 2</title>
     <author fullname="SAHLIN, Bengt">

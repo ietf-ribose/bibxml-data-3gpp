@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.843:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.843/23843-200.zip">
+<reference anchor="3GPP.TR.23.843:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.843/23843-200.zip">
   <front>
     <title>Study on Core Network Overload (CNO) solutions</title>
     <author fullname="SCHRAMM, Mirko">

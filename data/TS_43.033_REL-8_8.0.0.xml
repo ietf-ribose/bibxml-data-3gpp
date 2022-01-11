@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.033:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.033/43033-800.zip">
+<reference anchor="3GPP.TS.43.033:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.033/43033-800.zip">
   <front>
     <title>3G security; Lawful Interception; Stage 2</title>
     <author fullname="LEADBEATER, Alex">

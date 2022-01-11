@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 45.902:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/45_series/45.902/45902-g00.zip">
+<reference anchor="3GPP.TR.45.902:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/45_series/45.902/45902-g00.zip">
   <front>
     <title>GSM/EDGE Flexible Layer One (FLO)</title>
     <author fullname="SEBIRE, Benoist">

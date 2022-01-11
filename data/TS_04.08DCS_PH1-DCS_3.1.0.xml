@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.08dcs:Ph1-DCS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.08dcs/0408dcs-310.zip">
+<reference anchor="3GPP.TS.04.08dcs:Ph1-DCS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.08dcs/0408dcs-310.zip">
   <front>
     <title>Mobile radio interface layer 3 specification (DCS 1800)</title>
     <author fullname="BURBIDGE, Richard">

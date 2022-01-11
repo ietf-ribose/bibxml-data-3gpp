@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 42.033:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.033/42033-600.zip">
+<reference anchor="3GPP.TS.42.033:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.033/42033-600.zip">
   <front>
     <title>Lawful Interception; Stage 1</title>
     <author fullname="LEADBEATER, Alex">

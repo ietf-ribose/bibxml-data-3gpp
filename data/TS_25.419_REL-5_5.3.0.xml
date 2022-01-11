@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.419:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.419/25419-530.zip">
+<reference anchor="3GPP.TS.25.419:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.419/25419-530.zip">
   <front>
     <title>UTRAN Iu-BC interface: Service Area Broadcast Protocol (SABP)</title>
     <author fullname="MCWILLIAMS, Brendan">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.508:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-h00.zip">
+<reference anchor="3GPP.TS.36.508:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-h00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); Common test environments for User Equipment (UE) conformance testing</title>
     <author fullname="JOHN, Jacob">

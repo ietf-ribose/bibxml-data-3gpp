@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.521-2:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.521-2/36521-2-b00.zip">
+<reference anchor="3GPP.TS.36.521-2:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.521-2/36521-2-b00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 2: Implementation Conformance Statement (ICS)</title>
     <author fullname="RUIZ, Emilio">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.868:Rel-15/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.868/32868-101.zip">
+<reference anchor="3GPP.TR.32.868:Rel-15/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.868/32868-101.zip">
   <front>
     <title>Telecommunication management;Study on Operations, Administration and Maintenance (OAM) aspects of Long Term Evolution (LTE) and Wireless LAN (WLAN) integration</title>
     <author fullname="YAO, Yizhi">

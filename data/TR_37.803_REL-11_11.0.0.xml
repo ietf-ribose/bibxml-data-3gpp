@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.803:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.803/37803-b00.zip">
+<reference anchor="3GPP.TR.37.803:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.803/37803-b00.zip">
   <front>
     <title>Universal Mobile Telecommunications System (UMTS) and LTE; Mobility enhancements for Home Node B (HNB) and Home enhanced Node B (HeNB)</title>
     <author fullname="XU, Steven">

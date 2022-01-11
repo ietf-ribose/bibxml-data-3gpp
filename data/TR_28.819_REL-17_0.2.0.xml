@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 28.819:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.819/28819-020.zip">
+<reference anchor="3GPP.TR.28.819:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.819/28819-020.zip">
   <front>
     <title>Study on continuous integration continuous delivery support for 3GPP NFs</title>
     <author fullname="VAISHNAVI, Ishan">

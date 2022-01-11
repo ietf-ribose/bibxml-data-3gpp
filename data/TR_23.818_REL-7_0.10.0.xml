@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.818:Rel-7/0.10.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.818/23818-0a0.zip">
+<reference anchor="3GPP.TR.23.818:Rel-7/0.10.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.818/23818-0a0.zip">
   <front>
     <title>Optimisations and Enhancements for Realtime IMS Communication</title>
     <author fullname="TERRILL, Stephen">

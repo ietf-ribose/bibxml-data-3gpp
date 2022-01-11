@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.70:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.70/0370-600.zip">
+<reference anchor="3GPP.TS.03.70:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.70/0370-600.zip">
   <front>
     <title>Routeing of Calls to/from Public Data Networks (PDN)</title>
     <author fullname="HOLM, Jan">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.91:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.91/0691-710.zip">
+<reference anchor="3GPP.TS.06.91:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.91/0691-710.zip">
   <front>
     <title>Substitution and muting of lost frames for AMR speech traffic channels</title>
     <author fullname="BRUHN, Stefan">

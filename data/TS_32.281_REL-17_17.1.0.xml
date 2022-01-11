@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.281:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.32.281:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.281/32281-h10.zip">
   <front>
     <title>Telecommunication management; Charging management; Announcement service</title>
     <author fullname="SHRADER, David">

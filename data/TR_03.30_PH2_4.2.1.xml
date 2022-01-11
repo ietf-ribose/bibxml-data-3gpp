@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 03.30:Ph2/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.30/0330-421.zip">
+<reference anchor="3GPP.TR.03.30:Ph2/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.30/0330-421.zip">
   <front>
     <title>Radio Network Planning Aspects</title>
     <author fullname="TEGTH, Ulf">

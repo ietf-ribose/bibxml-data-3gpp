@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.716-02-02:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.716-02-02/36716-02-02-010.zip">
+<reference anchor="3GPP.TR.36.716-02-02:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.716-02-02/36716-02-02-010.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-16 for 2 bands Down Link (DL) / 2 band Up Link (UL)</title>
     <author fullname="LIU, Ye">

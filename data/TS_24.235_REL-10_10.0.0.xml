@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.235:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.235/24235-a00.zip">
+<reference anchor="3GPP.TS.24.235:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.235/24235-a00.zip">
   <front>
     <title>3GPP System to Wireless Local Area Network (WLAN) interworking Management Object (MO)</title>
     <author fullname="JACOBSOHN, Dieter">

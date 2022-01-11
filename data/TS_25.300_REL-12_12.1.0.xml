@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.300:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.300/25300-c10.zip">
+<reference anchor="3GPP.TS.25.300:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.300/25300-c10.zip">
   <front>
     <title>Universal Terrestrial Radio Access Network (UTRAN); General description; Stage 2</title>
     <author fullname="AHMED, Ayaz">

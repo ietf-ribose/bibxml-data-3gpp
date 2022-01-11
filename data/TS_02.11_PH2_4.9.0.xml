@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 02.11:Ph2/4.9.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.11/0211-490.zip">
+<reference anchor="3GPP.TS.02.11:Ph2/4.9.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.11/0211-490.zip">
   <front>
     <title>Service accessibility</title>
     <author fullname="DONG, Song">

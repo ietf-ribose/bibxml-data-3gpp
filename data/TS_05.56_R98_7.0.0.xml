@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.56:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.56/0556-700.zip">
+<reference anchor="3GPP.TS.05.56:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.56/0556-700.zip">
   <front>
     <title>GSM Cordless Telephony System (CTS), Phase 1; CTS-Fixed Part (FP) radio subsystem</title>
     <author fullname="USAI, Paolino">

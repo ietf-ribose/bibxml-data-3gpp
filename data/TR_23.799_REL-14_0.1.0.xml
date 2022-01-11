@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.799:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.799/23799-010.zip">
+<reference anchor="3GPP.TR.23.799:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.799/23799-010.zip">
   <front>
     <title>Study on Architecture for Next Generation System</title>
     <author fullname="SUN, Tao">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.182:Rel-17/17.0.0" target="https://www.3gpp.org/ftp//Specs/archive/24_series/24.182/24182-h00.zip">
+<reference anchor="3GPP.TS.24.182:Rel-17/17.0.0" target="https://www.3gpp.org/ftp//Specs/archive/24_series/24.182/24182-h00.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) Customized Alerting Tones (CAT); Protocol specification</title>
     <author fullname="LAUSTER, Reinhard">

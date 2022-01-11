@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.046:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.046/43046-400.zip">
+<reference anchor="3GPP.TS.43.046:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.046/43046-400.zip">
   <front>
     <title>Technical Realization of Facsimile Group 3 Service - non transparent</title>
     <author fullname="BOSWARTHICK, David">

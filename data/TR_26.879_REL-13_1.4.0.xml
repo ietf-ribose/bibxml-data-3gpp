@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.879:Rel-13/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.879/26879-140.zip">
+<reference anchor="3GPP.TR.26.879:Rel-13/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.879/26879-140.zip">
   <front>
     <title>Mission Critical Push To Talk (MCPTT); Media, codecs and Multimedia Broadcast/Multicast Service (MBMS) enhancements for MCPTT over LTE</title>
     <author fullname="TURCOTTE, Eric">

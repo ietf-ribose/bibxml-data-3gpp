@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.849:Rel-13/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.849/33849-070.zip">
+<reference anchor="3GPP.TR.33.849:Rel-13/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.849/33849-070.zip">
   <front>
     <title>Study on subscriber privacy impact in 3GPP</title>
     <author fullname="GAO, Feng">

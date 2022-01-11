@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.827:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.827/36827-b00.zip">
+<reference anchor="3GPP.TR.36.827:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.827/36827-b00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced carrier aggregation band 41</title>
     <author fullname="HART, Michael">

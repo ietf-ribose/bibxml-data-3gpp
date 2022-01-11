@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.611:Rel-8/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.611/24611-150.zip">
+<reference anchor="3GPP.TS.24.611:Rel-8/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.611/24611-150.zip">
   <front>
     <title>Anonymous Communication Rejection (ACR) and Communication Barring (CB) using IP Multimedia (IM)  Core Network (CN) subsystem; Protocol specification</title>
     <author fullname="KREIPL, Michael">

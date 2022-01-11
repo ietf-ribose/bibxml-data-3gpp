@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.505:Rel-8/2.5.0">
+<reference anchor="3GPP.TS.24.505:Rel-8/2.5.0">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services: Conference (CONF); Protocol specification</title>
     <author fullname="LEIS, Peter">

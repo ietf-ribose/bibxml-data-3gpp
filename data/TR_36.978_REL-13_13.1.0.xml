@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.978:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.978/36978-d10.zip">
+<reference anchor="3GPP.TR.36.978:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.978/36978-d10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE) antenna test function definition for two-stage Multiple Input Multiple Output (MIMO) Over The Air (OTA) test method</title>
     <author fullname="RUMNEY, Moray">

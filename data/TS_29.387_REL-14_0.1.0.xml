@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.387:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.387/29387-010.zip">
+<reference anchor="3GPP.TS.29.387:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.387/29387-010.zip">
   <front>
     <title>V2X Control Function to V2X Application Server aspects (V2); Stage 3</title>
     <author fullname="WU, Yizhuang">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.096:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.096/24096-g00.zip">
+<reference anchor="3GPP.TS.24.096:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.096/24096-g00.zip">
   <front>
     <title>Name Identification supplementary services; Stage 3</title>
     <author fullname="WIEHE, Ulrich">

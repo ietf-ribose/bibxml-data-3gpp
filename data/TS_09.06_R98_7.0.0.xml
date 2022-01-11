@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 09.06:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.06/0906-700.zip">
+<reference anchor="3GPP.TS.09.06:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.06/0906-700.zip">
   <front>
     <title>Interworking between a Public Land Mobile Network (PLMN) and a Packet Switched Public Data Network/Intergrated Services digital Network (PSPDN/ISDN) for Support of Packet Switched Data Transmission Services</title>
     <author fullname="BIONDIC, Nevenka">

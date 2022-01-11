@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.008:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.008/24008-420.zip">
+<reference anchor="3GPP.TS.24.008:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.008/24008-420.zip">
   <front>
     <title>Mobile radio interface Layer 3 specification; Core network protocols; Stage 3</title>
     <author fullname="CHIN, ChenHo">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.010:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.010/46010-900.zip">
+<reference anchor="3GPP.TS.46.010:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.010/46010-900.zip">
   <front>
     <title>Full rate speech; Transcoding</title>
     <author fullname="HELLWIG, Karl">

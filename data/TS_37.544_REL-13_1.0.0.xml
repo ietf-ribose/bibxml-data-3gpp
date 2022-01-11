@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 37.544:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.544/37544-100.zip">
+<reference anchor="3GPP.TS.37.544:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.544/37544-100.zip">
   <front>
     <title>Universal Terrestrial Radio Access (UTRA) and Evolved UTRA (E-UTRA); User Equipment (UE) Over The Air (OTA) performance; Conformance testing</title>
     <author fullname="FORTES LOPEZ, Jose M.">

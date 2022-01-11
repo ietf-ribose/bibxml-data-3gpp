@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.215:Rel-5/5.7.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.215/32215-570.zip">
+<reference anchor="3GPP.TS.32.215:Rel-5/5.7.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.215/32215-570.zip">
   <front>
     <title>Telecommunication management; Charging management; Charging data description for the Packet Switched (PS) domain</title>
     <author fullname="GOERMER, Gerald">

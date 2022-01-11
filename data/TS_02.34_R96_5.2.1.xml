@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 02.34:R96/5.2.1" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.34/0234-521.zip">
+<reference anchor="3GPP.TS.02.34:R96/5.2.1" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.34/0234-521.zip">
   <front>
     <title>High Speed Circuit Switched Data (HSCSD); Stage 1</title>
     <author fullname="JARVIS, Andre">

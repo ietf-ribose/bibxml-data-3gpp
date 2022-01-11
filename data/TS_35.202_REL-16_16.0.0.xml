@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 35.202:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/35_series/35.202/35202-g00.zip">
+<reference anchor="3GPP.TS.35.202:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/35_series/35.202/35202-g00.zip">
   <front>
     <title>3G Security; Specification of the 3GPP confidentiality and integrity algorithms; Document 2: Kasumi  specification</title>
     <author fullname="EVANS, Tim P.">

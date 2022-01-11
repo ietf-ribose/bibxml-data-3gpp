@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 08.01:R99/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.01/0801-801.zip">
+<reference anchor="3GPP.TS.08.01:R99/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.01/0801-801.zip">
   <front>
     <title>General Aspects on the BSS-MSC Interface</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

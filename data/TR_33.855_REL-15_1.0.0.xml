@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.855:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.855/33855-100.zip">
+<reference anchor="3GPP.TR.33.855:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.855/33855-100.zip">
   <front>
     <title>Study on security aspects of the 5G Service Based Architecture (SBA)</title>
     <author fullname="JOST, Christine">

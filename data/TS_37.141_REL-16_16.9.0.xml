@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 37.141:Rel-16/16.9.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.141/37141-g90.zip">
+<reference anchor="3GPP.TS.37.141:Rel-16/16.9.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.141/37141-g90.zip">
   <front>
     <title>NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) conformance testing</title>
     <author fullname="SKOLD, Johan">

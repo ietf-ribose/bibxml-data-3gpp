@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.980:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.980/26980-100.zip">
+<reference anchor="3GPP.TR.26.980:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.980/26980-100.zip">
   <front>
     <title>Multimedia telephony over IP Multimedia Subsystem (IMS); Media handling aspects of multi-stream multiparty conferencing for Multimedia Telephony Service for IMS (MTSI)</title>
     <author fullname="LEUNG, Nikolai">

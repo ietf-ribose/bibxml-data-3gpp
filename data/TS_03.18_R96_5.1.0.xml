@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.18:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.18/0318-510.zip">
+<reference anchor="3GPP.TS.03.18:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.18/0318-510.zip">
   <front>
     <title>Basic Call Handling</title>
     <author fullname="RUSSELL, Nick">

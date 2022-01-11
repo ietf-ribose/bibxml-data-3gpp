@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.56:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.56/0456-700.zip">
+<reference anchor="3GPP.TS.04.56:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.56/0456-700.zip">
   <front>
     <title>GSM Cordless Telephony System (CTS), (Phase 1) CTS Radio Interface Layer 3 Specification</title>
     <author fullname="DRAGE, Keith">

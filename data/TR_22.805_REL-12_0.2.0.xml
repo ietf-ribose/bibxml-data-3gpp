@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.805:Rel-12/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.805/22805-020.zip">
+<reference anchor="3GPP.TR.22.805:Rel-12/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.805/22805-020.zip">
   <front>
     <title>Feasibility study on user plane congestion management</title>
     <author fullname="VISSER, John">

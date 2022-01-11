@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.308:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.308/25308-950.zip">
+<reference anchor="3GPP.TS.25.308:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.308/25308-950.zip">
   <front>
     <title>High Speed Downlink Packet Access (HSDPA); Overall description; Stage 2</title>
     <author fullname="AHMED, Ayaz">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.03:Ph2/4.11.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.03/0303-4b1.zip">
+<reference anchor="3GPP.TS.03.03:Ph2/4.11.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.03/0303-4b1.zip">
   <front>
     <title>Numbering, Addressing and Identification</title>
     <author fullname="RUSSELL, Nick">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 48.004:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.004/48004-700.zip">
+<reference anchor="3GPP.TS.48.004:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.004/48004-700.zip">
   <front>
     <title>Base Station System - Mobile-services Switching Centre (BSS - MSC) interface; Layer 1 specification</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

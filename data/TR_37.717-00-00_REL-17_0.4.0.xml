@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.717-00-00:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.717-00-00/37717-00-00-040.zip">
+<reference anchor="3GPP.TR.37.717-00-00:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.717-00-00/37717-00-00-040.zip">
   <front>
     <title>Rel-17 band combinations for SA NR supplementary uplink (SUL), NSA NR SUL, NSA NR SUL with UL sharing from the UE perspective (ULSUP)</title>
     <author fullname="ZHANG, Peng">

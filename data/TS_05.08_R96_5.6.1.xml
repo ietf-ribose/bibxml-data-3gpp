@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.08:R96/5.6.1" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.08/0508-561.zip">
+<reference anchor="3GPP.TS.05.08:R96/5.6.1" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.08/0508-561.zip">
   <front>
     <title>Radio subsystem link control</title>
     <author fullname="EL-SAIGH, Amer">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.333:Rel-15/15.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.333/29333-f20.zip">
+<reference anchor="3GPP.TS.29.333:Rel-15/15.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.333/29333-f20.zip">
   <front>
     <title>Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function Processor (MRFP) Mp interface; Stage 3</title>
     <author fullname="BIONDIC, Nevenka">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.127:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.127/32127-900.zip">
+<reference anchor="3GPP.TS.32.127:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.127/32127-900.zip">
   <front>
     <title>Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP); SOAP Solution Set (SS)</title>
     <author fullname="POLLAKOWSKI, Olaf">

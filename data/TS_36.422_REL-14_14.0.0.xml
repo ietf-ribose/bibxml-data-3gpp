@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.422:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.422/36422-e00.zip">
+<reference anchor="3GPP.TS.36.422:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.422/36422-e00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 signalling transport</title>
     <author fullname="MIN, Tianyang">

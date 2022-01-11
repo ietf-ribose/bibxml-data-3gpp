@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.462:Rel-6/0.1.1">
+<reference anchor="3GPP.TS.25.462:Rel-6/0.1.1">
   <front>
     <title>UTRAN Iuant interface: Signalling transport</title>
     <author fullname="KULAKOV, Alexey">

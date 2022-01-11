@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.991:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.991/25991-500.zip">
+<reference anchor="3GPP.TR.25.991:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.991/25991-500.zip">
   <front>
     <title>Feasibility study on the mitigation of the effect of common pilot channel (CPICH) interference at the user equipment</title>
     <author fullname="MOSHAVI, Shimon">

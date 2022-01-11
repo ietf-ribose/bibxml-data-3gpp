@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.140:Rel-6/6.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.140/23140-650.zip">
+<reference anchor="3GPP.TS.23.140:Rel-6/6.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.140/23140-650.zip">
   <front>
     <title>Multimedia Messaging Service (MMS); Functional description; Stage 2</title>
     <author fullname="HOWELL, Andrew">

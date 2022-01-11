@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.01U:UMTS/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.01U/2301U-070.zip">
+<reference anchor="3GPP.TS.23.01U:UMTS/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.01U/2301U-070.zip">
   <front>
     <title>General UMTS architecture</title>
     <author fullname="OLSSON, Magnus">

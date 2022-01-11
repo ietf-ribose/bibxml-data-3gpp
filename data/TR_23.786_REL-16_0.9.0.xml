@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.786:Rel-16/0.9.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.786/23786-090.zip">
+<reference anchor="3GPP.TR.23.786:Rel-16/0.9.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.786/23786-090.zip">
   <front>
     <title>Study on architecture enhancements for the Evolved Packet System (EPS) and the 5G System (5GS) to support advanced V2X services</title>
     <author fullname="KIM, Laeyoung">

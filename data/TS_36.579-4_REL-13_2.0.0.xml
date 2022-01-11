@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.579-4:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-4/36579-4-200.zip">
+<reference anchor="3GPP.TS.36.579-4:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-4/36579-4-200.zip">
   <front>
     <title>Mission Critical (MC) services over LTE; Part 4: Test Applicability and Implementation Conformance Statement (ICS) proforma specification</title>
     <author fullname="KAHN, Jason">

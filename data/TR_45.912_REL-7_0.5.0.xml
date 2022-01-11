@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 45.912:Rel-7/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.912/45912-050.zip">
+<reference anchor="3GPP.TR.45.912:Rel-7/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.912/45912-050.zip">
   <front>
     <title>Feasibility study for evolved GSM/EDGE Radio Access Network (GERAN)</title>
     <author fullname="RIDDINGTON, Eddie">

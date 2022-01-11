@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.819:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.819/36819-100.zip">
+<reference anchor="3GPP.TR.36.819:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.819/36819-100.zip">
   <front>
     <title>Coordinated multi-point operation for LTE physical layer aspects</title>
     <author fullname="CLERCKX, Bruno">

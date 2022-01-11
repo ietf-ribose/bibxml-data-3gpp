@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.888:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.888/33888-c10.zip">
+<reference anchor="3GPP.TR.33.888:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.888/33888-c10.zip">
   <front>
     <title>Study on security issues to support Group Communication System Enablers (GCSE) for LTE</title>
     <author fullname="MERKEL, Jürgen">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.455:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.455/36455-920.zip">
+<reference anchor="3GPP.TS.36.455:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.455/36455-920.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Positioning Protocol A (LPPa)</title>
     <author fullname="DREVÖ, Markus">

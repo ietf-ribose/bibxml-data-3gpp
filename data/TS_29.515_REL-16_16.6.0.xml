@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.515:Rel-16/16.6.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.515/29515-g60.zip">
+<reference anchor="3GPP.TS.29.515:Rel-16/16.6.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.515/29515-g60.zip">
   <front>
     <title>5G System; Gateway Mobile Location Services; Stage 3</title>
     <author fullname="BAO, Chenxi">

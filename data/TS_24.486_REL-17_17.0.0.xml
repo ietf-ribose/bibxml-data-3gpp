@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.486:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.486/24486-h00.zip">
+<reference anchor="3GPP.TS.24.486:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.486/24486-h00.zip">
   <front>
     <title>Vehicle-to-Everything (V2X) Application Enabler (VAE) layer; Protocol aspects; Stage 3</title>
     <author fullname="HERRERO-VERON, Christian">

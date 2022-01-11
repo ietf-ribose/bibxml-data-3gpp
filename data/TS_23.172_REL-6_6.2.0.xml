@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.172:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.172/23172-620.zip">
+<reference anchor="3GPP.TS.23.172:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.172/23172-620.zip">
   <front>
     <title>Technical realization of Circuit Switched (CS) multimedia service UDI/RDI fallback and service modification; Stage 2</title>
     <author fullname="BIONDIC, Nevenka">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 43.902:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/43_series/43.902/43902-g00.zip">
+<reference anchor="3GPP.TR.43.902:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/43_series/43.902/43902-g00.zip">
   <front>
     <title>Enhanced Generic Access Networks (EGAN) study</title>
     <author fullname="KREUZER, Werner">

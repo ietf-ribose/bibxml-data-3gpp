@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.405:Rel-6/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.405/26405-001.zip">
+<reference anchor="3GPP.TS.26.405:Rel-6/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.405/26405-001.zip">
   <front>
     <title>General audio codec audio processing functions; Enhanced aacPlus general audio codec; Encoder specification parametric stereo part</title>
     <author fullname="KUNZ, Oliver">

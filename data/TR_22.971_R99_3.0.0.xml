@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.971:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.971/22971-300.zip">
+<reference anchor="3GPP.TR.22.971:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.971/22971-300.zip">
   <front>
     <title>Automatic establishment of roaming relationships</title>
     <author fullname="SCARRONE, Enrico">

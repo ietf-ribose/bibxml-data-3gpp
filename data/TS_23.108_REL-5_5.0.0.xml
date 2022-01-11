@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.108:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.108/23108-500.zip">
+<reference anchor="3GPP.TS.23.108:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.108/23108-500.zip">
   <front>
     <title>Mobile radio interface layer 3 specification, core network protocols; Stage 2</title>
     <author fullname="CHIN, ChenHo">

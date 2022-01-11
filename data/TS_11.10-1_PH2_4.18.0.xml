@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.10-1:Ph2/4.18.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-1/1110-1-4I0.zip">
+<reference anchor="3GPP.TS.11.10-1:Ph2/4.18.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-1/1110-1-4I0.zip">
   <front>
     <title>Mobile station (MS) conformance specification; Part 1: Conformance specification</title>
     <author fullname="BAEV, Stoyan">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.104:Rel-12/12.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.104/25104-c50.zip">
+<reference anchor="3GPP.TS.25.104:Rel-12/12.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.104/25104-c50.zip">
   <front>
     <title>Base Station (BS) radio transmission and reception (FDD)</title>
     <author fullname="SKOLD, Johan">

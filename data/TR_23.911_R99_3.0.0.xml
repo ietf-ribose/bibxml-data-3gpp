@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.911:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.911/23911-300.zip">
+<reference anchor="3GPP.TR.23.911:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.911/23911-300.zip">
   <front>
     <title>Technical report on Out-of-band transcoder control</title>
     <author fullname="SCHMITT, Peter">

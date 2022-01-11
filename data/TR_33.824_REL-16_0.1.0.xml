@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.824:Rel-16/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.824/33824-010.zip">
+<reference anchor="3GPP.TR.33.824:Rel-16/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.824/33824-010.zip">
   <front>
     <title>Study on security aspects of Integrated Access and Backhaul (IAB) for Next Radio (NR)</title>
     <author fullname="RAJADURAI, Rajavelsamy">

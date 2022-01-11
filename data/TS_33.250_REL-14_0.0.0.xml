@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.250:Rel-14/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.250/33250-000.zip">
+<reference anchor="3GPP.TS.33.250:Rel-14/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.250/33250-000.zip">
   <front>
     <title>Security assurance specification for the PGW network product class</title>
     <author fullname="PENG, Jin">

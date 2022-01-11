@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.246:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.246/22246-f00.zip">
+<reference anchor="3GPP.TS.22.246:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.246/22246-f00.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS) user services; Stage 1</title>
     <author fullname="BLECKERT, Peter">

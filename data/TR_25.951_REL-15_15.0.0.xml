@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.951:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.951/25951-f00.zip">
+<reference anchor="3GPP.TR.25.951:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.951/25951-f00.zip">
   <front>
     <title>FDD Base Station (BS) classification</title>
     <author fullname="SÄYNÄJÄKANGAS, Tuomo">

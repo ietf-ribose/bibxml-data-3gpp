@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.435:Rel-5/5.9.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.435/25435-590.zip">
+<reference anchor="3GPP.TS.25.435:Rel-5/5.9.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.435/25435-590.zip">
   <front>
     <title>UTRAN Iub interface user plane protocols for Common Transport Channel data streams</title>
     <author fullname="NG, Cheng Hock">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.273:Rel-8/8.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.273/29273-850.zip">
+<reference anchor="3GPP.TS.29.273:Rel-8/8.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.273/29273-850.zip">
   <front>
     <title>Evolved Packet System (EPS); 3GPP EPS AAA interfaces</title>
     <author fullname="DE GREGORIO, Jesus">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.614:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.614/32614-430.zip">
+<reference anchor="3GPP.TS.32.614:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.614/32614-430.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)</title>
     <author fullname="POLLAKOWSKI, Olaf">

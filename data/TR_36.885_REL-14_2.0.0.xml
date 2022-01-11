@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.885:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.885/36885-200.zip">
+<reference anchor="3GPP.TR.36.885:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.885/36885-200.zip">
   <front>
     <title>Study on LTE-based V2X services</title>
     <author fullname="SEO, Hanbyul">

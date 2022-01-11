@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.447:Rel-8/2.1.2" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.447/24447-212.zip">
+<reference anchor="3GPP.TS.24.447:Rel-8/2.1.2" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.447/24447-212.zip">
   <front>
     <title>TISPAN; NGN IMS Supplementary Services; Advice Of Charge (AOC)</title>
     <author fullname="LEIS, Peter">

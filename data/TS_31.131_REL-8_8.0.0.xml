@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 31.131:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.131/31131-800.zip">
+<reference anchor="3GPP.TS.31.131:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.131/31131-800.zip">
   <front>
     <title>C-language binding to (U)SIM API</title>
     <author fullname="KRUSE, Heiko">

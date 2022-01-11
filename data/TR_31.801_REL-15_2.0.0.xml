@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 31.801:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.801/31801-200.zip">
+<reference anchor="3GPP.TR.31.801:Rel-15/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.801/31801-200.zip">
   <front>
     <title>Technical requirements for the secure platform for 3GPP applications</title>
     <author fullname="KRUSE, Heiko">

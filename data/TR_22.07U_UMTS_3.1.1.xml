@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.07U:UMTS/3.1.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.07U/2207U-311.zip">
+<reference anchor="3GPP.TR.22.07U:UMTS/3.1.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.07U/2207U-311.zip">
   <front>
     <title>UMTS terminal and smart card concepts</title>
     <author fullname="SMOLANDER, Jouni">

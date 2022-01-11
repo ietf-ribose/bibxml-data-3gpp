@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.54:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.54/0654-800.zip">
+<reference anchor="3GPP.TS.06.54:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.54/0654-800.zip">
   <front>
     <title>Test sequences for the GSM Enhanced Full Rate (EFR)</title>
     <author fullname="JÄRVINEN, Kari">

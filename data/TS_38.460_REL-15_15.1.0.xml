@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.460:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.460/38460-f10.zip">
+<reference anchor="3GPP.TS.38.460:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.460/38460-f10.zip">
   <front>
     <title>NG-RAN; E1 general aspects and principles</title>
     <author fullname="ARJONA, Andres">

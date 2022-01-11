@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.073:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.073/26073-800.zip">
+<reference anchor="3GPP.TS.26.073:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.073/26073-800.zip">
   <front>
     <title>ANSI-C code for the Adaptive Multi Rate (AMR) speech codec</title>
     <author fullname="BRUHN, Stefan">

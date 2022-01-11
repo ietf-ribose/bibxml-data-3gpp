@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.307:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.307/25307-200.zip">
+<reference anchor="3GPP.TS.25.307:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.307/25307-200.zip">
   <front>
     <title>Requirements on User Equipments (UEs) supporting a release-independent frequency band</title>
     <author fullname="HOFMANN, Juergen">

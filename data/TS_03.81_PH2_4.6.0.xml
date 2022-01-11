@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.81:Ph2/4.6.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.81/0381-460.zip">
+<reference anchor="3GPP.TS.03.81:Ph2/4.6.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.81/0381-460.zip">
   <front>
     <title>Line Identification Supplementary Services; Stage 2</title>
     <author fullname="SCHMITT, Peter">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 45.926:Rel-13/1.6.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.926/45926-160.zip">
+<reference anchor="3GPP.TR.45.926:Rel-13/1.6.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.926/45926-160.zip">
   <front>
     <title>Solutions for GSM/EDGE Base Transceiver Station (BTS) energy saving</title>
     <author fullname="HOFMANN, Juergen">

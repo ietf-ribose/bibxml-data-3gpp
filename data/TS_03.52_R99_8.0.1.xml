@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.52:R99/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.52/0352-801.zip">
+<reference anchor="3GPP.TS.03.52:R99/8.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.52/0352-801.zip">
   <front>
     <title>Lower layers of the GSM Cordless Telephony System (CTS) radio interface; Stage 2</title>
     <author fullname="GIRAUD, Alexis">

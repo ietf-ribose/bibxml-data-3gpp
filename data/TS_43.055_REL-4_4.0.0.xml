@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.055:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.055/43055-400.zip">
+<reference anchor="3GPP.TS.43.055:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.055/43055-400.zip">
   <front>
     <title>Dual Transfer Mode (DTM); Stage 2</title>
     <author fullname="HOFMANN, Juergen">

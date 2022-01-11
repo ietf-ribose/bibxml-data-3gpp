@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.082:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.082/22082-400.zip">
+<reference anchor="3GPP.TS.22.082:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.082/22082-400.zip">
   <front>
     <title>Call Forwarding (CF) Supplementary Services; Stage 1</title>
     <author fullname="LOTTIN, Philippe">

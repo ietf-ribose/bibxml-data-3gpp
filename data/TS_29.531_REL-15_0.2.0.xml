@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.531:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.531/29531-020.zip">
+<reference anchor="3GPP.TS.29.531:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.531/29531-020.zip">
   <front>
     <title>5G System; Network Slice Selection Services; Stage 3</title>
     <author fullname="ZHANG, Hao">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.133:Rel-11/11.6.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.133/25133-b60.zip">
+<reference anchor="3GPP.TS.25.133:Rel-11/11.6.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.133/25133-b60.zip">
   <front>
     <title>Requirements for support of radio resource management  (FDD)</title>
     <author fullname="GUERRINI, Claudio">

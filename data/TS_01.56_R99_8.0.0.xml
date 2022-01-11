@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 01.56:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.56/0156-800.zip">
+<reference anchor="3GPP.TS.01.56:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.56/0156-800.zip">
   <front>
     <title>GSM Cordless Telephony System (CTS) (Phase 1); CTS Authentication and Key Generation Algorithms Requirements</title>
     <author fullname="SCARRONE, Enrico">

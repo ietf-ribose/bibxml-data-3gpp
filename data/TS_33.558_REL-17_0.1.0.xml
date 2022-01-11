@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.558:Rel-17/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.558/33558-010.zip">
+<reference anchor="3GPP.TS.33.558:Rel-17/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.558/33558-010.zip">
   <front>
     <title>Security aspects of enhancement of support for enabling edge applications</title>
     <author fullname="ZHANG, Bo">

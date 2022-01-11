@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.858:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.858/36858-e00.zip">
+<reference anchor="3GPP.TR.36.858:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.858/36858-e00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE 2.6 GHz FDD SDL band (2570-2620 MHz)</title>
     <author fullname="HATEFI, Atoosa">

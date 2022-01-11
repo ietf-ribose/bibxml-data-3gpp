@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.430:R99/3.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.430/25430-370.zip">
+<reference anchor="3GPP.TS.25.430:R99/3.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.430/25430-370.zip">
   <front>
     <title>UTRAN Iub Interface: general aspects and principles</title>
     <author fullname="WILSON, Mick">

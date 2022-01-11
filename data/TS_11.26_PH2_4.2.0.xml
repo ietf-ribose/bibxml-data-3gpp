@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.26:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.26/1126-420.zip">
+<reference anchor="3GPP.TS.11.26:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.26/1126-420.zip">
   <front>
     <title>Base Station System (BSS) equipment specification; Part 4: Repeaters</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

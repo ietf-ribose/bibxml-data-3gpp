@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.716-33:Rel-16/0.1.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.716-33/37716-33-010.zip">
+<reference anchor="3GPP.TR.37.716-33:Rel-16/0.1.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.716-33/37716-33-010.zip">
   <front>
     <title>E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 3 bands Down Link (DL) and 3 band Up Link (UL)</title>
     <author fullname="ZHOU, Wubin">

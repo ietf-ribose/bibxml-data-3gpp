@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.60:R98/7.1.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.60/0360-711.zip">
+<reference anchor="3GPP.TS.03.60:R98/7.1.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.60/0360-711.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Service description; Stage 2</title>
     <author fullname="KUCHIBHOTLA, Ravi">

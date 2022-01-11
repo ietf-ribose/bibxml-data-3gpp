@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.813:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.813/38813-100.zip">
+<reference anchor="3GPP.TR.38.813:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.813/38813-100.zip">
   <front>
     <title>New frequency range for NR (3.3-4.2 GHz)</title>
     <author fullname="SHAO, Zhe">

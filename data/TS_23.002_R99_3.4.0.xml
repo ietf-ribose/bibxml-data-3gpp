@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.002:R99/3.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.002/23002-340.zip">
+<reference anchor="3GPP.TS.23.002:R99/3.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.002/23002-340.zip">
   <front>
     <title>Network architecture</title>
     <author fullname="MILINSKI, Alexander">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.60U:UMTS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.60U/2260U-300.zip">
+<reference anchor="3GPP.TS.22.60U:UMTS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.60U/2260U-300.zip">
   <front>
     <title>Mobile multimedia services including mobile Intranet and Internet services</title>
     <author fullname="AHNBERG, Tomas">

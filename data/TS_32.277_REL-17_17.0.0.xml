@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.277:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.32.277:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.277/32277-h00.zip">
   <front>
     <title>Telecommunication management; Charging management; Proximity-based Services (ProSe) charging</title>
     <author fullname="CHENG, Hong">

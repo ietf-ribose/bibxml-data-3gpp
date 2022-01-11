@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.088:R99/3.0.2" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.088/22088-302.zip">
+<reference anchor="3GPP.TS.22.088:R99/3.0.2" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.088/22088-302.zip">
   <front>
     <title>Call Barring (CB) supplementary services; Stage 1</title>
     <author fullname="BISCHINGER, Kurt">

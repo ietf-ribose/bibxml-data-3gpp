@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.111:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.111/32111-301.zip">
+<reference anchor="3GPP.TS.32.111:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.111/32111-301.zip">
   <front>
     <title>3G Fault Management</title>
     <author fullname="CICCHITTO, Gaetano">

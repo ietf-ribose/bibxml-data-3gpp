@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.518:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.518/33518-g10.zip">
+<reference anchor="3GPP.TS.33.518:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.518/33518-g10.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS) for  the Network Repository Function (NRF) network product class</title>
     <author fullname="BYKAMPADI, Nagendra">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.09:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.09/0509-710.zip">
+<reference anchor="3GPP.TS.05.09:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.09/0509-710.zip">
   <front>
     <title>Link adaptation</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

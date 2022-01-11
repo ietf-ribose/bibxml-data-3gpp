@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.808:Rel-7/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.808/32808-003.zip">
+<reference anchor="3GPP.TR.32.808:Rel-7/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.808/32808-003.zip">
   <front>
     <title>Telecommunication management; Study of Common Profile Storage (CPS) Framework of User Data for network services and management</title>
     <author fullname="ABA, Istvan">

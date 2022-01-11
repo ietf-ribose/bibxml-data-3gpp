@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.080:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.080/24080-540.zip">
+<reference anchor="3GPP.TS.24.080:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.080/24080-540.zip">
   <front>
     <title>Mobile radio interface layer 3 supplementary services specification; Formats and coding</title>
     <author fullname="WIEHE, Ulrich">

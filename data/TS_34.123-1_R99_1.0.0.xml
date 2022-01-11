@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.123-1:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-1/34123-1-100.zip">
+<reference anchor="3GPP.TS.34.123-1:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-1/34123-1-100.zip">
   <front>
     <title>User Equipment (UE) conformance specification; Part 1: Protocol conformance specification</title>
     <author fullname="CHEN, Xiaozhong">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.110:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.110/33110-100.zip">
+<reference anchor="3GPP.TS.33.110:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.110/33110-100.zip">
   <front>
     <title>Key establishment between a Universal Integrated Circuit Card (UICC) and a terminal</title>
     <author fullname="PAULIAC, Mireille">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.376:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.376/32376-a10.zip">
+<reference anchor="3GPP.TS.32.376:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.376/32376-a10.zip">
   <front>
     <title>Telecommunication management; Security services for Integration Reference Point (IRP); Solution Set (SS) definitions</title>
     <author fullname="ZOU, Lan">

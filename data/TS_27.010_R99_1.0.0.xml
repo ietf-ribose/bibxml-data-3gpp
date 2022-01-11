@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 27.010:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.010/27010-100.zip">
+<reference anchor="3GPP.TS.27.010:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.010/27010-100.zip">
   <front>
     <title>Terminal Equipment to User Equipment (TE-UE) multiplexer protocol</title>
     <author fullname="BIONDIC, Nevenka">

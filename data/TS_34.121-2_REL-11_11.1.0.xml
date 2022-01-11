@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.121-2:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.121-2/34121-2-b10.zip">
+<reference anchor="3GPP.TS.34.121-2:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.121-2/34121-2-b10.zip">
   <front>
     <title>User Equipment (UE) conformance specification; Radio transmission and reception (FDD); Part 2: Implementation Conformance Statement (ICS)</title>
     <author fullname="ZIRÉN, Mikael">

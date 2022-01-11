@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.210:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.210/33210-900.zip">
+<reference anchor="3GPP.TS.33.210:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.210/33210-900.zip">
   <front>
     <title>Network Domain Security (NDS); IP network layer security</title>
     <author fullname="KOHALMI, Steve">

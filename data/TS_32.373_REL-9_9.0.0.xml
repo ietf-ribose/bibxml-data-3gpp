@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.373:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.373/32373-900.zip">
+<reference anchor="3GPP.TS.32.373:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.373/32373-900.zip">
   <front>
     <title>Telecommunication management; Security services for Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) solution</title>
     <author fullname="ZHANG, Kai">

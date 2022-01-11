@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.042:Rel-4/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.042/22042-421.zip">
+<reference anchor="3GPP.TS.22.042:Rel-4/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.042/22042-421.zip">
   <front>
     <title>Network Identity and TimeZone (NITZ); Service description; Stage 1</title>
     <author fullname="SCARRONE, Enrico">

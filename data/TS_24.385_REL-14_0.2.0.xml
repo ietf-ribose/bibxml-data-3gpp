@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.385:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.385/24385-020.zip">
+<reference anchor="3GPP.TS.24.385:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.385/24385-020.zip">
   <front>
     <title>V2X services Management Object (MO)</title>
     <author fullname="PARK, Sang Min">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 31.900:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.900/31900-300.zip">
+<reference anchor="3GPP.TR.31.900:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.900/31900-300.zip">
   <front>
     <title>SIM/USIM internal and external interworking aspects</title>
     <author fullname="KALINER, Stefan">

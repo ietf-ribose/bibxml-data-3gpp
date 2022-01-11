@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.796:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.796/23796-010.zip">
+<reference anchor="3GPP.TR.23.796:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.796/23796-010.zip">
   <front>
     <title>Study on application architecture for the Future Railway Mobile Communication System (FRMCS) Phase 2</title>
     <author fullname="OETTL, Martin">

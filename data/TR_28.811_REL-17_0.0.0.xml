@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 28.811:Rel-17/0.0.0" target="http://ftp.3gpp.org//Specs/archive/28_series/28.811/28811-000.zip">
+<reference anchor="3GPP.TR.28.811:Rel-17/0.0.0" target="http://ftp.3gpp.org//Specs/archive/28_series/28.811/28811-000.zip">
   <front>
     <title>Management and orchestration; Study on Network Slice Management Enhancement</title>
     <author fullname="HASSETT, Brendan">

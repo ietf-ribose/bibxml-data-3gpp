@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.832:Rel-10/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.832/32832-110.zip">
+<reference anchor="3GPP.TR.32.832:Rel-10/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.832/32832-110.zip">
   <front>
     <title>Telecommunication management; Study on alarm correlation and alarm root cause analysis</title>
     <author fullname="TSE, Edwin">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.587:Rel-17/17.4.0">
+<reference anchor="3GPP.TS.24.587:Rel-17/17.4.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.587/24587-h40.zip">
   <front>
     <title>Vehicle-to-Everything (V2X) services in 5G System (5GS); Stage 3</title>
     <author fullname="HERRERO-VERON, Christian">

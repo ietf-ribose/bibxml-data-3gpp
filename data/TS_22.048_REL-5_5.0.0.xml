@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.048:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.048/22048-500.zip">
+<reference anchor="3GPP.TS.22.048:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.048/22048-500.zip">
   <front>
     <title>Security mechanisms for the (U)SIM application toolkit; Stage 1</title>
     <author fullname="PHAN, Ly Thanh">

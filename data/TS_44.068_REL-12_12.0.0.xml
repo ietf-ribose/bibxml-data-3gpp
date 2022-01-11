@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 44.068:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.068/44068-c00.zip">
+<reference anchor="3GPP.TS.44.068:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.068/44068-c00.zip">
   <front>
     <title>Group Call Control (GCC) protocol</title>
     <author fullname="LAUSTER, Reinhard">

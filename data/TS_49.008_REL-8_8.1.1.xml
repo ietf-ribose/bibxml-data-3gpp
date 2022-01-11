@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 49.008:Rel-8/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/49_series/49.008/49008-811.zip">
+<reference anchor="3GPP.TS.49.008:Rel-8/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/49_series/49.008/49008-811.zip">
   <front>
     <title>Application of the Base Station System Application Part (BSSAP) on the E interface</title>
     <author fullname="MONRAD, Atle">

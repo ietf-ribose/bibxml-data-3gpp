@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.215:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.215/29215-a10.zip">
+<reference anchor="3GPP.TS.29.215:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.215/29215-a10.zip">
   <front>
     <title>Policy and Charging Control (PCC) over S9 reference point; Stage 3</title>
     <author fullname="FERNANDEZ, Susana">

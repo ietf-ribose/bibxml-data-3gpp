@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.18:R99/8.7.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.18/0418-870.zip">
+<reference anchor="3GPP.TS.04.18:R99/8.7.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.18/0418-870.zip">
   <front>
     <title>Mobile radio interface layer 3 specification; Radio Resource Control (RRC) protocol</title>
     <author fullname="HOWELL, Andrew">

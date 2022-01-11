@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.926:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.926/25926-100.zip">
+<reference anchor="3GPP.TR.25.926:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.926/25926-100.zip">
   <front>
     <title>UE Radio Access capabilities definition</title>
     <author fullname="LUNDSJÖ, Johan">

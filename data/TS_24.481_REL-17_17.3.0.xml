@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.481:Rel-17/17.3.0">
+<reference anchor="3GPP.TS.24.481:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.481/24481-h30.zip">
   <front>
     <title>Mission Critical Services (MCS) group management; Protocol specification</title>
     <author fullname="AXELL, Jörgen">

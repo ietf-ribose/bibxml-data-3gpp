@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.003:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.003/22003-300.zip">
+<reference anchor="3GPP.TS.22.003:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.003/22003-300.zip">
   <front>
     <title>Circuit Teleservices supported by a Public Land Mobile Network (PLMN)</title>
     <author fullname="MIETTINEN, Natalia">

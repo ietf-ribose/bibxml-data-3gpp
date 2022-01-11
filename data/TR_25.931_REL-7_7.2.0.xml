@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.931:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.931/25931-720.zip">
+<reference anchor="3GPP.TR.25.931:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.931/25931-720.zip">
   <front>
     <title>UTRAN functions, examples on signalling procedures</title>
     <author fullname="CATALANO, Giuseppe">

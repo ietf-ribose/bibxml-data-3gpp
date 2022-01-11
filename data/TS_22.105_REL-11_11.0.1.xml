@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.105:Rel-11/11.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.105/22105-b01.zip">
+<reference anchor="3GPP.TS.22.105:Rel-11/11.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.105/22105-b01.zip">
   <front>
     <title>Services and service capabilities</title>
     <author fullname="BISCHINGER, Kurt">

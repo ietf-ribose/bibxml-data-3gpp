@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.081:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.081/24081-401.zip">
+<reference anchor="3GPP.TS.24.081:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.081/24081-401.zip">
   <front>
     <title>Line Identification supplementary services; Stage 3</title>
     <author fullname="WIEHE, Ulrich">

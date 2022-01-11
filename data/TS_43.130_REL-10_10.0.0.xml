@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.130:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.130/43130-a00.zip">
+<reference anchor="3GPP.TS.43.130:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.130/43130-a00.zip">
   <front>
     <title>GSM/EDGE Iur-g interface; Stage 2</title>
     <author fullname="HOFMANN, Juergen">

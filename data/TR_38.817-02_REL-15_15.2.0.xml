@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.817-02:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.817-02/38817-02-f20.zip">
+<reference anchor="3GPP.TR.38.817-02:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.817-02/38817-02-f20.zip">
   <front>
     <title>General aspects for Base Station (BS) Radio Frequency (RF) for NR</title>
     <author fullname="SKOLD, Johan">

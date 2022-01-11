@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.501:Rel-15/15.8.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.501/33501-f80.zip">
+<reference anchor="3GPP.TS.33.501:Rel-15/15.8.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.501/33501-f80.zip">
   <front>
     <title>Security architecture and procedures for 5G System</title>
     <author fullname="ZUGENMAIER, Alf">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 21.02U:UMTS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.02U/2102U-300.zip">
+<reference anchor="3GPP.TR.21.02U:UMTS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.02U/2102U-300.zip">
   <front>
     <title>High level requirements relevant for the definition of the UMTS Terrestrial Radio Access UTRA concept</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

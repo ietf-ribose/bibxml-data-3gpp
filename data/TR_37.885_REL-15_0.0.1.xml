@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.885:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.885/37885-001.zip">
+<reference anchor="3GPP.TR.37.885:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.885/37885-001.zip">
   <front>
     <title>Study on evaluation methodology of new Vehicle-to-Everything (V2X) use cases for LTE and NR</title>
     <author fullname="SEO, Hanbyul">

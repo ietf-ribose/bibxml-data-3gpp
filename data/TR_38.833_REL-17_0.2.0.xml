@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.833:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.833/38833-020.zip">
+<reference anchor="3GPP.TR.38.833:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.833/38833-020.zip">
   <front>
     <title>Further enhancement on NR demodulation performance</title>
     <author fullname="YANG, Shan">

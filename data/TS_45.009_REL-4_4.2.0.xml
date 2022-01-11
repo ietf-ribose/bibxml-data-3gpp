@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 45.009:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.009/45009-420.zip">
+<reference anchor="3GPP.TS.45.009:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.009/45009-420.zip">
   <front>
     <title>GSM/EDGE Link adaptation</title>
     <author fullname="CHEN, Jun">

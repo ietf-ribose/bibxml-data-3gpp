@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.443:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.443/36443-a20.zip">
+<reference anchor="3GPP.TS.36.443:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.443/36443-a20.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); M2 Application Protocol (M2AP)</title>
     <author fullname="XU, Steven">

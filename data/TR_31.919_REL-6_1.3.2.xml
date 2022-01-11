@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 31.919:Rel-6/1.3.2" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.919/31919-132.zip">
+<reference anchor="3GPP.TR.31.919:Rel-6/1.3.2" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.919/31919-132.zip">
   <front>
     <title>2G/3G Java Card™ Application Programming Interface (API) based applet interworking</title>
     <author fullname="KRUSE, Heiko">

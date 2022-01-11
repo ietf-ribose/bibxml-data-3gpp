@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.332:Rel-10/10.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.332/29332-a70.zip">
+<reference anchor="3GPP.TS.29.332:Rel-10/10.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.332/29332-a70.zip">
   <front>
     <title>Media Gateway Control Function (MGCF) - IM Media Gateway; Mn interface</title>
     <author fullname="SCHMITT, Peter">

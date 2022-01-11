@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.401:Rel-14/14.6.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.401/23401-e60.zip">
+<reference anchor="3GPP.TS.23.401:Rel-14/14.6.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.401/23401-e60.zip">
   <front>
     <title>General Packet Radio Service (GPRS) enhancements for Evolved Universal Terrestrial Radio Access Network (E-UTRAN) access</title>
     <author fullname="PUDNEY, Chris">

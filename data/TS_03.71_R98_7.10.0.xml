@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.71:R98/7.10.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.71/0371-7a0.zip">
+<reference anchor="3GPP.TS.03.71:R98/7.10.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.71/0371-7a0.zip">
   <front>
     <title>Location Services (LCS); Functional description; Stage 2</title>
     <author fullname="BROOK, Richard">

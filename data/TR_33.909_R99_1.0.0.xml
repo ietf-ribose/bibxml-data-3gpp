@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.909:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.909/33909-100.zip">
+<reference anchor="3GPP.TR.33.909:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.909/33909-100.zip">
   <front>
     <title>3G Security; Report on the design and evaluation of the MILENAGE algorithm set; Deliverable 5: An example algorithm for the 3GPP authentication and key generation functions</title>
     <author fullname="WALKER, Michael">

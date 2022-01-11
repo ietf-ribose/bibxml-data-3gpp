@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.901-5:Rel-16/2.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.901-5/37901-5-200.zip">
+<reference anchor="3GPP.TR.37.901-5:Rel-16/2.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.901-5/37901-5-200.zip">
   <front>
     <title>Study on 5G NR User Equipment (UE) application layer data throughput performance</title>
     <author fullname="BORSATO, Ronald">

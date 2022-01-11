@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.967:Rel-7/1.2.2" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.967/22967-122.zip">
+<reference anchor="3GPP.TR.22.967:Rel-7/1.2.2" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.967/22967-122.zip">
   <front>
     <title>Transferring of emergency call data</title>
     <author fullname="WU, Jian (Jim) Jun">

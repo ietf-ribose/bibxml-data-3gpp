@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.809:Rel-17/0.14.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.809/33809-0e0.zip">
+<reference anchor="3GPP.TR.33.809:Rel-17/0.14.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.809/33809-0e0.zip">
   <front>
     <title>Study on 5G security enhancements against False Base Stations (FBS)</title>
     <author fullname="GUO, Ivy">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 48.031:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.031/48031-900.zip">
+<reference anchor="3GPP.TS.48.031:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.031/48031-900.zip">
   <front>
     <title>Location Services (LCS); Serving Mobile Location Centre - Serving Mobile Location Centre (SMLC - SMLC); SMLCPP specification</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

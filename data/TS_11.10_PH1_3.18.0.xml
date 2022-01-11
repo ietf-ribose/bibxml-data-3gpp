@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.10:Ph1/3.18.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10/1110-3I0.zip">
+<reference anchor="3GPP.TS.11.10:Ph1/3.18.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10/1110-3I0.zip">
   <front>
     <title>Mobile Station Conformity Specification</title>
     <author fullname="LEGRAND, Walter">

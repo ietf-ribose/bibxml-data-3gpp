@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.886:Rel-14/14.1.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.886/36886-e10.zip">
+<reference anchor="3GPP.TR.36.886:Rel-14/14.1.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.886/36886-e10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Band 41 High Power UE (HPUE)</title>
     <author fullname="HUMBERT, John">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.199-07:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-07/29199-07-810.zip">
+<reference anchor="3GPP.TS.29.199-07:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-07/29199-07-810.zip">
   <front>
     <title>Open Service Access (OSA); Parlay X web services; Part 7: Account management</title>
     <author fullname="UNMEHOPA, Musa">

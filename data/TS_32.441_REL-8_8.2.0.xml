@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.441:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.441/32441-820.zip">
+<reference anchor="3GPP.TS.32.441:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.441/32441-820.zip">
   <front>
     <title>Telecommunication management; Trace Management Integration Reference Point (IRP); Requirements</title>
     <author fullname="ANDRIANOV, Anatoly">

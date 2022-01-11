@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.24:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.24/1124-420.zip">
+<reference anchor="3GPP.TS.11.24:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.24/1124-420.zip">
   <front>
     <title>GSM Transcoding and Rate Adaptation: Base Station System Equipment Specification</title>
     <author fullname="VACANT,  ">

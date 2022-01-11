@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.223:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.33.223:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.223/33223-h10.zip">
   <front>
     <title>Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture (GBA) Push function</title>
     <author fullname="JERICHOW, Anja">

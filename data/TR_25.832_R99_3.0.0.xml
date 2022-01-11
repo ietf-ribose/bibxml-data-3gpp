@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.832:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.832/25832-300.zip">
+<reference anchor="3GPP.TR.25.832:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.832/25832-300.zip">
   <front>
     <title>Manifestations of Handover and SRNS relocation</title>
     <author fullname="TOWNEND, Richard">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.882:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.882/23882-100.zip">
+<reference anchor="3GPP.TR.23.882:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.882/23882-100.zip">
   <front>
     <title>3GPP system architecture evolution (SAE): Report on technical options and conclusions</title>
     <author fullname="PUDNEY, Chris">

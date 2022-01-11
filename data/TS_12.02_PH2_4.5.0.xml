@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 12.02:Ph2/4.5.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.02/1202-450.zip">
+<reference anchor="3GPP.TS.12.02:Ph2/4.5.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.02/1202-450.zip">
   <front>
     <title>Subscriber, Mobile Equipment (ME) and Services Data Administration</title>
     <author fullname="TOCHE, Christian">

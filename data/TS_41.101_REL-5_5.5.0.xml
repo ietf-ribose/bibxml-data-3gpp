@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 41.101:Rel-5/5.5.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.101/41101-550.zip">
+<reference anchor="3GPP.TS.41.101:Rel-5/5.5.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.101/41101-550.zip">
   <front>
     <title>Technical Specifications and Technical Reports for a GERAN-based 3GPP system</title>
     <author fullname="FIRMIN, Frederic">

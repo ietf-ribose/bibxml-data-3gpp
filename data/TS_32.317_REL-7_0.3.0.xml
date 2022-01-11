@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.317:Rel-7/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.317/32317-030.zip">
+<reference anchor="3GPP.TS.32.317:Rel-7/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.317/32317-030.zip">
   <front>
     <title>Telecommunication management; Generic Integration Reference Point (IRP) management; SOAP Solution Set (SS)</title>
     <author fullname="LI, Gang">

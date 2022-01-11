@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.844:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.844/29844-e00.zip">
+<reference anchor="3GPP.TR.29.844:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.844/29844-e00.zip">
   <front>
     <title>Study on Control and User Plane Separation of EPC Nodes</title>
     <author fullname="SCHMITT, Peter">

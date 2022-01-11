@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 27.003:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/27_series/27.003/27003-g00.zip">
+<reference anchor="3GPP.TS.27.003:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/27_series/27.003/27003-g00.zip">
   <front>
     <title>Terminal Adaptation Functions (TAF) for services using synchronous bearer capabilities</title>
     <author fullname="BIONDIC, Nevenka">

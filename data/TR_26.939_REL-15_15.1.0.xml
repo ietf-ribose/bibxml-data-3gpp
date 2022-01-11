@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.939:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.939/26939-f10.zip">
+<reference anchor="3GPP.TR.26.939:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.939/26939-f10.zip">
   <front>
     <title>Guidelines on the Framework for Live Uplink Streaming (FLUS)</title>
     <author fullname="BOUAZIZI, Imed">

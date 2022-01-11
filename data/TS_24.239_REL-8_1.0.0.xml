@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.239:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.239/24239-100.zip">
+<reference anchor="3GPP.TS.24.239:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.239/24239-100.zip">
   <front>
     <title>Flexible Alerting (FA) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification</title>
     <author fullname="LAUSTER, Reinhard">

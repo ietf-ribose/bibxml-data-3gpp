@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.522:Rel-16/16.0.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.522/38522-g01.zip">
+<reference anchor="3GPP.TS.38.522:Rel-16/16.0.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.522/38522-g01.zip">
   <front>
     <title>NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases</title>
     <author fullname="SONG, Dan">

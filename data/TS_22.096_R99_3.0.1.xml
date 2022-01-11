@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.096:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.096/22096-301.zip">
+<reference anchor="3GPP.TS.22.096:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.096/22096-301.zip">
   <front>
     <title>Name identification supplementary services; Stage 1</title>
     <author fullname="DEOL, Amar">

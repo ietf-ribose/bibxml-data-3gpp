@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.848:Rel-16/0.10.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.848/33848-0a0.zip">
+<reference anchor="3GPP.TR.33.848:Rel-16/0.10.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.848/33848-0a0.zip">
   <front>
     <title>Study on security impacts of virtualisation</title>
     <author fullname="LEADBEATER, Alex">

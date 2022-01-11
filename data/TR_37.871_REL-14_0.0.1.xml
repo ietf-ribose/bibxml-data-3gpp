@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.871:Rel-14/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.871/37871-001.zip">
+<reference anchor="3GPP.TR.37.871:Rel-14/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.871/37871-001.zip">
   <front>
     <title>E-UTRA, UTRA and GSM/EDGE; Multi-Band Base Station testing with three or more bands</title>
     <author fullname="NG, Man Hung">

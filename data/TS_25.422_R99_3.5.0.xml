@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.422:R99/3.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.422/25422-350.zip">
+<reference anchor="3GPP.TS.25.422:R99/3.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.422/25422-350.zip">
   <front>
     <title>UTRAN Iur interface signalling transport</title>
     <author fullname="HELMERS, Hakon">

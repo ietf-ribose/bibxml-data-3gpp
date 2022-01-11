@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.882:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.882/25882-100.zip">
+<reference anchor="3GPP.TR.25.882:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.882/25882-100.zip">
   <front>
     <title>1,28 Mcps TDD option base station classification</title>
     <author fullname="MEYER, Juergen">

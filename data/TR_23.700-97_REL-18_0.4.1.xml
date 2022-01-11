@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.700-97:Rel-18/0.4.1" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-97/23700-97-041.zip">
+<reference anchor="3GPP.TR.23.700-97:Rel-18/0.4.1" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-97/23700-97-041.zip">
   <front>
     <title>Study on Application Capability Exposure for IoT Platforms</title>
     <author fullname="MLADIN, Catalina">

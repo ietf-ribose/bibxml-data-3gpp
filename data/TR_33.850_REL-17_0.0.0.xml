@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.850:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.850/33850-000.zip">
+<reference anchor="3GPP.TR.33.850:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.850/33850-000.zip">
   <front>
     <title>Study on security aspects of enhancements for 5G Multicast-Broadcast Services (MBS)</title>
     <author fullname="GUO, Longhua">

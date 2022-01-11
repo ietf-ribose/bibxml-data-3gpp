@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.031:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/46_series/46.031/46031-g00.zip">
+<reference anchor="3GPP.TS.46.031:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/46_series/46.031/46031-g00.zip">
   <front>
     <title>Full rate speech; Discontinuous Transmission (DTX) for full rate speech traffic channels</title>
     <author fullname="USAI, Paolino">

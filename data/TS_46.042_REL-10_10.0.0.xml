@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.042:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.042/46042-a00.zip">
+<reference anchor="3GPP.TS.46.042:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.042/46042-a00.zip">
   <front>
     <title>Half rate speech; Voice Activity Detector (VAD) for half rate speech traffic channels</title>
     <author fullname="BARRETT, Paul">

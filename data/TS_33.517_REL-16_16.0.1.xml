@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.517:Rel-16/16.0.1" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.517/33517-g01.zip">
+<reference anchor="3GPP.TS.33.517:Rel-16/16.0.1" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.517/33517-g01.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS) for the Security Edge Protection Proxy (SEPP) network product class</title>
     <author fullname="BYKAMPADI, Nagendra">

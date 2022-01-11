@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.803:Rel-6/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.803/25803-140.zip">
+<reference anchor="3GPP.TR.25.803:Rel-6/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.803/25803-140.zip">
   <front>
     <title>S-CCPCH performance for Multimedia Broadcast/Multicast Service (MBMS)</title>
     <author fullname="MALLADI, Durga">

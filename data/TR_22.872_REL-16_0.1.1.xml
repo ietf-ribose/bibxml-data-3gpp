@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.872:Rel-16/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.872/22872-011.zip">
+<reference anchor="3GPP.TR.22.872:Rel-16/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.872/22872-011.zip">
   <front>
     <title>Study on positioning use cases</title>
     <author fullname="RIES, Lionel">

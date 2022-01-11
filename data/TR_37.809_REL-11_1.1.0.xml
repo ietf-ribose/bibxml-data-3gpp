@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.809:Rel-11/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.809/37809-110.zip">
+<reference anchor="3GPP.TR.37.809:Rel-11/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.809/37809-110.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access  (E-UTRA) medium range and Multi-Standard Radio (MSR)  medium range / local area Base Station (BS) class requirements</title>
     <author fullname="SKOLD, Johan">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.185:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.185/33185-200.zip">
+<reference anchor="3GPP.TS.33.185:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.185/33185-200.zip">
   <front>
     <title>Security aspect for LTE support of Vehicle-to-Everything (V2X) services</title>
     <author fullname="WONG, Marcus">

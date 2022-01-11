@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.802:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.802/37802-a10.zip">
+<reference anchor="3GPP.TR.37.802:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.802/37802-a10.zip">
   <front>
     <title>Multi-standard radio Base Station (BS) Radio Frequency (RF) requirements for non-contiguous spectrum deployments</title>
     <author fullname="SKOLD, Johan">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.101:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.101/23101-b00.zip">
+<reference anchor="3GPP.TS.23.101:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.101/23101-b00.zip">
   <front>
     <title>General Universal Mobile Telecommunications System (UMTS) architecture</title>
     <author fullname="OLSSON, Magnus">

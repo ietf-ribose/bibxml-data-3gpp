@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.810:Rel-13/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.810/29810-050.zip">
+<reference anchor="3GPP.TR.29.810:Rel-13/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.810/29810-050.zip">
   <front>
     <title>Study on Diameter load control mechanisms</title>
     <author fullname="WIEHE, Ulrich">

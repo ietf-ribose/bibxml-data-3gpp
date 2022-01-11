@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.303:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.303/25303-d00.zip">
+<reference anchor="3GPP.TS.25.303:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.303/25303-d00.zip">
   <front>
     <title>Interlayer procedures in Connected Mode</title>
     <author fullname="SEBIRE, Benoist">

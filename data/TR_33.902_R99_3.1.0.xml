@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.902:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.902/33902-310.zip">
+<reference anchor="3GPP.TR.33.902:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.902/33902-310.zip">
   <front>
     <title>Formal Analysis of the 3G Authentication Protocol</title>
     <author fullname="HORN, Guenther">

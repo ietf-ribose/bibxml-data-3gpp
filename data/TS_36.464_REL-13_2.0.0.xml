@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.464:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.464/36464-200.zip">
+<reference anchor="3GPP.TS.36.464:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.464/36464-200.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Wireless Local Area Network (WLAN); Xw data transport</title>
     <author fullname="SIROTKIN, Sasha">

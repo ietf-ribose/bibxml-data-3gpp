@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 27.103:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.103/27103-400.zip">
+<reference anchor="3GPP.TS.27.103:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.103/27103-400.zip">
   <front>
     <title>Wide Area Network Synchronization</title>
     <author fullname="MONRAD, Atle">

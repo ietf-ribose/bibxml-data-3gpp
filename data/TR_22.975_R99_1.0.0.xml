@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.975:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.975/22975-100.zip">
+<reference anchor="3GPP.TR.22.975:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.975/22975-100.zip">
   <front>
     <title>Advanced addressing</title>
     <author fullname="MUSTAPHA, Mona">

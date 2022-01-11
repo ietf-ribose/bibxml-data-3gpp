@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 12.11:Ph1/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.11/1211-100.zip">
+<reference anchor="3GPP.TS.12.11:Ph1/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.11/1211-100.zip">
   <front>
     <title>Fault management of the Base Station System (BSS)</title>
     <author fullname="TOVINGER, Thomas">

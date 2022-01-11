@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.518:Rel-16/16.5.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.518/29518-g50.zip">
+<reference anchor="3GPP.TS.29.518:Rel-16/16.5.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.518/29518-g50.zip">
   <front>
     <title>5G System; Access and Mobility Management Services; Stage 3</title>
     <author fullname="YANG, Yong">

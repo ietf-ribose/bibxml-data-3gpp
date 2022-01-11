@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.421:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.421/32421-h20.zip">
+<reference anchor="3GPP.TS.32.421:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.421/32421-h20.zip">
   <front>
     <title>Telecommunication management; Subscriber and equipment trace; Trace concepts and requirements</title>
     <author fullname="ZOU, Lan">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.523:Rel-17/17.0.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.523/29523-h00.zip">
+<reference anchor="3GPP.TS.29.523:Rel-17/17.0.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.523/29523-h00.zip">
   <front>
     <title>5G System; Policy Control Event Exposure Service; Stage 3</title>
     <author fullname="GARCIA AZORERO, Fuencisla">

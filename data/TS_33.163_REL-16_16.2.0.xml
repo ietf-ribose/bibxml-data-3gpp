@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.163:Rel-16/16.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.163/33163-g20.zip">
+<reference anchor="3GPP.TS.33.163:Rel-16/16.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.163/33163-g20.zip">
   <front>
     <title>Battery Efficient Security for very low throughput Machine Type Communication (MTC) devices (BEST)</title>
     <author fullname="EVANS, Tim P.">

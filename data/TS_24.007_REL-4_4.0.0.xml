@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.007:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-400.zip">
+<reference anchor="3GPP.TS.24.007:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-400.zip">
   <front>
     <title>Mobile radio interface signalling layer 3; General Aspects</title>
     <author fullname="CHIN, ChenHo">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 02.72:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.72/0272-500.zip">
+<reference anchor="3GPP.TS.02.72:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.72/0272-500.zip">
   <front>
     <title>Call Deflection Service description; Stage 1</title>
     <author fullname="BISCHINGER, Kurt">

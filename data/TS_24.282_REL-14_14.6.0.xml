@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.282:Rel-14/14.6.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.282/24282-e60.zip">
+<reference anchor="3GPP.TS.24.282:Rel-14/14.6.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.282/24282-e60.zip">
   <front>
     <title>Mission Critical Data (MCData) signalling control; Protocol specification</title>
     <author fullname="KAPALE, Kiran">

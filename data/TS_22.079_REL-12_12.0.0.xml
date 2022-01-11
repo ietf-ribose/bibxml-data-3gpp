@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.079:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.079/22079-c00.zip">
+<reference anchor="3GPP.TS.22.079:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.079/22079-c00.zip">
   <front>
     <title>Support of Optimal Routeing (SOR); Service definition; Stage 1</title>
     <author fullname="SCARRONE, Enrico">

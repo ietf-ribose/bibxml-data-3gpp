@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.968:Rel-8/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.968/22968-021.zip">
+<reference anchor="3GPP.TR.22.968:Rel-8/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.968/22968-021.zip">
   <front>
     <title>Study for requirements for a Public Warning System (PWS) service</title>
     <author fullname="YOUNGE, Mark">

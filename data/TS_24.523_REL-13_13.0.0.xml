@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.523:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.523/24523-d00.zip">
+<reference anchor="3GPP.TS.24.523:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.523/24523-d00.zip">
   <front>
     <title>Core and enterprise Next Generation Network (NGN) interaction scenarios; Architecture and functional description</title>
     <author fullname="LEIS, Peter">

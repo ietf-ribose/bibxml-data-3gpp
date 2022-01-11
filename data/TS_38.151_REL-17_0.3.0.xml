@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.151:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.151/38151-030.zip">
+<reference anchor="3GPP.TS.38.151:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.151/38151-030.zip">
   <front>
     <title>NR; User Equipment (UE)  Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance requirements</title>
     <author fullname="WANG, Ruixin">

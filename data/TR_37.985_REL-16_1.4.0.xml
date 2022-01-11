@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.985:Rel-16/1.4.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.985/37985-140.zip">
+<reference anchor="3GPP.TR.37.985:Rel-16/1.4.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.985/37985-140.zip">
   <front>
     <title>Overall description of Radio Access Network (RAN) aspects for Vehicle-to-everything (V2X) based on LTE and NR</title>
     <author fullname="WEBB, Matthew">

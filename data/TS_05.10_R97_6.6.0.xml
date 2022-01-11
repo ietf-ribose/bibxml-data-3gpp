@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.10:R97/6.6.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.10/0510-660.zip">
+<reference anchor="3GPP.TS.05.10:R97/6.6.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.10/0510-660.zip">
   <front>
     <title>Radio subsystem synchronization</title>
     <author fullname="JOKINEN, Harri">

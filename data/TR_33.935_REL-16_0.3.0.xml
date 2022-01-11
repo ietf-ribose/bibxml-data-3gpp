@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.935:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.935/33935-030.zip">
+<reference anchor="3GPP.TR.33.935:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.935/33935-030.zip">
   <front>
     <title>Study on detailed Long Term Key Update Process (LTKUP) detailed solutions</title>
     <author fullname="EVANS, Tim P.">

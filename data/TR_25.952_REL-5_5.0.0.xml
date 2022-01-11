@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.952:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.952/25952-500.zip">
+<reference anchor="3GPP.TR.25.952:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.952/25952-500.zip">
   <front>
     <title>TDD Base Station (BS) classification</title>
     <author fullname="AXNESS, Timothy">

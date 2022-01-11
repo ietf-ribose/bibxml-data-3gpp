@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 30.902:Rel-4/4.0.2" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.902/30902-402.zip">
+<reference anchor="3GPP.TR.30.902:Rel-4/4.0.2" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.902/30902-402.zip">
   <front>
     <title>Guidelines for the modification of the Mobile Application Part (MAP) in Phase 2+</title>
     <author fullname="WIEHE, Ulrich">

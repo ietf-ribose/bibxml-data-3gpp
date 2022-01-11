@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.127:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.127/22127-600.zip">
+<reference anchor="3GPP.TS.22.127:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.127/22127-600.zip">
   <front>
     <title>Service requirement for the Open Services Access (OSA); Stage 1</title>
     <author fullname="SWETINA, Joerg">

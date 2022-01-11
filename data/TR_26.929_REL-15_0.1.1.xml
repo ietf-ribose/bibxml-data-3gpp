@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.929:Rel-15/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.929/26929-011.zip">
+<reference anchor="3GPP.TR.26.929:Rel-15/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.929/26929-011.zip">
   <front>
     <title>QoE parameters and metrics relevant to the Virtual Reality (VR) user experience</title>
     <author fullname="HEIKKILÄ, Gunnar">

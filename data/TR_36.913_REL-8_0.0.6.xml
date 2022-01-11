@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.913:Rel-8/0.0.6" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.913/36913-006.zip">
+<reference anchor="3GPP.TR.36.913:Rel-8/0.0.6" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.913/36913-006.zip">
   <front>
     <title>Requirements for further advancements for Evolved Universal Terrestrial Radio Access (E-UTRA)  (LTE-Advanced)</title>
     <author fullname="NAKAMURA, Takehiro">

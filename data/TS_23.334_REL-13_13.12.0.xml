@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.334:Rel-13/13.12.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.334/23334-dc0.zip">
+<reference anchor="3GPP.TS.23.334:Rel-13/13.12.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.334/23334-dc0.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) Application Level Gateway (IMS-ALG) - IMS Access Gateway (IMS-AGW) interface: Procedures descriptions</title>
     <author fullname="BELLING, Thomas">

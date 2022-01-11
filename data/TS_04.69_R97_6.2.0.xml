@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.69:R97/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.69/0469-620.zip">
+<reference anchor="3GPP.TS.04.69:R97/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.69/0469-620.zip">
   <front>
     <title>Broadcast Call Control (BCC) protocol</title>
     <author fullname="LAUSTER, Reinhard">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.402:Rel-7/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.402/25402-710.zip">
+<reference anchor="3GPP.TS.25.402:Rel-7/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.402/25402-710.zip">
   <front>
     <title>Synchronisation in UTRAN Stage 2</title>
     <author fullname="AHMED, Ayaz">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.672:Rel-5/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.672/32672-000.zip">
+<reference anchor="3GPP.TS.32.672:Rel-5/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.672/32672-000.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); Information Service (IS)</title>
     <author fullname="CORNILY, Jean Michel">

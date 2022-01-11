@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.947:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.947/26947-c00.zip">
+<reference anchor="3GPP.TR.26.947:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.947/26947-c00.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); Selection and characterisation of application layer Forward Error Correction (FEC)</title>
     <author fullname="STOCKHAMMER, Thomas">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.111:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.111/26111-300.zip">
+<reference anchor="3GPP.TS.26.111:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.111/26111-300.zip">
   <front>
     <title>Codec for circuit switched multimedia telephony service; Modifications to H.324</title>
     <author fullname="JUNG, Kyunghun">

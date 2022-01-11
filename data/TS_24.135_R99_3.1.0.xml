@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.135:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.135/24135-310.zip">
+<reference anchor="3GPP.TS.24.135:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.135/24135-310.zip">
   <front>
     <title>Multicall supplementary service; Stage 3</title>
     <author fullname="MATSUURA, Takaaki">

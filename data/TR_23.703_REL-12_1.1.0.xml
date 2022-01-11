@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.703:Rel-12/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.703/23703-110.zip">
+<reference anchor="3GPP.TR.23.703:Rel-12/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.703/23703-110.zip">
   <front>
     <title>Study on architecture enhancements to support Proximity-based Services (ProSe)</title>
     <author fullname="ZISIMOPOULOS, Haris">

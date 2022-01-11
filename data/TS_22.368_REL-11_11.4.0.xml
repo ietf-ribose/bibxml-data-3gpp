@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.368:Rel-11/11.4.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.368/22368-b40.zip">
+<reference anchor="3GPP.TS.22.368:Rel-11/11.4.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.368/22368-b40.zip">
   <front>
     <title>Service requirements for Machine-Type Communications (MTC); Stage 1</title>
     <author fullname="NORP, Toon">

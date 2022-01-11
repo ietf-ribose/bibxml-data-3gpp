@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.404:Rel-7/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.404/24404-730.zip">
+<reference anchor="3GPP.TS.24.404:Rel-7/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.404/24404-730.zip">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services: Communication Diversion (CDIV); Protocol specification</title>
     <author fullname="DRAGE, Keith">

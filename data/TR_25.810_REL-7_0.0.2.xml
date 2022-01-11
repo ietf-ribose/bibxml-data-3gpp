@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.810:Rel-7/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.810/25810-002.zip">
+<reference anchor="3GPP.TR.25.810:Rel-7/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.810/25810-002.zip">
   <front>
     <title>UMTS 2.6 GHz (FDD) Work Item Technical Report</title>
     <author fullname="SÄYNÄJÄKANGAS, Tuomo">

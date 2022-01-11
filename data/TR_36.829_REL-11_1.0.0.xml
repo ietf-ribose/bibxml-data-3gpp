@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.829:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.829/36829-100.zip">
+<reference anchor="3GPP.TR.36.829:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.829/36829-100.zip">
   <front>
     <title>Enhanced performance requirement for LTE User Equipment (UE)</title>
     <author fullname="SAGAE, Yuta">

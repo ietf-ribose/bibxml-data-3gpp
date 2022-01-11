@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.281:Rel-15/15.8.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.281/24281-f80.zip">
+<reference anchor="3GPP.TS.24.281:Rel-15/15.8.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.281/24281-f80.zip">
   <front>
     <title>Mission Critical Video (MCVideo) signalling control; Protocol specification</title>
     <author fullname="WEI, haitao">

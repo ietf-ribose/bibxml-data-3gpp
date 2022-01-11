@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.106:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.106/36106-930.zip">
+<reference anchor="3GPP.TS.36.106:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.106/36106-930.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); FDD repeater radio transmission and reception</title>
     <author fullname="AHLSTRÖM, Alf">

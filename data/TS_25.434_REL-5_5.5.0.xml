@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.434:Rel-5/5.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.434/25434-550.zip">
+<reference anchor="3GPP.TS.25.434:Rel-5/5.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.434/25434-550.zip">
   <front>
     <title>UTRAN Iub interface data transport and transport signalling for Common Transport Channel data streams</title>
     <author fullname="ZHANG, Hongzhuo">

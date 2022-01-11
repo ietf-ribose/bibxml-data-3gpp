@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.070:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.070/23070-300.zip">
+<reference anchor="3GPP.TS.23.070:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.070/23070-300.zip">
   <front>
     <title>Routeing of calls to/from Public Data Networks (PDN) and the GSM Public Land Mobile Network (PLMN)</title>
     <author fullname="HOLM, Jan">

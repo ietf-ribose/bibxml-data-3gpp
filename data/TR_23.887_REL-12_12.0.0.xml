@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.887:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.887/23887-c00.zip">
+<reference anchor="3GPP.TR.23.887:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.887/23887-c00.zip">
   <front>
     <title>Study on Machine-Type Communications (MTC) and other mobile data applications communications enhancements</title>
     <author fullname="JAIN, Puneet">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.92:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.92/0692-700.zip">
+<reference anchor="3GPP.TS.06.92:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.92/0692-700.zip">
   <front>
     <title>Comfort noise aspects for Adaptive Multi-Rate speech traffic channels</title>
     <author fullname="BRUHN, Stefan">

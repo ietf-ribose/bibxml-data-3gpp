@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.899:Rel-15/1.1.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.899/32899-111.zip">
+<reference anchor="3GPP.TR.32.899:Rel-15/1.1.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.899/32899-111.zip">
   <front>
     <title>Telecommunication management; Charging management;Study on charging aspects of 5G system architecture phase 1</title>
     <author fullname="CHEN, SHAN">

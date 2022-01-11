@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.523-1:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-c20.zip">
+<reference anchor="3GPP.TS.36.523-1:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-c20.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 1: Protocol conformance specification</title>
     <author fullname="WU, Yuchun">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.908:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.908/22908-800.zip">
+<reference anchor="3GPP.TR.22.908:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.908/22908-800.zip">
   <front>
     <title>Study on Paging Permission with Access Control (PPAC)</title>
     <author fullname="NOGUCHI, Katsuhiro">

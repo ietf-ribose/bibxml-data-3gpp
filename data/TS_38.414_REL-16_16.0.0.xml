@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.414:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.414/38414-g00.zip">
+<reference anchor="3GPP.TS.38.414:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.414/38414-g00.zip">
   <front>
     <title>NG-RAN; NG data transport</title>
     <author fullname="LI, Dapeng">

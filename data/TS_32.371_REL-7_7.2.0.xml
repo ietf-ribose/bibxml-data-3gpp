@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.371:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.371/32371-720.zip">
+<reference anchor="3GPP.TS.32.371:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.371/32371-720.zip">
   <front>
     <title>Telecommunication management; Security Management concept and requirements</title>
     <author fullname="ZHANG, Kai">

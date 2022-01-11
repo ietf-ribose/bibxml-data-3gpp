@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.247:Rel-10/10.5.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-a50.zip">
+<reference anchor="3GPP.TS.24.247:Rel-10/10.5.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-a50.zip">
   <front>
     <title>Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3</title>
     <author fullname="WEI, haitao">

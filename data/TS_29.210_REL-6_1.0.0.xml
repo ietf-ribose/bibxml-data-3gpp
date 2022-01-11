@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.210:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.210/29210-100.zip">
+<reference anchor="3GPP.TS.29.210:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.210/29210-100.zip">
   <front>
     <title>Charging rule provisioning over Gx interface</title>
     <author fullname="BELLING, Thomas">

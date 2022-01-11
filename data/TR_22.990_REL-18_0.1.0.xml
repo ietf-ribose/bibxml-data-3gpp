@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.990:Rel-18/0.1.0" target="https://www.3gpp.org/ftp//Specs/archive/22_series/22.990/22990-010.zip">
+<reference anchor="3GPP.TR.22.990:Rel-18/0.1.0" target="https://www.3gpp.org/ftp//Specs/archive/22_series/22.990/22990-010.zip">
   <front>
     <title>Study on off-network for rail</title>
     <author fullname="GACH, Guillaume">

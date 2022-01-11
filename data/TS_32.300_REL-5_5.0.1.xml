@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.300:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.300/32300-501.zip">
+<reference anchor="3GPP.TS.32.300:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.300/32300-501.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Name convention for Managed Objects</title>
     <author fullname="TSE, Edwin">

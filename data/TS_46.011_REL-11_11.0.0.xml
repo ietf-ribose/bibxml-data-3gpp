@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.011:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.011/46011-b00.zip">
+<reference anchor="3GPP.TS.46.011:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.011/46011-b00.zip">
   <front>
     <title>Full rate speech; Substitution and muting of lost frames for full rate speech channels</title>
     <author fullname="JÄRVINEN, Kari">

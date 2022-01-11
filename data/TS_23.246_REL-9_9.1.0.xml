@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.246:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.246/23246-910.zip">
+<reference anchor="3GPP.TS.23.246:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.246/23246-910.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); Architecture and functional description</title>
     <author fullname="JARVIS, Andre">

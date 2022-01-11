@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.273:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.273/26273-800.zip">
+<reference anchor="3GPP.TS.26.273:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.273/26273-800.zip">
   <front>
     <title>ANSI-C code for the fixed-point Extended Adaptive Multi-Rate - Wideband (AMR-WB+) speech codec</title>
     <author fullname="BRUHN, Stefan">

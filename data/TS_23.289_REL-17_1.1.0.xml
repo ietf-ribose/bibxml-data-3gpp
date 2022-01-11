@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.289:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.289/23289-110.zip">
+<reference anchor="3GPP.TS.23.289:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.289/23289-110.zip">
   <front>
     <title>Mission Critical services over 5G System; Stage 2</title>
     <author fullname="WENDLER, Ingo">

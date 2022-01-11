@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.102:Rel-5/5.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.102/25102-570.zip">
+<reference anchor="3GPP.TS.25.102:Rel-5/5.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.102/25102-570.zip">
   <front>
     <title>User Equipment (UE) radio transmission and reception (TDD)</title>
     <author fullname="KOTTKAMP, Meik">

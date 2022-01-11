@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.067:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.067/23067-310.zip">
+<reference anchor="3GPP.TS.23.067:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.067/23067-310.zip">
   <front>
     <title>enhanced Multi-Level Precedence and Pre-emption Service (eMLPP); Stage 2</title>
     <author fullname="SCHMITT, Peter">

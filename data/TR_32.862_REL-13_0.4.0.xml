@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.862:Rel-13/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.862/32862-040.zip">
+<reference anchor="3GPP.TR.32.862:Rel-13/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.862/32862-040.zip">
   <front>
     <title>Study on Key Quality Indicators (KQIs) for service experience</title>
     <author fullname="ABA, Istvan">

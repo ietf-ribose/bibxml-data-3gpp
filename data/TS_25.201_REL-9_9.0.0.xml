@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.201:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.201/25201-900.zip">
+<reference anchor="3GPP.TS.25.201:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.201/25201-900.zip">
   <front>
     <title>Physical layer - general description</title>
     <author fullname="BAKER, Matthew">

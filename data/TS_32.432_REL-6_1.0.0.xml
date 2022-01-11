@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.432:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.432/32432-100.zip">
+<reference anchor="3GPP.TS.32.432:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.432/32432-100.zip">
   <front>
     <title>Telecommunication management; Performance measurement: File format definition</title>
     <author fullname="ZOU, Lan">

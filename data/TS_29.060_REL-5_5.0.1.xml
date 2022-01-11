@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.060:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.060/29060-501.zip">
+<reference anchor="3GPP.TS.29.060:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.060/29060-501.zip">
   <front>
     <title>General Packet Radio Service (GPRS); GPRS Tunnelling Protocol (GTP) across the Gn and Gp interface</title>
     <author fullname="TAMURA, Toshiyuki">

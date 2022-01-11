@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.793:Rel-16/1.2.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.793/23793-121.zip">
+<reference anchor="3GPP.TR.23.793:Rel-16/1.2.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.793/23793-121.zip">
   <front>
     <title>Study on access traffic steering, switch and splitting support in the 5G System (5GS) architecture</title>
     <author fullname="SO, Tricci">

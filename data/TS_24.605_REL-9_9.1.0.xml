@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.605:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.605/24605-910.zip">
+<reference anchor="3GPP.TS.24.605:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.605/24605-910.zip">
   <front>
     <title>Conference (CONF) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification</title>
     <author fullname="WEI, haitao">

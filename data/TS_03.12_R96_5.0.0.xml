@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.12:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.12/0312-500.zip">
+<reference anchor="3GPP.TS.03.12:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.12/0312-500.zip">
   <front>
     <title>Location Registration Procedures</title>
     <author fullname="SCHMITT, Peter">

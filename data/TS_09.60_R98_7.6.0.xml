@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 09.60:R98/7.6.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.60/0960-760.zip">
+<reference anchor="3GPP.TS.09.60:R98/7.6.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.60/0960-760.zip">
   <front>
     <title>General Packet Radio Service (GPRS); GPRS Tunnelling Protocol GPT) across the Gn and Gp Interface</title>
     <author fullname="SCHMITT, Peter">

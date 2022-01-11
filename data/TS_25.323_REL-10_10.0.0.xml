@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.323:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.323/25323-a00.zip">
+<reference anchor="3GPP.TS.25.323:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.323/25323-a00.zip">
   <front>
     <title>Packet Data Convergence Protocol (PDCP) specification</title>
     <author fullname="SHRESTHA, Bharat">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.857-13:Rel-13/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.857-13/36857-13-101.zip">
+<reference anchor="3GPP.TR.36.857-13:Rel-13/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.857-13/36857-13-101.zip">
   <front>
     <title>LTE Advanced 5 Band Carrier Aggregation (CA) (5DL/1UL)</title>
     <author fullname="ANDO, Kei">

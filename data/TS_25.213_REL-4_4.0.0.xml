@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.213:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.213/25213-400.zip">
+<reference anchor="3GPP.TS.25.213:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.213/25213-400.zip">
   <front>
     <title>Spreading and modulation (FDD)</title>
     <author fullname="PICA, Francesco">

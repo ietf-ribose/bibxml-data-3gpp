@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 09.90:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.90/0990-510.zip">
+<reference anchor="3GPP.TR.09.90:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.90/0990-510.zip">
   <front>
     <title>Interworking between Phase 1 Infrastructure and Phase 2 Mobile Stations (MS)</title>
     <author fullname="BURBIDGE, Richard">

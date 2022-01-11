@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.785:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.785/38785-020.zip">
+<reference anchor="3GPP.TR.38.785:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.785/38785-020.zip">
   <front>
     <title>User Equipment (UE) radio transmission and reception for enhanced NR sidelink</title>
     <author fullname="LIM, Suhwan">

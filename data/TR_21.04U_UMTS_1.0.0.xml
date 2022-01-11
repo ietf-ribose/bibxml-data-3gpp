@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 21.04U:UMTS/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.04U/2104U-100.zip">
+<reference anchor="3GPP.TR.21.04U:UMTS/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.04U/2104U-100.zip">
   <front>
     <title>Requirements for the support of data services in UMTS</title>
     <author fullname="HOLLEY, Kevin">

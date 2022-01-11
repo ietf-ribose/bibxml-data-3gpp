@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.108:Rel-4/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.108/29108-440.zip">
+<reference anchor="3GPP.TS.29.108:Rel-4/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.108/29108-440.zip">
   <front>
     <title>Application of the Radio Access Network Application Part (RANAP) on the E-interface</title>
     <author fullname="AHMED, Ayaz">

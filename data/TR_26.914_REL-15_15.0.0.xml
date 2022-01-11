@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.914:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.914/26914-f00.zip">
+<reference anchor="3GPP.TR.26.914:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.914/26914-f00.zip">
   <front>
     <title>Multimedia telephony over IP Multimedia Subsystem (IMS); Optimization opportunities</title>
     <author fullname="JUNG, Kyunghun">

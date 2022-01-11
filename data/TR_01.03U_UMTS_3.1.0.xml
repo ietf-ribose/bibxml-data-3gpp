@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 01.03U:UMTS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.03U/0103U-310.zip">
+<reference anchor="3GPP.TR.01.03U:UMTS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.03U/0103U-310.zip">
   <front>
     <title>Universal Mobile Telecommunications System (UMTS); System requirements</title>
     <author fullname="RICHARDS, Derek">

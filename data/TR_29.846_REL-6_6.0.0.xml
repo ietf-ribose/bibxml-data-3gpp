@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.846:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.846/29846-600.zip">
+<reference anchor="3GPP.TR.29.846:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.846/29846-600.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); CN1 procedure description</title>
     <author fullname="HERRERO-VERON, Christian">

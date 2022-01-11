@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.783:Rel-17/0.13.0" target="https://www.3gpp.org/ftp//Specs/archive/23_series/23.783/23783-0d0.zip">
+<reference anchor="3GPP.TR.23.783:Rel-17/0.13.0" target="https://www.3gpp.org/ftp//Specs/archive/23_series/23.783/23783-0d0.zip">
   <front>
     <title>Study on Mission Critical (MC) services support over the 5G System (5GS)</title>
     <author fullname="VERWEIJ, Kees">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.835:Rel-17/0.2.1" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.835/29835-021.zip">
+<reference anchor="3GPP.TR.29.835:Rel-17/0.2.1" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.835/29835-021.zip">
   <front>
     <title>Study on Port Allocation Alternatives for New 3GPP Interfaces</title>
     <author fullname="GULBANI, Giorgi">

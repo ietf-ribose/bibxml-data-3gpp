@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 09.10dcs:Ph1-DCS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.10dcs/0910dcs-300.zip">
+<reference anchor="3GPP.TS.09.10dcs:Ph1-DCS/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.10dcs/0910dcs-300.zip">
   <front>
     <title>Information Element Mapping between Mobile Station - Base Station System (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MCS) Signalling Procedures and the Mobile Application Part (MAP) (DCS 1800)</title>
     <author fullname="SCHMITT, Peter">

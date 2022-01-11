@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.198-13:Rel-6/6.2.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-13/29198-13-622.zip">
+<reference anchor="3GPP.TS.29.198-13:Rel-6/6.2.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-13/29198-13-622.zip">
   <front>
     <title>Open Service Access (OSA) Application Programming Interface (API); Part 13: Policy management Service Capability Feature (SCF)</title>
     <author fullname="UNMEHOPA, Musa">

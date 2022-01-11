@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.862:Rel-17/0.0.5" target="https://ftp.3gpp.org//Specs/archive/26_series/26.862/26862-005.zip">
+<reference anchor="3GPP.TR.26.862:Rel-17/0.0.5" target="https://ftp.3gpp.org//Specs/archive/26_series/26.862/26862-005.zip">
   <front>
     <title>Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT) Use Cases, Requirements and Potential Solutions</title>
     <author fullname="GUNKEL, Simon">

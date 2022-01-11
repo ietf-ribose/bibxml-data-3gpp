@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.060:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.060/23060-530.zip">
+<reference anchor="3GPP.TS.23.060:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.060/23060-530.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Service description; Stage 2</title>
     <author fullname="SALKINTZIS, Apostolis">

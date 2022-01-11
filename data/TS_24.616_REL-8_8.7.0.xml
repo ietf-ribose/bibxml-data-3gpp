@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.616:Rel-8/8.7.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.616/24616-870.zip">
+<reference anchor="3GPP.TS.24.616:Rel-8/8.7.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.616/24616-870.zip">
   <front>
     <title>Malicious Communication Identification (MCID) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification</title>
     <author fullname="KREIPL, Michael">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.852-12:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.852-12/36852-12-c20.zip">
+<reference anchor="3GPP.TR.36.852-12:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.852-12/36852-12-c20.zip">
   <front>
     <title>LTE Advanced inter-band Carrier Aggregation (CA) (2DL/1UL)</title>
     <author fullname="KHAN, Asif Ali">

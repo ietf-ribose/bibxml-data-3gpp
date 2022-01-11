@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 49.001:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/49_series/49.001/49001-600.zip">
+<reference anchor="3GPP.TR.49.001:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/49_series/49.001/49001-600.zip">
   <front>
     <title>General network interworking scenarios</title>
     <author fullname="SCHMITT, Peter">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.802:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.802/36802-100.zip">
+<reference anchor="3GPP.TR.36.802:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.802/36802-100.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); NB-IOT; Technical Report for BS and UE radio transmission and reception</title>
     <author fullname="LIU, Liehai">

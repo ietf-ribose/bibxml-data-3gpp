@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 45.015:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.015/45015-410.zip">
+<reference anchor="3GPP.TS.45.015:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.015/45015-410.zip">
   <front>
     <title>GSM/EDGE Release independent Downlink Advanced Receiver Performance (DARP); Implementation guidelines</title>
     <author fullname="HOFMANN, Juergen">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.110:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.110/23110-f00.zip">
+<reference anchor="3GPP.TS.23.110:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.110/23110-f00.zip">
   <front>
     <title>Universal Mobile Telecommunications System (UMTS) access stratum; Services and functions</title>
     <author fullname="LOPEZ-TORRES, Oscar">

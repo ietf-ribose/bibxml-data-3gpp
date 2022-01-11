@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.408:Rel-7/1.5.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.408/24408-151.zip">
+<reference anchor="3GPP.TS.24.408:Rel-7/1.5.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.408/24408-151.zip">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services Terminating Identification Presentation (TIP) and Terminating Identification Restriction (TIR); Protocol specification</title>
     <author fullname="DRAGE, Keith">

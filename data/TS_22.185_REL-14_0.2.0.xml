@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.185:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.185/22185-020.zip">
+<reference anchor="3GPP.TS.22.185:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.185/22185-020.zip">
   <front>
     <title>Service requirements for V2X services</title>
     <author fullname="LEE, Ki-Dong">

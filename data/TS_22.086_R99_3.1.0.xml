@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.086:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.086/22086-310.zip">
+<reference anchor="3GPP.TS.22.086:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.086/22086-310.zip">
   <front>
     <title>Advice of Charge (AoC) supplementary services; Stage 1</title>
     <author fullname="DEOL, Amar">

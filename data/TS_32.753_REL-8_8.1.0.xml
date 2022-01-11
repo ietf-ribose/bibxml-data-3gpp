@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.753:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.753/32753-810.zip">
+<reference anchor="3GPP.TS.32.753:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.753/32753-810.zip">
   <front>
     <title>Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
     <author fullname="ZHANG, Kai">

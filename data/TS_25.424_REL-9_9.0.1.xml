@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.424:Rel-9/9.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.424/25424-901.zip">
+<reference anchor="3GPP.TS.25.424:Rel-9/9.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.424/25424-901.zip">
   <front>
     <title>UTRAN Iur interface data transport &amp; transport signalling for Common Transport Channel data streams</title>
     <author fullname="ZHANG, Hongzhuo">

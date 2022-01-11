@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.808:Rel-16/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.808/33808-020.zip">
+<reference anchor="3GPP.TR.33.808:Rel-16/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.808/33808-020.zip">
   <front>
     <title>KDF negotiation for 5GS security – phase2</title>
     <author fullname="MUHANNA, Ahmad">

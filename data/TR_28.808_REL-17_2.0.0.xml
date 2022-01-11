@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 28.808:Rel-17/2.0.0" target="https://ftp.3gpp.org//Specs/archive/28_series/28.808/28808-200.zip">
+<reference anchor="3GPP.TR.28.808:Rel-17/2.0.0" target="https://ftp.3gpp.org//Specs/archive/28_series/28.808/28808-200.zip">
   <front>
     <title>Study on management and orchestration aspects of integrated satellite components in a 5G network</title>
     <author fullname="DRIJVER, Floris">

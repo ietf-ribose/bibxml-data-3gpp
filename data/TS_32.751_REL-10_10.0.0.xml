@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.751:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.751/32751-a00.zip">
+<reference anchor="3GPP.TS.32.751:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.751/32751-a00.zip">
   <front>
     <title>Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements</title>
     <author fullname="ZOU, Lan">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 03.49:Ph2/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.49/0349-440.zip">
+<reference anchor="3GPP.TR.03.49:Ph2/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.49/0349-440.zip">
   <front>
     <title>Example protocol stacks for interconnecting Cell Broadcast Centre (CBC) and Base Station Controler (BSC)</title>
     <author fullname="MONRAD, Atle">

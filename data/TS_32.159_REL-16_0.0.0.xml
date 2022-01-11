@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.159:Rel-16/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.159/32159-000.zip">
+<reference anchor="3GPP.TS.32.159:Rel-16/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.159/32159-000.zip">
   <front>
     <title>TS template for stage 2 and stage 3 of management service definitions</title>
     <author fullname="TSE, Edwin">

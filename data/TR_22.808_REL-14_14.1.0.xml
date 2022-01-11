@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.808:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.808/22808-e10.zip">
+<reference anchor="3GPP.TR.22.808:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.808/22808-e10.zip">
   <front>
     <title>Study on Flexible Mobile Service Steering (FMSS)</title>
     <author fullname="LU, Lu">

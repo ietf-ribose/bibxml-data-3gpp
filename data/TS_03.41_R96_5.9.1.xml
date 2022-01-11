@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.41:R96/5.9.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.41/0341-591.zip">
+<reference anchor="3GPP.TS.03.41:R96/5.9.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.41/0341-591.zip">
   <front>
     <title>Technical Realization of Short Message Service Cell Broadcast (SMSCB)</title>
     <author fullname="BURBIDGE, Richard">

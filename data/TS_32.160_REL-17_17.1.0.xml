@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.160:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.160/32160-h10.zip">
+<reference anchor="3GPP.TS.32.160:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.160/32160-h10.zip">
   <front>
     <title>Management and orchestration; Management service template</title>
     <author fullname="GROENENDIJK, Jan">

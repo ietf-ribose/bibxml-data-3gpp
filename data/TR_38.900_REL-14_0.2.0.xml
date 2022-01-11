@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.900:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.900/38900-020.zip">
+<reference anchor="3GPP.TR.38.900:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.900/38900-020.zip">
   <front>
     <title>Study on channel model for frequency spectrum above 6 GHz</title>
     <author fullname="NAM, Young-han">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.109:Rel-10/10.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.109/29109-a40.zip">
+<reference anchor="3GPP.TS.29.109:Rel-10/10.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.109/29109-a40.zip">
   <front>
     <title>Generic Authentication Architecture (GAA); Zh and Zn Interfaces based on the Diameter protocol; Stage 3</title>
     <author fullname="WIEHE, Ulrich">

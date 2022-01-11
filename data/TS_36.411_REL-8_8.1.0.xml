@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.411:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.411/36411-810.zip">
+<reference anchor="3GPP.TS.36.411:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.411/36411-810.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 layer 1</title>
     <author fullname="WANG, Yan">

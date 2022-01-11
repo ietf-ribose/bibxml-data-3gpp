@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.257:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.257/29257-040.zip">
+<reference anchor="3GPP.TS.29.257:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.257/29257-040.zip">
   <front>
     <title>Application layer support for Uncrewed Aerial System (UAS); UAS Application Enabler (UAE) Server Services; Stage 3</title>
     <author fullname="EL MOATAMID, Abdessamad">

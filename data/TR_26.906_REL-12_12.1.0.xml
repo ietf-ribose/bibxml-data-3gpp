@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.906:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.906/26906-c10.zip">
+<reference anchor="3GPP.TR.26.906:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.906/26906-c10.zip">
   <front>
     <title>Evaluation of High Efficiency Video Coding (HEVC) for 3GPP services</title>
     <author fullname="WANG, Ye-kui">

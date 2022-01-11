@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.059:Rel-13/13.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.059/43059-d20.zip">
+<reference anchor="3GPP.TS.43.059:Rel-13/13.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.059/43059-d20.zip">
   <front>
     <title>Functional stage 2 description of Location Services (LCS) in GERAN</title>
     <author fullname="HOFMANN, Juergen">

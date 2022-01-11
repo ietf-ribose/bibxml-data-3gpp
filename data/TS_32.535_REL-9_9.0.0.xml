@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.535:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.535/32535-900.zip">
+<reference anchor="3GPP.TS.32.535:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.535/32535-900.zip">
   <front>
     <title>Telecommunication management; Software Management Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions</title>
     <author fullname="HUANG, Shuqiang">

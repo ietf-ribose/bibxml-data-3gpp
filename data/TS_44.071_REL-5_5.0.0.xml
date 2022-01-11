@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 44.071:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.071/44071-500.zip">
+<reference anchor="3GPP.TS.44.071:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.071/44071-500.zip">
   <front>
     <title>GSM/EDGE Location Services (LCS); Mobile radio interface layer 3 LCS specification</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

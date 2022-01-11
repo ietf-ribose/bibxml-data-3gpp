@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.508:Rel-16/16.8.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.508/29508-g80.zip">
+<reference anchor="3GPP.TS.29.508:Rel-16/16.8.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.508/29508-g80.zip">
   <front>
     <title>5G System; Session Management Event Exposure Service; Stage 3</title>
     <author fullname="BELLING, Thomas">

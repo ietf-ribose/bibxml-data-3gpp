@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.876:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.876/36876-020.zip">
+<reference anchor="3GPP.TR.36.876:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.876/36876-020.zip">
   <front>
     <title>Study on further enhancements of small cell high layer aspects for LTE</title>
     <author fullname="HAN, Feng">

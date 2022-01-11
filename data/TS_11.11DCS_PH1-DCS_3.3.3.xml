@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.11dcs:Ph1-DCS/3.3.3" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.11dcs/1111dcs-333.zip">
+<reference anchor="3GPP.TS.11.11dcs:Ph1-DCS/3.3.3" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.11dcs/1111dcs-333.zip">
   <front>
     <title>Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) Interface (DCS 1800)</title>
     <author fullname="GUTHERY, Scott B.">

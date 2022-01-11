@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.220:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.220/22220-e00.zip">
+<reference anchor="3GPP.TS.22.220:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.220/22220-e00.zip">
   <front>
     <title>Service requirements for Home Node B (HNB) and Home eNode B (HeNB)</title>
     <author fullname="SWETINA, Joerg">

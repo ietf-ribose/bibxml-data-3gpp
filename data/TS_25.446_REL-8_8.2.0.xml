@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.446:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.446/25446-820.zip">
+<reference anchor="3GPP.TS.25.446:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.446/25446-820.zip">
   <front>
     <title>MBMS synchronisation protocol (SYNC)</title>
     <author fullname="XU, Steven">

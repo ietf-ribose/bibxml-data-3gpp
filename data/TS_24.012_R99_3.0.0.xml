@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.012:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.012/24012-300.zip">
+<reference anchor="3GPP.TS.24.012:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.012/24012-300.zip">
   <front>
     <title>Short Message Service Cell Broadcast (SMSCB) Support on the Mobile Radio Interface</title>
     <author fullname="AL-BAKRI, Ban">

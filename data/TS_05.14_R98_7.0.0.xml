@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.14:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.14/0514-700.zip">
+<reference anchor="3GPP.TS.05.14:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.14/0514-700.zip">
   <front>
     <title>Release independent frequency bands; Implementation guidelines</title>
     <author fullname="KANGAS, Antti">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.766:Rel-15/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.766/36766-110.zip">
+<reference anchor="3GPP.TR.36.766:Rel-15/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.766/36766-110.zip">
   <front>
     <title>Study on interference cancellation receiver for LTE BS</title>
     <author fullname="YANG, Shan">

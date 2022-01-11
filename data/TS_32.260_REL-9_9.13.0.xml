@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.260:Rel-9/9.13.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.260/32260-9d0.zip">
+<reference anchor="3GPP.TS.32.260:Rel-9/9.13.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.260/32260-9d0.zip">
   <front>
     <title>Telecommunication management;Charging management;IP Multimedia Subsystem (IMS) charging</title>
     <author fullname="GARDELLA, Maryse">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.054:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.054/46054-900.zip">
+<reference anchor="3GPP.TS.46.054:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.054/46054-900.zip">
   <front>
     <title>Test sequences for the GSM Enhanced Full Rate (EFR) speech codec</title>
     <author fullname="JÄRVINEN, Kari">

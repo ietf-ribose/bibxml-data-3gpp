@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.410:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.410/26410-g00.zip">
+<reference anchor="3GPP.TS.26.410:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.410/26410-g00.zip">
   <front>
     <title>General audio codec audio processing functions; Enhanced aacPlus general audio codec; Floating-point ANSI-C code</title>
     <author fullname="KUNZ, Oliver">

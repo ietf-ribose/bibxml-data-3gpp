@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.581:Rel-15/15.5.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.581/24581-f50.zip">
+<reference anchor="3GPP.TS.24.581:Rel-15/15.5.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.581/24581-f50.zip">
   <front>
     <title>Mission Critical Video (MCVideo) media plane control; Protocol specification</title>
     <author fullname="WEI, haitao">

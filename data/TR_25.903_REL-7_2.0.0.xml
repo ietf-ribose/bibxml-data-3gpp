@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.903:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.903/25903-200.zip">
+<reference anchor="3GPP.TR.25.903:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.903/25903-200.zip">
   <front>
     <title>Continuous connectivity for packet data users</title>
     <author fullname="BAKER, Matthew">

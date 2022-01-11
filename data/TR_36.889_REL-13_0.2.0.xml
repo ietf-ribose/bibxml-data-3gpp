@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.889:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.889/36889-020.zip">
+<reference anchor="3GPP.TR.36.889:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.889/36889-020.zip">
   <front>
     <title>Feasibility Study on Licensed-Assisted Access to Unlicensed Spectrum</title>
     <author fullname="KOORAPATY, Havish">

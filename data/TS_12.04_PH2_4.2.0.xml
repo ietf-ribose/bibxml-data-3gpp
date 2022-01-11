@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 12.04:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.04/1204-420.zip">
+<reference anchor="3GPP.TS.12.04:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.04/1204-420.zip">
   <front>
     <title>Performance data measurements</title>
     <author fullname="TOCHE, Christian">

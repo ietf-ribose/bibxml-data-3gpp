@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.22:Ph2/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.22/0422-440.zip">
+<reference anchor="3GPP.TS.04.22:Ph2/4.4.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.22/0422-440.zip">
   <front>
     <title>Radio Link Protocol (RLP) for data and telematic services on the Mobile Station - Base Station System (MS - BSS) interface and the Base Station System - Mobile-services Switching Centre (BSS - MSC) interface</title>
     <author fullname="BELLING, Thomas">

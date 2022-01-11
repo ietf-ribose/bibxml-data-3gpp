@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.957:Rel-14/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.957/26957-001.zip">
+<reference anchor="3GPP.TR.26.957:Rel-14/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.957/26957-001.zip">
   <front>
     <title>Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP (DASH) (SAND) for 3GPP multimedia services</title>
     <author fullname="OYMAN, Ozgur">

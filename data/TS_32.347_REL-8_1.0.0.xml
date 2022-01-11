@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.347:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.347/32347-100.zip">
+<reference anchor="3GPP.TS.32.347:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.347/32347-100.zip">
   <front>
     <title>Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); SOAP Solution Set (SS)</title>
     <author fullname="LI, Gang">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.844:Rel-17/0.0.2" target="https://ftp.3gpp.org//Specs/archive/38_series/38.844/38844-002.zip">
+<reference anchor="3GPP.TR.38.844:Rel-17/0.0.2" target="https://ftp.3gpp.org//Specs/archive/38_series/38.844/38844-002.zip">
   <front>
     <title>Study on Efficient utilization of licensed spectrum that is not aligned with existing NR channel bandwidth</title>
     <author fullname="SIENKIEWICZ, Esther">

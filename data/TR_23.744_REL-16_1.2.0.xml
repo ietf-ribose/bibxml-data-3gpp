@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.744:Rel-16/1.2.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.744/23744-120.zip">
+<reference anchor="3GPP.TR.23.744:Rel-16/1.2.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.744/23744-120.zip">
   <front>
     <title>Study on location enhancements for mission critical services</title>
     <author fullname="LAZARA, Dominic">

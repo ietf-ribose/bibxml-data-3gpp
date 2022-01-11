@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.928:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.928/25928-400.zip">
+<reference anchor="3GPP.TR.25.928:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.928/25928-400.zip">
   <front>
     <title>1,28 Mcps functionality for UTRA TDD physical layer</title>
     <author fullname="AKSENTIJEVIC, Mirko">

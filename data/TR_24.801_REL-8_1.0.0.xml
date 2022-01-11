@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 24.801:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.801/24801-100.zip">
+<reference anchor="3GPP.TR.24.801:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.801/24801-100.zip">
   <front>
     <title>3GPP System Architecture Evolution (SAE); CT WG1 aspects</title>
     <author fullname="ZAUS, Robert">

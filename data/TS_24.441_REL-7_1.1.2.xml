@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.441:Rel-7/1.1.2" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.441/24441-112.zip">
+<reference anchor="3GPP.TS.24.441:Rel-7/1.1.2" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.441/24441-112.zip">
   <front>
     <title>TISPAN; Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3: Protocol specifications [Endorsement of 3GPP TS 24.247 Release 6]</title>
     <author fullname="LEIS, Peter">

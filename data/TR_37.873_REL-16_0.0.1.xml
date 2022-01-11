@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.873:Rel-16/0.0.1" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.873/37873-001.zip">
+<reference anchor="3GPP.TR.37.873:Rel-16/0.0.1" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.873/37873-001.zip">
   <front>
     <title>Study on optimizations of UE radio capability signalling; NR / Evolved Universal Terrestrial Radio Access Network (E-UTRAN) aspects</title>
     <author fullname="HSU, Alex">

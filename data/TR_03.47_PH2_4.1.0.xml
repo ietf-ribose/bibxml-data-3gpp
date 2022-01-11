@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 03.47:Ph2/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.47/0347-410.zip">
+<reference anchor="3GPP.TR.03.47:Ph2/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.47/0347-410.zip">
   <front>
     <title>Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and Mobile Services Switching Centre(s) (MSC)</title>
     <author fullname="SCHMITT, Peter">

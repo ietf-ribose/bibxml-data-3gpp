@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.302:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.302/36302-930.zip">
+<reference anchor="3GPP.TS.36.302:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.302/36302-930.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Services provided by the physical layer</title>
     <author fullname="WU, Chunli">

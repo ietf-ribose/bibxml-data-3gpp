@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.634:Rel-4/4.1.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.634/32634-411.zip">
+<reference anchor="3GPP.TS.32.634:Rel-4/4.1.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.634/32634-411.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)</title>
     <author fullname="POLLAKOWSKI, Olaf">

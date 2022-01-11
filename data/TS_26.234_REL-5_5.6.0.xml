@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.234:Rel-5/5.6.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.234/26234-560.zip">
+<reference anchor="3GPP.TS.26.234:Rel-5/5.6.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.234/26234-560.zip">
   <front>
     <title>Transparent end-to-end Packet-switched Streaming Service (PSS); Protocols and codecs</title>
     <author fullname="GABIN, Frederic">

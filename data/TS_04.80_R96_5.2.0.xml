@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.80:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.80/0480-520.zip">
+<reference anchor="3GPP.TS.04.80:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.80/0480-520.zip">
   <front>
     <title>Mobile Radio Interface Layer 3 - Supplementary Services Specification Formats and Coding</title>
     <author fullname="WIEHE, Ulrich">

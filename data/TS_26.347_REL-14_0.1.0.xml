@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.347:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.347/26347-010.zip">
+<reference anchor="3GPP.TS.26.347:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.347/26347-010.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); Application Programming Interface and URL</title>
     <author fullname="BOUAZIZI, Imed">

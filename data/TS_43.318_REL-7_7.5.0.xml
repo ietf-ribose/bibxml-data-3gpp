@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.318:Rel-7/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.318/43318-750.zip">
+<reference anchor="3GPP.TS.43.318:Rel-7/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.318/43318-750.zip">
   <front>
     <title>Generic Access Network (GAN); Stage 2</title>
     <author fullname="VIKBERG, Jari">

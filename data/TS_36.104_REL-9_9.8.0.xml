@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.104:Rel-9/9.8.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.104/36104-980.zip">
+<reference anchor="3GPP.TS.36.104:Rel-9/9.8.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.104/36104-980.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS) radio transmission and reception</title>
     <author fullname="SKOLD, Johan">

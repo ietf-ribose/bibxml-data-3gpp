@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.521:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.521/32521-a20.zip">
+<reference anchor="3GPP.TS.32.521:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.521/32521-a20.zip">
   <front>
     <title>Telecommunication management; Self-Organizing Networks (SON) Policy Network Resource Model (NRM) Integration Reference Point (IRP); Requirements</title>
     <author fullname="ZOU, Lan">

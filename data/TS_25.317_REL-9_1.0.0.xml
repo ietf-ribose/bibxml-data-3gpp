@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.317:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.317/25317-100.zip">
+<reference anchor="3GPP.TS.25.317:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.317/25317-100.zip">
   <front>
     <title>High Speed Packet Access (HSPA); Requirements on User Equipments (UEs) supporting a release-independent frequency band combination</title>
     <author fullname="SAYENKO, Alexander">

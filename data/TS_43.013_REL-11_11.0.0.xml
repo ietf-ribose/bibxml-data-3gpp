@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.013:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.013/43013-b00.zip">
+<reference anchor="3GPP.TS.43.013:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.013/43013-b00.zip">
   <front>
     <title>Discontinuous Reception (DRX) in the GSM system</title>
     <author fullname="DIACHINA, John">

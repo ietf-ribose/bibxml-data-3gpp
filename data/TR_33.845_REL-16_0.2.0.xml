@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.845:Rel-16/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.845/33845-020.zip">
+<reference anchor="3GPP.TR.33.845:Rel-16/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.845/33845-020.zip">
   <front>
     <title>Study on storage and transport of 5G Core (5GC) security parameters for Authentication Credential Repository Processing Function (ARPF) authentication</title>
     <author fullname="EVANS, Tim P.">

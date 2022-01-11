@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.146:Rel-6/6.4.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.146/22146-640.zip">
+<reference anchor="3GPP.TS.22.146:Rel-6/6.4.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.146/22146-640.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); Stage 1</title>
     <author fullname="MIETTINEN, Natalia">

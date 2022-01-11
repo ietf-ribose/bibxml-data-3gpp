@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.221:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.221/23221-540.zip">
+<reference anchor="3GPP.TS.23.221:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.221/23221-540.zip">
   <front>
     <title>Architectural requirements</title>
     <author fullname="DANIEL, Elizabeth">

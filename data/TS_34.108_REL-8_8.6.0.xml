@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.108:Rel-8/8.6.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-860.zip">
+<reference anchor="3GPP.TS.34.108:Rel-8/8.6.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-860.zip">
   <front>
     <title>Common test environments for User Equipment (UE); Conformance testing</title>
     <author fullname="MATTISSON, Leif">

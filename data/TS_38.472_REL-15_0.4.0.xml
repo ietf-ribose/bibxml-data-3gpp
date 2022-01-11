@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.472:Rel-15/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.472/38472-040.zip">
+<reference anchor="3GPP.TS.38.472:Rel-15/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.472/38472-040.zip">
   <front>
     <title>NG-RAN; F1 signalling transport</title>
     <author fullname="MILLER, James">

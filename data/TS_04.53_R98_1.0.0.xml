@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.53:R98/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.53/0453-100.zip">
+<reference anchor="3GPP.TS.04.53:R98/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.53/0453-100.zip">
   <front>
     <title>Inband Tandem Free Operation (TFO) of Speech Codecs; Service Description; Stage 3</title>
     <author fullname="NAVARRO, William">

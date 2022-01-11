@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.225:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.225/25225-d00.zip">
+<reference anchor="3GPP.TS.25.225:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.225/25225-d00.zip">
   <front>
     <title>Physical layer; Measurements (TDD)</title>
     <author fullname="MILLER, James">

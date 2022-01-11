@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.873:Rel-18/0.4.1" target="https://ftp.3gpp.org//Specs/archive/22_series/22.873/22873-041.zip">
+<reference anchor="3GPP.TR.22.873:Rel-18/0.4.1" target="https://ftp.3gpp.org//Specs/archive/22_series/22.873/22873-041.zip">
   <front>
     <title>Study on evolution of the IP Multimedia Subsystem (IMS) multimedia telephony service</title>
     <author fullname="YAN, Di">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.274:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.274/26274-d00.zip">
+<reference anchor="3GPP.TS.26.274:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.274/26274-d00.zip">
   <front>
     <title>Audio codec processing functions; Extended Adaptive Multi-Rate - Wideband (AMR-WB+) speech codec; Conformance testing</title>
     <author fullname="BRUHN, Stefan">

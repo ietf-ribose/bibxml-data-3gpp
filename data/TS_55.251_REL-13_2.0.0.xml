@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 55.251:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.251/55251-200.zip">
+<reference anchor="3GPP.TS.55.251:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.251/55251-200.zip">
   <front>
     <title>Specification of the GEA5 and GIA5 encryption algorithms for General Packet Radio Service (GPRS); GEA5 and GIA5 algorithm specification</title>
     <author fullname="EVANS, Tim P.">

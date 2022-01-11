@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.826:Rel-17/2.0.0" target="http://ftp.3gpp.org//Specs/archive/22_series/22.826/22826-200.zip">
+<reference anchor="3GPP.TR.22.826:Rel-17/2.0.0" target="http://ftp.3gpp.org//Specs/archive/22_series/22.826/22826-200.zip">
   <front>
     <title>Study on communication services for critical medical applications</title>
     <author fullname="LAGRANGE, Mathieu">

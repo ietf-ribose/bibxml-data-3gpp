@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.020:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.020/46020-900.zip">
+<reference anchor="3GPP.TS.46.020:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.020/46020-900.zip">
   <front>
     <title>Half rate speech; Half rate speech transcoding</title>
     <author fullname="JÄRVINEN, Kari">

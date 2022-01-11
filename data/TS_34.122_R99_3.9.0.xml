@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.122:R99/3.9.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.122/34122-390.zip">
+<reference anchor="3GPP.TS.34.122:R99/3.9.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.122/34122-390.zip">
   <front>
     <title>Terminal conformance specification; Radio transmission and reception (TDD)</title>
     <author fullname="KARAJANI, Bledar">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.201:Rel-7/7.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.201/25201-740.zip">
+<reference anchor="3GPP.TS.25.201:Rel-7/7.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.201/25201-740.zip">
   <front>
     <title>Physical layer - general description</title>
     <author fullname="BAKER, Matthew">

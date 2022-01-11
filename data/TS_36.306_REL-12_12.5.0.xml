@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.306:Rel-12/12.5.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.306/36306-c50.zip">
+<reference anchor="3GPP.TS.36.306:Rel-12/12.5.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.306/36306-c50.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio access capabilities</title>
     <author fullname="CHOI, Hyung-Nam">

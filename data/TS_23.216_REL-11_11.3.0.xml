@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.216:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.216/23216-b30.zip">
+<reference anchor="3GPP.TS.23.216:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.216/23216-b30.zip">
   <front>
     <title>Single Radio Voice Call Continuity (SRVCC); Stage 2</title>
     <author fullname="WONG, Curt">

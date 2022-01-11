@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.155:Rel-13/0.1.0">
+<reference anchor="3GPP.TS.29.155:Rel-13/0.1.0">
   <front>
     <title>Traffic steering control; Representational State Transfer (REST) over St reference point</title>
     <author fullname="HUANG, Zhenning">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.62:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.62/0662-500.zip">
+<reference anchor="3GPP.TS.06.62:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.62/0662-500.zip">
   <front>
     <title>Comfort noise aspects for Enhanced Full Rate (EFR) speech traffic channels</title>
     <author fullname="JÄRVINEN, Kari">

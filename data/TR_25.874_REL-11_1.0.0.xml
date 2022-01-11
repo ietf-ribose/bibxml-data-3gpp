@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.874:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.874/25874-100.zip">
+<reference anchor="3GPP.TR.25.874:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.874/25874-100.zip">
   <front>
     <title>High Speed Packet Access (HSPA) feedback and signalling efficiency enhancements for Low Chip Rate (LCR) Time Division Duplex (TDD)</title>
     <author fullname="WEI, Limei">

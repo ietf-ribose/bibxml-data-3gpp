@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 28.662:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.662/28662-g00.zip">
+<reference anchor="3GPP.TS.28.662:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.662/28662-g00.zip">
   <front>
     <title>Telecommunication management; Generic Radio Access Network (RAN) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
     <author fullname="TSE, Edwin">

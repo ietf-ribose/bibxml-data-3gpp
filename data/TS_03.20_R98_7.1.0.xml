@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.20:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.20/0320-710.zip">
+<reference anchor="3GPP.TS.03.20:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.20/0320-710.zip">
   <front>
     <title>Security-related network functions</title>
     <author fullname="NGUYEN NGOC, Sebastien">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.761:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.761/36761-001.zip">
+<reference anchor="3GPP.TR.36.761:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.761/36761-001.zip">
   <front>
     <title>Extended-Band 12 new E-UTRA Band</title>
     <author fullname="TESTA, Patrizia">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.113:Rel-16/16.4.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.113/38113-g40.zip">
+<reference anchor="3GPP.TS.38.113:Rel-16/16.4.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.113/38113-g40.zip">
   <front>
     <title>NR; Base Station (BS) ElectroMagnetic Compatibility (EMC)</title>
     <author fullname="CAO, Aijun">

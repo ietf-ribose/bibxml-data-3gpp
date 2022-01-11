@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.223:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.223/25223-000.zip">
+<reference anchor="3GPP.TS.25.223:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.223/25223-000.zip">
   <front>
     <title>Spreading and modulation (TDD)</title>
     <author fullname="MEDINA, Gerardo">

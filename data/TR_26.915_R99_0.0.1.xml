@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.915:R99/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.915/26915-001.zip">
+<reference anchor="3GPP.TR.26.915:R99/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.915/26915-001.zip">
   <front>
     <title>Echo Control For Speech and Multi-Media Services</title>
     <author fullname="GOETZ, Ian">

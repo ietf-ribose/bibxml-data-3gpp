@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.873:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.873/38873-g00.zip">
+<reference anchor="3GPP.TR.38.873:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.873/38873-g00.zip">
   <front>
     <title>Time Division Duplex (TDD) operating band in Band n48</title>
     <author fullname="ANGELOW, Iwajlo">

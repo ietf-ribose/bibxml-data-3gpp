@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.521:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.521/33521-000.zip">
+<reference anchor="3GPP.TS.33.521:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.521/33521-000.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS);Network Data Analytics Function (NWDAF)</title>
     <author fullname="QI, Minpeng">

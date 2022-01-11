@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.828:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.828/23828-100.zip">
+<reference anchor="3GPP.TR.23.828:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.828/23828-100.zip">
   <front>
     <title>Earthquake and Tsunami Warning System (ETWS); Requirements and solutions; Solution placeholder</title>
     <author fullname="KITAHARA, Ryo">

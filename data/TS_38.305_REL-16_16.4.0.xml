@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.305:Rel-16/16.4.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.305/38305-g40.zip">
+<reference anchor="3GPP.TS.38.305:Rel-16/16.4.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.305/38305-g40.zip">
   <front>
     <title>NG Radio Access Network (NG-RAN); Stage 2 functional specification of User Equipment (UE) positioning in NG-RAN</title>
     <author fullname="FISCHER, Sven">

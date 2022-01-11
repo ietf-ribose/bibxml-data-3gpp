@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 01.31:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.31/0131-701.zip">
+<reference anchor="3GPP.TR.01.31:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.31/0131-701.zip">
   <front>
     <title>Fraud Information Gathering System (FIGS); Service requirements; Stage 0</title>
     <author fullname="SAHLIN, Bengt">

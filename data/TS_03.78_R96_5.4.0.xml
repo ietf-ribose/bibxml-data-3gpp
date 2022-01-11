@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.78:R96/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.78/0378-540.zip">
+<reference anchor="3GPP.TS.03.78:R96/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.78/0378-540.zip">
   <front>
     <title>Ccustomized Applications for Mobile network Enhanced Logic (CAMEL) Phase 2; Stage 2</title>
     <author fullname="LANTELME, Isabelle">

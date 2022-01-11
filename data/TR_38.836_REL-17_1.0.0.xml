@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.836:Rel-17/1.0.0" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.836/38836-100.zip">
+<reference anchor="3GPP.TR.38.836:Rel-17/1.0.0" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.836/38836-100.zip">
   <front>
     <title>Study on NR sidelink relay</title>
     <author fullname="LU, Qianxi">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.833-1-23:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-1-23/36833-1-23-100.zip">
+<reference anchor="3GPP.TR.36.833-1-23:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-1-23/36833-1-23-100.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band contiguous Carrier Aggregation (CA) in Band 23</title>
     <author fullname="SOROND, Mariam">

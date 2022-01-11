@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.870:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.870/32870-020.zip">
+<reference anchor="3GPP.TR.32.870:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.870/32870-020.zip">
   <front>
     <title>Telecommunication management;Charging management;Study on forward compatibility for 3GPP Diameter charging applications</title>
     <author fullname="GARDELLA, Maryse">

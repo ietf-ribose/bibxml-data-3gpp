@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.101:Rel-8/8.15.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.101/22101-8f0.zip">
+<reference anchor="3GPP.TS.22.101:Rel-8/8.15.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.101/22101-8f0.zip">
   <front>
     <title>Service aspects; Service principles</title>
     <author fullname="DEOL, Amar">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.362:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.362/32362-a10.zip">
+<reference anchor="3GPP.TS.32.362:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.362/32362-a10.zip">
   <front>
     <title>Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); Information Service (IS)</title>
     <author fullname="HU, Yaxi">

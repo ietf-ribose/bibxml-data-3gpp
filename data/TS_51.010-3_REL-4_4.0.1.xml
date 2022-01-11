@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 51.010-3:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-3/51010-3-401.zip">
+<reference anchor="3GPP.TS.51.010-3:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-3/51010-3-401.zip">
   <front>
     <title>Mobile Station (MS) conformance specification; Part 3: Layer3 (L3) Abstract Test Suite (ATS)</title>
     <author fullname="GENOUD, Olivier">

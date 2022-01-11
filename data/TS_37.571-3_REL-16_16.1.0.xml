@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 37.571-3:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.571-3/37571-3-g10.zip">
+<reference anchor="3GPP.TS.37.571-3:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.571-3/37571-3-g10.zip">
   <front>
     <title>User Equipment (UE) conformance specification for UE positioning; Part 3: Implementation Conformance Statement (ICS)</title>
     <author fullname="CATMUR, Richard">

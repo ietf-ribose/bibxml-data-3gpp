@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.401:R99/3.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.401/25401-370.zip">
+<reference anchor="3GPP.TS.25.401:R99/3.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.401/25401-370.zip">
   <front>
     <title>UTRAN overall description</title>
     <author fullname="HELMERS, Hakon">

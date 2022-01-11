@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.444:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.444/25444-a10.zip">
+<reference anchor="3GPP.TS.25.444:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.444/25444-a10.zip">
   <front>
     <title>Iuh data transport</title>
     <author fullname="GODIN, Philippe">

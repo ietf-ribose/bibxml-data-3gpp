@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.11:Ph1/3.0.0">
+<reference anchor="3GPP.TS.06.11:Ph1/3.0.0">
   <front>
     <title>Substitution and Muting of Lost Frames for Full Rate Speech Channels</title>
     <author fullname="NAVARRO, William">

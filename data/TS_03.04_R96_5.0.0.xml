@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.04:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.04/0304-500.zip">
+<reference anchor="3GPP.TS.03.04:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.04/0304-500.zip">
   <front>
     <title>Signalling Requirements Relating to Routing of Calls to Mobile Subscribers</title>
     <author fullname="SCHMITT, Peter">

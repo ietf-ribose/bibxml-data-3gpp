@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.45:R96/5.1.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.45/0345-511.zip">
+<reference anchor="3GPP.TS.03.45:R96/5.1.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.45/0345-511.zip">
   <front>
     <title>Technical Realization of Facsimile Group 3 Service - transparent</title>
     <author fullname="HOLM, Jan">

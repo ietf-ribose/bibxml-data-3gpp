@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.636:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.636/32636-a20.zip">
+<reference anchor="3GPP.TS.32.636:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.636/32636-a20.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP); Solution Set (SS) Definitions</title>
     <author fullname="TOCHE, Christian">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 27.060:R99/3.7.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.060/27060-370.zip">
+<reference anchor="3GPP.TS.27.060:R99/3.7.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.060/27060-370.zip">
   <front>
     <title>Packet domain;  Mobile Station (MS) supporting Packet Switched services</title>
     <author fullname="XU, Wenliang">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.296:Rel-11/11.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.296/32296-b20.zip">
+<reference anchor="3GPP.TS.32.296:Rel-11/11.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.296/32296-b20.zip">
   <front>
     <title>Telecommunication management; Charging management; Online Charging System (OCS): Applications and interfaces</title>
     <author fullname="GARDELLA, Maryse">

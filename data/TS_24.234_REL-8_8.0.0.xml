@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.234:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.234/24234-800.zip">
+<reference anchor="3GPP.TS.24.234:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.234/24234-800.zip">
   <front>
     <title>3GPP system to Wireless Local Area Network (WLAN) interworking; WLAN User Equipment (WLAN UE) to network protocols; Stage 3</title>
     <author fullname="KÅLL, Jan">

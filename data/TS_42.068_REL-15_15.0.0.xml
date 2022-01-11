@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 42.068:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.068/42068-f00.zip">
+<reference anchor="3GPP.TS.42.068:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.068/42068-f00.zip">
   <front>
     <title>Voice Group Call Service (VGCS); Stage 1</title>
     <author fullname="SWETINA, Joerg">

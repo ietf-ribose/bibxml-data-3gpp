@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.226:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.226/33226-000.zip">
+<reference anchor="3GPP.TS.33.226:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.226/33226-000.zip">
   <front>
     <title>Security assurance for IP Multimedia Subsystem (IMS)</title>
     <author fullname="ZHANG, Bo">

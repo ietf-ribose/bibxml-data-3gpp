@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 09.94:Ph2/4.5.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.94/0994-450.zip">
+<reference anchor="3GPP.TR.09.94:Ph2/4.5.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.94/0994-450.zip">
   <front>
     <title>Recommended infrastructure measures to overcome specific Mobile Station (MS) faults</title>
     <author fullname="HIETALAHTI, Hannu">

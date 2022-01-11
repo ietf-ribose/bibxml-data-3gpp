@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.06:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.06/0406-420.zip">
+<reference anchor="3GPP.TS.04.06:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.06/0406-420.zip">
   <front>
     <title>Mobile Station - Base Stations System (MS - BSS) Interface Data Link (DL) Layer Specification</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

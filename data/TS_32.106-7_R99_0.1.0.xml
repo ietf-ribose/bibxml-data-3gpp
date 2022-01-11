@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.106-7:R99/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-7/32106-7-010.zip">
+<reference anchor="3GPP.TS.32.106-7:R99/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-7/32106-7-010.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Part 7: Basic CM Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)</title>
     <author fullname="POLLAKOWSKI, Olaf">

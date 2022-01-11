@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.946:Rel-15/15.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.946/26946-f01.zip">
+<reference anchor="3GPP.TR.26.946:Rel-15/15.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.946/26946-f01.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS) user service guidelines</title>
     <author fullname="LOHMAR, Thorsten">

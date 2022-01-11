@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.821:Rel-17/1.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.821/29821-120.zip">
+<reference anchor="3GPP.TR.29.821:Rel-17/1.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.821/29821-120.zip">
   <front>
     <title>Study on restoration of profiles related to UDR</title>
     <author fullname="ISHIKAWA, Hiroshi">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 21.111:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.111/21111-d00.zip">
+<reference anchor="3GPP.TS.21.111:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.111/21111-d00.zip">
   <front>
     <title>USIM and IC card requirements</title>
     <author fullname="KRUSE, Heiko">

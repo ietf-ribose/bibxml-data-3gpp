@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.899:Rel-14/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.899/33899-030.zip">
+<reference anchor="3GPP.TR.33.899:Rel-14/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.899/33899-030.zip">
   <front>
     <title>Study on the security aspects of the next generation system</title>
     <author fullname="TORVINEN, Vesa">

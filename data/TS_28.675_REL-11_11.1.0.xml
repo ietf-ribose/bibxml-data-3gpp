@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 28.675:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.675/28675-b10.zip">
+<reference anchor="3GPP.TS.28.675:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.675/28675-b10.zip">
   <front>
     <title>Telecommunication management; Home enhanced Node B (HeNB) Subsystem (HeNS) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
     <author fullname="ANDRIANOV, Anatoly">

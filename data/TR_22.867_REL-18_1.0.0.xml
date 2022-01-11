@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.867:Rel-18/1.0.0" target="https://ftp.3gpp.org//Specs/archive/22_series/22.867/22867-100.zip">
+<reference anchor="3GPP.TR.22.867:Rel-18/1.0.0" target="https://ftp.3gpp.org//Specs/archive/22_series/22.867/22867-100.zip">
   <front>
     <title>Study on 5G smart energy and infrastructure</title>
     <author fullname="XIA, XU">

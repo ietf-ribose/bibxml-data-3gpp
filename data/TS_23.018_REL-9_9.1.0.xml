@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.018:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.018/23018-910.zip">
+<reference anchor="3GPP.TS.23.018:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.018/23018-910.zip">
   <front>
     <title>Basic call handling; Technical realization</title>
     <author fullname="LANDAIS, Bruno">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.139:Rel-11/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.139/23139-120.zip">
+<reference anchor="3GPP.TS.23.139:Rel-11/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.139/23139-120.zip">
   <front>
     <title>3GPP system - fixed broadband access network interworking; Stage 2</title>
     <author fullname="ROMMER, Stefan">

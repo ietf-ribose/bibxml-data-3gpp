@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 51.021:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.021/51021-410.zip">
+<reference anchor="3GPP.TS.51.021:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.021/51021-410.zip">
   <front>
     <title>Base Station System (BSS) equipment specification; Radio aspects</title>
     <author fullname="HOFMANN, Juergen">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 44.012:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.012/44012-a00.zip">
+<reference anchor="3GPP.TS.44.012:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.012/44012-a00.zip">
   <front>
     <title>Short Message Service Cell Broadcast (SMSCB) support on the mobile radio interface</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

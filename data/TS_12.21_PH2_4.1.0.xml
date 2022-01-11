@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 12.21:Ph2/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.21/1221-410.zip">
+<reference anchor="3GPP.TS.12.21:Ph2/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.21/1221-410.zip">
   <front>
     <title>Network Management (NM) procedures and messages on the A-bis interface</title>
     <author fullname="TOCHE, Christian">

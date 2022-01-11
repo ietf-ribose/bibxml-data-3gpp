@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.102:R99/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.102/26102-330.zip">
+<reference anchor="3GPP.TS.26.102:R99/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.102/26102-330.zip">
   <front>
     <title>Mandatory speech codec; Adaptive Multi-Rate (AMR) speech codec; Interface to Iu, Uu and Nb</title>
     <author fullname="GABIN, Frederic">

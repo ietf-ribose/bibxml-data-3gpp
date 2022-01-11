@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.234:Rel-6/2.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.234/23234-240.zip">
+<reference anchor="3GPP.TS.23.234:Rel-6/2.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.234/23234-240.zip">
   <front>
     <title>3GPP system to Wireless Local Area Network (WLAN) interworking; System description</title>
     <author fullname="MARTIQUET, Nicolas">

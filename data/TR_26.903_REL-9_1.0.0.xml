@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.903:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.903/26903-100.zip">
+<reference anchor="3GPP.TR.26.903:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.903/26903-100.zip">
   <front>
     <title>Improved video support for Packet Switched Streaming (PSS) and Multimedia Broadcast/Multicast Service (MBMS) Services</title>
     <author fullname="BOUAZIZI, Imed">

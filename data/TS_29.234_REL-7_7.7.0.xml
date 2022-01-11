@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.234:Rel-7/7.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.234/29234-770.zip">
+<reference anchor="3GPP.TS.29.234:Rel-7/7.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.234/29234-770.zip">
   <front>
     <title>3GPP system to Wireless Local Area Network (WLAN) interworking; Stage 3</title>
     <author fullname="KÅLL, Jan">

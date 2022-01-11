@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.041:Rel-8/8.9.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.041/23041-890.zip">
+<reference anchor="3GPP.TS.23.041:Rel-8/8.9.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.041/23041-890.zip">
   <front>
     <title>Technical realization of Cell Broadcast Service (CBS)</title>
     <author fullname="SEDLACEK, Ivo">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.804:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.804/33804-b00.zip">
+<reference anchor="3GPP.TR.33.804:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.804/33804-b00.zip">
   <front>
     <title>Single Sign On (SSO) application security for Common IP Multimedia Subsystem (IMS) based on Session Initiation Protocol (SIP) Digest</title>
     <author fullname="HOLTMANNS, Silke">

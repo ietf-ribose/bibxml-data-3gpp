@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.502:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.502/24502-g10.zip">
+<reference anchor="3GPP.TS.24.502:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.502/24502-g10.zip">
   <front>
     <title>Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks</title>
     <author fullname="GKATZIKIS, Lazaros">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.117:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.117/24117-e10.zip">
+<reference anchor="3GPP.TS.24.117:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.117/24117-e10.zip">
   <front>
     <title>TV service configuration Management Object (MO)</title>
     <author fullname="CATOVIC, Amer">

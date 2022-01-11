@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.839:Rel-11/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.839/36839-021.zip">
+<reference anchor="3GPP.TR.36.839:Rel-11/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.839/36839-021.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Mobility enhancements in heterogeneous networks</title>
     <author fullname="PALAT, Sudeep">

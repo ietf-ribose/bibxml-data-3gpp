@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.321:Rel-13/13.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.321/25321-d30.zip">
+<reference anchor="3GPP.TS.25.321:Rel-13/13.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.321/25321-d30.zip">
   <front>
     <title>Medium Access Control (MAC) protocol specification</title>
     <author fullname="AHMED, Ayaz">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 42.056:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/42_series/42.056/42056-g00.zip">
+<reference anchor="3GPP.TS.42.056:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/42_series/42.056/42056-g00.zip">
   <front>
     <title>GSM Cordless Telephony System (CTS), Phase 1; Service description; Stage 1</title>
     <author fullname="SCARRONE, Enrico">

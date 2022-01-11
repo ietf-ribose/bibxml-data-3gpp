@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.030:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.030/22030-410.zip">
+<reference anchor="3GPP.TS.22.030:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.030/22030-410.zip">
   <front>
     <title>Man-Machine Interface (MMI) of the User Equipment (UE)</title>
     <author fullname="IGNATIUS, Jan">

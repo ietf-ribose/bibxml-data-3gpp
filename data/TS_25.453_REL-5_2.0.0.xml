@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.453:Rel-5/2.0.0">
+<reference anchor="3GPP.TS.25.453:Rel-5/2.0.0">
   <front>
     <title>UTRAN Iupc interface Positioning Calculation Application Part (PCAP) signalling</title>
     <author fullname="OZTURK, Ozcan">

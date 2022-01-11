@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 01.50:R96/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.50/0150-100.zip">
+<reference anchor="3GPP.TR.01.50:R96/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.50/0150-100.zip">
   <front>
     <title>Radio Local Loop (RLL) using GSM</title>
     <author fullname="CLAYTON, Michael">

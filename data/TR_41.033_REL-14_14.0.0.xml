@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 41.033:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.033/41033-e00.zip">
+<reference anchor="3GPP.TR.41.033:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.033/41033-e00.zip">
   <front>
     <title>Lawful Interception requirements for GSM</title>
     <author fullname="LEADBEATER, Alex">

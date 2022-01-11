@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 05.90:Ph2/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.90/0590-430.zip">
+<reference anchor="3GPP.TR.05.90:Ph2/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.90/0590-430.zip">
   <front>
     <title>GSM Electromagnetic Compatibility (EMC) considerations</title>
     <author fullname="USAI, Paolino">

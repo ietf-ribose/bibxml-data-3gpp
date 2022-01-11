@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.519:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/24_series/24.519/24519-200.zip">
+<reference anchor="3GPP.TS.24.519:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/24_series/24.519/24519-200.zip">
   <front>
     <title>5G System (5GS); Time-Sensitive Networking (TSN) Application Function (AF) to Device-Side TSN Translator (DS-TT) and Network-Side TSN Translator (NW-TT) protocol aspects; Stage 3</title>
     <author fullname="WON, Sung Hwan">

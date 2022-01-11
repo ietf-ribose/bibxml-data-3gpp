@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.968:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.968/25968-f00.zip">
+<reference anchor="3GPP.TR.25.968:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.968/25968-f00.zip">
   <front>
     <title>1.28 Mcps TDD Home NodeB Radio Frequency (RF)</title>
     <author fullname="LI, Rong">

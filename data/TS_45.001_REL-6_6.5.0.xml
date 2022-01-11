@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 45.001:Rel-6/6.5.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.001/45001-650.zip">
+<reference anchor="3GPP.TS.45.001:Rel-6/6.5.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.001/45001-650.zip">
   <front>
     <title>GSM/EDGE Physical layer on the radio path; General description</title>
     <author fullname="CHEN, Jun">

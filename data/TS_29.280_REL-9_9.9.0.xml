@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.280:Rel-9/9.9.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.280/29280-990.zip">
+<reference anchor="3GPP.TS.29.280:Rel-9/9.9.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.280/29280-990.zip">
   <front>
     <title>Evolved Packet System (EPS); 3GPP Sv interface (MME to MSC, and SGSN to MSC) for SRVCC</title>
     <author fullname="LANDAIS, Bruno">

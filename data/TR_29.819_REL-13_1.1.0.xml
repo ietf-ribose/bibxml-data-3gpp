@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.819:Rel-13/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.819/29819-110.zip">
+<reference anchor="3GPP.TR.29.819:Rel-13/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.819/29819-110.zip">
   <front>
     <title>Study on impacts of the Diameter Base Protocol specification update.</title>
     <author fullname="MORAND, Lionel">

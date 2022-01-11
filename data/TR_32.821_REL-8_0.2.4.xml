@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.821:Rel-8/0.2.4" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.821/32821-024.zip">
+<reference anchor="3GPP.TR.32.821:Rel-8/0.2.4" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.821/32821-024.zip">
   <front>
     <title>Telecommunication management; Study of Self-Organizing Networks (SON) related Operations, Administration and Maintenance (OAM)  for Home Node B (HNB)</title>
     <author fullname="ZOU, Lan">

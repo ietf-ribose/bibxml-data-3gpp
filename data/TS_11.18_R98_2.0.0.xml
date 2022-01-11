@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.18:R98/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.18/1118-200.zip">
+<reference anchor="3GPP.TS.11.18:R98/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.18/1118-200.zip">
   <front>
     <title>Specification of the 1.8 Volt Subscriber Identity Module - Mobile Equipment (SIM - ME) Interface</title>
     <author fullname="LINDHOLM, Rune">

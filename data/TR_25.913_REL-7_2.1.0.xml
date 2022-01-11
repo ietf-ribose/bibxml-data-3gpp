@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.913:Rel-7/2.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.913/25913-210.zip">
+<reference anchor="3GPP.TR.25.913:Rel-7/2.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.913/25913-210.zip">
   <front>
     <title>Requirements for Evolved UTRA (E-UTRA) and Evolved UTRAN (E-UTRAN)</title>
     <author fullname="NAKAMURA, Takehiro">

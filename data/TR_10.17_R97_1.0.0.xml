@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 10.17:R97/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.17/1017-100.zip">
+<reference anchor="3GPP.TR.10.17:R97/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.17/1017-100.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Charging in GPRS</title>
     <author fullname="HEATON, Graham">

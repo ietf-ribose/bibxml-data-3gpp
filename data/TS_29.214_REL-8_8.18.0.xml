@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.214:Rel-8/8.18.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.214/29214-8I0.zip">
+<reference anchor="3GPP.TS.29.214:Rel-8/8.18.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.214/29214-8I0.zip">
   <front>
     <title>Policy and charging control over Rx reference point</title>
     <author fullname="FERNANDEZ, Susana">

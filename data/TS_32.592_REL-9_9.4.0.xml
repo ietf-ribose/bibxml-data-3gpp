@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.592:Rel-9/9.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.592/32592-940.zip">
+<reference anchor="3GPP.TS.32.592:Rel-9/9.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.592/32592-940.zip">
   <front>
     <title>Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration, Maintenance and Provisioning (OAM&amp;P); Information model for Type 1 interface HeNB to HeNB Management System (HeMS)</title>
     <author fullname="ANDRIANOV, Anatoly">

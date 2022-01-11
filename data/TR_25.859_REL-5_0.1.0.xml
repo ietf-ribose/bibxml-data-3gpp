@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.859:Rel-5/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.859/25859-010.zip">
+<reference anchor="3GPP.TR.25.859:Rel-5/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.859/25859-010.zip">
   <front>
     <title>User Equipment (UE) positioning enhancements for 1.28 Mcps TDD</title>
     <author fullname="MEI, Xiaohua">

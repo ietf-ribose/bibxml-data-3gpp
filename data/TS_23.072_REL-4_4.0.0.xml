@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.072:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.072/23072-400.zip">
+<reference anchor="3GPP.TS.23.072:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.072/23072-400.zip">
   <front>
     <title>Call Deflection (CD) supplementary service; Stage 2</title>
     <author fullname="KOZA, Yvette">

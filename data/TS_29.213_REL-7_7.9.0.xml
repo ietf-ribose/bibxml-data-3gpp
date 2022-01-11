@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.213:Rel-7/7.9.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.213/29213-790.zip">
+<reference anchor="3GPP.TS.29.213:Rel-7/7.9.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.213/29213-790.zip">
   <front>
     <title>Policy and charging control signalling flows and Quality of Service (QoS) parameter mapping</title>
     <author fullname="FERNANDEZ, Susana">

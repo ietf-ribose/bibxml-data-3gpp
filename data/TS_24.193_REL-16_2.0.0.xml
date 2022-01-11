@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.193:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/24_series/24.193/24193-200.zip">
+<reference anchor="3GPP.TS.24.193:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/24_series/24.193/24193-200.zip">
   <front>
     <title>5G System;Access Traffic Steering, Switching and Splitting (ATSSS); Stage 3</title>
     <author fullname="ZHOU, Xingyue">

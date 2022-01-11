@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.658:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.658/29658-910.zip">
+<reference anchor="3GPP.TS.29.658:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.658/29658-910.zip">
   <front>
     <title>SIP Transfer of IP Multimedia Service Tariff Information; Protocol specification</title>
     <author fullname="KREIPL, Michael">

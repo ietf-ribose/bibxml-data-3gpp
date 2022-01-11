@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.745:Rel-16/0.7.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.745/23745-070.zip">
+<reference anchor="3GPP.TR.23.745:Rel-16/0.7.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.745/23745-070.zip">
   <front>
     <title>Study on application layer support for Factories of the Future in 5G network</title>
     <author fullname="SHAO, Weixiang">

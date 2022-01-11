@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.508:Rel-7/1.1.2" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.508/23508-112.zip">
+<reference anchor="3GPP.TS.23.508:Rel-7/1.1.2" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.508/23508-112.zip">
   <front>
     <title>TISPAN; Presence Service; Architecture and functional description [Endorsement of 3GPP TS 23.141 and OMA-AD-Presence_SIMPLE-V1_0]</title>
     <author fullname="BERTENYI, Balazs">

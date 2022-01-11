@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.004:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.004/22004-400.zip">
+<reference anchor="3GPP.TS.22.004:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.004/22004-400.zip">
   <front>
     <title>General on supplementary services</title>
     <author fullname="HOWELL, Andrew">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.776:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.776/23776-h00.zip">
+<reference anchor="3GPP.TR.23.776:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.776/23776-h00.zip">
   <front>
     <title>Study on architecture enhancements for 3GPP support of advanced Vehicle-to-Everything (V2X) services; Phase 2</title>
     <author fullname="KIM, Laeyoung">

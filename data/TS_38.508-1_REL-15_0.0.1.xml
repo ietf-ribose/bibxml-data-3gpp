@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.508-1:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-001.zip">
+<reference anchor="3GPP.TS.38.508-1:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-001.zip">
   <front>
     <title>5GS; User Equipment (UE) conformance specification; Part 1: Common test environment</title>
     <author fullname="JÖNSSON, Bo">

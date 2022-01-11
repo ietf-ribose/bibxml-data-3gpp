@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.833-1-38:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-1-38/36833-1-38-b10.zip">
+<reference anchor="3GPP.TR.36.833-1-38:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-1-38/36833-1-38-b10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band contiguous Carrier Aggregation (CA) in Band 38</title>
     <author fullname="ZHANG, Ronnie">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 50.099:Rel-6/0.4.6" target="http://www.3gpp.org/ftp/Specs/archive/50_series/50.099/50099-046.zip">
+<reference anchor="3GPP.TR.50.099:Rel-6/0.4.6" target="http://www.3gpp.org/ftp/Specs/archive/50_series/50.099/50099-046.zip">
   <front>
     <title>GERAN project plan and open issues</title>
     <author fullname="GRANT, Marc">

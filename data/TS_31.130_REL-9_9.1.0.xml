@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 31.130:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.130/31130-910.zip">
+<reference anchor="3GPP.TS.31.130:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.130/31130-910.zip">
   <front>
     <title>(U)SIM Application Programming Interface (API); (U)SIM API for Java™ Card</title>
     <author fullname="HANS, Sebastian">

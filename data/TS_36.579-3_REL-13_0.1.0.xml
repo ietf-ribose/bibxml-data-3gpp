@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.579-3:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-3/36579-3-010.zip">
+<reference anchor="3GPP.TS.36.579-3:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-3/36579-3-010.zip">
   <front>
     <title>Mission Critical (MC) services over LTE; Part 3: Mission Critical Push To Talk (MCPTT) Server Application conformance specification</title>
     <author fullname="KAHN, Jason">

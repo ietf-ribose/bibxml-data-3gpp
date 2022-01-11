@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.19:R99/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.19/0319-830.zip">
+<reference anchor="3GPP.TS.03.19:R99/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.19/0319-830.zip">
   <front>
     <title>Subscriber Identity Module Application Programming Interface (SIM API) for Java Card</title>
     <author fullname="HANS, Sebastian">

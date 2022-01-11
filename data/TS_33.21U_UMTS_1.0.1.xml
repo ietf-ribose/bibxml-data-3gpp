@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.21U:UMTS/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.21U/3321U-101.zip">
+<reference anchor="3GPP.TS.33.21U:UMTS/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.21U/3321U-101.zip">
   <front>
     <title>Security requirements</title>
     <author fullname="BERGMANN, Ansgar">

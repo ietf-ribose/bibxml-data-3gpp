@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 10.02:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.02/1002-610.zip">
+<reference anchor="3GPP.TR.10.02:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.02/1002-610.zip">
   <front>
     <title>Guidelines for the modification of the Mobile Application Part (MAP) in phase 2+</title>
     <author fullname="WIEHE, Ulrich">

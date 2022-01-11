@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.926:Rel-18/2.0.0" target="https://ftp.3gpp.org//Specs/archive/22_series/22.926/22926-200.zip">
+<reference anchor="3GPP.TR.22.926:Rel-18/2.0.0" target="https://ftp.3gpp.org//Specs/archive/22_series/22.926/22926-200.zip">
   <front>
     <title>Guidelines for extraterritorial 5G Systems (5GS)</title>
     <author fullname="MICHEL, Cyril">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.844:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.844/33844-b00.zip">
+<reference anchor="3GPP.TR.33.844:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.844/33844-b00.zip">
   <front>
     <title>Security Study on IP Multimedia Subsystem (IMS) based peer-to-peer content distribution services; Stage 2</title>
     <author fullname="QING, Yu">

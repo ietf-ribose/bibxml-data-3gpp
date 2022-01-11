@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.846:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.846/23846-100.zip">
+<reference anchor="3GPP.TR.23.846:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.846/23846-100.zip">
   <front>
     <title>Multimedia Broadcast/Multicast Service (MBMS); Stage 2</title>
     <author fullname="JARVIS, Andre">

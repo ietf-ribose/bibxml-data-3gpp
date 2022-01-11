@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.520:Rel-17/0.2.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.520/33520-020.zip">
+<reference anchor="3GPP.TS.33.520:Rel-17/0.2.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.520/33520-020.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS); Non-3GPP InterWorking Function (N3IWF)</title>
     <author fullname="GAO, Feng">

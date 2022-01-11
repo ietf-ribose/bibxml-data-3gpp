@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 07.07:R97/6.5.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.07/0707-650.zip">
+<reference anchor="3GPP.TS.07.07:R97/6.5.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.07/0707-650.zip">
   <front>
     <title>AT Command set for GSM Mobile Equipment (ME)</title>
     <author fullname="MONRAD, Atle">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.176-2:Rel-16/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.176-2/38176-2-001.zip">
+<reference anchor="3GPP.TS.38.176-2:Rel-16/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.176-2/38176-2-001.zip">
   <front>
     <title> NR; Integrated Access and Backhaul (IAB) conformance testing; Part 2: Radiated conformance testing</title>
     <author fullname="GOLEBIOWSKI, Bartlomiej">

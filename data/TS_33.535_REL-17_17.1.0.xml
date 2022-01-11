@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.535:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.535/33535-h10.zip">
+<reference anchor="3GPP.TS.33.535:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.535/33535-h10.zip">
   <front>
     <title>Authentication and Key Management for Applications (AKMA) based on 3GPP credentials in the 5G System (5GS)</title>
     <author fullname="HUANG, Xiaoting">

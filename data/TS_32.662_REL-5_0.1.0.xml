@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.662:Rel-5/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.662/32662-010.zip">
+<reference anchor="3GPP.TS.32.662:Rel-5/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.662/32662-010.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Kernel CM Information Service (IS)</title>
     <author fullname="TOVINGER, Thomas">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.020:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.020/43020-920.zip">
+<reference anchor="3GPP.TS.43.020:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.020/43020-920.zip">
   <front>
     <title>Security related network functions</title>
     <author fullname="SAHLIN, Bengt">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.083:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.083/22083-400.zip">
+<reference anchor="3GPP.TS.22.083:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.083/22083-400.zip">
   <front>
     <title>Call Waiting (CW) and Call Holding (HOLD); Supplementary Services; Stage 1</title>
     <author fullname="SCARRONE, Enrico">

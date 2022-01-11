@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 08.60:R99/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.60/0860-811.zip">
+<reference anchor="3GPP.TS.08.60:R99/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.60/0860-811.zip">
   <front>
     <title>In-band control of remote transcoders and rate adaptors for Enhanced Full Rate (EFR) and full rate traffic channels</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

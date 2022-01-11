@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.81:R97/6.1.1" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.81/0681-611.zip">
+<reference anchor="3GPP.TS.06.81:R97/6.1.1" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.81/0681-611.zip">
   <front>
     <title>Discontinuous Transmission (DTX) for encanced full rate speech traffic channels</title>
     <author fullname="JÄRVINEN, Kari">

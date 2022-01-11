@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.082:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.082/46082-c00.zip">
+<reference anchor="3GPP.TS.46.082:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.082/46082-c00.zip">
   <front>
     <title>Voice Activity Detector (VAD) for Enhanced Full Rate (EFR) speech traffic channels</title>
     <author fullname="JÄRVINEN, Kari">

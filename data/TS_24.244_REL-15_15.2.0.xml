@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.244:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.244/24244-f20.zip">
+<reference anchor="3GPP.TS.24.244:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.244/24244-f20.zip">
   <front>
     <title>Wireless LAN control plane protocol for trusted WLAN access to EPC; Stage 3</title>
     <author fullname="ZHOU, Xingyue">

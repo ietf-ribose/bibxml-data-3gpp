@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.106:Rel-11/11.1.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.106/33106-b11.zip">
+<reference anchor="3GPP.TS.33.106:Rel-11/11.1.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.106/33106-b11.zip">
   <front>
     <title>3G security; Lawful interception requirements</title>
     <author fullname="JASPERS, Koen">

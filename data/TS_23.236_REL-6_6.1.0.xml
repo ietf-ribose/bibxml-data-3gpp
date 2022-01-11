@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.236:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.236/23236-610.zip">
+<reference anchor="3GPP.TS.23.236:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.236/23236-610.zip">
   <front>
     <title>Intra-domain connection of Radio Access Network (RAN) nodes to multiple Core Network (CN) nodes</title>
     <author fullname="TERRILL, Stephen">

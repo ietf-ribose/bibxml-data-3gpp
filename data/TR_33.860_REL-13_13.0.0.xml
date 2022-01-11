@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.860:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.860/33860-d00.zip">
+<reference anchor="3GPP.TR.33.860:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.860/33860-d00.zip">
   <front>
     <title>Study on Enhanced General Packet Radio Service (EGPRS) access security enhancements with relation to cellular Internet of Things (IoT)</title>
     <author fullname="TORVINEN, Vesa">

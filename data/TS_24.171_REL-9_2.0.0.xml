@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.171:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.171/24171-200.zip">
+<reference anchor="3GPP.TS.24.171:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.171/24171-200.zip">
   <front>
     <title>Control Plane Location Services (LCS) procedures in the Evolved Packet System (EPS)</title>
     <author fullname="RAMACHANDRAN, Shyamal">

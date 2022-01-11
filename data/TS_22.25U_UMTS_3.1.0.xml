@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.25U:UMTS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.25U/2225U-310.zip">
+<reference anchor="3GPP.TS.22.25U:UMTS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.25U/2225U-310.zip">
   <front>
     <title>Quality of Service (QoS) and network performance</title>
     <author fullname="TIAINEN, Seppo">

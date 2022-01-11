@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.785:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.785/36785-020.zip">
+<reference anchor="3GPP.TR.36.785:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.785/36785-020.zip">
   <front>
     <title>Vehicle to Vehicle (V2V) services based on LTE sidelink; User Equipment (UE) radio transmission and reception</title>
     <author fullname="LIM, Suhwan">

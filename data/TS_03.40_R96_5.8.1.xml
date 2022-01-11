@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.40:R96/5.8.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.40/0340-581.zip">
+<reference anchor="3GPP.TS.03.40:R96/5.8.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.40/0340-581.zip">
   <front>
     <title>Technical realization of the Short Message Service (SMS)</title>
     <author fullname="BURBIDGE, Richard">

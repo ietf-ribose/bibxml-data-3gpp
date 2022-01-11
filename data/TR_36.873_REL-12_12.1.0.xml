@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.873:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.873/36873-c10.zip">
+<reference anchor="3GPP.TR.36.873:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.873/36873-c10.zip">
   <front>
     <title>Study on 3D channel model for LTE</title>
     <author fullname="MONDAL, Bishwarup">

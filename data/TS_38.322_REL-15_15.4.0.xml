@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.322:Rel-15/15.4.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.322/38322-f40.zip">
+<reference anchor="3GPP.TS.38.322:Rel-15/15.4.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.322/38322-f40.zip">
   <front>
     <title>NR; Radio Link Control (RLC) protocol specification</title>
     <author fullname="ZHANG, Yuanyuan">

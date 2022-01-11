@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.201:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.201/29201-c10.zip">
+<reference anchor="3GPP.TS.29.201:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.201/29201-c10.zip">
   <front>
     <title>Representational State Transfer (REST) reference point between Application Function (AF) and Protocol Converter (PC)</title>
     <author fullname="BRINKMANN, Horst">

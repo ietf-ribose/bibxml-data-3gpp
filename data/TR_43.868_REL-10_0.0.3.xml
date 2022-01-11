@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 43.868:Rel-10/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.868/43868-003.zip">
+<reference anchor="3GPP.TR.43.868:Rel-10/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.868/43868-003.zip">
   <front>
     <title>GERAN improvements for Machine-Type Communications (MTC)</title>
     <author fullname="SCHLIWA-BERTLING, Paul">

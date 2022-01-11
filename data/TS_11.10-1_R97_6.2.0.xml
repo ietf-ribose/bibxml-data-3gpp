@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.10-1:R97/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-1/1110-1-620.zip">
+<reference anchor="3GPP.TS.11.10-1:R97/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-1/1110-1-620.zip">
   <front>
     <title>Mobile station (MS) conformance specification; Part 1: Conformance specification</title>
     <author fullname="BAEV, Stoyan">

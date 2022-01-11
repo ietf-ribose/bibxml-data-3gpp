@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.838:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.838/23838-200.zip">
+<reference anchor="3GPP.TR.23.838:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.838/23838-200.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) service continuity enhancements; Service, policy and interaction; Stage 2</title>
     <author fullname="ZHANG, Heng liang">

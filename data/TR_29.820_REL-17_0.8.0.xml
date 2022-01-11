@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.820:Rel-17/0.8.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.820/29820-080.zip">
+<reference anchor="3GPP.TR.29.820:Rel-17/0.8.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.820/29820-080.zip">
   <front>
     <title>Study on Best Practices for Packet Forwarding Control Protocol (PFCP)</title>
     <author fullname="SONG, Yue">

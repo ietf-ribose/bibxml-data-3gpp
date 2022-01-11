@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.21:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.21/0421-710.zip">
+<reference anchor="3GPP.TS.04.21:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.21/0421-710.zip">
   <front>
     <title>Rate Adaption on the Mobile Station - Base Station System (MS-BSS) Interface</title>
     <author fullname="BELLING, Thomas">

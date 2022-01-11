@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.022:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.022/24022-310.zip">
+<reference anchor="3GPP.TS.24.022:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.022/24022-310.zip">
   <front>
     <title>Radio Link Protocol (RLP) for circuit switched bearer and teleservices</title>
     <author fullname="BELLING, Thomas">

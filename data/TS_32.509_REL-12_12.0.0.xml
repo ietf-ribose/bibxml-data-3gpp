@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.509:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.509/32509-c00.zip">
+<reference anchor="3GPP.TS.32.509:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.509/32509-c00.zip">
   <front>
     <title>Telecommunication management; Data formats for multi-vendor plug and play eNode B connection to the network</title>
     <author fullname="ANDRIANOV, Anatoly">

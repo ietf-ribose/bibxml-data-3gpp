@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.232:Rel-8/8.8.1">
+<reference anchor="3GPP.TS.29.232:Rel-8/8.8.1">
   <front>
     <title>Media Gateway Controller (MGC) - Media Gateway (MGW) interface; Stage 3</title>
     <author fullname="PARK, Ian David Chalmers">

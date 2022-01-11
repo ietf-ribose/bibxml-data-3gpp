@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.372:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.372/32372-e00.zip">
+<reference anchor="3GPP.TS.32.372:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.372/32372-e00.zip">
   <front>
     <title>Telecommunication management; Security services for Integration Reference Point (IRP); Information Service (IS)</title>
     <author fullname="ZHANG, Kai">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 12.15:R98/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.15/1215-750.zip">
+<reference anchor="3GPP.TS.12.15:R98/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.15/1215-750.zip">
   <front>
     <title>General Packet Radio Service (GPRS); GPRS Charging</title>
     <author fullname="GOERMER, Gerald">

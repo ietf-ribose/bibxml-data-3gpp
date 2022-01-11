@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.804:Rel-14/0.8.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.804/38804-080.zip">
+<reference anchor="3GPP.TR.38.804:Rel-14/0.8.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.804/38804-080.zip">
   <front>
     <title>Study on new radio access technology Radio interface protocol aspects</title>
     <author fullname="TAKAHASHI, Hideaki">

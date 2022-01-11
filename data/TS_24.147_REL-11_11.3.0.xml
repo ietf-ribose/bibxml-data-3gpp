@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.147:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.147/24147-b30.zip">
+<reference anchor="3GPP.TS.24.147:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.147/24147-b30.zip">
   <front>
     <title>Conferencing using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3</title>
     <author fullname="WEI, haitao">

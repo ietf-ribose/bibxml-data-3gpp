@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.766:Rel-11/11.6.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.766/32766-b60.zip">
+<reference anchor="3GPP.TS.32.766:Rel-11/11.6.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.766/32766-b60.zip">
   <front>
     <title>Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions</title>
     <author fullname="ZOU, Lan">

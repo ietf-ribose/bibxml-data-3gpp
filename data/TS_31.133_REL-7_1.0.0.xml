@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 31.133:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.133/31133-100.zip">
+<reference anchor="3GPP.TS.31.133:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.133/31133-100.zip">
   <front>
     <title>IP Multimedia Services Identity Module (ISIM) Application Programming Interface (API); ISIM API for Java Card™</title>
     <author fullname="HANS, Sebastian">

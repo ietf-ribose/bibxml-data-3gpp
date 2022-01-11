@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.172:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.172/34172-a00.zip">
+<reference anchor="3GPP.TS.34.172:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.172/34172-a00.zip">
   <front>
     <title>Terminal conformance specification; Assisted Global Navigation Satellite Systems (A-GNSS); Frequency Division Duplex (FDD)</title>
     <author fullname="MONNERAT, Michel">

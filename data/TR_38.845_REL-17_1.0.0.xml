@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.845:Rel-17/1.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.845/38845-100.zip">
+<reference anchor="3GPP.TR.38.845:Rel-17/1.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.845/38845-100.zip">
   <front>
     <title>Study on scenarios and requirements of in-coverage, partial coverage, and out-of-coverage NR positioning use cases</title>
     <author fullname="SEO, Hanbyul">

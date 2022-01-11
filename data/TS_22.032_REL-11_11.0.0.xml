@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.032:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.032/22032-b00.zip">
+<reference anchor="3GPP.TS.22.032:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.032/22032-b00.zip">
   <front>
     <title>Immediate Service Termination (IST); Service description; Stage 1</title>
     <author fullname="BLECKERT, Peter">

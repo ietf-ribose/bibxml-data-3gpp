@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.120:R99/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.120/33120-001.zip">
+<reference anchor="3GPP.TS.33.120:R99/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.120/33120-001.zip">
   <front>
     <title>Security Objectives and Principles</title>
     <author fullname="SAHLIN, Bengt">

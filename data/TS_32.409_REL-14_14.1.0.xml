@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.409:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.409/32409-e10.zip">
+<reference anchor="3GPP.TS.32.409:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.409/32409-e10.zip">
   <front>
     <title>Telecommunication management; Performance Management (PM); Performance measurements; IP Multimedia Subsystem (IMS)</title>
     <author fullname="YU, Chengzhi">

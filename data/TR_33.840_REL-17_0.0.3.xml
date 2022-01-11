@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.840:Rel-17/0.0.3" target="http://ftp.3gpp.org//Specs/archive/33_series/33.840/33840-003.zip">
+<reference anchor="3GPP.TR.33.840:Rel-17/0.0.3" target="http://ftp.3gpp.org//Specs/archive/33_series/33.840/33840-003.zip">
   <front>
     <title>Study on security aspects of the disaggregated gNB architecture</title>
     <author fullname="XU, sen">

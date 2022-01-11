@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.840:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.840/25840-400.zip">
+<reference anchor="3GPP.TR.25.840:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.840/25840-400.zip">
   <front>
     <title>Terminal power saving features</title>
     <author fullname="BAKER, Matthew">

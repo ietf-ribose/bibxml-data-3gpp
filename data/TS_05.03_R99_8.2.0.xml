@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.03:R99/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.03/0503-820.zip">
+<reference anchor="3GPP.TS.05.03:R99/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.03/0503-820.zip">
   <front>
     <title>Channel coding</title>
     <author fullname="SEBIRE, Benoist">

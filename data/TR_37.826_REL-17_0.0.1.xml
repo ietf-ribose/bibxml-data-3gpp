@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.826:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/37_series/37.826/37826-001.zip">
+<reference anchor="3GPP.TR.37.826:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/37_series/37.826/37826-001.zip">
   <front>
     <title>High power UE (power class 2) for EN-DC with 1 LTE band + 1 NR TDD band</title>
     <author fullname="BASAIER, JIALADE">

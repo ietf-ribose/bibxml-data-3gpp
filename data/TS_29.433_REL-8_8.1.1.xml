@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.433:Rel-8/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.433/29433-811.zip">
+<reference anchor="3GPP.TS.29.433:Rel-8/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.433/29433-811.zip">
   <front>
     <title>TISPAN; IP Multimedia; Diameter based protocol for the interfaces between the Call Session Control Function and the User Profile Server Function/Subscription Locator Function; Signalling flows and protocol details [3GPP TS 29.228 and 29.229 modified]</title>
     <author fullname="MEREDITH, John M">

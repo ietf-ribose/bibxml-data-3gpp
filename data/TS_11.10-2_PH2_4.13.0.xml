@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.10-2:Ph2/4.13.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-2/1110-2-4d0.zip">
+<reference anchor="3GPP.TS.11.10-2:Ph2/4.13.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-2/1110-2-4d0.zip">
   <front>
     <title>Mobile station (MS) conformance specification; Part 2: Protocol Implementation Conformance Statement (PICS) proforma specification</title>
     <author fullname="BAEV, Stoyan">

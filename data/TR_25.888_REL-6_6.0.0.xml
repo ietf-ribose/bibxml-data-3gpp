@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.888:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.888/25888-600.zip">
+<reference anchor="3GPP.TR.25.888:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.888/25888-600.zip">
   <front>
     <title>Improvement of inter frequency and inter system measurement for 1,28 Mcps TDD</title>
     <author fullname="LI, Xiaoqiang">

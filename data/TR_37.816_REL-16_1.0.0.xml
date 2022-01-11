@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.816:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.816/37816-100.zip">
+<reference anchor="3GPP.TR.37.816:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.816/37816-100.zip">
   <front>
     <title>Study on RAN-centric data collection and utilization for LTE and NR</title>
     <author fullname="LIU, Liang">

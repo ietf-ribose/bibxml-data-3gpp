@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.14:R99/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.14/1114-880.zip">
+<reference anchor="3GPP.TS.11.14:R99/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.14/1114-880.zip">
   <front>
     <title>Specification of the SIM Application Toolkit (SAT) for the Subscriber Identity Module - Mobile Equipment (SIM-ME) interface</title>
     <author fullname="KRUSE, Heiko">

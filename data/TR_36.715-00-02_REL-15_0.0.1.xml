@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.715-00-02:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.715-00-02/36715-00-02-001.zip">
+<reference anchor="3GPP.TR.36.715-00-02:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.715-00-02/36715-00-02-001.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-15 for x Down Link (DL) / 2 Up Link (UL) with x=3,4,5</title>
     <author fullname="LIM, Suhwan">

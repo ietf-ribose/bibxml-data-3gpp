@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.922:R99/3.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.922/25922-380.zip">
+<reference anchor="3GPP.TR.25.922:R99/3.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.922/25922-380.zip">
   <front>
     <title>Radio resource management strategies</title>
     <author fullname="BULDORINI, Andrea">

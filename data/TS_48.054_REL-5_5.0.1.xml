@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 48.054:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.054/48054-501.zip">
+<reference anchor="3GPP.TS.48.054:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.054/48054-501.zip">
   <front>
     <title>Base Station Controller - Base Transceiver Station (BSC - BTS) interface; Layer 1 structure of physical circuits</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.814:Rel-7/0.4.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.814/25814-041.zip">
+<reference anchor="3GPP.TR.25.814:Rel-7/0.4.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.814/25814-041.zip">
   <front>
     <title>Physical layer aspect for evolved Universal Terrestrial Radio Access (UTRA)</title>
     <author fullname="ABETA, Sadayuki">

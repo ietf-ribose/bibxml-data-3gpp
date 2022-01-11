@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.141:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.141/23141-900.zip">
+<reference anchor="3GPP.TS.23.141:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.141/23141-900.zip">
   <front>
     <title>Presence service; Architecture and functional description</title>
     <author fullname="BERTENYI, Balazs">

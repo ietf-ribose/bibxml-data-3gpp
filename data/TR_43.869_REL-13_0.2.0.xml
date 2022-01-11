@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 43.869:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.869/43869-020.zip">
+<reference anchor="3GPP.TR.43.869:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.869/43869-020.zip">
   <front>
     <title>GERAN Study on power saving for MTC devices</title>
     <author fullname="HAN, Jing">

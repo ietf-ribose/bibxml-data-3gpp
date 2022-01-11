@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.100:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.100/22100-100.zip">
+<reference anchor="3GPP.TS.22.100:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.100/22100-100.zip">
   <front>
     <title>UMTS Phase 1</title>
     <author fullname="KURZ, Michael">

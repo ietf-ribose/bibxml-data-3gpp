@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.976:Rel-4/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.976/22976-140.zip">
+<reference anchor="3GPP.TR.22.976:Rel-4/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.976/22976-140.zip">
   <front>
     <title>Study on PS domain services and capabilities</title>
     <author fullname="CATALDO, Mark">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 37.473:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.473/37473-g00.zip">
+<reference anchor="3GPP.TS.37.473:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.473/37473-g00.zip">
   <front>
     <title>W1 interface; Application Protocol (W1AP)</title>
     <author fullname="CAO, Gen">

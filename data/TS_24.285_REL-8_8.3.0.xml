@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.285:Rel-8/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.285/24285-830.zip">
+<reference anchor="3GPP.TS.24.285:Rel-8/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.285/24285-830.zip">
   <front>
     <title>Allowed Closed Subscriber Group (CSG) list; Management Object (MO)</title>
     <author fullname="CHAPONNIERE, Lena">

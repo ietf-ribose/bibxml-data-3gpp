@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.430:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.430/26430-200.zip">
+<reference anchor="3GPP.TS.26.430:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.430/26430-200.zip">
   <front>
     <title>Timed graphics</title>
     <author fullname="SINGER, David">

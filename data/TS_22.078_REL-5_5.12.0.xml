@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.078:Rel-5/5.12.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.078/22078-5c0.zip">
+<reference anchor="3GPP.TS.22.078:Rel-5/5.12.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.078/22078-5c0.zip">
   <front>
     <title>Customised Applications for Mobile network Enhanced Logic (CAMEL); Service description; Stage 1</title>
     <author fullname="RODERMUND, Friedhelm">

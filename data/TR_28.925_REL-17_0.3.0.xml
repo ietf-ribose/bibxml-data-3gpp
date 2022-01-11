@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 28.925:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.925/28925-030.zip">
+<reference anchor="3GPP.TR.28.925:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.925/28925-030.zip">
   <front>
     <title>Study on enhancement of service based management architecture</title>
     <author fullname="ZOU, Lan">

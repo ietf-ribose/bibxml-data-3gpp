@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.388:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.388/29388-020.zip">
+<reference anchor="3GPP.TS.29.388:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.388/29388-020.zip">
   <front>
     <title>V2X Control Function to Home Subscriber Server (HSS) aspects (V4); Stage 3</title>
     <author fullname="LI, Zhijun">

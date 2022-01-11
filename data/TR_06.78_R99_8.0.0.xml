@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 06.78:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.78/0678-800.zip">
+<reference anchor="3GPP.TR.06.78:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.78/0678-800.zip">
   <front>
     <title>Results of the AMR noise suppression selection phase</title>
     <author fullname="USAI, Paolino">

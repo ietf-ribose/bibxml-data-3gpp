@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.700-91:Rel-17/0.5.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.700-91/23700-91-050.zip">
+<reference anchor="3GPP.TR.23.700-91:Rel-17/0.5.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.700-91/23700-91-050.zip">
   <front>
     <title>Study on enablers for network automation for the 5G System (5GS); Phase 2</title>
     <author fullname="WU, Xiaobo">

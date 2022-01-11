@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.867:Rel-15/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.867/32867-040.zip">
+<reference anchor="3GPP.TR.32.867:Rel-15/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.867/32867-040.zip">
   <front>
     <title>Telecommunication management;Study on management enhancement of Control and User Plane Split (CUPS) of Evolved Packet Core (EPC) nodes </title>
     <author fullname="ZHU, Lei">

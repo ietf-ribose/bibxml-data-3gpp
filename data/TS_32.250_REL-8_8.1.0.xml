@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.250:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.250/32250-810.zip">
+<reference anchor="3GPP.TS.32.250:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.250/32250-810.zip">
   <front>
     <title>Telecommunication management; Charging management; Circuit Switched (CS) domain charging</title>
     <author fullname="GARDELLA, Maryse">

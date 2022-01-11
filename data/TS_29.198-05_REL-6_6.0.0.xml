@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.198-05:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-05/29198-05-600.zip">
+<reference anchor="3GPP.TS.29.198-05:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-05/29198-05-600.zip">
   <front>
     <title>Open Service Access (OSA) Application Programming Interface (API); Part 5: User interaction Service Capability Feature (SCF)</title>
     <author fullname="UNMEHOPA, Musa">

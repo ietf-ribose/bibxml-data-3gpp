@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.301:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.301/25301-g00.zip">
+<reference anchor="3GPP.TS.25.301:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.301/25301-g00.zip">
   <front>
     <title>Radio interface protocol architecture</title>
     <author fullname="VAN DER ZEE, Martin">

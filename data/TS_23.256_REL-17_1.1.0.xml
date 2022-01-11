@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.256:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.256/23256-110.zip">
+<reference anchor="3GPP.TS.23.256:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.256/23256-110.zip">
   <front>
     <title>Support of Uncrewed Aerial Systems (UAS) connectivity, identification and tracking; Stage 2</title>
     <author fullname="STEFANO, Faccin">

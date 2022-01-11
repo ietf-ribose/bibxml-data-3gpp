@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.632:Rel-5/5.8.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.632/32632-580.zip">
+<reference anchor="3GPP.TS.32.632:Rel-5/5.8.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.632/32632-580.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Core Network Resources Integration Reference Point (IRP); Network Resource Model (NRM)</title>
     <author fullname="TOCHE, Christian">

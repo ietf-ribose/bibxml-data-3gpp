@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 27.007:Rel-14/14.9.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.007/27007-e90.zip">
+<reference anchor="3GPP.TS.27.007:Rel-14/14.9.0" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.007/27007-e90.zip">
   <front>
     <title>AT command set for User Equipment (UE)</title>
     <author fullname="MONRAD, Atle">

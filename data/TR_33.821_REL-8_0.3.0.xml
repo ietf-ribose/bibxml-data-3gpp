@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.821:Rel-8/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.821/33821-030.zip">
+<reference anchor="3GPP.TR.33.821:Rel-8/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.821/33821-030.zip">
   <front>
     <title>Rationale and track of security decisions in Long Term Evolution (LTE) RAN / 3GPP System Architecture Evolution (SAE)</title>
     <author fullname="ZHANG, Dajiang">

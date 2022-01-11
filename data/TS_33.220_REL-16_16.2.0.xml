@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.220:Rel-16/16.2.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.220/33220-g20.zip">
+<reference anchor="3GPP.TS.33.220:Rel-16/16.2.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.220/33220-g20.zip">
   <front>
     <title>Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture (GBA)</title>
     <author fullname="JERICHOW, Anja">

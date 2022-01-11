@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.002:R99/3.6.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.002/22002-360.zip">
+<reference anchor="3GPP.TS.22.002:R99/3.6.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.002/22002-360.zip">
   <front>
     <title>Circuit Bearer Services (BS) supported by a Public Land Mobile Network (PLMN)</title>
     <author fullname="HOWELL, Andrew">

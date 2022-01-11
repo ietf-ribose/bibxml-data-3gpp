@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.890:Rel-13/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.890/36890-021.zip">
+<reference anchor="3GPP.TR.36.890:Rel-13/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.890/36890-021.zip">
   <front>
     <title>Study on Support of single-cell point-to-multipoint transmission in LTE</title>
     <author fullname="GAO, Jeff">

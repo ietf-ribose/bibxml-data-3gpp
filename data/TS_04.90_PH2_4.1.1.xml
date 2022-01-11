@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.90:Ph2/4.1.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.90/0490-411.zip">
+<reference anchor="3GPP.TS.04.90:Ph2/4.1.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.90/0490-411.zip">
   <front>
     <title>Unstructured Supplementary Service Data (USSD)</title>
     <author fullname="HODGES, Phil">

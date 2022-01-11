@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.281:Rel-8/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.281/29281-101.zip">
+<reference anchor="3GPP.TS.29.281:Rel-8/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.281/29281-101.zip">
   <front>
     <title>General Packet Radio System (GPRS) Tunnelling Protocol User Plane (GTPv1-U)</title>
     <author fullname="YANG, Yong">

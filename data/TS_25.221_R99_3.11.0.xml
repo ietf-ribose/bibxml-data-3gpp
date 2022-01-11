@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.221:R99/3.11.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.221/25221-3b0.zip">
+<reference anchor="3GPP.TS.25.221:R99/3.11.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.221/25221-3b0.zip">
   <front>
     <title>Physical channels and mapping of transport channels onto physical channels (TDD)</title>
     <author fullname="MEDINA, Gerardo">

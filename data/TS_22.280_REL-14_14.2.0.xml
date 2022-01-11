@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.280:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.280/22280-e20.zip">
+<reference anchor="3GPP.TS.22.280:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.280/22280-e20.zip">
   <front>
     <title>Mission Critical Services Common Requirements (MCCoRe); Stage 1</title>
     <author fullname="THIESSEN, Andrew">

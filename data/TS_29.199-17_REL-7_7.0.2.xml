@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.199-17:Rel-7/7.0.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-17/29199-17-702.zip">
+<reference anchor="3GPP.TS.29.199-17:Rel-7/7.0.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-17/29199-17-702.zip">
   <front>
     <title>Open Service Access (OSA); Parlay X web services; Part 17: Application-driven Quality of Service (QoS)</title>
     <author fullname="GUNNING, Darren">

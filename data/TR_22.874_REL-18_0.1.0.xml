@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.874:Rel-18/0.1.0" target="https://www.3gpp.org/ftp//Specs/archive/22_series/22.874/22874-010.zip">
+<reference anchor="3GPP.TR.22.874:Rel-18/0.1.0" target="https://www.3gpp.org/ftp//Specs/archive/22_series/22.874/22874-010.zip">
   <front>
     <title>5G System (5GS); Study on traffic characteristics and performance requirements for AI/ML model transfer</title>
     <author fullname="SHEN, Jia">

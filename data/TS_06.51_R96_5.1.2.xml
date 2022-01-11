@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.51:R96/5.1.2" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.51/0651-512.zip">
+<reference anchor="3GPP.TS.06.51:R96/5.1.2" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.51/0651-512.zip">
   <front>
     <title>GSM Enhanced full rate speech processing functions: General description</title>
     <author fullname="JÄRVINEN, Kari">

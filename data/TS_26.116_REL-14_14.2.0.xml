@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.116:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.116/26116-e20.zip">
+<reference anchor="3GPP.TS.26.116:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.116/26116-e20.zip">
   <front>
     <title>Television (TV) over 3GPP services; Video profiles</title>
     <author fullname="GABIN, Frederic">

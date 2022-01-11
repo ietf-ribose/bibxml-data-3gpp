@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.741:Rel-14/1.0.2" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.741/36741-102.zip">
+<reference anchor="3GPP.TR.36.741:Rel-14/1.0.2" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.741/36741-102.zip">
   <front>
     <title>Study on further enhancements to Coordinated Multi-Point (CoMP) operation for LTE</title>
     <author fullname="ALEXEI, Davydov">

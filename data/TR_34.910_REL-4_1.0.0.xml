@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 34.910:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.910/34910-100.zip">
+<reference anchor="3GPP.TR.34.910:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.910/34910-100.zip">
   <front>
     <title>Identification of test requirements for regulatory purposes in different regions/countries</title>
     <author fullname="NIELSEN, Bjarke">

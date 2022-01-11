@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.914:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.914/25914-g00.zip">
+<reference anchor="3GPP.TR.25.914:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/25_series/25.914/25914-g00.zip">
   <front>
     <title>Measurements of radio performances for UMTS terminals in speech mode</title>
     <author fullname="BERGLJUNG, Christian">

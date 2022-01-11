@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.167:Rel-10/10.9.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.167/23167-a90.zip">
+<reference anchor="3GPP.TS.23.167:Rel-10/10.9.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.167/23167-a90.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) emergency sessions</title>
     <author fullname="WONG, Curt">

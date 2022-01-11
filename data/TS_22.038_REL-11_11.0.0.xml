@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.038:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.038/22038-b00.zip">
+<reference anchor="3GPP.TS.22.038:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.038/22038-b00.zip">
   <front>
     <title>(U)SIM Application Toolkit (USAT); Service description; Stage 1</title>
     <author fullname="HOWELL, Andrew">

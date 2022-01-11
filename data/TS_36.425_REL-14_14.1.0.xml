@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.425:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.425/36425-e10.zip">
+<reference anchor="3GPP.TS.36.425:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.425/36425-e10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 interface user plane protocol</title>
     <author fullname="VESELY, Alexander">

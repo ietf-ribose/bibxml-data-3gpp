@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.08:R97/6.4.3" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.08/0408-643.zip">
+<reference anchor="3GPP.TS.04.08:R97/6.4.3" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.08/0408-643.zip">
   <front>
     <title>Mobile radio interface layer 3 specification</title>
     <author fullname="BURBIDGE, Richard">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.113:Rel-12/12.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.113/36113-c30.zip">
+<reference anchor="3GPP.TS.36.113:Rel-12/12.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.113/36113-c30.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS) and repeater ElectroMagnetic Compatibility (EMC)</title>
     <author fullname="NG, Man Hung">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.02:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.02/0302-600.zip">
+<reference anchor="3GPP.TS.03.02:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.02/0302-600.zip">
   <front>
     <title>Network Architecture</title>
     <author fullname="MILINSKI, Alexander">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.912:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.912/25912-800.zip">
+<reference anchor="3GPP.TR.25.912:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.912/25912-800.zip">
   <front>
     <title>Feasibility study for evolved Universal Terrestrial Radio Access (UTRA) and Universal Terrestrial Radio Access Network (UTRAN)</title>
     <author fullname="NAKAMURA, Takehiro">

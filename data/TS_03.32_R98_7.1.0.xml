@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.32:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.32/0332-710.zip">
+<reference anchor="3GPP.TS.03.32:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.32/0332-710.zip">
   <front>
     <title>Universal Geographical Area Description (GAD)</title>
     <author fullname="BERTENYI, Balazs">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.183:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.183/22183-a00.zip">
+<reference anchor="3GPP.TS.22.183:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.183/22183-a00.zip">
   <front>
     <title>Customized Ringing Signal (CRS) requirements; Stage 1</title>
     <author fullname="SONG, Jin han">

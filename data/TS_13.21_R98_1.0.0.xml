@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 13.21:R98/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.21/1321-100.zip">
+<reference anchor="3GPP.TS.13.21:R98/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.21/1321-100.zip">
   <front>
     <title>Base station systems and repeater equipment covering essential requirements under article 3.2 of the R&amp;TTE directive</title>
     <workgroup>MSG</workgroup>

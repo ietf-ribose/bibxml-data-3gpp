@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.105:Rel-4/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.105/32105-001.zip">
+<reference anchor="3GPP.TS.32.105:Rel-4/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.105/32105-001.zip">
   <front>
     <title>3G charging and billing; Stage 2 description</title>
     <author fullname="KOBYLARZ, Thaddeus">

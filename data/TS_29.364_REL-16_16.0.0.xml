@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.364:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.364/29364-g00.zip">
+<reference anchor="3GPP.TS.29.364:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.364/29364-g00.zip">
   <front>
     <title>IP Multimedia Subsystem (IMS) Application Server (AS) service data descriptions for AS interoperability</title>
     <author fullname="WIEHE, Ulrich">

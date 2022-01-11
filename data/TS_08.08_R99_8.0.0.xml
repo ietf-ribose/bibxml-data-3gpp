@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 08.08:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.08/0808-800.zip">
+<reference anchor="3GPP.TS.08.08:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.08/0808-800.zip">
   <front>
     <title>Mobile-services Switching Centre - Base Station system (MSC-BSS) Interface Layer 3 Specification</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.841:Rel-5/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.841/23841-030.zip">
+<reference anchor="3GPP.TR.23.841:Rel-5/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.841/23841-030.zip">
   <front>
     <title>Presence service architecture</title>
     <author fullname="BERTENYI, Balazs">

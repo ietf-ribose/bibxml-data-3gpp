@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.131:Rel-6/0.1.0">
+<reference anchor="3GPP.TS.34.131:Rel-6/0.1.0">
   <front>
     <title>Test Specification for C-language binding to (Universal) Subscriber Interface Module ((U)SIM) Application Programming Interface (API)</title>
     <author fullname="KRUSE, Heiko">

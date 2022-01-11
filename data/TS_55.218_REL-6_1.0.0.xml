@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 55.218:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.218/55218-100.zip">
+<reference anchor="3GPP.TS.55.218:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.218/55218-100.zip">
   <front>
     <title>3G Security; Specification of the A5/3 encryption algorithms for GSM and ECSD, and the GEA3 encryption algorithm for GPRS; Document 3: Design conformance test data</title>
     <author fullname="SAHLIN, Bengt">

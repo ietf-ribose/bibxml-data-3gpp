@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.865:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.865/23865-100.zip">
+<reference anchor="3GPP.TR.23.865:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.865/23865-100.zip">
   <front>
     <title>Study on Wireless Local Area Network (WLAN) network selection for 3GPP terminals; Stage 2</title>
     <author fullname="GUPTA, Vivek">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 31.220:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/31_series/31.220/31220-g00.zip">
+<reference anchor="3GPP.TS.31.220:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/31_series/31.220/31220-g00.zip">
   <front>
     <title>Characteristics of the Contact Manager for 3GPP UICC applications</title>
     <author fullname="PHAN, Ly Thanh">

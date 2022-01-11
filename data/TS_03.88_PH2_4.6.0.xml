@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.88:Ph2/4.6.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.88/0388-460.zip">
+<reference anchor="3GPP.TS.03.88:Ph2/4.6.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.88/0388-460.zip">
   <front>
     <title>Call Barring (CB) supplementary services; Stage 2</title>
     <author fullname="WIEHE, Ulrich">

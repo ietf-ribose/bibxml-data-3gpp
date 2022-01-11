@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 43.045:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.045/43045-500.zip">
+<reference anchor="3GPP.TS.43.045:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.045/43045-500.zip">
   <front>
     <title>Technical realization of facsimile group 3 transparent</title>
     <author fullname="BIONDIC, Nevenka">

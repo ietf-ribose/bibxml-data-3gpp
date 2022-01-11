@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.305:Rel-11/11.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.305/29305-b70.zip">
+<reference anchor="3GPP.TS.29.305:Rel-11/11.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.305/29305-b70.zip">
   <front>
     <title>InterWorking Function (IWF) between MAP based and Diameter based interfaces</title>
     <author fullname="SHI, Susan">

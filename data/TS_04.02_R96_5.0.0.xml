@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.02:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.02/0402-500.zip">
+<reference anchor="3GPP.TS.04.02:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.02/0402-500.zip">
   <front>
     <title>GSM Public Land Mobile Network (PLMN) Access Reference Configuration</title>
     <author fullname="WASS, Mikael">

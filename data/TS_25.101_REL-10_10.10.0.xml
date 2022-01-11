@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.101:Rel-10/10.10.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.101/25101-aa0.zip">
+<reference anchor="3GPP.TS.25.101:Rel-10/10.10.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.101/25101-aa0.zip">
   <front>
     <title>User Equipment (UE) radio transmission and reception (FDD)</title>
     <author fullname="FERNANDES, Edgar">

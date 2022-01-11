@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.93:R98/7.4.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.93/0693-740.zip">
+<reference anchor="3GPP.TS.06.93:R98/7.4.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.93/0693-740.zip">
   <front>
     <title>Discontinuous Transmission (DTX) for Adaptive Multi-Rate speech traffic channels</title>
     <author fullname="BRUHN, Stefan">

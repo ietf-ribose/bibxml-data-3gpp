@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 08.58:Ph2/4.8.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-480.zip">
+<reference anchor="3GPP.TS.08.58:Ph2/4.8.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-480.zip">
   <front>
     <title>Base Station Controler - Base Transceiver Station  (BCS-BTS) Interface Layer 3 Specification</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

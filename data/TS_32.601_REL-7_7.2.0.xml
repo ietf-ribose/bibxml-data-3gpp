@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.601:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.601/32601-720.zip">
+<reference anchor="3GPP.TS.32.601:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.601/32601-720.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP); Requirements</title>
     <author fullname="TOCHE, Christian">

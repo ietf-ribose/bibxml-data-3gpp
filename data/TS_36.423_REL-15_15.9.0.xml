@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.423:Rel-15/15.9.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.423/36423-f90.zip">
+<reference anchor="3GPP.TS.36.423:Rel-15/15.9.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.423/36423-f90.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 Application Protocol (X2AP)</title>
     <author fullname="QIU, Liwei">

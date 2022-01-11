@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.129:Rel-5/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.129/22129-520.zip">
+<reference anchor="3GPP.TS.22.129:Rel-5/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.129/22129-520.zip">
   <front>
     <title>Service aspects; Handover requirements between UTRAN and GERAN or other radio systems</title>
     <author fullname="BLECKERT, Peter">

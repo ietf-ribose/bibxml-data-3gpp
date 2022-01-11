@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.912:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.912/38912-f00.zip">
+<reference anchor="3GPP.TR.38.912:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.912/38912-f00.zip">
   <front>
     <title>Study on New Radio (NR) access technology</title>
     <author fullname="TAKEDA, Kazuaki">

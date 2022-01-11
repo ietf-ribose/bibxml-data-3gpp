@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.15:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.15/0515-200.zip">
+<reference anchor="3GPP.TS.05.15:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.15/0515-200.zip">
   <front>
     <title>Release independent Downlink Advanced Receiver Performance (DARP); Implementation guidelines</title>
     <author fullname="CHATELET, Thomas">

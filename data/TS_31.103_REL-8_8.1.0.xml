@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 31.103:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.103/31103-810.zip">
+<reference anchor="3GPP.TS.31.103:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.103/31103-810.zip">
   <front>
     <title>Characteristics of the IP Multimedia Services Identity Module (ISIM) application</title>
     <author fullname="PHAN, Ly Thanh">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.274:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-930.zip">
+<reference anchor="3GPP.TS.29.274:Rel-9/9.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-930.zip">
   <front>
     <title>3GPP Evolved Packet System (EPS); Evolved General Packet Radio Service (GPRS) Tunnelling Protocol for Control plane (GTPv2-C); Stage 3</title>
     <author fullname="LANDAIS, Bruno">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.944:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.944/22944-a00.zip">
+<reference anchor="3GPP.TR.22.944:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.944/22944-a00.zip">
   <front>
     <title>Report on service requirements for UE functionality split</title>
     <author fullname="WU, Jian (Jim) Jun">

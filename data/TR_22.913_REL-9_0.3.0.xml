@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.913:Rel-9/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.913/22913-030.zip">
+<reference anchor="3GPP.TR.22.913:Rel-9/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.913/22913-030.zip">
   <front>
     <title>Location Services (LCS) support in Evolved Packet Core (EPC) for non-3GPP accesses</title>
     <author fullname="SHIM, Donghee">

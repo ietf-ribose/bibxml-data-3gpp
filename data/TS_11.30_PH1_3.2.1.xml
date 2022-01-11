@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.30:Ph1/3.2.1" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.30/1130-321.zip">
+<reference anchor="3GPP.TS.11.30:Ph1/3.2.1" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.30/1130-321.zip">
   <front>
     <title>Mobile Services Switching Centre</title>
     <author fullname="VACANT,  ">

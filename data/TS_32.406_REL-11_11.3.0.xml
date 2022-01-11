@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.406:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.406/32406-b30.zip">
+<reference anchor="3GPP.TS.32.406:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.406/32406-b30.zip">
   <front>
     <title>Telecommunication management; Performance Management (PM); Performance measurements; Core Network (CN) Packet Switched (PS) domain</title>
     <author fullname="HU, Yaxi">

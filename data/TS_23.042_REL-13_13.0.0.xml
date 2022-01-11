@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.042:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.042/23042-d00.zip">
+<reference anchor="3GPP.TS.23.042:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.042/23042-d00.zip">
   <front>
     <title>Compression algorithm for text messaging services</title>
     <author fullname="CHIN, ChenHo">

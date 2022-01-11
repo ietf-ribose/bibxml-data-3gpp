@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.891:Rel-9/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.891/23891-040.zip">
+<reference anchor="3GPP.TR.23.891:Rel-9/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.891/23891-040.zip">
   <front>
     <title>Evaluation of LCS Control Plane Solutions for EPS</title>
     <author fullname="GROSS, Robert">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.323:Rel-12/12.6.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.323/36323-c60.zip">
+<reference anchor="3GPP.TS.36.323:Rel-12/12.6.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.323/36323-c60.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Packet Data Convergence Protocol (PDCP) specification</title>
     <author fullname="YI, SeungJune">

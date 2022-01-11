@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.834:Rel-12/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.834/37834-021.zip">
+<reference anchor="3GPP.TR.37.834:Rel-12/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.834/37834-021.zip">
   <front>
     <title>Study on Wireless Local Area Network (WLAN) - 3GPP radio interworking</title>
     <author fullname="SIROTKIN, Sasha">

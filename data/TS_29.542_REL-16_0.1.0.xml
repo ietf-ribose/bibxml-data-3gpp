@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.542:Rel-16/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.542/29542-010.zip">
+<reference anchor="3GPP.TS.29.542:Rel-16/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.542/29542-010.zip">
   <front>
     <title>5G System; Session management services for Non-IP Data Delivery (NIDD); Stage 3</title>
     <author fullname="LU, Yunjie">

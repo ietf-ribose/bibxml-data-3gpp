@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.259:Rel-15/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.259/26259-002.zip">
+<reference anchor="3GPP.TS.26.259:Rel-15/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.259/26259-002.zip">
   <front>
     <title>Subjective test methodologies for the evaluation of immersive audio systems </title>
     <author fullname="SCHEVCIW, Andre">

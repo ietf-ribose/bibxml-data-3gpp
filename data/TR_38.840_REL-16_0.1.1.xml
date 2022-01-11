@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.840:Rel-16/0.1.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.840/38840-011.zip">
+<reference anchor="3GPP.TR.38.840:Rel-16/0.1.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.840/38840-011.zip">
   <front>
     <title>Study on User Equipment (UE) power saving in NR</title>
     <author fullname="CHENG, Fang-chen">

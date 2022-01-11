@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.114:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.114/38114-001.zip">
+<reference anchor="3GPP.TS.38.114:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.114/38114-001.zip">
   <front>
     <title>NR; Repeaters ElectroMagnetic Compatibility (EMC)</title>
     <author fullname="XIE, Yuming">

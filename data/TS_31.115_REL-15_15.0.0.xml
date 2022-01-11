@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 31.115:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.115/31115-f00.zip">
+<reference anchor="3GPP.TS.31.115:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.115/31115-f00.zip">
   <front>
     <title>Secured packet structure for (Universal) Subscriber Identity Module (U)SIM Toolkit applications</title>
     <author fullname="PHAN, Ly Thanh">

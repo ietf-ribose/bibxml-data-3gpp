@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.450:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.450/25450-800.zip">
+<reference anchor="3GPP.TS.25.450:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.450/25450-800.zip">
   <front>
     <title>UTRAN Iupc interface general aspects and principles</title>
     <author fullname="FLORE, Dino">

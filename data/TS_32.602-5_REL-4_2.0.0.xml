@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.602-5:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.602-5/32602-5-200.zip">
+<reference anchor="3GPP.TS.32.602-5:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.602-5/32602-5-200.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); CM: Bulk Configuration Management Integration Reference Point (IRP): XML file format definition</title>
     <workgroup>S5</workgroup>

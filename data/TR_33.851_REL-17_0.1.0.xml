@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.851:Rel-17/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.851/33851-010.zip">
+<reference anchor="3GPP.TR.33.851:Rel-17/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.851/33851-010.zip">
   <front>
     <title>Study on security for enhanced support of Industrial Internet of Things (IIoT)</title>
     <author fullname="JERICHOW, Anja">

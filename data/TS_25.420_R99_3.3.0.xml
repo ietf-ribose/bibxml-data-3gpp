@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.420:R99/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.420/25420-330.zip">
+<reference anchor="3GPP.TS.25.420:R99/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.420/25420-330.zip">
   <front>
     <title>UTRAN Iur interface general aspects and principles</title>
     <author fullname="HELMERS, Hakon">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.839:Rel-11/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.839/23839-120.zip">
+<reference anchor="3GPP.TR.23.839:Rel-11/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.839/23839-120.zip">
   <front>
     <title>Study on support of Broadband Forum (BBF) access Interworking</title>
     <author fullname="ROMMER, Stefan">

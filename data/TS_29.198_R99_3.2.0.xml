@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.198:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198/29198-320.zip">
+<reference anchor="3GPP.TS.29.198:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198/29198-320.zip">
   <front>
     <title>Open Service Architecture (OSA) Application Programming Interface (API) - Part 1</title>
     <author fullname="UNMEHOPA, Musa">

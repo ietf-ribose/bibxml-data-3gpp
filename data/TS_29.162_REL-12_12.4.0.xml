@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.162:Rel-12/12.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.162/29162-c40.zip">
+<reference anchor="3GPP.TS.29.162:Rel-12/12.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.162/29162-c40.zip">
   <front>
     <title>Interworking between the IM CN subsystem and IP networks</title>
     <author fullname="BIONDIC, Nevenka">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.854:Rel-17/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.854/22854-110.zip">
+<reference anchor="3GPP.TR.22.854:Rel-17/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.854/22854-110.zip">
   <front>
     <title>Feasibility Study on Multimedia Priority Service (MPS) Phase 2</title>
     <author fullname="SINGH, Ray">

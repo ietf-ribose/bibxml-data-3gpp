@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 06.60:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.60/0660-520.zip">
+<reference anchor="3GPP.TS.06.60:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.60/0660-520.zip">
   <front>
     <title>Enhanced full rate speech transcoding</title>
     <author fullname="JÄRVINEN, Kari">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.38:R96/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.38/0338-540.zip">
+<reference anchor="3GPP.TS.03.38:R96/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.38/0338-540.zip">
   <front>
     <title>Alphabets and language-specific information</title>
     <author fullname="BURBIDGE, Richard">

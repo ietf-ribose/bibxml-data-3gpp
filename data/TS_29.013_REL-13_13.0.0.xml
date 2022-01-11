@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.013:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.013/29013-d00.zip">
+<reference anchor="3GPP.TS.29.013:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.013/29013-d00.zip">
   <front>
     <title>Signalling interworking between ISDN supplementary services; Application Service Element (ASE) and Mobile Application Part (MAP) protocols</title>
     <author fullname="WIEHE, Ulrich">

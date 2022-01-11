@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.284:Rel-10/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.284/23284-010.zip">
+<reference anchor="3GPP.TS.23.284:Rel-10/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.284/23284-010.zip">
   <front>
     <title>Local Call Local Switch (LCLS); Stage 2</title>
     <author fullname="BIONDIC, Nevenka">

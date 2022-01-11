@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.91:R96/5.0.2" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.91/0391-502.zip">
+<reference anchor="3GPP.TS.03.91:R96/5.0.2" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.91/0391-502.zip">
   <front>
     <title>Explicit Call Transfer (ECT) Supplementary Service; Stage 2</title>
     <author fullname="WIEHE, Ulrich">

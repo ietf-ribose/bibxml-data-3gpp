@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.346:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.346/32346-e00.zip">
+<reference anchor="3GPP.TS.32.346:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.346/32346-e00.zip">
   <front>
     <title>Telecommunication management; File Transfer (FT) Integration Reference Point (IRP): Solution Set (SS) definitions</title>
     <author fullname="ZOU, Lan">

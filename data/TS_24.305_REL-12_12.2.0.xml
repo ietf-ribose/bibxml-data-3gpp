@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.305:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.305/24305-c20.zip">
+<reference anchor="3GPP.TS.24.305:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.305/24305-c20.zip">
   <front>
     <title>Selective Disabling of 3GPP User Equipment Capabilities (SDoUE) Management Object (MO)</title>
     <author fullname="HERRERO-VERON, Christian">

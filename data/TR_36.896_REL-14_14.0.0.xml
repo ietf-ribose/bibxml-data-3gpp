@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.896:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.896/36896-e00.zip">
+<reference anchor="3GPP.TR.36.896:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.896/36896-e00.zip">
   <front>
     <title>Study on Flexible eNB-ID and Cell-ID in E-UTRAN</title>
     <author fullname="XU, Sen">

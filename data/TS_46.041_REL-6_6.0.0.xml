@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 46.041:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.041/46041-600.zip">
+<reference anchor="3GPP.TS.46.041:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.041/46041-600.zip">
   <front>
     <title>Half rate speech; Discontinuous Transmission (DTX) for half rate speech traffic channels</title>
     <author fullname="USAI, Paolino">

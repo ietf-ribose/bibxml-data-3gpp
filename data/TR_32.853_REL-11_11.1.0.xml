@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.853:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.853/32853-b10.zip">
+<reference anchor="3GPP.TR.32.853:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.853/32853-b10.zip">
   <front>
     <title>Telecommunication management; Final report from the 3GPP - TM Forum Joint Work Group (JWG) on fault management harmonization</title>
     <author fullname="SCHMIDT, Jörg">

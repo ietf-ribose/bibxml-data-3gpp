@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.55:R99/8.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.55/0355-840.zip">
+<reference anchor="3GPP.TS.03.55:R99/8.4.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.55/0355-840.zip">
   <front>
     <title>Dual Transfer Mode (DTM); Stage 2</title>
     <author fullname="CARRIZO MARTINEZ, Jose Luis">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.212:Rel-11/11.16.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.212/29212-bg0.zip">
+<reference anchor="3GPP.TS.29.212:Rel-11/11.16.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.212/29212-bg0.zip">
   <front>
     <title>Policy and Charging Control (PCC); Reference points</title>
     <author fullname="BELLING, Thomas">

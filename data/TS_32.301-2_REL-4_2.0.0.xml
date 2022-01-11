@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.301-2:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.301-2/32301-2-200.zip">
+<reference anchor="3GPP.TS.32.301-2:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.301-2/32301-2-200.zip">
   <front>
     <title>Telecommunication management; Configuration Management (CM); Part 2: Notification Integration Reference Point (IRP): Information Service</title>
     <author fullname="TSE, Edwin">

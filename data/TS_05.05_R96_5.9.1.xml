@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 05.05:R96/5.9.1" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-591.zip">
+<reference anchor="3GPP.TS.05.05:R96/5.9.1" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-591.zip">
   <front>
     <title>Radio Transmission and Reception</title>
     <author fullname="SAMUELSSON, Mats">

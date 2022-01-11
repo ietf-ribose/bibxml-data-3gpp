@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.104:Rel-16/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.104/22104-030.zip">
+<reference anchor="3GPP.TS.22.104:Rel-16/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.104/22104-030.zip">
   <front>
     <title>Service requirements for cyber-physical control applications in vertical domains</title>
     <author fullname="WALEWSKI, Joachim">

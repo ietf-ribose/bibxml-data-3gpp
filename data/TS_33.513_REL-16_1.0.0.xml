@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.513:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.513/33513-100.zip">
+<reference anchor="3GPP.TS.33.513:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.513/33513-100.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS); User Plane Function (UPF)</title>
     <author fullname="RAJADURAI, Rajavelsamy">

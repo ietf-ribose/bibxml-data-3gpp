@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 34.901:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.901/34901-200.zip">
+<reference anchor="3GPP.TR.34.901:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.901/34901-200.zip">
   <front>
     <title>Test Time Optimisation based on statistical approaches; Statistical theory applied and evaluation of statistical significance</title>
     <author fullname="YOKOYAMA, Mitsuru">

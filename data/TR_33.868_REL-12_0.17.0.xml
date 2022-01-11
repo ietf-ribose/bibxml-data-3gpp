@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.868:Rel-12/0.17.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.868/33868-0h0.zip">
+<reference anchor="3GPP.TR.33.868:Rel-12/0.17.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.868/33868-0h0.zip">
   <front>
     <title>Study on security aspects of Machine-Type Communications (MTC) and other mobile data applications communications enhancements</title>
     <author fullname="RAJADURAI, Rajavelsamy">

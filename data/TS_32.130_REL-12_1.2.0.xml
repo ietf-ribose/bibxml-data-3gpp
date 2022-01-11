@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.130:Rel-12/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.130/32130-120.zip">
+<reference anchor="3GPP.TS.32.130:Rel-12/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.130/32130-120.zip">
   <front>
     <title>Telecommunication management; Network sharing; Concepts and requirements</title>
     <author fullname="CORNILY, Jean Michel">

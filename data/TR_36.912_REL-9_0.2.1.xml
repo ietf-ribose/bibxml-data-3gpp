@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.912:Rel-9/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.912/36912-021.zip">
+<reference anchor="3GPP.TR.36.912:Rel-9/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.912/36912-021.zip">
   <front>
     <title>Feasibility study for Further Advancements for E-UTRA (LTE-Advanced)</title>
     <author fullname="NAKAMURA, Takehiro">

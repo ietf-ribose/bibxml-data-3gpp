@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.141:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.141/25141-a20.zip">
+<reference anchor="3GPP.TS.25.141:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.141/25141-a20.zip">
   <front>
     <title>Base Station (BS) conformance testing (FDD)</title>
     <author fullname="NAKAMURA, Takaharu">

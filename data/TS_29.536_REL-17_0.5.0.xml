@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.536:Rel-17/0.5.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.536/29536-050.zip">
+<reference anchor="3GPP.TS.29.536:Rel-17/0.5.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.536/29536-050.zip">
   <front>
     <title>5G System; Network Slice Admission Control Service; Stage 3</title>
     <author fullname="LI, Zhijun">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 08.54:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.54/0854-500.zip">
+<reference anchor="3GPP.TS.08.54:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.54/0854-500.zip">
   <front>
     <title>BSC-BTS Layer 1; Structure of Physical Circuits</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

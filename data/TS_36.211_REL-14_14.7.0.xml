@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.211:Rel-14/14.7.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.211/36211-e70.zip">
+<reference anchor="3GPP.TS.36.211:Rel-14/14.7.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.211/36211-e70.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Physical channels and modulation</title>
     <author fullname="PARKVALL, Stefan">

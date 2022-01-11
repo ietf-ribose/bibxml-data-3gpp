@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.830:Rel-17/0.0.3" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.830/38830-003.zip">
+<reference anchor="3GPP.TR.38.830:Rel-17/0.0.3" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.830/38830-003.zip">
   <front>
     <title>Study on NR coverage enhancements</title>
     <author fullname="ZHU, Jianchi">

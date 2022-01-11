@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.833-5-40:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-5-40/36833-5-40-c00.zip">
+<reference anchor="3GPP.TR.36.833-5-40:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-5-40/36833-5-40-c00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band contiguous Carrier Aggregation (CA) in Band 40 for 3 downlinks (3DL)</title>
     <author fullname="PAN, Qun">

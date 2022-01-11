@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.849:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.849/36849-100.zip">
+<reference anchor="3GPP.TR.36.849:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.849/36849-100.zip">
   <front>
     <title>Study on Advanced Wireless Services (AWS) extension band for LTE</title>
     <author fullname="FONG, Gene">

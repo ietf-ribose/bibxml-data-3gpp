@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.836:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.836/36836-010.zip">
+<reference anchor="3GPP.TR.36.836:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.836/36836-010.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Study on mobile relay</title>
     <author fullname="HU, Haijing">

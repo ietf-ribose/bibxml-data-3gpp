@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.916:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.916/33916-e00.zip">
+<reference anchor="3GPP.TR.33.916:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.916/33916-e00.zip">
   <front>
     <title>Security Assurance Methodology (SECAM) for 3GPP network products</title>
     <author fullname="ZUGENMAIER, Alf">

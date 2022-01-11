@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.923:R99/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.923/25923-140.zip">
+<reference anchor="3GPP.TR.25.923:R99/1.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.923/25923-140.zip">
   <front>
     <title>Stage 2 Functional Specification of Location Services in UTRAN</title>
     <author fullname="STEER, David G">

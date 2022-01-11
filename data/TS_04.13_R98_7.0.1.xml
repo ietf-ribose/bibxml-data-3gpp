@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.13:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.13/0413-701.zip">
+<reference anchor="3GPP.TS.04.13:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.13/0413-701.zip">
   <front>
     <title>Performance Requirements on Mobile Radio Interface</title>
     <author fullname="DAWES, Peter">

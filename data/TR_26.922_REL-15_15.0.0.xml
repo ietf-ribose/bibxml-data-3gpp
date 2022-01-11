@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.922:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.922/26922-f00.zip">
+<reference anchor="3GPP.TR.26.922:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.922/26922-f00.zip">
   <front>
     <title>Video telephony robustness improvements extensions; Performance evaluation</title>
     <author fullname="COBAN, Muhammed">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.722:Rel-15/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.722/23722-011.zip">
+<reference anchor="3GPP.TR.23.722:Rel-15/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.722/23722-011.zip">
   <front>
     <title>Study on common Application Programming Interface (API) framework for 3GPP northbound APIs</title>
     <author fullname="PATTAN, Basavaraj (Basu)">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 06.76:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.76/0676-700.zip">
+<reference anchor="3GPP.TR.06.76:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.76/0676-700.zip">
   <front>
     <title>Adaptive Multi-Rate (AMR) speech codec; Study phase report</title>
     <author fullname="USAI, Paolino">

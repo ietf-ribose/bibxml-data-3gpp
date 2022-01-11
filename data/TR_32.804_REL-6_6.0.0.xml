@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.804:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.804/32804-600.zip">
+<reference anchor="3GPP.TR.32.804:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.804/32804-600.zip">
   <front>
     <title>Telecommunication management; Control of Remote Electrical Tilting (RET) antennas; Requirements</title>
     <author fullname="NEAL, Adrian">

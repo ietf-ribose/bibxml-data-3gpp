@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.545:Rel-16/16.2.0" target="https://www.3gpp.org/ftp//Specs/archive/24_series/24.545/24545-g20.zip">
+<reference anchor="3GPP.TS.24.545:Rel-16/16.2.0" target="https://www.3gpp.org/ftp//Specs/archive/24_series/24.545/24545-g20.zip">
   <front>
     <title>Location Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification</title>
     <author fullname="HERRERO-VERON, Christian">

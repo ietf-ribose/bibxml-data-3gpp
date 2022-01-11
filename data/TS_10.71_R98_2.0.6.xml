@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 10.71:R98/2.0.6" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.71/1071-206.zip">
+<reference anchor="3GPP.TS.10.71:R98/2.0.6" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.71/1071-206.zip">
   <front>
     <title>Project scheduling and open issues:Location services (LCS)</title>
     <author fullname="GARAPATY, Sonia">

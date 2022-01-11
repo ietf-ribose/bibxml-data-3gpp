@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.302:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.302/25302-a20.zip">
+<reference anchor="3GPP.TS.25.302:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.302/25302-a20.zip">
   <front>
     <title>Services provided by the physical layer</title>
     <author fullname="AHMED, Ayaz">

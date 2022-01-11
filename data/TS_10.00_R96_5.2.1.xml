@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 10.00:R96/5.2.1" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.00/1000-521.zip">
+<reference anchor="3GPP.TS.10.00:R96/5.2.1" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.00/1000-521.zip">
   <front>
     <title>Digital Cellular Telecommunication System Feature Description</title>
     <author fullname="BERTENYI, Balazs">

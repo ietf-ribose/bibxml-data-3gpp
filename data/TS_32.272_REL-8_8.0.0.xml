@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.272:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.272/32272-800.zip">
+<reference anchor="3GPP.TS.32.272:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.272/32272-800.zip">
   <front>
     <title>Telecommunication management; Charging management; Push-to-talk over Cellular (PoC) charging</title>
     <author fullname="GARDELLA, Maryse">

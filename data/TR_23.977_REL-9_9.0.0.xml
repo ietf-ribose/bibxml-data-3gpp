@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.977:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.977/23977-900.zip">
+<reference anchor="3GPP.TR.23.977:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.977/23977-900.zip">
   <front>
     <title>Bandwidth And Resource Savings (BARS) and speech enhancements for Circuit Switched (CS) networks</title>
     <author fullname="SEISER, Franz">

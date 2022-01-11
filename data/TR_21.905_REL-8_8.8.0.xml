@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 21.905:Rel-8/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.905/21905-880.zip">
+<reference anchor="3GPP.TR.21.905:Rel-8/8.8.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.905/21905-880.zip">
   <front>
     <title>Vocabulary for 3GPP Specifications</title>
     <author fullname="FIRMIN, Frederic">

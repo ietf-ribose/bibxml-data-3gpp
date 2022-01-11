@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.763:Rel-17/0.3.0" target="https://ftp.3gpp.org//Specs/archive/36_series/36.763/36763-030.zip">
+<reference anchor="3GPP.TR.36.763:Rel-17/0.3.0" target="https://ftp.3gpp.org//Specs/archive/36_series/36.763/36763-030.zip">
   <front>
     <title>Study on Narrow-Band Internet of Things (NB-IoT) / enhanced Machine Type Communication (eMTC) support for Non-Terrestrial Networks (NTN)</title>
     <author fullname="CHARBIT, Gilles">

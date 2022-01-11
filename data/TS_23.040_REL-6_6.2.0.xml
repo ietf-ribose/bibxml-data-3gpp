@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.040:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.040/23040-620.zip">
+<reference anchor="3GPP.TS.23.040:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.040/23040-620.zip">
   <front>
     <title>Technical realization of the Short Message Service (SMS)</title>
     <author fullname="NASSAR, Mohamed Amin">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.421:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.421/25421-000.zip">
+<reference anchor="3GPP.TS.25.421:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.421/25421-000.zip">
   <front>
     <title>UTRAN Iur interface layer 1</title>
     <author fullname="REININGER, Philippe">

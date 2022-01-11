@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.929:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.929/25929-f00.zip">
+<reference anchor="3GPP.TR.25.929:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.929/25929-f00.zip">
   <front>
     <title>Continuous connectivity for packet data users; 1.28 Mcps TDD</title>
     <author fullname="CHEN, Ying">

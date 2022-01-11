@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 12.05:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.05/1205-701.zip">
+<reference anchor="3GPP.TS.12.05:R98/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.05/1205-701.zip">
   <front>
     <title>Subscriber Related Call and Event Data</title>
     <author fullname="GOERMER, Gerald">

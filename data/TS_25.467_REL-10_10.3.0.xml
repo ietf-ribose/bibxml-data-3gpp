@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.467:Rel-10/10.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.467/25467-a30.zip">
+<reference anchor="3GPP.TS.25.467:Rel-10/10.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.467/25467-a30.zip">
   <front>
     <title>UTRAN architecture for 3G Home Node B (HNB); Stage 2</title>
     <author fullname="AHMED, Ayaz">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.736:Rel-16/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.736/23736-020.zip">
+<reference anchor="3GPP.TR.23.736:Rel-16/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.736/23736-020.zip">
   <front>
     <title>Study on enhancement of systems using Evolved Packet System (EPS) for Ultra Reliability and Availability using commodity equipment</title>
     <author fullname="PUDNEY, Chris">

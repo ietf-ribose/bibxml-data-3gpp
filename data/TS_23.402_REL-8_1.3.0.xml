@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.402:Rel-8/1.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.402/23402-130.zip">
+<reference anchor="3GPP.TS.23.402:Rel-8/1.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.402/23402-130.zip">
   <front>
     <title>Architecture enhancements for non-3GPP accesses</title>
     <author fullname="ALI, Irfan">

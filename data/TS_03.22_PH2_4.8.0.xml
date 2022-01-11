@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.22:Ph2/4.8.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.22/0322-480.zip">
+<reference anchor="3GPP.TS.03.22:Ph2/4.8.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.22/0322-480.zip">
   <front>
     <title>Functions related to Mobile Station (MS) in idle mode and group receive mode</title>
     <author fullname="ANDERSEN, Niels Peter Skov">

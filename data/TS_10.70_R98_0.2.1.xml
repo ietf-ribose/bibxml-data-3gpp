@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 10.70:R98/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.70/1070-021.zip">
+<reference anchor="3GPP.TS.10.70:R98/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.70/1070-021.zip">
   <front>
     <title>GSM Adaptive Multi-Rate Speech Codec (AMR); Project schedule and open issues for AMR</title>
     <author fullname="BRUHN, Stefan">

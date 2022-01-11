@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.469:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.469/25469-c20.zip">
+<reference anchor="3GPP.TS.25.469:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.469/25469-c20.zip">
   <front>
     <title>UTRAN Iuh interface Home Node B (HNB) Application Part (HNBAP) signalling</title>
     <author fullname="AHMED, Ayaz">

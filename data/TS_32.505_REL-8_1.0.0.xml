@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.505:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.505/32505-100.zip">
+<reference anchor="3GPP.TS.32.505:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.505/32505-100.zip">
   <front>
     <title>Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP): eXtensible Markup Language (XML) file format definition</title>
     <author fullname="HUANG, Shuqiang">

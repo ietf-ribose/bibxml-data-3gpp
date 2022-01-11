@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.892:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/29_series/29.892/29892-100.zip">
+<reference anchor="3GPP.TR.29.892:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/29_series/29.892/29892-100.zip">
   <front>
     <title>Study on User Plane Protocol in 5GC</title>
     <author fullname="MATSUSHIMA, Satoru">

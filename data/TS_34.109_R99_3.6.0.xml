@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.109:R99/3.6.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.109/34109-360.zip">
+<reference anchor="3GPP.TS.34.109:R99/3.6.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.109/34109-360.zip">
   <front>
     <title>Terminal logical test interface; Special conformance testing functions</title>
     <author fullname="EKLOF, Cecilia">

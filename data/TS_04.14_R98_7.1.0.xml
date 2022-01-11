@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.14:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.14/0414-710.zip">
+<reference anchor="3GPP.TS.04.14:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.14/0414-710.zip">
   <front>
     <title>Individual equipment type requirements and interworking; Special conformance testing functions</title>
     <author fullname="HOWELL, Andrew">

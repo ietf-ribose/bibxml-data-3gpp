@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.824:Rel-16/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.824/38824-110.zip">
+<reference anchor="3GPP.TR.38.824:Rel-16/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.824/38824-110.zip">
   <front>
     <title>Study on physical layer enhancements for NR ultra-reliable and low latency case (URLLC)</title>
     <author fullname="CHENG, Yan">

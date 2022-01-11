@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.105:Rel-9/9.3.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.105/25105-931.zip">
+<reference anchor="3GPP.TS.25.105:Rel-9/9.3.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.105/25105-931.zip">
   <front>
     <title>Base Station (BS) radio transmission and reception (TDD)</title>
     <author fullname="KOTTKAMP, Meik">

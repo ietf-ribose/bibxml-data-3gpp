@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 37.462:Rel-14/14.1.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.462/37462-e10.zip">
+<reference anchor="3GPP.TS.37.462:Rel-14/14.1.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.462/37462-e10.zip">
   <front>
     <title>Iuant interface: Signalling transport</title>
     <author fullname="REININGER, Philippe">

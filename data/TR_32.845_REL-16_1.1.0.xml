@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.845:Rel-16/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.845/32845-110.zip">
+<reference anchor="3GPP.TR.32.845:Rel-16/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.845/32845-110.zip">
   <front>
     <title>Charging management; Study on charging aspects of network slicing</title>
     <author fullname="CHEN, SHAN">

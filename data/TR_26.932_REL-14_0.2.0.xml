@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.932:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.932/26932-020.zip">
+<reference anchor="3GPP.TR.26.932:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.932/26932-020.zip">
   <front>
     <title>Study on User Equipment (UE) characteristics and performance for video telephony </title>
     <author fullname="PROUST, Stephane">

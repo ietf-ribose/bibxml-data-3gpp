@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.204:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.204/33204-c00.zip">
+<reference anchor="3GPP.TS.33.204:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.204/33204-c00.zip">
   <front>
     <title>3G Security; Network Domain Security (NDS); Transaction Capabilities Application Part (TCAP)  user security</title>
     <author fullname="JERICHOW, Anja">

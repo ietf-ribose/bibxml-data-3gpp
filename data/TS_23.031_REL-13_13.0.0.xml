@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.031:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.031/23031-d00.zip">
+<reference anchor="3GPP.TS.23.031:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.031/23031-d00.zip">
   <front>
     <title>3G Security; Fraud Information Gathering System (FIGS); Technical realization; Stage 2</title>
     <author fullname="SAHLIN, Bengt">

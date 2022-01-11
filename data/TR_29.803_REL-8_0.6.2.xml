@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.803:Rel-8/0.6.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.803/29803-062.zip">
+<reference anchor="3GPP.TR.29.803:Rel-8/0.6.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.803/29803-062.zip">
   <front>
     <title>3GPP System Architecture Evolution (SAE): CT WG4 aspects</title>
     <author fullname="LAVASANI, Shahab">

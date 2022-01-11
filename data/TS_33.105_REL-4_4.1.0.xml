@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.105:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.105/33105-410.zip">
+<reference anchor="3GPP.TS.33.105:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.105/33105-410.zip">
   <front>
     <title>3G Security; Cryptographic algorithm requirements</title>
     <author fullname="CHIKAZAWA, Takeshi">

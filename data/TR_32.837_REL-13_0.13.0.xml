@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 32.837:Rel-13/0.13.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.837/32837-0d0.zip">
+<reference anchor="3GPP.TR.32.837:Rel-13/0.13.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.837/32837-0d0.zip">
   <front>
     <title>Gap analysis between 3GPP SA5 specifications and Next Generation Mobile Networks (NGMN) Next Generation Operations Requirements (NGCOR)</title>
     <author fullname="ZOU, Lan">

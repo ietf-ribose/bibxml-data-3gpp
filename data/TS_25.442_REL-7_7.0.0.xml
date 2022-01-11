@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.442:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.442/25442-700.zip">
+<reference anchor="3GPP.TS.25.442:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.442/25442-700.zip">
   <front>
     <title>UTRAN implementation-specific O&amp;M transport</title>
     <author fullname="HAUSER, Alexander">

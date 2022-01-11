@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 11.19:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.19/1119-700.zip">
+<reference anchor="3GPP.TS.11.19:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.19/1119-700.zip">
   <front>
     <title>CTS SIM Fixed Part</title>
     <author fullname="HUBBE, Pascal">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.299:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.299/32299-f20.zip">
+<reference anchor="3GPP.TS.32.299:Rel-15/15.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.299/32299-f20.zip">
   <front>
     <title>Telecommunication management; Charging management; Diameter charging applications</title>
     <author fullname="GARDELLA, Maryse">

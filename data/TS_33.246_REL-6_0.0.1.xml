@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.246:Rel-6/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.246/33246-001.zip">
+<reference anchor="3GPP.TS.33.246:Rel-6/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.246/33246-001.zip">
   <front>
     <title>3G Security; Security of Multimedia Broadcast/Multicast Service (MBMS)</title>
     <author fullname="ESCOTT, Adrian">

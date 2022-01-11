@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.218:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.218/23218-e00.zip">
+<reference anchor="3GPP.TS.23.218:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.218/23218-e00.zip">
   <front>
     <title>IP Multimedia (IM) session handling; IM call model; Stage 2</title>
     <author fullname="LEIS, Peter">

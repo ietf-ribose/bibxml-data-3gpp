@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.59:R00/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.59/0359-001.zip">
+<reference anchor="3GPP.TS.03.59:R00/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.59/0359-001.zip">
   <front>
     <title>Location services (LCS) GERAN; Stage 2</title>
     <author fullname="LIVINGSTON, Margaret">

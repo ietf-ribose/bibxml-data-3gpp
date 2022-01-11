@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.924:Rel-4/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.924/25924-020.zip">
+<reference anchor="3GPP.TR.25.924:Rel-4/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.924/25924-020.zip">
   <front>
     <title>Opportunity Driven Multiple Access (ODMA)</title>
     <author fullname="LAW, Alan">

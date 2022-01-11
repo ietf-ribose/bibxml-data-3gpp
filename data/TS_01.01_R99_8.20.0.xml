@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 01.01:R99/8.20.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.01/0101-8k0.zip">
+<reference anchor="3GPP.TS.01.01:R99/8.20.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.01/0101-8k0.zip">
   <front>
     <title>Technical Specifications and Technical Reports for a GERAN-based 3GPP system</title>
     <author fullname="MEREDITH, John M">

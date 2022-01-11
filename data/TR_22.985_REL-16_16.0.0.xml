@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.985:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.985/22985-g00.zip">
+<reference anchor="3GPP.TR.22.985:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.985/22985-g00.zip">
   <front>
     <title>Service requirements for the User Data Convergence (UDC)</title>
     <author fullname="LAN, Sizhong">

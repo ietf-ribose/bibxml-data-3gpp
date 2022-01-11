@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.429:Rel-7/1.3.3" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.429/24429-133.zip">
+<reference anchor="3GPP.TS.24.429:Rel-7/1.3.3" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.429/24429-133.zip">
   <front>
     <title>TISPAN; PSTN/ISDN simulation services: Explicit Communication Transfer (ECT); Protocol specification</title>
     <author fullname="DRAGE, Keith">

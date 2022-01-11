@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.935:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.935/29935-100.zip">
+<reference anchor="3GPP.TR.29.935:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.935/29935-100.zip">
   <front>
     <title>Study on User Data Convergence (UDC) data model</title>
     <author fullname="FICACCIO, Mauro">

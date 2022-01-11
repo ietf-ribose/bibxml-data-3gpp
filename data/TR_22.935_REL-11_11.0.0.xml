@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.935:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.935/22935-b00.zip">
+<reference anchor="3GPP.TR.22.935:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.935/22935-b00.zip">
   <front>
     <title>Feasibility study on Location Services (LCS) for Wireless Local Area Network (WLAN) interworking</title>
     <author fullname="LOUSHINE, Mike">

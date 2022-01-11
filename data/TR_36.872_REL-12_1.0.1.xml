@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.872:Rel-12/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.872/36872-101.zip">
+<reference anchor="3GPP.TR.36.872:Rel-12/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.872/36872-101.zip">
   <front>
     <title>Small cell enhancements for E-UTRA and E-UTRAN - Physical layer aspects</title>
     <author fullname="FAN, Elean">

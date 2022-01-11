@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.306:Rel-11/11.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.306/25306-b20.zip">
+<reference anchor="3GPP.TS.25.306:Rel-11/11.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.306/25306-b20.zip">
   <front>
     <title>UE Radio Access capabilities</title>
     <author fullname="EKLOF, Cecilia">

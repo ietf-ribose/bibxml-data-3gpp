@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 34.131:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.131/34131-800.zip">
+<reference anchor="3GPP.TS.34.131:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.131/34131-800.zip">
   <front>
     <title>Test Specification for C-language binding to (Universal) Subscriber Interface Module ((U)SIM) Application Programming Interface (API)</title>
     <author fullname="KRUSE, Heiko">

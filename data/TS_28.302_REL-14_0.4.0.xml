@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 28.302:Rel-14/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.302/28302-040.zip">
+<reference anchor="3GPP.TS.28.302:Rel-14/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.302/28302-040.zip">
   <front>
     <title>Telecommunication management; Licensed Shared Access (LSA) Controller (LC) Integration Reference Point (IRP); Information Service (IS)</title>
     <author fullname="POLLAKOWSKI, Olaf">

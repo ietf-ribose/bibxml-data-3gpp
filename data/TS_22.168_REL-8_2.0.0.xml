@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.168:Rel-8/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.168/22168-200.zip">
+<reference anchor="3GPP.TS.22.168:Rel-8/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.168/22168-200.zip">
   <front>
     <title>Earthquake and Tsunami Warning System (ETWS) requirements; Stage 1</title>
     <author fullname="KITAHARA, Ryo">

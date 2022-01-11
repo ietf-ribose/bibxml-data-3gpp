@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.926:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.926/26926-040.zip">
+<reference anchor="3GPP.TR.26.926:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.926/26926-040.zip">
   <front>
     <title>Traffic Models and Quality Evaluation Methods for Media and XR Services in 5G Systems </title>
     <author fullname="STOCKHAMMER, Thomas">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.864:Rel-17/0.1.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.864/33864-010.zip">
+<reference anchor="3GPP.TR.33.864:Rel-17/0.1.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.864/33864-010.zip">
   <front>
     <title>Study on the security of Access and Mobility Management Function (AMF) re-allocation</title>
     <author fullname="TSIATSIS, Vlasios">

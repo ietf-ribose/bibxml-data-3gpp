@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.875:Rel-17/1.0.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.875/33875-100.zip">
+<reference anchor="3GPP.TR.33.875:Rel-17/1.0.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.875/33875-100.zip">
   <front>
     <title>Study on enhanced security aspects of the 5G Service Based Architecture (eSBA)</title>
     <author fullname="JERICHOW, Anja">

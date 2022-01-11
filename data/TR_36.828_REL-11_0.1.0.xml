@@ -1,6 +1,9 @@
-<reference anchor="3GPP.TR 36.828:Rel-11/0.1.0">
+<reference anchor="3GPP.TR.36.828:Rel-11/0.1.0">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Further enhancements to LTE Time Division Duplex (TDD)  for Downlink-Uplink (DL-UL) interference management and traffic adaptation</title>
+    <author fullname="SHEN, Zukang">
+      <organization>Lenovo (Beijing) Ltd</organization>
+    </author>
     <workgroup>R1</workgroup>
     <workgroup>R4</workgroup>
   </front>

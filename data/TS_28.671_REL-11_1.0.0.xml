@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 28.671:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.671/28671-100.zip">
+<reference anchor="3GPP.TS.28.671:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.671/28671-100.zip">
   <front>
     <title>Telecommunication management; Home Node B (HNB) Subsystem (HNS) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements</title>
     <author fullname="ANDRIANOV, Anatoly">

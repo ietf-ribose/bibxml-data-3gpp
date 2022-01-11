@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 09.16:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.16/0916-610.zip">
+<reference anchor="3GPP.TS.09.16:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.16/0916-610.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Serving GPRS Support Node (SGSN) - Visitors Location Register (VLR); Gs interface network service specification</title>
     <author fullname="DAWES, Peter">

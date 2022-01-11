@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.346:Rel-6/2.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.346/25346-250.zip">
+<reference anchor="3GPP.TS.25.346:Rel-6/2.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.346/25346-250.zip">
   <front>
     <title>Introduction of the Multimedia Broadcast/Multicast Service (MBMS) in the Radio Access Network (RAN); Stage 2</title>
     <author fullname="HOFMANN, Juergen">

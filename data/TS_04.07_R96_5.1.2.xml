@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.07:R96/5.1.2" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.07/0407-512.zip">
+<reference anchor="3GPP.TS.04.07:R96/5.1.2" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.07/0407-512.zip">
   <front>
     <title>Mobile Radio Interface Signalling Layer 3 - General Aspects</title>
     <author fullname="BURBIDGE, Richard">

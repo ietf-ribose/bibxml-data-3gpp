@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.111-4:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.111-4/32111-4-430.zip">
+<reference anchor="3GPP.TS.32.111-4:Rel-4/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.111-4/32111-4-430.zip">
   <front>
     <title>Telecommunication management; Fault Management; Part 4: Alarm Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)</title>
     <author fullname="POLLAKOWSKI, Olaf">

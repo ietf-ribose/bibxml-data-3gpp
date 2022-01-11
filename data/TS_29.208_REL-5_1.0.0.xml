@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.208:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.208/29208-100.zip">
+<reference anchor="3GPP.TS.29.208:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.208/29208-100.zip">
   <front>
     <title>End-to-end Quality of Service (QoS) signalling flows</title>
     <author fullname="BELLING, Thomas">

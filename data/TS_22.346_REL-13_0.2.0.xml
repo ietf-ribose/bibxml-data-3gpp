@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 22.346:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.346/22346-020.zip">
+<reference anchor="3GPP.TS.22.346:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.346/22346-020.zip">
   <front>
     <title>Isolated Evolved Universal Terrestrial Radio Access Network (E-UTRAN) operation for public safety; Stage 1</title>
     <author fullname="PIGGIN, Paul">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.937:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.937/33937-c00.zip">
+<reference anchor="3GPP.TR.33.937:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.937/33937-c00.zip">
   <front>
     <title>Study of mechanisms for Protection against Unsolicited Communication for IMS (PUCI)</title>
     <author fullname="PRASAD, Anand">

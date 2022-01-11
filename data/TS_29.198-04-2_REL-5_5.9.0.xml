@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.198-04-2:Rel-5/5.9.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-04-2/29198-04-2-590.zip">
+<reference anchor="3GPP.TS.29.198-04-2:Rel-5/5.9.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-04-2/29198-04-2-590.zip">
   <front>
     <title>Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 2: Generic call control Service Capability Feature (SCF)</title>
     <author fullname="UNMEHOPA, Musa">

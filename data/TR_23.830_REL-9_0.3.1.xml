@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.830:Rel-9/0.3.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.830/23830-031.zip">
+<reference anchor="3GPP.TR.23.830:Rel-9/0.3.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.830/23830-031.zip">
   <front>
     <title>Architecture aspects of Home Node B (HNB) / Home enhanced Node B (HeNB)</title>
     <author fullname="SPEICHER, Sebastian">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.826:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.826/29826-d10.zip">
+<reference anchor="3GPP.TR.29.826:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.826/29826-d10.zip">
   <front>
     <title>P-CSCF restoration enhancements for WLAN</title>
     <author fullname="LANDAIS, Bruno">

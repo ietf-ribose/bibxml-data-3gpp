@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.452:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.452/25452-b00.zip">
+<reference anchor="3GPP.TS.25.452:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.452/25452-b00.zip">
   <front>
     <title>UTRAN Iupc interface: signalling transport</title>
     <author fullname="FLORE, Dino">

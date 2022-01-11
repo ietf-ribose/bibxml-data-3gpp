@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 45.008:Rel-15/15.3.0" target="http://www.3gpp.org/ftp//Specs/archive/45_series/45.008/45008-f30.zip">
+<reference anchor="3GPP.TS.45.008:Rel-15/15.3.0" target="http://www.3gpp.org/ftp//Specs/archive/45_series/45.008/45008-f30.zip">
   <front>
     <title>GSM/EDGE Radio subsystem link control</title>
     <author fullname="ERIKSSON LÖWENMARK, Stefan">

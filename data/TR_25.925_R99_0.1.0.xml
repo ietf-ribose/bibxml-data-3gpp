@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.925:R99/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.925/25925-010.zip">
+<reference anchor="3GPP.TR.25.925:R99/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.925/25925-010.zip">
   <front>
     <title>Radio Interface for Broadcast/Multicast Services</title>
     <author fullname="KRISCHAN, Peter">

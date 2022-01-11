@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.254:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.254/32254-h00.zip">
+<reference anchor="3GPP.TS.32.254:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.254/32254-h00.zip">
   <front>
     <title>Telecommunication management; Charging management; Exposure function Northbound Application Program Interfaces (APIs) charging</title>
     <author fullname="CHEN, SHAN">

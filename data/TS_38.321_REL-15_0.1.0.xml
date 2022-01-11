@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 38.321:Rel-15/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.321/38321-010.zip">
+<reference anchor="3GPP.TS.38.321:Rel-15/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.321/38321-010.zip">
   <front>
     <title>NR; Medium Access Control (MAC) protocol specification</title>
     <author fullname="JANG, Jaehyuk">

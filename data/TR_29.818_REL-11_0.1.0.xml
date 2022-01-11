@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 29.818:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.818/29818-010.zip">
+<reference anchor="3GPP.TR.29.818:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.818/29818-010.zip">
   <front>
     <title>Study on the enhancement of protocols for SMS service over SGs</title>
     <author fullname="TROTTIN, Jean-Jacques">

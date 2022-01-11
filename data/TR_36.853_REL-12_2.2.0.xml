@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.853:Rel-12/2.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.853/36853-220.zip">
+<reference anchor="3GPP.TR.36.853:Rel-12/2.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.853/36853-220.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced 3 Band Carrier Aggregation (CA) (3DL/1UL)</title>
     <author fullname="GRANT, Marc">

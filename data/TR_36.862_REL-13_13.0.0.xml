@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.862:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.862/36862-d00.zip">
+<reference anchor="3GPP.TR.36.862:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.862/36862-d00.zip">
   <front>
     <title>Technical Report for 2 GHz Band in Region 1</title>
     <author fullname="KIM, John">

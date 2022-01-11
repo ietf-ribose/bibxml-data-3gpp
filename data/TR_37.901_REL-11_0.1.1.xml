@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.901:Rel-11/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.901/37901-011.zip">
+<reference anchor="3GPP.TR.37.901:Rel-11/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.901/37901-011.zip">
   <front>
     <title>User Equipment (UE) application layer data throughput performance</title>
     <author fullname="BORSATO, Ronald">

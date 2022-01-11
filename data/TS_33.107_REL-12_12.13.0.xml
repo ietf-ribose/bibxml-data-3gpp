@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.107:Rel-12/12.13.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.107/33107-cd0.zip">
+<reference anchor="3GPP.TS.33.107:Rel-12/12.13.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.107/33107-cd0.zip">
   <front>
     <title>3G security; Lawful interception architecture and functions</title>
     <author fullname="JASPERS, Koen">

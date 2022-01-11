@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 24.629:Rel-8/2.8.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.629/24629-281.zip">
+<reference anchor="3GPP.TS.24.629:Rel-8/2.8.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.629/24629-281.zip">
   <front>
     <title>Explicit Communication Transfer (ECT) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification</title>
     <author fullname="AXELL, Jörgen">

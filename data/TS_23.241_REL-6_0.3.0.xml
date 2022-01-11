@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 23.241:Rel-6/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.241/23241-030.zip">
+<reference anchor="3GPP.TS.23.241:Rel-6/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.241/23241-030.zip">
   <front>
     <title>3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)</title>
     <author fullname="KOZA, Yvette">

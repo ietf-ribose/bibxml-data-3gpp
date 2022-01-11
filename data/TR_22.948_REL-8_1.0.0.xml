@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.948:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.948/22948-100.zip">
+<reference anchor="3GPP.TR.22.948:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.948/22948-100.zip">
   <front>
     <title>Study of requirements of IP-Multimedia Subsystem (IMS) convergent multimedia conferencing</title>
     <author fullname="HUANG, Qing">

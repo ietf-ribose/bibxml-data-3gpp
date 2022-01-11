@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 08.18:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.18/0818-700.zip">
+<reference anchor="3GPP.TS.08.18:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.18/0818-700.zip">
   <front>
     <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN); BSS GPRS Protocol</title>
     <author fullname="BLACK, Jyoti">

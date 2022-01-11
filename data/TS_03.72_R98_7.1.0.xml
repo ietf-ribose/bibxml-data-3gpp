@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 03.72:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.72/0372-710.zip">
+<reference anchor="3GPP.TS.03.72:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.72/0372-710.zip">
   <front>
     <title>Call Deflection  stage 2</title>
     <author fullname="KOZA, Yvette">

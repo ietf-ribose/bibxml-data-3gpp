@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 33.519:Rel-16/0.5.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.519/33519-050.zip">
+<reference anchor="3GPP.TS.33.519:Rel-16/0.5.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.519/33519-050.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS) for the Network Exposure Function (NEF) network product class</title>
     <author fullname="PENG, Jin">

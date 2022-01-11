@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 21.877:Rel-5/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.877/21877-060.zip">
+<reference anchor="3GPP.TR.21.877:Rel-5/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.877/21877-060.zip">
   <front>
     <title>Radio optimization impacts on the Packet Switched (PS) domain architecture</title>
     <author fullname="MERIAU, Laurence">

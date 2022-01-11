@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 36.882:Rel-13/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.882/36882-101.zip">
+<reference anchor="3GPP.TR.36.882:Rel-13/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.882/36882-101.zip">
   <front>
     <title>Study on regulatory aspects for flexible duplex for E-UTRAN</title>
     <author fullname="YI, Yunjung">

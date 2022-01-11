@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 37.817:Rel-17/0.4.0">
+<reference anchor="3GPP.TR.37.817:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.817/37817-040.zip">
   <front>
     <title>Study on enhancement for data collection for NR and ENDC</title>
     <author fullname="XIE, Fang">

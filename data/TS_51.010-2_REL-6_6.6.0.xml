@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 51.010-2:Rel-6/6.6.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-2/51010-2-660.zip">
+<reference anchor="3GPP.TS.51.010-2:Rel-6/6.6.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-2/51010-2-660.zip">
   <front>
     <title>Mobile Station (MS) conformance specification; Part 2: Protocol Implementation Conformance Statement (PICS) proforma specification</title>
     <author fullname="LASCOUX, Remi">

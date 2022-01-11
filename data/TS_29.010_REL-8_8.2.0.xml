@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.010:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.010/29010-820.zip">
+<reference anchor="3GPP.TS.29.010:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.010/29010-820.zip">
   <front>
     <title>Information element mapping between Mobile Station - Base Station System (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MSC); Signalling Procedures and the Mobile Application Part (MAP)</title>
     <author fullname="SCHMITT, Peter">

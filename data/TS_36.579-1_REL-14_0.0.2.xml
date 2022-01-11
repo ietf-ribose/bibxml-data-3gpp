@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 36.579-1:Rel-14/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-1/36579-1-002.zip">
+<reference anchor="3GPP.TS.36.579-1:Rel-14/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-1/36579-1-002.zip">
   <front>
     <title>Mission Critical (MC) services over LTE; Part 1: Common test environment</title>
     <author fullname="KAHN, Jason">

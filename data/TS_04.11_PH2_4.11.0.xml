@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 04.11:Ph2/4.11.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.11/0411-4b0.zip">
+<reference anchor="3GPP.TS.04.11:Ph2/4.11.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.11/0411-4b0.zip">
   <front>
     <title>Point-to-Point  (PP) Short Message Service (SMS) Support on Mobile Radio Interface</title>
     <author fullname="LIU, Jennifer">

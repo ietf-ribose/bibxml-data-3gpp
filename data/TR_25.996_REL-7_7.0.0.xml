@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 25.996:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.996/25996-700.zip">
+<reference anchor="3GPP.TR.25.996:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.996/25996-700.zip">
   <front>
     <title>Spatial channel model for Multiple Input Multiple Output (MIMO) simulations</title>
     <author fullname="HUANG, Howard">

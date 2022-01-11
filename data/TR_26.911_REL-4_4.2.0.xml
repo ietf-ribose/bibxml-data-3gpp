@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.911:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.911/26911-420.zip">
+<reference anchor="3GPP.TR.26.911:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.911/26911-420.zip">
   <front>
     <title>Codec(s) for Circuit-Switched (CS) multimedia telephony service; Terminal implementor’s guide</title>
     <author fullname="JUNG, Kyunghun">

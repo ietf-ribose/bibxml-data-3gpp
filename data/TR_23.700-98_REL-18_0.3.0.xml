@@ -1,8 +1,8 @@
-<reference anchor="3GPP.TR 23.700-98:Rel-18/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-98/23700-98-030.zip">
+<reference anchor="3GPP.TR.23.700-98:Rel-18/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-98/23700-98-030.zip">
   <front>
     <title>Study on enhanced Application Architecture for enabling Edge Applications</title>
-    <author fullname="GUPTA, Nishant">
-      <organization>Samsung Electronics Co., Ltd</organization>
+    <author fullname="PATTAN, Basavaraj (Basu)">
+      <organization>Samsung R&amp;D Institute UK</organization>
     </author>
     <workgroup>S6</workgroup>
   </front>

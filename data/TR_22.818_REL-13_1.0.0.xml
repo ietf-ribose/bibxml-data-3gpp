@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 22.818:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.818/22818-100.zip">
+<reference anchor="3GPP.TR.22.818:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.818/22818-100.zip">
   <front>
     <title>Feasibility Study on Control of Applications when Third party Servers encounter difficulties</title>
     <author fullname="YOSHIDA, Eriko">

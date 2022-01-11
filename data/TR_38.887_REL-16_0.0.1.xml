@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 38.887:Rel-16/0.0.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.887/38887-001.zip">
+<reference anchor="3GPP.TR.38.887:Rel-16/0.0.1" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.887/38887-001.zip">
   <front>
     <title>TDD operating band in Band n259</title>
     <author fullname="MALEKAFZALIARDAKANI, Reihaneh">

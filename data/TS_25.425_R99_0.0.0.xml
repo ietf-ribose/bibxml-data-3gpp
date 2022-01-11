@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.425:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.425/25425-000.zip">
+<reference anchor="3GPP.TS.25.425:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.425/25425-000.zip">
   <front>
     <title>UTRAN Iur interface user plane protocols for Common Transport Channel data streams</title>
     <author fullname="SHI, Nianshan">

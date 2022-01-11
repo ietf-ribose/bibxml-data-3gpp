@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 32.551:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.551/32551-d00.zip">
+<reference anchor="3GPP.TS.32.551:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.551/32551-d00.zip">
   <front>
     <title>Telecommunication management; Energy Saving Management (ESM); Concepts and requirements</title>
     <author fullname="YAO, Yizhi">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 26.132:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.132/26132-g00.zip">
+<reference anchor="3GPP.TS.26.132:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.132/26132-g00.zip">
   <front>
     <title>Speech and video telephony terminal acoustic test specification</title>
     <author fullname="USAI, Paolino">

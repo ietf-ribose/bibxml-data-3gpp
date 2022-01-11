@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 29.675:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/29_series/29.675/29675-200.zip">
+<reference anchor="3GPP.TS.29.675:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/29_series/29.675/29675-200.zip">
   <front>
     <title>User Equipment (UE) radio capability provisioning service; Stage 3</title>
     <author fullname="XU, Wenliang">

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 23.781:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.781/23781-010.zip">
+<reference anchor="3GPP.TR.23.781:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.781/23781-010.zip">
   <front>
     <title>Study on migration and interconnection for mission critical services</title>
     <author fullname="CHATER-LEA, David">

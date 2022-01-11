@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.980:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.980/33980-800.zip">
+<reference anchor="3GPP.TR.33.980:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.980/33980-800.zip">
   <front>
     <title>Liberty Alliance and 3GPP security interworking; Interworking of Liberty Alliance Identity Federation Framework (ID-FF), Identity Web Services Framework (ID-WSF) and Generic Authentication Architecture (GAA)</title>
     <author fullname="HOLTMANNS, Silke">

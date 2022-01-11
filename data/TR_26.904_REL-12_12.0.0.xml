@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 26.904:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.904/26904-c00.zip">
+<reference anchor="3GPP.TR.26.904:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.904/26904-c00.zip">
   <front>
     <title>Improved video coding support</title>
     <author fullname="BOUAZIZI, Imed">

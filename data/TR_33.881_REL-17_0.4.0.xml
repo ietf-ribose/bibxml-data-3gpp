@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR 33.881:Rel-17/0.4.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.881/33881-040.zip">
+<reference anchor="3GPP.TR.33.881:Rel-17/0.4.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.881/33881-040.zip">
   <front>
     <title>Study on Non-Seamless WLAN Offload (NSWO) in 5G System (5GS) using 3GPP credentials</title>
     <author fullname="M DHANASEKARAN, Ranganathan">

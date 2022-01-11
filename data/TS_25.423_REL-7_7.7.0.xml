@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS 25.423:Rel-7/7.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.423/25423-770.zip">
+<reference anchor="3GPP.TS.25.423:Rel-7/7.7.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.423/25423-770.zip">
   <front>
     <title>UTRAN Iur interface Radio Network Subsystem Application Part (RNSAP) signalling</title>
     <author fullname="SHI, Nianshan">

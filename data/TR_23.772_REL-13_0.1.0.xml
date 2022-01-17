@@ -1,9 +1,6 @@
 <reference anchor="3GPP.TR.23.772:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.772/23772-010.zip">
   <front>
     <title>Enhanced Circuit Switched (CS) fallback</title>
-    <author fullname="XU, Yang">
-      <organization>China Unicom</organization>
-    </author>
     <workgroup>S2</workgroup>
   </front>
 </reference>

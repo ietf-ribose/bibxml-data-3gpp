@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.108:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.108/38108-001.zip">
+  <front>
+    <title>NR; Satellite Node radio transmission and reception</title>
+    <author fullname="PANAITOPOL, Dorin">
+      <organization>THALES</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

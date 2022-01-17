@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.36.101:Rel-17/17.4.0">
+<reference anchor="3GPP.TS.36.101:Rel-17/17.4.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.101/36101-h40.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception</title>
     <author fullname="LIM, Suhwan">

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.285:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.285/23285-e00.zip">
+  <front>
+    <title>Architecture enhancements for V2X services</title>
+    <author fullname="KIM, Laeyoung">
+      <organization>LG Electronics France</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.706:Rel-13/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.706/23706-000.zip">
+  <front>
+    <title>Study on enhancements to Web Real Time Communication (WebRTC) access to IP Multimedia Subsystem (IMS); Stage 2</title>
+    <author fullname="QING, Yu">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

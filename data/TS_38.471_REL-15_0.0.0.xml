@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.471:Rel-15/0.0.0">
+  <front>
+    <title>NG-RAN; F1 layer 1</title>
+    <author fullname="MULLER, Julien">
+      <organization>FUJITSU Laboratories of Europe</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.00.01U:UMTS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/00_series/00.01U/0001U-310.zip">
+  <front>
+    <title>Work programme for the standardization of Universal Mobile Telecommunications System (UMTS)</title>
+    <author fullname="RAPELI, Juha">
+      <organization>PHILIPS CONSUMER COMMUNICATION</organization>
+    </author>
+    <workgroup>SMG5</workgroup>
+  </front>
+</reference>

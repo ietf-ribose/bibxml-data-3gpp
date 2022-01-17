@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.856:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.856/32856-010.zip">
+  <front>
+    <title>Study on Operations, Administration and Maintenance (OAM) support for assessment of energy efficiency in mobile access networks</title>
+    <author fullname="CORNILY, Jean Michel">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

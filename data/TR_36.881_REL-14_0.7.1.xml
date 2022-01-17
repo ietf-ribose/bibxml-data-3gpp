@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.881:Rel-14/0.7.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.881/36881-071.zip">
+  <front>
+    <title>Study on latency reduction techniques for LTE</title>
+    <author fullname="ENBUSKE, Henrik">
+      <organization>Ericsson Japan K.K.</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

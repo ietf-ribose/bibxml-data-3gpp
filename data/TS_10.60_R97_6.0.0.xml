@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.10.60:R97/6.0.0">
+  <front>
+    <title>General Packet Radio Services (GPRS); Project Scheduling and Open Issues</title>
+    <author fullname="PETERSEN, Johan">
+      <organization>Apica IT</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>SMG12</workgroup>
+  </front>
+</reference>

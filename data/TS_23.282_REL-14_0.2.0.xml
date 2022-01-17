@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.282:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.282/23282-020.zip">
+  <front>
+    <title>Functional architecture and information flows to support Mission Critical Data (MCData); Stage 2</title>
+    <author fullname="PATTAN, Basavaraj (Basu)">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

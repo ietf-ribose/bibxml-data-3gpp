@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.323:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.323/38323-f00.zip">
+  <front>
+    <title>NR; Packet Data Convergence Protocol (PDCP) specification</title>
+    <author fullname="YI, SeungJune">
+      <organization>LG Electronics Inc.</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

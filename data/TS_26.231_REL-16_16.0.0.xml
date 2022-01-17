@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.231:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.231/26231-g00.zip">
+  <front>
+    <title>Cellular text telephone modem; Minimum performance requirements</title>
+    <author fullname="HELLSTROM, Gunnar">
+      <organization>Omnitor AB</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

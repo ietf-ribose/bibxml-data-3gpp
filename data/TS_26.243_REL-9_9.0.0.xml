@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.243:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.243/26243-900.zip">
+  <front>
+    <title>ANSI-C code for the fixed-point distributed speech recognition extended advanced front-end</title>
+    <author fullname="PEARCE, David">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

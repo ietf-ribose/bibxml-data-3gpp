@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.31.130:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/31_series/31.130/31130-810.zip">
+  <front>
+    <title>(U)SIM Application Programming Interface (API); (U)SIM API for Java™ Card</title>
+    <author fullname="HANS, Sebastian">
+      <organization>Oracle Corporation</organization>
+    </author>
+    <workgroup>C6</workgroup>
+    <abstract>This document defines the (U)SIM Application Programming Interface extending the “UICC API for Java Card™”. This API allows to develop a (U)SAT application running together with a (U)SIM application and using GSM/3G network features.</abstract>
+  </front>
+</reference>

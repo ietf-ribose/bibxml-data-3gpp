@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.804:Rel-7/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.804/23804-110.zip">
+  <front>
+    <title>Support of SMS and MMS over generic 3GPP IP access</title>
+    <author fullname="ZHANG, Wenlin">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

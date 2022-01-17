@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.905:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.905/26905-g00.zip">
+  <front>
+    <title>Mobile stereoscopic 3D video</title>
+    <author fullname="TENIOU, Gilles">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.229:Rel-5/0.4.0">
+  <front>
+    <title>Cx and Dx interfaces based on the Diameter protocol; Protocol details</title>
+    <author fullname="BARTOLOME, Maria-Cruz">
+      <organization>Nanjing Ericsson Panda Com Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

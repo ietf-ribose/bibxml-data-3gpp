@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.801:Rel-7/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.801/33801-020.zip">
+  <front>
+    <title>Access security review</title>
+    <author fullname="NORRMAN, Karl">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

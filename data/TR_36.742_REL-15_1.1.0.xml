@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.742:Rel-15/1.1.0">
+  <front>
+    <title>Study on Self-Organizing Networks (SON) for enhanced Coordinated Multi-Point (eCoMP)</title>
+    <author fullname="HELMERS, Hakon">
+      <organization>Nokia France</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

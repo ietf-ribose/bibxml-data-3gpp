@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.876:Rel-6/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.876/23876-001.zip">
+  <front>
+    <title>Push architecture</title>
+    <author fullname="YOON, Sang-Ui">
+      <organization>KT Corp.</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

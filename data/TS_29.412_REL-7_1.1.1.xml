@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.412:Rel-7/1.1.1">
+  <front>
+    <title>TISPAN; Interworking; Trunking Gateway Control Procedures for interworking between NGN and external CS networks</title>
+    <author fullname="KREIPL, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

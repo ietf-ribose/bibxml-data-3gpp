@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.09.08:R99/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.08/0908-820.zip">
+  <front>
+    <title>Application of the Base Station System Application Part (BSSAP) on the E-Interface</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

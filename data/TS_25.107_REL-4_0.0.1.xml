@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.25.107:Rel-4/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.107/25107-001.zip">
+  <front>
+    <title>UTRA Repeater; Conformance testing</title>
+    <author fullname="NILSSON, Martin">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>-</workgroup>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

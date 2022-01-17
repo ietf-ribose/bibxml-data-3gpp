@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.06.53:R96/5.1.2" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.53/0653-512.zip">
+  <front>
+    <title>ANSI-C code for the GSM Enhanced Full Rate (EFR) speech codec</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

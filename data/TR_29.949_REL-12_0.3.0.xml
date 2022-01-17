@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.29.949:Rel-12/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.949/29949-030.zip">
+  <front>
+    <title>Study on technical aspects on roaming end-to-end scenarios with Voice over LTE (VoLTE) IP Multimedia Subsystem (IMS) and other networks</title>
+    <author fullname="JESSKE, Roland">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

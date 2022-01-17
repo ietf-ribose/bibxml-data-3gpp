@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.896:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.896/23896-100.zip">
+  <front>
+    <title>Technical Report on Support for fixed broadband access networks convergence</title>
+    <author fullname="SPINI, Marco">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

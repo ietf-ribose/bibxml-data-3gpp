@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.24.880:Rel-7/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.880/24880-030.zip">
+  <front>
+    <title>Media server control using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3</title>
+    <author fullname="DRAGE, Keith">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.12.11:Ph2/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.11/1211-421.zip">
+  <front>
+    <title>Fault management of the Base Station System (BSS)</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+    <workgroup>S1 / GP</workgroup>
+    <workgroup>SMG06 / SMG01 / SMG02</workgroup>
+  </front>
+</reference>

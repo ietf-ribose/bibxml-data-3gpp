@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.63:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.63/0363-600.zip">
+  <front>
+    <title>Packet Data on Signalling channels service (PDS) Service description, Stage 2</title>
+    <author fullname="JACOBSOHN, Dieter">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

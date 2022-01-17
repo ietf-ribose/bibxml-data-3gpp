@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.23.008:Rel-5/5.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.008/23008-530.zip">
+  <front>
+    <title>Organization of subscriber data</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

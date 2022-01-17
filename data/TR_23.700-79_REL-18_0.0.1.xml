@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.700-79:Rel-18/0.0.1" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.700-79/23700-79-001.zip">
+  <front>
+    <title>Study of gateway User Equipment (UE) function for Mission Critical (MC) communications</title>
+    <author fullname="OETTL, Martin">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

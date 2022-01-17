@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.51.021:Rel-13/13.6.0">
+  <front>
+    <title>Base Station System (BSS) equipment specification; Radio aspects</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02c</workgroup>
+  </front>
+</reference>

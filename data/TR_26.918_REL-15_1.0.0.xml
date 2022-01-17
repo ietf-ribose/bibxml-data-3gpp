@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.918:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.918/26918-100.zip">
+  <front>
+    <title>Virtual Reality (VR) media services over 3GPP</title>
+    <author fullname="TENIOU, Gilles">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

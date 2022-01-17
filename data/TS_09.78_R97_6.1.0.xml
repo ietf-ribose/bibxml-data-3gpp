@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.09.78:R97/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.78/0978-610.zip">
+  <front>
+    <title>CAMEL Application Part phase 2 (stage 3)</title>
+    <author fullname="HODGES, Phil">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.230:Rel-4/2.0.0">
+  <front>
+    <title>Cellular text telephone modem; Transmitter bit exact C-code</title>
+    <author fullname="HELLSTROM, Gunnar">
+      <organization>Omnitor AB</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

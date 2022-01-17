@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.10.59:R99/1.9.0">
+  <front>
+    <title>Project scheduling and open issues for EDGE</title>
+    <author fullname="MUELLER, Frank">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

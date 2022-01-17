@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.675:Rel-7/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.675/32675-701.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

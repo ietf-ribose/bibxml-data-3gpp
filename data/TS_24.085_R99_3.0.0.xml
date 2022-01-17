@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.24.085:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.085/24085-300.zip">
+  <front>
+    <title>Closed User Group (CUG) supplementary service; Stage 3</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

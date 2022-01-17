@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.806:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.806/38806-020.zip">
+  <front>
+    <title>Study of separation of NR Control Plane (CP) and User Plane (UP) for split option 2</title>
+    <author fullname="MULLER, Julien">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

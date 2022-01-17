@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.09.09:Ph1/1.0.0">
+  <front>
+    <title>Detailed Signalling Interworking within the PLMN and with the PSTN/ISDN</title>
+    <author fullname="VAINIKKA, Jari">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>N4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

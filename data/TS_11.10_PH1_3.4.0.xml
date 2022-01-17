@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.11.10:Ph1/3.4.0">
+  <front>
+    <title>Mobile Station Conformity Specification</title>
+    <author fullname="LEGRAND, Walter">
+      <organization>Airbus Group SAS</organization>
+    </author>
+    <workgroup>G3new</workgroup>
+    <workgroup>S1 / G3new / CP / SCP</workgroup>
+    <workgroup>SMG07  /  SMG01  /  SMG02 / SMG03 / SMG04 / SMG09</workgroup>
+  </front>
+</reference>

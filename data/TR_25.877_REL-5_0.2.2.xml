@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.877:Rel-5/0.2.2" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.877/25877-022.zip">
+  <front>
+    <title>High Speed Downlink Packet Access (HSDPA) - Iub/Iur Protocol Aspects</title>
+    <author fullname="DIESEN, Michael">
+      <organization>Motorola Solutions UK Ltd.</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

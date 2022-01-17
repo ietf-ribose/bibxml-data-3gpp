@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.10:Ph1/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.10/0310-330.zip">
+  <front>
+    <title>GSM Public Land Mobile Network (PLMN) Connection Types</title>
+    <author fullname="HOLM, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

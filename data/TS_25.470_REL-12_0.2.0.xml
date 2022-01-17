@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.25.470:Rel-12/0.2.0">
+  <front>
+    <title>UTRAN Iuh Interface PCAP User Adaption (PUA) signalling</title>
+    <author fullname="AHMED, Ayaz">
+      <organization>Nokia Solutions &amp; Networks (I)</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

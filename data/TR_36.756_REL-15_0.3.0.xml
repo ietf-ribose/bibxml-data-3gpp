@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.756:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.756/36756-030.zip">
+  <front>
+    <title>Study on architecture evolution for Evolved Universal Terrestrial Radio Access Network (E-UTRAN)</title>
+    <author fullname="CAO, Gen">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

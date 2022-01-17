@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.776:Rel-16/1.0.1" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.776/36776-101.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Study on LTE-based 5G terrestrial broadcast</title>
+    <author fullname="RICO ALVARINO, Alberto">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.435:Rel-7/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.435/32435-720.zip">
+  <front>
+    <title>Telecommunication management; Performance measurement; eXtensible Markup Language (XML) file format definition</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

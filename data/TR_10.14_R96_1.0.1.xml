@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.10.14:R96/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.14/1014-101.zip">
+  <front>
+    <title>System overview for 14.4 kbit/s Work Item</title>
+    <author fullname="BERTENYI, Balazs">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>SMG12</workgroup>
+  </front>
+</reference>

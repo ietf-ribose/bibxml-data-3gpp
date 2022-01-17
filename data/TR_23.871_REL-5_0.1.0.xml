@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.871:Rel-5/0.1.0">
+  <front>
+    <title>Enhanced support for user privacy in Location Services (LCS)</title>
+    <author fullname="KÅLL, Jan">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

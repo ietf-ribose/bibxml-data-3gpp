@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.805:Rel-12/1.1.2" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.805/22805-112.zip">
+  <front>
+    <title>Feasibility study on user plane congestion management</title>
+    <author fullname="VISSER, John">
+      <organization>KDDI Corporation</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.06.71:R98/7.0.2" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.71/0671-702.zip">
+  <front>
+    <title>Adaptive Multi-Rate speech processing functions; General description</title>
+    <author fullname="BRUHN, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4 / SMG11</workgroup>
+  </front>
+</reference>

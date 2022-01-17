@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.803:Rel-6/0.0.1">
+  <front>
+    <title>S-CCPCH performance for Multimedia Broadcast/Multicast Service (MBMS)</title>
+    <author fullname="MALLADI, Durga">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

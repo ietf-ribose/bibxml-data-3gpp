@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.830:Rel-11/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.830/33830-021.zip">
+  <front>
+    <title>Feasibility study on IMS firewall traversal</title>
+    <author fullname="KUMAR, Prashant">
+      <organization>Oracle Corporation</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

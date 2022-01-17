@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.731:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.731/32731-a00.zip">
+  <front>
+    <title>Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

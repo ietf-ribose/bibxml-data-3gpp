@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.22.067:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.067/22067-400.zip">
+  <front>
+    <title>enhanced Multi Level Precedence and Pre-emption service (eMLPP); Stage 1</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the Stage 1 description of the enhanced multi-level precedence and pre-emption (eMLPP) service. This service has two parts: precedence and pre-emption. Precedence involves assigning a priority level to a call in combination with fast call set-up. Pre-emption involves the seizing of resources, which are in use by a call of a lower precedence, by a higher level precedence call in the absence of idle resources. Pre-emption can also involve the disconnection of an on-going call of lower precedence to accept an incoming call of higher precedence.</abstract>
+  </front>
+</reference>

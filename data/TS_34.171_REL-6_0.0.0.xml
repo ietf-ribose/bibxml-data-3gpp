@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.34.171:Rel-6/0.0.0">
+  <front>
+    <title>Terminal conformance specification; Assisted Global Positioning System (A-GPS); Frequency Division Duplex (FDD)</title>
+    <author fullname="CATMUR, Richard">
+      <organization>Spirent Communications</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

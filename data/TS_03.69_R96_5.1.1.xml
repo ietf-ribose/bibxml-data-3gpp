@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.69:R96/5.1.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.69/0369-511.zip">
+  <front>
+    <title>Voice Broadcast Service (VBS); Stage 2</title>
+    <author fullname="LAUSTER, Reinhard">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.43.020:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.020/43020-900.zip">
+  <front>
+    <title>Security related network functions</title>
+    <author fullname="SAHLIN, Bengt">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+    <workgroup>CP, RP</workgroup>
+    <workgroup>SMG10  /  SMG03  /  SMG02</workgroup>
+  </front>
+</reference>

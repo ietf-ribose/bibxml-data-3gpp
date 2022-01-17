@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.714-02-01:Rel-14/0.5.1">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-14 for 2 Down Link (DL) / 1 Up Link (UL)</title>
+    <author fullname="VINTOLA, Ville">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

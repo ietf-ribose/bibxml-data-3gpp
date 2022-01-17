@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.825:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.825/36825-100.zip">
+  <front>
+    <title>Feasibility study on possible additional configuration for LTE TDD</title>
+    <author fullname="PAN, Xueming">
+      <organization>CATT</organization>
+    </author>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

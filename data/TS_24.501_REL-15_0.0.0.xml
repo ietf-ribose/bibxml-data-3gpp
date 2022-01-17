@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.501:Rel-15/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.501/24501-000.zip">
+  <front>
+    <title>Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3</title>
+    <author fullname="HERRERO-VERON, Christian">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

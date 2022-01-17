@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.46.007:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.007/46007-800.zip">
+  <front>
+    <title>Half rate speech; Test sequences for the GSM half rate speech codec</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

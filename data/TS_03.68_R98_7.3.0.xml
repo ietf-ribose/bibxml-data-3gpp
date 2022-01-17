@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.68:R98/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.68/0368-730.zip">
+  <front>
+    <title>Voice Group Call Service (VGCS); Stage 2</title>
+    <author fullname="LAUSTER, Reinhard">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

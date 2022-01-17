@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.09.03:Ph2/4.0.3" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.03/0903-403.zip">
+  <front>
+    <title>Signalling Requirements on Interworking between the Intergrated Services Digital Network (ISDN) or Public Switched Telephone Network (PSTN) and the Public Land Mobile Network (PLMN)</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

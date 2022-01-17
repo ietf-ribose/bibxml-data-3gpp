@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.861:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.861/36861-100.zip">
+  <front>
+    <title>Technical Report for Study Item: Study on LTE FDD in the bands 1980-2010 MHz and 2170-2200 MHz</title>
+    <author fullname="HWANG, Chungwoo">
+      <organization>KT Corp.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

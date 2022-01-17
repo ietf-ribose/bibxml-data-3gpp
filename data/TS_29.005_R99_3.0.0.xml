@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.29.005:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.005/29005-300.zip">
+  <front>
+    <title>Interworking between the Public Land Mobile Network (PLMN) and the Packet Switched Public Data Network (PSPDN) for Packet Assembly/Disassembly (PAD) facility access</title>
+    <author fullname="BOSWARTHICK, David">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>N3</workgroup>
+    <workgroup>N3</workgroup>
+  </front>
+</reference>

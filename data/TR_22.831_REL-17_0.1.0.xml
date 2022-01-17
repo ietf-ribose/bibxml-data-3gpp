@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.831:Rel-17/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.831/22831-010.zip">
+  <front>
+    <title>Study on Support for Minimization of service Interruption</title>
+    <author fullname="CHUN, SungDuck">
+      <organization>LG Electronics France</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

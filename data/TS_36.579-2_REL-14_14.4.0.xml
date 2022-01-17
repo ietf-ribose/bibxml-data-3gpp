@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.579-2:Rel-14/14.4.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.579-2/36579-2-e40.zip">
+  <front>
+    <title>Mission Critical (MC) services over LTE; Part 2: Mission Critical Push To Talk (MCPTT) User Equipment (UE) Protocol conformance specification</title>
+    <author fullname="KAHN, Jason">
+      <organization>NIST</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

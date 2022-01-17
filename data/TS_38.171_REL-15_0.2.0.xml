@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.171:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.171/38171-020.zip">
+  <front>
+    <title>NR; Requirements for support of Assisted Global Navigation Satellite System (A-GNSS)</title>
+    <author fullname="CATMUR, Richard">
+      <organization>Spirent Communications</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

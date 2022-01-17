@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.507:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.507/32507-100.zip">
+  <front>
+    <title>Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP): SOAP Solution Set (SS)</title>
+    <author fullname="ANDRIANOV, Anatoly">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

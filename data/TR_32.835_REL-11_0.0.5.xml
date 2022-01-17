@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.835:Rel-11/0.0.5" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.835/32835-005.zip">
+  <front>
+    <title>Telecommunication management; Study of heterogeneous networks management</title>
+    <author fullname="HUBINETTE, Ulf">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

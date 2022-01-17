@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.02.87:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.87/0287-500.zip">
+  <front>
+    <title>User-to-User Signalling (UUS) Service Description; Stage 1</title>
+    <author fullname="KURZ, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1  /  SMG01</workgroup>
+  </front>
+</reference>

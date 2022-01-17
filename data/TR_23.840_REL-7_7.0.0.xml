@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.23.840:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.840/23840-700.zip">
+  <front>
+    <title>Study into routeing of MT-SMs via the HPLMN</title>
+    <author fullname="RUSSELL, Nick">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

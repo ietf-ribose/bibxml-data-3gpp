@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.294:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.294/24294-950.zip">
+  <front>
+    <title>IP Multimedia Subsystem (IMS) Centralized Services (ICS) protocol via I1 interface</title>
+    <author fullname="WEI, haitao">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

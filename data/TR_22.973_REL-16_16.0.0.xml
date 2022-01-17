@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.973:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.973/22973-g00.zip">
+  <front>
+    <title>IMS Multimedia Telephony service; and supplementary services</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

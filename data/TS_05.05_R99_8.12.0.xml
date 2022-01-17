@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.05.05:R99/8.12.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-8c0.zip">
+  <front>
+    <title>Radio Transmission and Reception</title>
+    <author fullname="SAMUELSSON, Mats">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.23.053:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.053/23053-401.zip">
+  <front>
+    <title>Tandem Free Operation (TFO); Service description; Stage 2</title>
+    <author fullname="HELLWIG, Karl">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

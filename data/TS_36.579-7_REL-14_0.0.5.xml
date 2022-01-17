@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.579-7:Rel-14/0.0.5" target="http://ftp.3gpp.org//Specs/archive/36_series/36.579-7/36579-7-005.zip">
+  <front>
+    <title>Mission Critical (MC) services over LTE; Part 7: Mission Critical Data (MCData) User Equipment (UE) Protocol conformance specification</title>
+    <author fullname="KAHN, Jason">
+      <organization>NIST</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

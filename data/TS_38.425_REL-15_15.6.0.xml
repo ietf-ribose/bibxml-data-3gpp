@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.425:Rel-15/15.6.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.425/38425-f60.zip">
+  <front>
+    <title>NG-RAN; NR user plane protocol</title>
+    <author fullname="XU, Lixiang">
+      <organization>Samsung R&amp;D Institute UK</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

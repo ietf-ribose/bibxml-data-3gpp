@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.28.622:Rel-16/16.1.1" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.622/28622-g11.zip">
+  <front>
+    <title>Telecommunication management; Generic Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

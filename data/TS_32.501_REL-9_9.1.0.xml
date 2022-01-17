@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.501:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.501/32501-910.zip">
+  <front>
+    <title>Telecommunication management; Self-configuration of network elements; Concepts and requirements</title>
+    <author fullname="ANDRIANOV, Anatoly">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

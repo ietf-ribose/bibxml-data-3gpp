@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.04.80:Ph2/4.10.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.80/0480-4a0.zip">
+  <front>
+    <title>Mobile Radio Interface Layer 3 - Supplementary Services Specification Formats and Coding</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

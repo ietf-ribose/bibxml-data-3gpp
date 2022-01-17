@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.04.11:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.11/0411-600.zip">
+  <front>
+    <title>Point-to-Point  (PP) Short Message Service (SMS) Support on Mobile Radio Interface</title>
+    <author fullname="LIU, Jennifer">
+      <organization>Nokia</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

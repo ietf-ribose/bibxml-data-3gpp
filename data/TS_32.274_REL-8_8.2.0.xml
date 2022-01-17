@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.274:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.274/32274-820.zip">
+  <front>
+    <title>Telecommunication management; Charging management; Short Message Service (SMS) charging</title>
+    <author fullname="GARDELLA, Maryse">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

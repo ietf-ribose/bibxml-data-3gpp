@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.01.02:Ph2/1.1.0">
+  <front>
+    <title>General Description of a GSM Public Land Mobile Network (PLMN)</title>
+    <author fullname="SCARRONE, Enrico">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>GP / CP</workgroup>
+    <workgroup>SMG01  /  SMG02  /  SMG03</workgroup>
+  </front>
+</reference>

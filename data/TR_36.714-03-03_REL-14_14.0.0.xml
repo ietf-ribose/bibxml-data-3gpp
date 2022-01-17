@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.714-03-03:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.714-03-03/36714-03-03-e00.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-14 for 3 Down Link (DL) / 3 Up Link (UL)</title>
+    <author fullname="VASENKARI, Petri">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

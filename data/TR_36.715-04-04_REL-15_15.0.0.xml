@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.715-04-04:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.715-04-04/36715-04-04-f00.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced Inter-band Carrier Aggregation (4DL/4UL) of Band 41C and Band 42C</title>
+    <author fullname="OBARA, Masaaki">
+      <organization>KDDI Corporation</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

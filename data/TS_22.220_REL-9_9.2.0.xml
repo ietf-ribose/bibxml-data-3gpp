@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.22.220:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.220/22220-920.zip">
+  <front>
+    <title>Service requirements for Home Node B (HNB) and Home eNode B (HeNB)</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

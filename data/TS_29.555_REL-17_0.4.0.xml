@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.555:Rel-17/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.555/29555-040.zip">
+  <front>
+    <title>5G System; 5G Direct Discovery Name Management Services; Stage 3</title>
+    <author fullname="BAO, Chenxi">
+      <organization>CATT</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

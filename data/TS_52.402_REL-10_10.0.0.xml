@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.52.402:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/52_series/52.402/52402-a00.zip">
+  <front>
+    <title>Telecommunication management; Performance Management (PM); Performance measurements - GSM</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.22.173:Rel-16/16.2.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.173/22173-g20.zip">
+  <front>
+    <title>IP Multimedia Core Network Subsystem (IMS) Multimedia Telephony Service and supplementary services; Stage 1</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.96:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.96/0396-700.zip">
+  <front>
+    <title>Name Identification Supplementary Services; Stage 2</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

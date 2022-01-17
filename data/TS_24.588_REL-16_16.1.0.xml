@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.588:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.588/24588-g10.zip">
+  <front>
+    <title>Vehicle-to-Everything (V2X) services in 5G System (5GS); User Equipment (UE) policies; Stage 3</title>
+    <author fullname="PARK, Sang Min">
+      <organization>LG Electronics France</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

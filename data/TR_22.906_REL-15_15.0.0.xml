@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.906:Rel-15/15.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.906/22906-f00.zip">
+  <front>
+    <title>Study on IMS based peer-to-peer content distribution services</title>
+    <author fullname="LI, Frank, gang">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

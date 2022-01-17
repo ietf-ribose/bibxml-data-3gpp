@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.43.013:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.013/43013-700.zip">
+  <front>
+    <title>Discontinuous Reception (DRX) in the GSM system</title>
+    <author fullname="DIACHINA, John">
+      <organization>Ericsson Inc.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

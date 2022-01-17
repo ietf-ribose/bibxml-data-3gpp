@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.173:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.173/26173-e10.zip">
+  <front>
+    <title>ANSI-C code for the Adaptive Multi-Rate - Wideband (AMR-WB) speech codec</title>
+    <author fullname="BRUHN, Stefan">
+      <organization>Dolby Laboratories Inc.</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

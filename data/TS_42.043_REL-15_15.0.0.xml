@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.42.043:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.043/42043-f00.zip">
+  <front>
+    <title>Support of Localised Service Area (SoLSA); Service description; Stage 1</title>
+    <author fullname="MIETTINEN, Natalia">
+      <organization>NOKIA UK R&amp;D Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.28.821:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.821/28821-010.zip">
+  <front>
+    <title>Telecommunication management; Fixed Mobile Convergence (FMC) model repertoire</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

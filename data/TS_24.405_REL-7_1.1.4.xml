@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.405:Rel-7/1.1.4" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.405/24405-114.zip">
+  <front>
+    <title>TISPAN; PSTN/ISDN simulation services: Conference (CONF); Protocol specification</title>
+    <author fullname="DRAGE, Keith">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

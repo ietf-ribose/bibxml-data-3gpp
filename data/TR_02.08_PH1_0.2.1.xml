@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.02.08:Ph1/0.2.1">
+  <front>
+    <title>Quality of Service (QoS) / GSM system performance</title>
+    <author fullname="TWINGLER, Jonas">
+      <organization>inCode</organization>
+    </author>
+    <workgroup>smg</workgroup>
+  </front>
+</reference>

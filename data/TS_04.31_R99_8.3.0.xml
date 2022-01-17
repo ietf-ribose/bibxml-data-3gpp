@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.04.31:R99/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.31/0431-830.zip">
+  <front>
+    <title>Location Services (LCS); Mobile Station (MS) - Serving Mobile Location Centre (SMLC) Radio Resource LCS Protocol (RRLP)</title>
+    <author fullname="PATEL, Milan">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>G2</workgroup>
+    <workgroup>SMG02a</workgroup>
+  </front>
+</reference>

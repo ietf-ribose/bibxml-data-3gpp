@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.09.60:R97/6.4.1" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.60/0960-641.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); GPRS Tunnelling Protocol GPT) across the Gn and Gp Interface</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

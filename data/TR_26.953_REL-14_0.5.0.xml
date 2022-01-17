@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.953:Rel-14/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.953/26953-050.zip">
+  <front>
+    <title>Interactivity support for 3GPP-based streaming and download services</title>
+    <author fullname="LO, Charles">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

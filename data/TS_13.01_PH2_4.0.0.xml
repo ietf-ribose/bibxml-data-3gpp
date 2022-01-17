@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS.13.01:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.01/1301-400.zip">
+  <front>
+    <title>Attachment requirements for Global System for Mobile communications (GSM); Part 1: Mobile stations in the GSM 900 and DCS 1 800 bands; Access</title>
+    <workgroup>MSG</workgroup>
+    <workgroup>G3new</workgroup>
+    <workgroup>SMG07</workgroup>
+  </front>
+</reference>

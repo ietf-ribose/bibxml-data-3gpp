@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.423:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.423/24423-700.zip">
+  <front>
+    <title>TISPAN; PSTN/ISDN simulation services; Extensible Markup Language (XML) Configuration Access Protocol (XCAP) over the Ut interface for Manipulating NGN PSTN/ISDN Simulation Services</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

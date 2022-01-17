@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.334:Rel-9/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.334/23334-030.zip">
+  <front>
+    <title>IP Multimedia Subsystem (IMS) Application Level Gateway (IMS-ALG) - IMS Access Gateway (IMS-AGW) interface: Procedures descriptions</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

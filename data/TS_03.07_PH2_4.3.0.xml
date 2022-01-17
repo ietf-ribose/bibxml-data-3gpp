@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.07:Ph2/4.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.07/0307-430.zip">
+  <front>
+    <title>Restoration Procedures</title>
+    <author fullname="PARK, Ian David Chalmers">
+      <organization>VODAFONE LTD</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

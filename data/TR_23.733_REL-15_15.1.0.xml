@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.733:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.733/23733-f10.zip">
+  <front>
+    <title>Study on architecture enhancements to Proximity Services (ProSe) UE-to-Network relay</title>
+    <author fullname="TONESI, Dario Serafino">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

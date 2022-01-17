@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.291:Rel-16/16.7.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.291/32291-g70.zip">
+  <front>
+    <title>Telecommunication management; Charging management; 5G system, charging service; Stage 3</title>
+    <author fullname="CHEN, SHAN">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

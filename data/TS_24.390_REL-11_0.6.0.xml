@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.390:Rel-11/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.390/24390-060.zip">
+  <front>
+    <title>Unstructured Supplementary Service Data (USSD) using IP Multimedia (IM) Core Network (CN) subsystem IMS; Stage 3</title>
+    <author fullname="LAUSTER, Reinhard">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

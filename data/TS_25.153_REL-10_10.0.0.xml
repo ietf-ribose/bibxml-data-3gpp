@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.25.153:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.153/25153-a00.zip">
+  <front>
+    <title>UTRA repeater conformance testing (LCR TDD)</title>
+    <author fullname="YAN, Qin">
+      <organization>CATR</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

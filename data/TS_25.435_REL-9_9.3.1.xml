@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.25.435:Rel-9/9.3.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.435/25435-931.zip">
+  <front>
+    <title>UTRAN Iub interface user plane protocols for Common Transport Channel data streams</title>
+    <author fullname="NG, Cheng Hock">
+      <organization>NEC Corporation</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the UTRAN RNC-Node B (Iub) interface user plane protocols for common transport channel data streams.</abstract>
+  </front>
+</reference>

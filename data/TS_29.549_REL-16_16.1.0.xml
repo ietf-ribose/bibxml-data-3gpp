@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.549:Rel-16/16.1.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.549/29549-g10.zip">
+  <front>
+    <title>Service Enabler Architecture Layer for Verticals (SEAL); Application Programming Interface (API) specification; Stage 3</title>
+    <author fullname="TANGUDU, Narendranath Durga">
+      <organization>Samsung R&amp;D Institute India</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

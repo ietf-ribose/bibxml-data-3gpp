@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.244:Rel-12/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.244/24244-110.zip">
+  <front>
+    <title>Wireless LAN control plane protocol for trusted WLAN access to EPC; Stage 3</title>
+    <author fullname="ZHOU, Xingyue">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

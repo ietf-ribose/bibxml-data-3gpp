@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.850:Rel-15/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.850/26850-003.zip">
+  <front>
+    <title>MBMS for Internet of Things (IoT)</title>
+    <author fullname="THIENOT, Cedric">
+      <organization>Expway</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

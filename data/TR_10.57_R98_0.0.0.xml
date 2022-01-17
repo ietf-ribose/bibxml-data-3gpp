@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.10.57:R98/0.0.0">
+  <front>
+    <title>Project scheduling and open issues: Mobile Station Execution Environment (MExE)</title>
+    <author fullname="RODERMUND, Friedhelm">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>T2</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

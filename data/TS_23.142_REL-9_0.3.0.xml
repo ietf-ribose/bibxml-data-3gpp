@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.142:Rel-9/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.142/23142-030.zip">
+  <front>
+    <title>Value-added Services for SMS (VAS4SMS); Interface and signalling flow</title>
+    <author fullname="ZHANG, Hao">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

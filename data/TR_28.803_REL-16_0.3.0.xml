@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.28.803:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.803/28803-030.zip">
+  <front>
+    <title>Telecommunication management;Study on management aspects of edge computing</title>
+    <author fullname="CHOU, Joey">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

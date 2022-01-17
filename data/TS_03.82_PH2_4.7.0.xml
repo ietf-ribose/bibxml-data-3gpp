@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.82:Ph2/4.7.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.82/0382-470.zip">
+  <front>
+    <title>Call Forwarding (CF) Supplementary Services; Stage 2</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

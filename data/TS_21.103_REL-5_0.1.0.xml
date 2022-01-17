@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.21.103:Rel-5/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.103/21103-010.zip">
+  <front>
+    <title>3rd Generation mobile system Release 5 specifications</title>
+    <author fullname="MEREDITH, John M">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>SP</workgroup>
+  </front>
+</reference>

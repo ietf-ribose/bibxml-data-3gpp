@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.853:Rel-12/0.0.3">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced 3 Band Carrier Aggregation (CA) (3DL/1UL)</title>
+    <author fullname="GRANT, Marc">
+      <organization>AT&amp;T GNS Belgium SPRL</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

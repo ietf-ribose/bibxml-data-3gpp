@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.26.140:Rel-7/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.140/26140-710.zip">
+  <front>
+    <title>Multimedia Messaging Service (MMS); Media formats and codecs</title>
+    <author fullname="BOUAZIZI, Imed">
+      <organization>Samsung Telecoms America</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>CP</workgroup>
+  </front>
+</reference>

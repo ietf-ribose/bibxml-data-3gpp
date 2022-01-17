@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.114:Rel-17/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.114/38114-010.zip">
+  <front>
+    <title>NR; Repeaters ElectroMagnetic Compatibility (EMC)</title>
+    <author fullname="XIE, Yuming">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

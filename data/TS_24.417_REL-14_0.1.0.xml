@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.417:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.417/24417-010.zip">
+  <front>
+    <title>Management Object (MO) for Originating Identification Presentation (OIP) and Originating Identification Restriction (OIR) using IP Multimedia (IM) Core Network (CN) subsystem</title>
+    <author fullname="SKROCKI, Mariusz">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.199-20:Rel-7/7.0.2" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-20/29199-20-702.zip">
+  <front>
+    <title>Open Service Access (OSA); Parlay X web services; Part 20: Multimedia multicast session management</title>
+    <author fullname="KEUM, Chang sup">
+      <organization>ETRI</organization>
+    </author>
+    <workgroup>CP</workgroup>
+  </front>
+</reference>

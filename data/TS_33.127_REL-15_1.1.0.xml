@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.127:Rel-15/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.127/33127-110.zip">
+  <front>
+    <title>Lawful Interception (LI) architecture and functions</title>
+    <author fullname="JASPERS, Koen">
+      <organization>PIDS</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

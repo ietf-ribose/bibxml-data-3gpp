@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.351:Rel-17/0.2.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.351/38351-020.zip">
+  <front>
+    <title>NR; Sidelink Adaptation Layer Protocol</title>
+    <author fullname="LU, Qianxi">
+      <organization>Guangdong OPPO Mobile Telecom.</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

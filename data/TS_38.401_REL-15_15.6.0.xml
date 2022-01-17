@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.401:Rel-15/15.6.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.401/38401-f60.zip">
+  <front>
+    <title>NG-RAN; Architecture description</title>
+    <author fullname="NG, Chenghock">
+      <organization>NEC Corporation</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

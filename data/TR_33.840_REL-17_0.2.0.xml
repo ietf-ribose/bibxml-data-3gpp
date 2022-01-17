@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.840:Rel-17/0.2.0" target="https://www.3gpp.org/ftp//Specs/archive/33_series/33.840/33840-020.zip">
+  <front>
+    <title>Study on security aspects of the disaggregated gNB architecture</title>
+    <author fullname="XU, sen">
+      <organization>China Telecommunications</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

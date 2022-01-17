@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.05.08:R99/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.08/0508-830.zip">
+  <front>
+    <title>Radio subsystem link control</title>
+    <author fullname="EL-SAIGH, Amer">
+      <organization>OOREDOO</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

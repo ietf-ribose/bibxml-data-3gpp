@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.222:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.222/29222-g00.zip">
+  <front>
+    <title>Common API Framework for 3GPP Northbound APIs</title>
+    <author fullname="TANGUDU, Narendranath Durga">
+      <organization>Samsung R&amp;D Institute India</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

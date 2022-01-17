@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.22.970:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.970/22970-301.zip">
+  <front>
+    <title>Virtual Home Environment (VHE) Report</title>
+    <author fullname="OGUNBEKUN, Jumoke">
+      <organization>FUJITSU Laboratories of Europe</organization>
+    </author>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

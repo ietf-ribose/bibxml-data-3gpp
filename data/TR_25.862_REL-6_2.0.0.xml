@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.862:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.862/25862-200.zip">
+  <front>
+    <title>RAB support for IMS</title>
+    <author fullname="MIKOLA, Juha">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

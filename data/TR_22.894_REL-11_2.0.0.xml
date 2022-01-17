@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.894:Rel-11/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.894/22894-200.zip">
+  <front>
+    <title>Feasibility study on IP Multimedia Subsystem (IMS) network-independent public user identities</title>
+    <author fullname="MUSTAPHA, Mona">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

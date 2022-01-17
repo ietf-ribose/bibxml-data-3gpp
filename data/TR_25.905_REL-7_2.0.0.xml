@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.905:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.905/25905-200.zip">
+  <front>
+    <title>Feasibility study on improvement of the Multimedia Broadcast/Multicast Service (MBMS) in UTRAN</title>
+    <author fullname="LEE, Youngdae">
+      <organization>LG Electronics France</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

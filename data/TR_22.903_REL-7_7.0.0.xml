@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.903:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.903/22903-700.zip">
+  <front>
+    <title>Study on Videotelephony teleservice</title>
+    <author fullname="KURZ, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

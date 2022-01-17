@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.26.092:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.092/26092-400.zip">
+  <front>
+    <title>Mandatory speech codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec; Comfort noise aspects</title>
+    <author fullname="BRUHN, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4</workgroup>
+    <abstract>This specification describes the detailed requirements for the correct operation of the background acoustic noise evaluation, noise parameter encoding/decoding and comfort noise generation for the AMR speech codec during source controlled rate (SCR) operation.</abstract>
+  </front>
+</reference>

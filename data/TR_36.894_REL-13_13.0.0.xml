@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.894:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.894/36894-d00.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Study on measurement gap enhancement for LTE</title>
+    <author fullname="TANG, Yang">
+      <organization>Intel</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

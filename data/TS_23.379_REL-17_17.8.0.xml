@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.379:Rel-17/17.8.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.379/23379-h80.zip">
+  <front>
+    <title>Functional architecture and information flows to support Mission Critical Push To Talk (MCPTT); Stage 2</title>
+    <author fullname="LAZARA, Dominic">
+      <organization>Motorola Solutions UK Ltd.</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.716-02-01:Rel-16/0.9.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.716-02-01/36716-02-01-090.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-16 for 2 bands Down Link (DL) / 1 band Up Link (UL)</title>
+    <author fullname="HAN, Bin">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

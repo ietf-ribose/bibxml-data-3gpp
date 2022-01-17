@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.333:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.333/24333-f10.zip">
+  <front>
+    <title>Proximity-services (ProSe) Management Objects (MO)</title>
+    <author fullname="CHAPONNIERE, Lena">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

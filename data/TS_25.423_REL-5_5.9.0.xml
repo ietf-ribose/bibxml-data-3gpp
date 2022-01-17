@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.25.423:Rel-5/5.9.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.423/25423-590.zip">
+  <front>
+    <title>UTRAN Iur interface Radio Network Subsystem Application Part (RNSAP) signalling</title>
+    <author fullname="SHI, Nianshan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the radio network layer signalling procedures between RNCs in UTRAN.</abstract>
+  </front>
+</reference>

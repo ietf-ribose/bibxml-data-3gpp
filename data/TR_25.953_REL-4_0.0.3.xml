@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.953:Rel-4/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.953/25953-003.zip">
+  <front>
+    <title>TrFO/TFO</title>
+    <author fullname="VESELY, Alexander">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

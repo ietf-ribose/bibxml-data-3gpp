@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.45.903:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.903/45903-900.zip">
+  <front>
+    <title>Feasibility study on Single Antenna Interference Cancellation (SAIC) for GSM networks</title>
+    <author fullname="GRANT, Marc">
+      <organization>AT&amp;T GNS Belgium SPRL</organization>
+    </author>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.756:Rel-16/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.756/23756-020.zip">
+  <front>
+    <title>Study for single radio voice continuity from 5G to 3G</title>
+    <author fullname="REN, Chi">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.23.700-20:Rel-17/1.1.0" target="https://www.3gpp.org/ftp//Specs/archive/23_series/23.700-20/23700-20-110.zip">
+  <front>
+    <title>Study on enhanced support of Industrial Internet of Things (IIoT) in the 5G System (5GS)</title>
+    <author fullname="CHANDRAMOULI, Devaki">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>S3, S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.814:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.814/38814-f00.zip">
+  <front>
+    <title>New frequency range for NR (4.4-5.0 GHz)</title>
+    <author fullname="SANO, Yousuke">
+      <organization>DOCOMO Communications Lab.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

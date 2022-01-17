@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.416:Rel-7/1.2.1">
+  <front>
+    <title>TISPAN; PSTN/ISDN simulation services; Malicious Communication Identification (MCID); Protocol specification</title>
+    <author fullname="DRAGE, Keith">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

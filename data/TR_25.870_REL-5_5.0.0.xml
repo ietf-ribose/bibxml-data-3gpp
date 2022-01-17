@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.870:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.870/25870-500.zip">
+  <front>
+    <title>Enhancement on the DSCH Hard Split mode</title>
+    <author fullname="KIM, Jae-Yoel">
+      <organization>SAMSUNG Electronics Co., Ltd.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

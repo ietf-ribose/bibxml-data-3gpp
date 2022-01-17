@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.176-1:Rel-16/16.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.176-1/38176-1-g00.zip">
+  <front>
+    <title>NR; Integrated Access and Backhaul (IAB) conformance testing; Part 1: Conducted conformance testing</title>
+    <author fullname="KYBETT, Richard">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

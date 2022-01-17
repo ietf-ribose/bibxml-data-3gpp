@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.700-34:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-34/23700-34-010.zip">
+  <front>
+    <title>Study on SEAL data delivery enabler for vertical applications</title>
+    <author fullname="AMOGH, Niranth">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

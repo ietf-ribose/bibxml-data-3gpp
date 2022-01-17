@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.22.495:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.495/22495-700.zip">
+  <front>
+    <title>TISPAN;Services and Capabilities Requirements</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

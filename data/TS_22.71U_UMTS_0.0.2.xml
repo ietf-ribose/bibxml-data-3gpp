@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.22.71U:UMTS/0.0.2">
+  <front>
+    <title>Service aspects; Automatic Establishment of Roaming Relationships</title>
+    <author fullname="BERGMANN, Ansgar">
+      <organization>Hillebrand GmbH</organization>
+    </author>
+    <workgroup>-</workgroup>
+    <workgroup>SMG01</workgroup>
+  </front>
+</reference>

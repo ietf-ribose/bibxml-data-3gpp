@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.25.308:Rel-10/10.5.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.308/25308-a50.zip">
+  <front>
+    <title>High Speed Downlink Packet Access (HSDPA); Overall description; Stage 2</title>
+    <author fullname="AHMED, Ayaz">
+      <organization>Nokia Solutions &amp; Networks (I)</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document is a technical specification of the overall support of High Speed Downlink Packet Access in U0.</abstract>
+  </front>
+</reference>

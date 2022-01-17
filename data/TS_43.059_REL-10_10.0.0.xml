@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.43.059:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.059/43059-a00.zip">
+  <front>
+    <title>Functional stage 2 description of Location Services (LCS) in GERAN</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

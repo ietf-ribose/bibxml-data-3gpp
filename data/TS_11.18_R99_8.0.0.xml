@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.11.18:R99/8.0.0">
+  <front>
+    <title>Specification of the 1.8 Volt Subscriber Identity Module - Mobile Equipment (SIM - ME) Interface</title>
+    <author fullname="LINDHOLM, Rune">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>C6</workgroup>
+    <workgroup>SMG09</workgroup>
+  </front>
+</reference>

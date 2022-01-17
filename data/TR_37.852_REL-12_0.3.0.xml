@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.37.852:Rel-12/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.852/37852-030.zip">
+  <front>
+    <title>RAN enhancements for UMTS/HSPA and LTE interworking</title>
+    <author fullname="ZHANG, Meng">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

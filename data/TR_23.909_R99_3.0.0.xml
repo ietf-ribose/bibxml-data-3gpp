@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.23.909:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.909/23909-300.zip">
+  <front>
+    <title>Technical report on the Gateway Location Register</title>
+    <author fullname="PARK, Ian David Chalmers">
+      <organization>VODAFONE LTD</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

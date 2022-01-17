@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.45.056:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.056/45056-800.zip">
+  <front>
+    <title>GSM Cordless Telephony System (CTS), Phase 1; CTS-FP Radio subsystem</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

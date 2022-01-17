@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.425:Rel-16/16.5.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.425/32425-g50.zip">
+  <front>
+    <title>Telecommunication management; Performance Management (PM); Performance measurements Evolved Universal Terrestrial Radio Access Network (E-UTRAN)</title>
+    <author fullname="YAO, Yizhi">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

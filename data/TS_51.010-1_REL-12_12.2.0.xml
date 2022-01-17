@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.51.010-1:Rel-12/12.2.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-1/51010-1-c20.zip">
+  <front>
+    <title>Mobile Station (MS) conformance specification; Part 1: Conformance specification</title>
+    <author fullname="LASCOUX, Remi">
+      <organization>Sierra Wireless. S.A.</organization>
+    </author>
+    <workgroup>R5</workgroup>
+    <workgroup>CP, S1</workgroup>
+    <workgroup>SMG07 / SMG01 / SMG02 / SMG03 / SMG04 / SMG09</workgroup>
+  </front>
+</reference>

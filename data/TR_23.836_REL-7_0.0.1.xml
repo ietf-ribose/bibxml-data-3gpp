@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.836:Rel-7/0.0.1">
+  <front>
+    <title>Quality of Service (QoS) and policy aspects of 3GPP - Wirless Local Area Network (WLAN) interworking</title>
+    <author fullname="SONG, Osok">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

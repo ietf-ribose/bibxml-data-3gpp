@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.37.977:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.977/37977-g00.zip">
+  <front>
+    <title>Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial Radio Access (E-UTRA); Verification of radiated multi-antenna reception performance of User Equipment (UE)</title>
+    <author fullname="ANAYA, Luis">
+      <organization>Vodafone España SA</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

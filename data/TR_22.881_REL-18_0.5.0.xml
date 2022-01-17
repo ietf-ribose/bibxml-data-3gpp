@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.881:Rel-18/0.5.0" target="https://ftp.3gpp.org//Specs/archive/22_series/22.881/22881-050.zip">
+  <front>
+    <title>Study on sharing administrative configuration information between interconnected Mission Critical (MCX) service systems</title>
+    <author fullname="TOOBE, Jens">
+      <organization>BDBOS</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

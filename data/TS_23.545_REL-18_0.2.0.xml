@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.545:Rel-18/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.545/23545-020.zip">
+  <front>
+    <title>Application layer support for Factories of the Future (FF)</title>
+    <author fullname="SHAO, Weixiang">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

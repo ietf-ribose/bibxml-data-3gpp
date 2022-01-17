@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.41.033:Rel-4/4.0.0">
+  <front>
+    <title>Lawful Interception requirements for GSM</title>
+    <author fullname="LEADBEATER, Alex">
+      <organization>BT Group Plc</organization>
+    </author>
+    <workgroup>S3</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

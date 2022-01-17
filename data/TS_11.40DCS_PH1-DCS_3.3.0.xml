@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.11.40dcs:Ph1-DCS/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.40dcs/1140dcs-330.zip">
+  <front>
+    <title>DCS 1800 System Simulator conformity specification</title>
+    <author fullname="BERGMANN, Ansgar">
+      <organization>Hillebrand GmbH</organization>
+    </author>
+    <workgroup>G3new</workgroup>
+    <workgroup>SMG07</workgroup>
+  </front>
+</reference>

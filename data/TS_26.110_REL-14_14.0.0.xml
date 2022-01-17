@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.26.110:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.110/26110-e00.zip">
+  <front>
+    <title>Codec for circuit switched multimedia telephony service; General description</title>
+    <author fullname="JUNG, Kyunghun">
+      <organization>Facebook</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4</workgroup>
+    <abstract>This specification describes an introduction to the set of specifications for the support of circuit-switched 3G-324M multimedia telephony service.</abstract>
+  </front>
+</reference>

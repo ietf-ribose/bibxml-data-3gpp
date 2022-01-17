@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.06.42:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.42/0642-600.zip">
+  <front>
+    <title>Voice Activity Detection (VAD) for Half Rate Speech Traffic Channels</title>
+    <author fullname="BARRETT, Paul">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.523-2:Rel-10/10.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.523-2/36523-2-a30.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 2: Implementation Conformance Statement (ICS) proforma specification</title>
+    <author fullname="CHEN, Xiaozhong">
+      <organization>CATT</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

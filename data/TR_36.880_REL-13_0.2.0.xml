@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.880:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.880/36880-020.zip">
+  <front>
+    <title>Study on further enhancements of Minimization of Drive Tests (MDT) for E-UTRAN</title>
+    <author fullname="HU, Nan">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

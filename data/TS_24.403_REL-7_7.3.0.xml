@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.403:Rel-7/7.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.403/24403-730.zip">
+  <front>
+    <title>TISPAN; IP Multimedia Call Control Protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP) Stage 3 [3GPP TS 24.229 (Release 7), modified]</title>
+    <author fullname="DRAGE, Keith">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

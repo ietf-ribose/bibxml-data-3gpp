@@ -1,0 +1,12 @@
+<reference anchor="3GPP.TS.25.213:R99/0.0.0">
+  <front>
+    <title>Spreading and modulation (FDD)</title>
+    <author fullname="PICA, Francesco">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+    <abstract>This specification describes spreading and modulation for UTRA physical layer FDD mode.</abstract>
+  </front>
+</reference>

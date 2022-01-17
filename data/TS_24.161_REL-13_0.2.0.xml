@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.161:Rel-13/0.2.0">
+  <front>
+    <title>Network-Based IP Flow Mobility (NBIFOM); Stage 3</title>
+    <author fullname="ZHOU, Xingyue">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

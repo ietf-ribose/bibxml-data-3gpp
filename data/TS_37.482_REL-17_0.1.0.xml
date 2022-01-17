@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.37.482:Rel-17/0.1.0" target="https://ftp.3gpp.org//Specs/archive/37_series/37.482/37482-010.zip">
+  <front>
+    <title>E1 signalling transport</title>
+    <author fullname="YANG, Xudong">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

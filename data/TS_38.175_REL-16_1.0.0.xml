@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.175:Rel-16/1.0.0">
+  <front>
+    <title>NR; Integrated Access and Backhaul (IAB) Electromagnetic Compatibility (EMC)</title>
+    <author fullname="ZHOU, Wubin">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

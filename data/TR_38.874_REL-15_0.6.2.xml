@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.38.874:Rel-15/0.6.2" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.874/38874-062.zip">
+  <front>
+    <title>NR; Study on integrated access and backhaul</title>
+    <author fullname="HAMPEL, Georg">
+      <organization>Qualcomm Incorporated</organization>
+    </author>
+    <workgroup>R2</workgroup>
+    <workgroup>R1, R3</workgroup>
+  </front>
+</reference>

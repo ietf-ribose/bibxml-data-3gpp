@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.37.471:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.471/37471-001.zip">
+  <front>
+    <title>W1 interface; Layer 1</title>
+    <author fullname="CAO, Gen">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

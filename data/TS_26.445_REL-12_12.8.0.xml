@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.445:Rel-12/12.8.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.445/26445-c80.zip">
+  <front>
+    <title>Codec for Enhanced Voice Services (EVS); Detailed algorithmic description</title>
+    <author fullname="WANG, Bin">
+      <organization>HUAWEI TECH. GmbH</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.09.01:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.01/0901-600.zip">
+  <front>
+    <title>General Network Interworking Scenarios</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

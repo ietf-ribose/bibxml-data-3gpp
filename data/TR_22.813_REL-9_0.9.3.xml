@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.22.813:Rel-9/0.9.3" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.813/22813-093.zip">
+  <front>
+    <title>Study of use cases and requirements for enhanced voice codecs for the Evolved Packet System (EPS)</title>
+    <author fullname="LOTTIN, Philippe">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

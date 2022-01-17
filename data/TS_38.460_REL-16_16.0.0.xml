@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.460:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.460/38460-g00.zip">
+  <front>
+    <title>NG-RAN; E1 general aspects and principles</title>
+    <author fullname="ARJONA, Andres">
+      <organization>Nokia Japan</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.22.924:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.924/22924-310.zip">
+  <front>
+    <title>Charging and accounting mechanisms</title>
+    <author fullname="MONTEGROSSO, Emanuele">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
+    <workgroup>-</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.715:Rel-16/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.715/23715-050.zip">
+  <front>
+    <title>Study on system enhancements for provision of access to restricted local operator services by an unauthenticated User Equipment (UE)</title>
+    <author fullname="DREVON, Nicolas">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

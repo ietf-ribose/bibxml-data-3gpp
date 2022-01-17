@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.41.102:Rel-4/1.0.0">
+  <front>
+    <title>GSM Release 4 specifications</title>
+    <author fullname="MEREDITH, John M">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>SP</workgroup>
+  </front>
+</reference>

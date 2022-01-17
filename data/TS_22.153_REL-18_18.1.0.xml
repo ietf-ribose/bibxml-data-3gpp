@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.22.153:Rel-18/18.1.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.153/22153-i10.zip">
+  <front>
+    <title>Multimedia priority service</title>
+    <author fullname="GARRAHAN, James">
+      <organization>Applied Communication Sciences</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

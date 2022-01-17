@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.424:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.424/38424-030.zip">
+  <front>
+    <title>NG-RAN; Xn data transport</title>
+    <author fullname="MILLER, James">
+      <organization>InterDigital Germany GmbH</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

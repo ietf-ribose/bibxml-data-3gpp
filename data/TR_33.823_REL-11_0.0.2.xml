@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.823:Rel-11/0.0.2">
+  <front>
+    <title>Security for usage of Generic Bootstrapping Architecture (GBA) with a User Equipment (UE) browser</title>
+    <author fullname="HOLTMANNS, Silke">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

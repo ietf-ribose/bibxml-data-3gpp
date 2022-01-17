@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.55:R99/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.55/0355-811.zip">
+  <front>
+    <title>Dual Transfer Mode (DTM); Stage 2</title>
+    <author fullname="CARRIZO MARTINEZ, Jose Luis">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>G2</workgroup>
+  </front>
+</reference>

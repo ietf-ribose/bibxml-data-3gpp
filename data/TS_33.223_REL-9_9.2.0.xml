@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.223:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.223/33223-920.zip">
+  <front>
+    <title>Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture (GBA) Push function</title>
+    <author fullname="JERICHOW, Anja">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

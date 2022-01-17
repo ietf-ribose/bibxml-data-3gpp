@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.202:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.202/26202-a10.zip">
+  <front>
+    <title>Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Interface to Iu, Uu and Nb</title>
+    <author fullname="NAVARRO, William">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

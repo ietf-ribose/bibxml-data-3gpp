@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.805:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.805/32805-100.zip">
+  <front>
+    <title>Telecommunication management; Process guide; Backward compatibility recommendations</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

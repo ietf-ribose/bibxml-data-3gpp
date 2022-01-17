@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TR.25.928:Rel-4/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.928/25928-110.zip">
+  <front>
+    <title>1,28 Mcps functionality for UTRA TDD physical layer</title>
+    <author fullname="AKSENTIJEVIC, Mirko">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

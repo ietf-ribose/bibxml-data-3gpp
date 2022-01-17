@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.22.01U:UMTS/3.1.0">
+  <front>
+    <title>Universal Mobile Telecommunications System (UMTS): Service aspects; Service principles</title>
+    <author fullname="DWYER, Paul">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>SMG01</workgroup>
+  </front>
+</reference>

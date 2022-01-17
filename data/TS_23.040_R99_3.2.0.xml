@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.23.040:R99/3.2.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.040/23040-320.zip">
+  <front>
+    <title>Technical realization of the Short Message Service (SMS)</title>
+    <author fullname="NASSAR, Mohamed Amin">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>T2</workgroup>
+    <abstract>This specification describes the point-to-point SMS.</abstract>
+  </front>
+</reference>

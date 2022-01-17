@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.03.02:Ph1/3.1.4" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.02/0302-314.zip">
+  <front>
+    <title>Network Architecture</title>
+    <author fullname="MILINSKI, Alexander">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>S2  /  SMG12  /  SMG03  /  SMG04</workgroup>
+  </front>
+</reference>

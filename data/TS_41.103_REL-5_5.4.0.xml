@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.41.103:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/41_series/41.103/41103-540.zip">
+  <front>
+    <title>GSM Release 5 specifications</title>
+    <author fullname="MEREDITH, John M">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>SP</workgroup>
+  </front>
+</reference>

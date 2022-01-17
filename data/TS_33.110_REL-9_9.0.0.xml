@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.110:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.110/33110-900.zip">
+  <front>
+    <title>Key establishment between a Universal Integrated Circuit Card (UICC) and a terminal</title>
+    <author fullname="PAULIAC, Mireille">
+      <organization>Gemalto N.V.</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.08.16:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.16/0816-800.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN) Interface; Network Service</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
+    <workgroup>G2</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

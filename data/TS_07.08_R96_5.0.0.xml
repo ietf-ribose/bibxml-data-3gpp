@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.07.08:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/07_series/07.08/0708-500.zip">
+  <front>
+    <title>GSM Application Programming Interface</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

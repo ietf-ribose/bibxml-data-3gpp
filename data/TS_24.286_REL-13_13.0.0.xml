@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.286:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.286/24286-d00.zip">
+  <front>
+    <title>IP Multimedia (IM) Core Network (CN) subsystem Centralized Services (ICS); Management Object (MO)</title>
+    <author fullname="BAKKER, John-Luc">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

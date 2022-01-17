@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.203:Rel-8/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.203/23203-830.zip">
+  <front>
+    <title>Policy and charging control architecture</title>
+    <author fullname="BERTENYI, Balazs">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

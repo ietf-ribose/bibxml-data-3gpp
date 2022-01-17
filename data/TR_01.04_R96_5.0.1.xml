@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.01.04:R96/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.04/0104-501.zip">
+  <front>
+    <title>Abbreviations and acronyms</title>
+    <author fullname="HOWELL, Andrew">
+      <organization>HOME OFFICE</organization>
+    </author>
+    <workgroup>GP</workgroup>
+    <workgroup>SMG</workgroup>
+  </front>
+</reference>

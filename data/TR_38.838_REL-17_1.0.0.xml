@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.838:Rel-17/1.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.838/38838-100.zip">
+  <front>
+    <title>Study on XR (Extended Reality) evaluations for NR</title>
+    <author fullname="MONTOJO, Juan">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

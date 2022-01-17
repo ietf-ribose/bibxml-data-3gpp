@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.528:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.528/24528-800.zip">
+  <front>
+    <title>TISPAN; Common Basic Communication procedures; Protocol specification</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

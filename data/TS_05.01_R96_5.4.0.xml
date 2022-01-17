@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.05.01:R96/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.01/0501-540.zip">
+  <front>
+    <title>Physical layer on the radio path; General description</title>
+    <author fullname="JOKINEN, Harri">
+      <organization>BROADCOM CORPORATION</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

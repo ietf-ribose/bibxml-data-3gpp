@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.860:Rel-12/0.9.0">
+  <front>
+    <title>LTE-Advanced dual uplink inter-band Carrier Aggregation (CA)</title>
+    <author fullname="LIU, Ye">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

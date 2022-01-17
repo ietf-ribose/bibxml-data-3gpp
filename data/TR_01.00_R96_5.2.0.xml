@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.01.00:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.00/0100-520.zip">
+  <front>
+    <title>Working Procedures for SMG and PT SMG</title>
+    <author fullname="BERGMANN, Ansgar">
+      <organization>Hillebrand GmbH</organization>
+    </author>
+    <workgroup>SP</workgroup>
+    <workgroup>SMG</workgroup>
+  </front>
+</reference>

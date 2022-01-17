@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.158:Rel-15/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.158/32158-120.zip">
+  <front>
+    <title>Management and orchestration;Design rules for REpresentational State Transfer (REST) Solution Sets (SS)</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

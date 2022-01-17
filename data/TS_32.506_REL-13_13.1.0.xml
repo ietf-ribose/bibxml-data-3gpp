@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.506:Rel-13/13.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.506/32506-d10.zip">
+  <front>
+    <title>Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP); Solution Set (SS) definitions</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

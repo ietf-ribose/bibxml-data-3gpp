@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.371:Rel-15/15.3.0" target="https://www.3gpp.org/ftp//Specs/archive/24_series/24.371/24371-f30.zip">
+  <front>
+    <title>Web Real-Time Communications (WebRTC) access to the IP Multimedia (IM) Core Network (CN) subsystem (IMS); Stage 3; Protocol specification</title>
+    <author fullname="CHEN, Xu">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

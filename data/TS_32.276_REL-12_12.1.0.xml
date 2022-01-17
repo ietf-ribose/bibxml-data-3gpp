@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.276:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.276/32276-c10.zip">
+  <front>
+    <title>Telecommunication management; Charging management; Voice Call Service (VCS) charging</title>
+    <author fullname="SHRADER, David">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

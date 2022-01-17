@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.531:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.531/26531-020.zip">
+  <front>
+    <title>Data Collection and Reporting; General Description and Architecture</title>
+    <author fullname="BRADBURY, Richard">
+      <organization>BBC</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

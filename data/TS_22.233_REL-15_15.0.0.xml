@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.22.233:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.233/22233-f00.zip">
+  <front>
+    <title>Transparent end-to-end packet-switched streaming service; Stage 1</title>
+    <author fullname="MUSTAPHA, Mona">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

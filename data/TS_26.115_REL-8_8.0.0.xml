@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.26.115:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.115/26115-800.zip">
+  <front>
+    <title>Echo control for speech and multimedia services</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

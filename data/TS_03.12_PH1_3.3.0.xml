@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.12:Ph1/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.12/0312-330.zip">
+  <front>
+    <title>Location Registration Procedures</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

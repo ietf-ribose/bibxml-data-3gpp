@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.818:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.818/25818-700.zip">
+  <front>
+    <title>UTRA tower mounted amplifier (FDD) study item technical report</title>
+    <author fullname="SJERLING, Klas">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

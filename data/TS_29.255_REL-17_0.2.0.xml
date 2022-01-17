@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.255:Rel-17/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.255/29255-020.zip">
+  <front>
+    <title>Uncrewed Aerial System Service Supplier (USS) Services; Stage 3</title>
+    <author fullname="ZIA, Waqar">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

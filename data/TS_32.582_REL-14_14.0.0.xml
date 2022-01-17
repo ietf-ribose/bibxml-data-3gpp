@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.582:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.582/32582-e00.zip">
+  <front>
+    <title>Telecommunication management; Home Node B (HNB) Operations, Administration, Maintenance and Provisioning (OAM&amp;P); Information model for Type 1 interface HNB to HNB Management System (HMS)</title>
+    <author fullname="ANDRIANOV, Anatoly">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.205:Rel-4/4.1.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.205/32205-411.zip">
+  <front>
+    <title>Telecommunication management; Charging management; Charging data description for the Circuit Switched (CS) domain</title>
+    <author fullname="GOERMER, Gerald">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

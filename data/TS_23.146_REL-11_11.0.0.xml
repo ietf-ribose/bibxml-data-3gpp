@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.23.146:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.146/23146-b00.zip">
+  <front>
+    <title>Technical realization of facsimile Group 3 non-transparent</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>N3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.183:Rel-9/9.5.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.183/24183-950.zip">
+  <front>
+    <title>IP Multimedia Subsystem (IMS) Customized Ringing Signal (CRS); Protocol specification</title>
+    <author fullname="CHEN, xu">
+      <organization>China Mobile Research Inst.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.873:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.873/25873-b00.zip">
+  <front>
+    <title>UE Demodulation Performance Requirements Under Multiple-cell Scenario for 1.28Mcps TDD</title>
+    <author fullname="LI, Nan">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

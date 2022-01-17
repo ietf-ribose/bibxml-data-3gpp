@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.02.72:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.72/0272-720.zip">
+  <front>
+    <title>Call Deflection Service description; Stage 1</title>
+    <author fullname="BISCHINGER, Kurt">
+      <organization>T-Mobile Austria GmbH</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1  /  SMG01</workgroup>
+  </front>
+</reference>

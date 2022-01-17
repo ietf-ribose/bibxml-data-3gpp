@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.27.104:Rel-5/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/27_series/27.104/27104-011.zip">
+  <front>
+    <title>vObjects and other constructs for data synchronization</title>
+    <author fullname="LOCKHART, Rob">
+      <organization>Motorola Inc.</organization>
+    </author>
+    <workgroup>T2</workgroup>
+  </front>
+</reference>

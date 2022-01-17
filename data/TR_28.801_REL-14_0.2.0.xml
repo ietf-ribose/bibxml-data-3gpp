@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.28.801:Rel-14/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.801/28801-020.zip">
+  <front>
+    <title>Telecommunication management;Study on management and orchestration of network slicing for next generation network</title>
+    <author fullname="GROENENDIJK, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

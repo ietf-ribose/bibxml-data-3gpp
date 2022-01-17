@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.436:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.436/32436-e00.zip">
+  <front>
+    <title>Telecommunication management; Performance measurement: Abstract Syntax Notation 1 (ASN.1) file format definition</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

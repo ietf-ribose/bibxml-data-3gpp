@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.612:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.612/32612-b00.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Information Service (IS)</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

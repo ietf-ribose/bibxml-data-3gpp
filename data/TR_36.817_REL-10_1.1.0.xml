@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.36.817:Rel-10/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.817/36817-110.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Uplink multiple antenna transmission; Base Station (BS) radio transmission and reception</title>
+    <author fullname="SALZER, Thomas">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>R4</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

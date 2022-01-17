@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.826:Rel-9/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.826/32826-110.zip">
+  <front>
+    <title>Telecommunication management; Study on Energy Savings Management (ESM)</title>
+    <author fullname="GOMPAKIS, Panagiotis">
+      <organization>Vodafone GmbH</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.38.808:Rel-17/0.2.0" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.808/38808-020.zip">
+  <front>
+    <title>Study on supporting NR from 52.6 GHz to 71 GHz</title>
+    <author fullname="LEE, Daewon">
+      <organization>Intel</organization>
+    </author>
+    <workgroup>R1</workgroup>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

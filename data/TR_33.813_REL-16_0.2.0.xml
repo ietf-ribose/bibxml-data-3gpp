@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.813:Rel-16/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.813/33813-020.zip">
+  <front>
+    <title>Study on security aspects of network slicing enhancement</title>
+    <author fullname="NAIR, Suresh">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

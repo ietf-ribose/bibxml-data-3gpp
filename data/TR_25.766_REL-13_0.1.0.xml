@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.766:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.766/25766-010.zip">
+  <front>
+    <title>Study on Network-Assisted Interference Cancellation and Suppression for UMTS</title>
+    <author fullname="ZHANG, Peng">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

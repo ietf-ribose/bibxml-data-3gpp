@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.818:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.818/32818-800.zip">
+  <front>
+    <title>Telecommunication management; Study on 3GPP SA5 / MTOSI XML harmonization</title>
+    <author fullname="DUGUAY, Jean">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

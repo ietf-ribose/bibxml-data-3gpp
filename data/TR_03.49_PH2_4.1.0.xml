@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.03.49:Ph2/4.1.0">
+  <front>
+    <title>Example protocol stacks for interconnecting Cell Broadcast Centre (CBC) and Base Station Controler (BSC)</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

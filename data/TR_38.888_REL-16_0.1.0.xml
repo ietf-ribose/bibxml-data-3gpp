@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.888:Rel-16/0.1.0" target="http://ftp.3gpp.org//Specs/archive/38_series/38.888/38888-010.zip">
+  <front>
+    <title>Adding wider channel bandwidth in NR band n28</title>
+    <author fullname="LI, Shuang">
+      <organization>CBN</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

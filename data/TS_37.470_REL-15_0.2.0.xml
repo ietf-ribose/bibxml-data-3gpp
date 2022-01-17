@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.37.470:Rel-15/0.2.0">
+  <front>
+    <title>W1 interface; General aspects and principles</title>
+    <author fullname="CAO, Gen">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

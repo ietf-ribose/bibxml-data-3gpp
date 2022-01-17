@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.949:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.949/22949-g00.zip">
+  <front>
+    <title>Study on a generalized privacy capability</title>
+    <author fullname="BOOTE, Michael">
+      <organization>Alcatel-Lucent Telecom Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

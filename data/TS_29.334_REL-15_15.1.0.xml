@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.334:Rel-15/15.1.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.334/29334-f10.zip">
+  <front>
+    <title>IMS Application Level Gateway (IMS-ALG) - IMS Access Gateway (IMS-AGW); Iq Interface; Stage 3</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

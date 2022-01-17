@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.882:Rel-8/1.14.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.882/23882-1e0.zip">
+  <front>
+    <title>3GPP system architecture evolution (SAE): Report on technical options and conclusions</title>
+    <author fullname="PUDNEY, Chris">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

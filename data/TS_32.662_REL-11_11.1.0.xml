@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.662:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.662/32662-b10.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Kernel CM Information Service (IS)</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

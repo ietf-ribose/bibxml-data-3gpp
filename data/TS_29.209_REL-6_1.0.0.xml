@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.209:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.209/29209-100.zip">
+  <front>
+    <title>Policy control over Gq interface</title>
+    <author fullname="FERNANDEZ, Susana">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

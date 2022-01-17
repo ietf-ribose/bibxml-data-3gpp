@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.303:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.303/32303-800.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

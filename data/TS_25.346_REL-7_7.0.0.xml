@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.25.346:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.346/25346-700.zip">
+  <front>
+    <title>Introduction of the Multimedia Broadcast/Multicast Service (MBMS) in the Radio Access Network (RAN); Stage 2</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document is a technical specification of the overall support of Multimedia Broadcast and Multicast Services in UTRA.</abstract>
+  </front>
+</reference>

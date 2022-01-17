@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.22.129:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.129/22129-410.zip">
+  <front>
+    <title>Service aspects; Handover requirements between UTRAN and GERAN or other radio systems</title>
+    <author fullname="BLECKERT, Peter">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes service requirements for handover (terms are defined below) within UMTS systems and between UMTS, other IMT-2000 family members and second generation systems. Particular emphasis has been placed on the description of requirements for handover between UMTS and GSM but requirements specific to other systems are incorporated as required.</abstract>
+  </front>
+</reference>

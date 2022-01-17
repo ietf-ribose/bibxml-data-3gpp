@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.812:Rel-7/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.812/25812-000.zip">
+  <front>
+    <title>Requirements for evolved Universal Terrestrial Radio Access (UTRA) and Universal Terrestrial Radio Access Network (UTRAN)</title>
+    <author fullname="NAKAMURA, Takehiro">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1, R2, R3, R4</workgroup>
+  </front>
+</reference>

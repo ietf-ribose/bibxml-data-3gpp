@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.24.084:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.084/24084-700.zip">
+  <front>
+    <title>Multi Party (MPTY) supplementary service; Stage 3</title>
+    <author fullname="WILD, Peter A.">
+      <organization>Vodafone GmbH</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.675:Rel-16/16.3.0" target="https://www.3gpp.org/ftp//Specs/archive/29_series/29.675/29675-g30.zip">
+  <front>
+    <title>User Equipment (UE) radio capability provisioning service; Stage 3</title>
+    <author fullname="XU, Wenliang">
+      <organization>Ericsson India Private Limited</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

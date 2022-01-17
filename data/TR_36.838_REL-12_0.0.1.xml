@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.838:Rel-12/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.838/36838-001.zip">
+  <front>
+    <title>Intra-band contiguous CA in Band 27 for LTE</title>
+    <author fullname="SHVODIAN, Bill">
+      <organization>NextNav</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

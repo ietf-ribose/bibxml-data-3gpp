@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.37.812:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.812/37812-b30.zip">
+  <front>
+    <title>Radio Frequency (RF) requirements for Multi-band and Multi-standard radio (MB-MSR) Base Station (BS)</title>
+    <author fullname="LIU, Ye">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

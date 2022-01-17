@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.709:Rel-13/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.709/23709-030.zip">
+  <front>
+    <title>Study on optimizations to support high latency communications; Stage 2</title>
+    <author fullname="RONNEKE, Hans">
+      <organization>Nanjing Ericsson Panda Com Ltd</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

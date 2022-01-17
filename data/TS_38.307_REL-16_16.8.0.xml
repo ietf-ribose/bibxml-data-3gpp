@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.307:Rel-16/16.8.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.307/38307-g80.zip">
+  <front>
+    <title>NR; Requirements on User Equipments (UEs) supporting a release-independent frequency band</title>
+    <author fullname="VASENKARI, Petri">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

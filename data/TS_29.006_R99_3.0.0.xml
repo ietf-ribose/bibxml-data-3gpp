@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.29.006:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.006/29006-300.zip">
+  <front>
+    <title>Interworking between a PLMN and the ISDN or PSTN for support of Packet Switched data transmission services</title>
+    <author fullname="BRAUN, Achim">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>N3</workgroup>
+    <workgroup>N3</workgroup>
+  </front>
+</reference>

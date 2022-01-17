@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.06.20:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.20/0620-700.zip">
+  <front>
+    <title>Half Rate Speech Transcoding</title>
+    <author fullname="AFTELAK, Steve">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

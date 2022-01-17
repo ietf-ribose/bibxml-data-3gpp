@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.241:Rel-6/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.241/24241-030.zip">
+  <front>
+    <title>3GPP Generic User Profile (GUP) Common objects; Stage 3</title>
+    <author fullname="KYMALAINEN, Kimmo">
+      <organization>FSCOM</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

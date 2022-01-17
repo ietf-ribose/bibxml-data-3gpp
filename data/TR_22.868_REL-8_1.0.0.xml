@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.22.868:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.868/22868-100.zip">
+  <front>
+    <title>Study on facilitating machine to machine communication in 3GPP systems</title>
+    <author fullname="MERKEL, Jürgen">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.199-09:Rel-6/6.4.1" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-09/29199-09-641.zip">
+  <front>
+    <title>Open Service Access (OSA); Parlay X web services; Part 9: Terminal location</title>
+    <author fullname="UNMEHOPA, Musa">
+      <organization>Philips International B.V.</organization>
+    </author>
+    <workgroup>CP</workgroup>
+  </front>
+</reference>

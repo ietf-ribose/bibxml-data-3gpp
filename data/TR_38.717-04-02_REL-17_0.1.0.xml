@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.717-04-02:Rel-17/0.1.0" target="http://ftp.3gpp.org//Specs/archive/38_series/38.717-04-02/38717-04-02-010.zip">
+  <front>
+    <title>Rel-17 NR inter-band Carrier Aggregation/Dual connectivity for DL 4 bands and 2UL bands</title>
+    <author fullname="WU, Yue">
+      <organization>Samsung Guangzhou Mobile R&amp;D</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

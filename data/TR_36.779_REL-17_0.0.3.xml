@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.779:Rel-17/0.0.3" target="https://ftp.3gpp.org//Specs/archive/36_series/36.779/36779-003.zip">
+  <front>
+    <title>Introduction of upper 700MHz A block E-UTRA band for the US</title>
+    <author fullname="PAN, Heng">
+      <organization>Puloli</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.854:Rel-17/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.854/33854-010.zip">
+  <front>
+    <title>Study on security aspects of Uncrewed Aerial Systems (UAS)</title>
+    <author fullname="ESCOTT, Adrian">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

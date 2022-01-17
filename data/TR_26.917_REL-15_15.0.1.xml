@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.917:Rel-15/15.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.917/26917-f01.zip">
+  <front>
+    <title>Multimedia Broadcast Multicast Services (MBMS) and Packet-switched Streaming Service (PSS) enhancements to support television services</title>
+    <author fullname="STOCKHAMMER, Thomas">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.949:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.949/26949-e10.zip">
+  <front>
+    <title>Video formats for 3GPP services</title>
+    <author fullname="TENIOU, Gilles">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

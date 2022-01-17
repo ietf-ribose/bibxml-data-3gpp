@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.804:Rel-6/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.804/25804-020.zip">
+  <front>
+    <title>Feasibility study on uplink enhancements for UTRA TDD</title>
+    <author fullname="RUDOLF, Marian">
+      <organization>InterDigital Communications</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

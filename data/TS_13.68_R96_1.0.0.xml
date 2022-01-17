@@ -1,0 +1,8 @@
+<reference anchor="3GPP.TS.13.68:R96/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.68/1368-100.zip">
+  <front>
+    <title>Attachment requirements for Global System for Mobile communications (GSM); Advanced Speech Call Items (GSM-ASCI) Mobile Stations; Access</title>
+    <workgroup>MSG</workgroup>
+    <workgroup>G3new</workgroup>
+    <workgroup>SMG07</workgroup>
+  </front>
+</reference>

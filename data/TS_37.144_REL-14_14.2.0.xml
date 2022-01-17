@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.37.144:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.144/37144-e20.zip">
+  <front>
+    <title>User Equipment (UE) and Mobile Station (MS) GSM, UTRA and E-UTRA over the air performance requirements</title>
+    <author fullname="GORIA, Paolo">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

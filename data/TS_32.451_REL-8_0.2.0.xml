@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.451:Rel-8/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.451/32451-020.zip">
+  <front>
+    <title>Telecommunication management; Key Performance Indicators (KPI) for Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Requirements</title>
+    <author fullname="HUBINETTE, Ulf">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

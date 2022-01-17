@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.21.205:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.205/21205-100.zip">
+  <front>
+    <title>Technical Specifications and Technical Reports for a 5G based 3GPP system</title>
+    <author fullname="FIRMIN, Frederic">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>SP</workgroup>
+  </front>
+</reference>

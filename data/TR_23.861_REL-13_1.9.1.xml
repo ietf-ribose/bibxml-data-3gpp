@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.861:Rel-13/1.9.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.861/23861-191.zip">
+  <front>
+    <title>Network based IP flow mobility</title>
+    <author fullname="SO, Tricci">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

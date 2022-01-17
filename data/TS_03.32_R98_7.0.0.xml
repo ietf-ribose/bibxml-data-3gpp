@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.32:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.32/0332-700.zip">
+  <front>
+    <title>Universal Geographical Area Description (GAD)</title>
+    <author fullname="BERTENYI, Balazs">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

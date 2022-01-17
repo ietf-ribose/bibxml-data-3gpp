@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.700-24:Rel-17/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.700-24/23700-24-020.zip">
+  <front>
+    <title>Study on support of the 5G MSG (Message) Service</title>
+    <author fullname="LIU, Yue">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

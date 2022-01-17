@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.70:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.70/0370-700.zip">
+  <front>
+    <title>Routeing of Calls to/from Public Data Networks (PDN)</title>
+    <author fullname="HOLM, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

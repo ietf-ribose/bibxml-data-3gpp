@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.280:Rel-15/15.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.280/23280-f40.zip">
+  <front>
+    <title>Common functional architecture to support mission critical services; Stage 2</title>
+    <author fullname="AMOGH, Niranth">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

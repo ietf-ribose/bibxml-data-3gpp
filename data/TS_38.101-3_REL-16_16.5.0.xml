@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.101-3:Rel-16/16.5.0" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.101-3/38101-3-g50.zip">
+  <front>
+    <title>NR; User Equipment (UE) radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios</title>
+    <author fullname="VINTOLA, Ville">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

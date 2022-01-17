@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.272:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.272/32272-200.zip">
+  <front>
+    <title>Telecommunication management; Charging management; Push-to-talk over Cellular (PoC) charging</title>
+    <author fullname="GARDELLA, Maryse">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

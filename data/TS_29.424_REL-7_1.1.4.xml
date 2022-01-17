@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.424:Rel-7/1.1.4">
+  <front>
+    <title>TISPAN; H.248 Profile for controlling Trunking Media Gateways; Protocol specification</title>
+    <author fullname="MEREDITH, John M">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

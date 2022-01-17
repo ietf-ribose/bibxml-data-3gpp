@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.839:Rel-17/0.1.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.839/38839-010.zip">
+  <front>
+    <title>Principles and requirements for simultaneous Rx/Tx band combinations for NR CA/DC, NR SUL and LTE/NR DC</title>
+    <author fullname="LIU, Ye">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

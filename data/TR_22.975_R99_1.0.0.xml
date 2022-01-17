@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TR.22.975:R99/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.975/22975-100.zip">
+  <front>
+    <title>Advanced addressing</title>
+    <author fullname="MUSTAPHA, Mona">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This report describes the requirements for numbering and addressing for UMTS. This technical report is aimed at generating discussion and should be agreed with ETSI WG NA2. The respon¬sibility for developing of numbering and addressing schemes for all networks being in ETSI NA2.</abstract>
+  </front>
+</reference>

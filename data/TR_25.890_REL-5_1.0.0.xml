@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.890:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.890/25890-100.zip">
+  <front>
+    <title>High Speed Downlink Packet Access (HSDPA); User Equipment (UE) radio transmission and reception (FDD)</title>
+    <author fullname="FERNANDES, Edgar">
+      <organization>Dish Network</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

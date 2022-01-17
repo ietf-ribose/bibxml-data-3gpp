@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.885:Rel-14/0.0.0">
+  <front>
+    <title>Study on security aspects for LTE support of Vehicle-to-Everything (V2X) services</title>
+    <author fullname="WONG, Marcus">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

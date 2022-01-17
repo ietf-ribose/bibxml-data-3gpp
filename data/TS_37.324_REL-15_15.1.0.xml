@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.37.324:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.324/37324-f10.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data Adaptation Protocol (SDAP) specification</title>
+    <author fullname="BI, Hao">
+      <organization>Futurewei Technologies</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

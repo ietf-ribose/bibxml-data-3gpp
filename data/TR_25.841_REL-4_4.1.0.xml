@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.841:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.841/25841-410.zip">
+  <front>
+    <title>DSCH power control improvement in soft handover</title>
+    <author fullname="TOSKALA, Antti">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

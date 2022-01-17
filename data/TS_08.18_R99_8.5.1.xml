@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.08.18:R99/8.5.1" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.18/0818-851.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN); BSS GPRS Protocol</title>
+    <author fullname="BLACK, Jyoti">
+      <organization>Motorola Mobility UK Ltd.</organization>
+    </author>
+    <workgroup>G2</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

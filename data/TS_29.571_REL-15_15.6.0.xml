@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.571:Rel-15/15.6.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.571/29571-f60.zip">
+  <front>
+    <title>5G System; Common Data Types for Service Based Interfaces; Stage 3</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.211:Rel-6/2.1.0">
+  <front>
+    <title>Rx Interface and Rx/Gx signalling flows</title>
+    <author fullname="FERNANDEZ, Susana">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

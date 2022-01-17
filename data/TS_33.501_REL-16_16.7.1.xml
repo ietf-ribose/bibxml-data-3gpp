@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.501:Rel-16/16.7.1" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.501/33501-g71.zip">
+  <front>
+    <title>Security architecture and procedures for 5G System</title>
+    <author fullname="ZUGENMAIER, Alf">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

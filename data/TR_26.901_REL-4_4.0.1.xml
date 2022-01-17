@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.26.901:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.901/26901-401.zip">
+  <front>
+    <title>Adaptive Multi-Rate Wideband (AMR-WB) speech codec; Feasibility study report</title>
+    <author fullname="BRUHN, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

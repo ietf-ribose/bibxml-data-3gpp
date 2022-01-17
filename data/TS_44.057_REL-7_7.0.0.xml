@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.44.057:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.057/44057-700.zip">
+  <front>
+    <title>GSM Cordless Telephony System (CTS), Phase 1; CTS supervising system layer 3 specification</title>
+    <author fullname="NASSAR, Mohamed Amin">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

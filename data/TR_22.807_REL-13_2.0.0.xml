@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.807:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.807/22807-200.zip">
+  <front>
+    <title>Study on enhancements for infrastructure-based data communication between devices</title>
+    <author fullname="NORP, Toon">
+      <organization>TNO</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.938:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.938/25938-200.zip">
+  <front>
+    <title>Terminal power saving features</title>
+    <author fullname="CHOI, Sungho">
+      <organization>SAMSUNG Electronics Co., Ltd.</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

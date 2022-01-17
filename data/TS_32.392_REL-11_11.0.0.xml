@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.392:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.392/32392-b00.zip">
+  <front>
+    <title>Telecommunication management; Delta synchronization Integration Reference Point (IRP); Information Service (IS)</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

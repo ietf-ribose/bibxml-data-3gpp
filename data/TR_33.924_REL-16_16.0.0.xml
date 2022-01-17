@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.924:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.924/33924-g00.zip">
+  <front>
+    <title>Identity management and 3GPP security interworking; Identity management and Generic Authentication Architecture (GAA) interworking</title>
+    <author fullname="HOLTMANNS, Silke">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

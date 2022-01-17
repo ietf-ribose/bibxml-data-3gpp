@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.704:Rel-12/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.704/25704-020.zip">
+  <front>
+    <title>Study on enhanced broadcast of system information</title>
+    <author fullname="MARTIN, Van der zee">
+      <organization>Ericsson Japan K.K.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

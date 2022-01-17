@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.22.002:R99/3.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.002/22002-330.zip">
+  <front>
+    <title>Circuit Bearer Services (BS) supported by a Public Land Mobile Network (PLMN)</title>
+    <author fullname="HOWELL, Andrew">
+      <organization>HOME OFFICE</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This 3G specification describes a set of bearer services to be provided to 3G subscribers by a 3G network itself and in connection with other networks. This document is also be used as a reference for defining the corresponding required mobile network capabilities which are specified by means of the connection type concept.</abstract>
+  </front>
+</reference>

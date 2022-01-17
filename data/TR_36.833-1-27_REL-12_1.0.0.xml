@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.833-1-27:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-1-27/36833-1-27-100.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band contiguous Carrier Aggregation (CA) in Band 27</title>
+    <author fullname="SHVODIAN, Bill">
+      <organization>NextNav</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

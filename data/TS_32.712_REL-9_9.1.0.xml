@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.712:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.712/32712-910.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Transport Network (TN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

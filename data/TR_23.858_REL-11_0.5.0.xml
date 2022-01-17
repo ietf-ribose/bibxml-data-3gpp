@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR.23.858:Rel-11/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.858/23858-050.zip">
+  <front>
+    <title>Usage Monitoring Control PCC Enhancement</title>
+    <workgroup>S2</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

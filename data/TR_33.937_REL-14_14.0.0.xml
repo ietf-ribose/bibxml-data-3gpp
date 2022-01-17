@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.937:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.937/33937-e00.zip">
+  <front>
+    <title>Study of mechanisms for Protection against Unsolicited Communication for IMS (PUCI)</title>
+    <author fullname="PRASAD, Anand">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

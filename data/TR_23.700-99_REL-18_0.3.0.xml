@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.700-99:Rel-18/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-99/23700-99-030.zip">
+  <front>
+    <title>Study on Network Slice Capability Exposure for Application Layer Enablement</title>
+    <author fullname="ZHENG, Shaowen">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

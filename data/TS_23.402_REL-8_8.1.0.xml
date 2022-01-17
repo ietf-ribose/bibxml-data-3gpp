@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.402:Rel-8/8.1.0">
+  <front>
+    <title>Architecture enhancements for non-3GPP accesses</title>
+    <author fullname="ALI, Irfan">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.124:Rel-8/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.124/36124-001.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment</title>
+    <author fullname="NG, Man Hung">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

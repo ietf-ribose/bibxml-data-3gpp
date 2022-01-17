@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.46.032:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.032/46032-a00.zip">
+  <front>
+    <title>Full rate speech; Voice Activity Detector (VAD) for full rate speech traffic channels</title>
+    <author fullname="BARRETT, Paul">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

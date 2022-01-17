@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.04.60:R97/6.6.1" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.60/0460-661.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Mobile Station (MS) - Base Station System (BSS) interface; Radio Link Control/ Medium Access Control (RLC/MAC) protocol</title>
+    <author fullname="HOWELL, Andrew">
+      <organization>HOME OFFICE</organization>
+    </author>
+    <workgroup>G2</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

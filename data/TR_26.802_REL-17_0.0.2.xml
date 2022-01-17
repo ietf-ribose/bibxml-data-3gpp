@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.802:Rel-17/0.0.2" target="http://ftp.3gpp.org//Specs/archive/26_series/26.802/26802-002.zip">
+  <front>
+    <title>Multicast Architecture Enhancement for  5G Media Streaming</title>
+    <author fullname="TAN, PENG">
+      <organization>TELUS</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

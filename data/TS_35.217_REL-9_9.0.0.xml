@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.35.217:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/35_series/35.217/35217-900.zip">
+  <front>
+    <title>Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 &amp; UIA2; Document 3: Implementors' test data</title>
+    <author fullname="SAHLIN, Bengt">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.05.03:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.03/0503-710.zip">
+  <front>
+    <title>Channel coding</title>
+    <author fullname="SEBIRE, Benoist">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

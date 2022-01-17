@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.861:Rel-17/1.0.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.861/38861-100.zip">
+  <front>
+    <title>Study on high power UE (power class 2) for one NR FDD band</title>
+    <author fullname="BASAIER, JIALADE">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

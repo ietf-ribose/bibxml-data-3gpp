@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.993:Rel-6/6.11.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.993/25993-6b1.zip">
+  <front>
+    <title>Typical examples of Radio Access Bearers (RABs) and Radio Bearers (RBs) supported by Universal Terrestrial Radio Access (UTRA)</title>
+    <author fullname="AHMED, Ayaz">
+      <organization>Nokia Solutions &amp; Networks (I)</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.972:Rel-16/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.972/32972-200.zip">
+  <front>
+    <title>Telecommunication management;Study on system and functional aspects of energy efficiency in 5G networks</title>
+    <author fullname="CORNILY, Jean Michel">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

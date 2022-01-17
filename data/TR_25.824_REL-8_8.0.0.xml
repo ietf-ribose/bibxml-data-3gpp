@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.824:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.824/25824-800.zip">
+  <front>
+    <title>Scope of HighSpeed Packet Access (HSPA) Evolution for 1.28Mcps TDD</title>
+    <author fullname="XU, Fei">
+      <organization>RITT</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

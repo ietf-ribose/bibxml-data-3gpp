@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.822:Rel-8/0.1.2">
+  <front>
+    <title>Framework for Gq' / Rx harmonization</title>
+    <author fullname="MAZZARELLA, Nick">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

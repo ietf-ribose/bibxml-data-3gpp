@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.899:Rel-6/0.0.3">
+  <front>
+    <title>High Speed Downlink Packet Access (HSDPA) enhancements</title>
+    <author fullname="FUKUI, Noriyuki">
+      <organization>Mitsubishi Electric Corp</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

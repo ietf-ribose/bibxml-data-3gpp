@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.29.002:R99/3.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.002/29002-350.zip">
+  <front>
+    <title>Mobile Application Part (MAP) specification</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

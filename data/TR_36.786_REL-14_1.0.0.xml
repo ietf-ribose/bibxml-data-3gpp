@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.786:Rel-14/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.786/36786-100.zip">
+  <front>
+    <title>Vehicle-to-Everything (V2X) services based on LTE; User Equipment (UE) radio transmission and reception</title>
+    <author fullname="LIM, Suhwan">
+      <organization>LG Electronics Inc.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

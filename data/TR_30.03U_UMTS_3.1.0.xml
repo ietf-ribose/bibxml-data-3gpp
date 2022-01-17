@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.30.03U:UMTS/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.03U/3003U-310.zip">
+  <front>
+    <title>Selection procedures for the choice of radio transmission technologies of the UMTS</title>
+    <author fullname="BLANC, Patrick">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

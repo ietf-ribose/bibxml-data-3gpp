@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.23.700-91:Rel-17/17.0.0" target="https://www.3gpp.org/ftp//Specs/archive/23_series/23.700-91/23700-91-h00.zip">
+  <front>
+    <title>Study on enablers for network automation for the 5G System (5GS); Phase 2</title>
+    <author fullname="WU, Xiaobo">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>R2, R3, S5</workgroup>
+  </front>
+</reference>

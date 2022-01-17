@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.921:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.921/38921-h00.zip">
+  <front>
+    <title>Study on International Mobile Telecommunications (IMT) parameters for 6.425 - 7.025 GHz, 7.025 - 7.125 GHz and 10.0 - 10.5 GHz</title>
+    <author fullname="LIU, Liehai">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

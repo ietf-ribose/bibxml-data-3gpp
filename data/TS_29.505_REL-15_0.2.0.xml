@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.505:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.505/29505-020.zip">
+  <front>
+    <title>5G System; Usage of the Unified Data Repository services for Subscription Data; Stage 3</title>
+    <author fullname="SONG, Yue">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

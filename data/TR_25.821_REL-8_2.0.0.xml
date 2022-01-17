@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.821:Rel-8/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.821/25821-200.zip">
+  <front>
+    <title>UMTS1500 MHz work item technical report</title>
+    <author fullname="NAKAMURA, Takaharu">
+      <organization>Fujitsu Limited</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

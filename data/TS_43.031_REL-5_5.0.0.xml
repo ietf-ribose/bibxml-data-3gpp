@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS.43.031:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.031/43031-500.zip">
+  <front>
+    <title>Fraud Information Gathering System (FIGS); Service description; Stage 2</title>
+    <workgroup>S3</workgroup>
+    <workgroup>SMG10</workgroup>
+  </front>
+</reference>

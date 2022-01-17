@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.28.062:Rel-4/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.062/28062-003.zip">
+  <front>
+    <title>Inband Tandem Free Operation (TFO) of speech codecs; Service description; Stage 3</title>
+    <author fullname="HELLWIG, Karl">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.838:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.838/25838-400.zip">
+  <front>
+    <title>Node B Synchronisation for TDD (Iub/Iur aspects)</title>
+    <author fullname="LENHART, Johannes">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

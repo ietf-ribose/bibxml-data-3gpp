@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.32.106-8:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-8/32106-8-400.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Part 8: Name convention for Managed Objects</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

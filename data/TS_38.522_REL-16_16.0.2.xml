@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.522:Rel-16/16.0.2" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.522/38522-g02.zip">
+  <front>
+    <title>NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases</title>
+    <author fullname="SONG, Dan">
+      <organization>China Mobile Research Inst.</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

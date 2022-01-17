@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.300:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.300/38300-100.zip">
+  <front>
+    <title>NR; NR and NG-RAN Overall description; Stage-2</title>
+    <author fullname="SEBIRE, Benoist">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

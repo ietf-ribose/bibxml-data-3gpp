@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.833-1-08:Rel-13/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-1-08/36833-1-08-030.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band contiguous Carrier Aggregation (CA) in Band 8</title>
+    <author fullname="PAN, Qun">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

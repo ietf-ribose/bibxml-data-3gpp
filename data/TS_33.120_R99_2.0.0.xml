@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.33.120:R99/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.120/33120-200.zip">
+  <front>
+    <title>Security Objectives and Principles</title>
+    <author fullname="SAHLIN, Bengt">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+    <workgroup>S3</workgroup>
+    <abstract>Elaborates on the basic principles underlying the security.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.103:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.103/24103-e20.zip">
+  <front>
+    <title>Telepresence using the IP Multimedia (IM) Core Network (CN) Subsystem (IMS); Stage 3</title>
+    <author fullname="WEI, haitao">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

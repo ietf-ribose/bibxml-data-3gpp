@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.842:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.842/25842-100.zip">
+  <front>
+    <title>Smart antenna</title>
+    <author fullname="HU, Jinling">
+      <organization>CATT</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

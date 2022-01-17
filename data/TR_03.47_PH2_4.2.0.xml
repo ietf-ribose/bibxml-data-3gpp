@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.03.47:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.47/0347-420.zip">
+  <front>
+    <title>Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and Mobile Services Switching Centre(s) (MSC)</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

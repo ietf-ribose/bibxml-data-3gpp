@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.825:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.825/33825-200.zip">
+  <front>
+    <title>Study on the security of Ultra-Reliable Low-Latency Communication (URLLC) for the 5G System (5GS)</title>
+    <author fullname="RONG, Wu">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

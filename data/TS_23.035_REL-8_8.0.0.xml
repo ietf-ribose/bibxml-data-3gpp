@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.035:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.035/23035-800.zip">
+  <front>
+    <title>Immediate Service Termination (IST); Stage 2</title>
+    <author fullname="SAHLIN, Bengt">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.825:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.825/32825-200.zip">
+  <front>
+    <title>Telecommunication management; Charging management; Rc reference point study</title>
+    <author fullname="SHAN, Mingjun">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

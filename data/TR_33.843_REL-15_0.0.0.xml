@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.843:Rel-15/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.843/33843-000.zip">
+  <front>
+    <title>Study on security architecture enhancements to Proximity Services (ProSe) User Equipment (UE)-to-network relay</title>
+    <author fullname="LI, He">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

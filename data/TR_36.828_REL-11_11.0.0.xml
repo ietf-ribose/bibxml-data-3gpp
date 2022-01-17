@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TR.36.828:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.828/36828-b00.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Further enhancements to LTE Time Division Duplex (TDD)  for Downlink-Uplink (DL-UL) interference management and traffic adaptation</title>
+    <workgroup>R1</workgroup>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

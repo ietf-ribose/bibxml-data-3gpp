@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.825:Rel-6/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.825/23825-070.zip">
+  <front>
+    <title>Overall architecture aspects of IP flow based bearer level charging; Stage 2</title>
+    <author fullname="WILLIAMS, Brian">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

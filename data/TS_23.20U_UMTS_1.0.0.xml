@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.23.20U:UMTS/1.0.0">
+  <front>
+    <title>Evolution of the GSM platform towards UMTS</title>
+    <author fullname="JARVIS, Andre">
+      <organization>NOKIA UK R&amp;D Ltd</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>SMG12</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.803:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.803/38803-200.zip">
+  <front>
+    <title>Study on new radio access technology: Radio Frequency (RF) and co-existence aspects</title>
+    <author fullname="UMEDA, Hiromasa">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

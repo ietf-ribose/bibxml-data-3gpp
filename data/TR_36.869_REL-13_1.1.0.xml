@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.869:Rel-13/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.869/36869-110.zip">
+  <front>
+    <title>Advanced Wireless Services (AWS) extension band for LTE</title>
+    <author fullname="ERIKA, Tejedor">
+      <organization>Nanjing Ericsson Panda Com Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

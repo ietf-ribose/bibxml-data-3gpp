@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.982:Rel-8/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.982/23982-030.zip">
+  <front>
+    <title>IP Multimedia System (IMS) centralized services</title>
+    <author fullname="BENNETT, Andy">
+      <organization>Cisco Systems Belgium</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

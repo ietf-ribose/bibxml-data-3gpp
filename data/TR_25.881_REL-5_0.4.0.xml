@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.881:Rel-5/0.4.0">
+  <front>
+    <title>Improvement of Radio Resource Management (RRM) across RNS and RNS/BSS</title>
+    <author fullname="HWANG, Woonhee">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

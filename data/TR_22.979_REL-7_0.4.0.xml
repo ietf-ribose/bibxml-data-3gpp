@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.979:Rel-7/0.4.0">
+  <front>
+    <title>Feasibility study on combined Circuit Switched (CS) calls and IP Multimedia Subsystem (IMS) sessions</title>
+    <author fullname="FRANK, Robert">
+      <organization>TeliaSonera AB</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

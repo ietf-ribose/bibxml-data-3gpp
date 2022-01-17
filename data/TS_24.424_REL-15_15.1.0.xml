@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.424:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.424/24424-f10.zip">
+  <front>
+    <title>Management Object (MO) for Extensible Markup Language (XML) Configuration Access Protocol (XCAP) over the Ut interface for Manipulating Supplementary Services (SS)</title>
+    <author fullname="AXELL, Jörgen">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

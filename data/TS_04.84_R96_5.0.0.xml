@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.04.84:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.84/0484-500.zip">
+  <front>
+    <title>Multi Party (MPTY) Supplementary Services; Stage 3</title>
+    <author fullname="HABERMANN, Steffen">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

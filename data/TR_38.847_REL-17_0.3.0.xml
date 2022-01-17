@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.847:Rel-17/0.3.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.847/38847-030.zip">
+  <front>
+    <title>New frequency range for NR (47.2 – 48.2 GHz)</title>
+    <author fullname="EVERAERE, Dominique">
+      <organization>Ericsson Limited</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

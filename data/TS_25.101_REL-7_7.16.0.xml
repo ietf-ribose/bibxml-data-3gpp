@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.25.101:Rel-7/7.16.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.101/25101-7g0.zip">
+  <front>
+    <title>User Equipment (UE) radio transmission and reception (FDD)</title>
+    <author fullname="FERNANDES, Edgar">
+      <organization>Dish Network</organization>
+    </author>
+    <workgroup>R4</workgroup>
+    <workgroup>R4</workgroup>
+    <abstract>This document establishes the minimum RF characteristics of the UTRA User Equipment (UE) operating in the FDD mode. The values in the TS make no allowance for measurement uncertainty in conformance testing. Test limits to be used for conformance testing are specified separately in the UE conformance test specifications TS 34.121.</abstract>
+  </front>
+</reference>

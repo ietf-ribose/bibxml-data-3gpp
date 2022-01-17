@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.529:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.529/24529-810.zip">
+  <front>
+    <title>TISPAN; PSTN/ISDN simulation services: Explicit Communication Transfer (ECT); Protocol specification</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

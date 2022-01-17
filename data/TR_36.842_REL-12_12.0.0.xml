@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.842:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.842/36842-c00.zip">
+  <front>
+    <title>Study on Small Cell enhancements for E-UTRA and E-UTRAN; Higher layer aspects</title>
+    <author fullname="TAKAHASHI, Hideaki">
+      <organization>DOCOMO Communications Lab.</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

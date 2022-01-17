@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.546:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.546/24546-100.zip">
+  <front>
+    <title>Configuration management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification</title>
+    <author fullname="SHAH, Sapan">
+      <organization>Samsung Electronics Nordic AB</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

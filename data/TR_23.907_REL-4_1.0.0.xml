@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.907:Rel-4/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.907/23907-100.zip">
+  <front>
+    <title>Quality of Service (QoS) concept</title>
+    <author fullname="VACANT,  ">
+      <organization> </organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

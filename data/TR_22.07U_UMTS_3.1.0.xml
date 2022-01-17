@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.22.07U:UMTS/3.1.0">
+  <front>
+    <title>UMTS terminal and smart card concepts</title>
+    <author fullname="SMOLANDER, Jouni">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>-</workgroup>
+    <workgroup>SMG01 / SMG09 / SMG02</workgroup>
+  </front>
+</reference>

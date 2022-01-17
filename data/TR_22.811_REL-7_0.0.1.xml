@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.811:Rel-7/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.811/22811-001.zip">
+  <front>
+    <title>Review of network selection principles</title>
+    <author fullname="FRIEL, Chris">
+      <organization>Telefonica Germany GmbH</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

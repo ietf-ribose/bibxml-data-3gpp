@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.51.010-7:Rel-12/12.5.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-7/51010-7-c50.zip">
+  <front>
+    <title>Mobile Station (MS) conformance specification; Part 7: Location Services (LCS) test scenarios and assistance data</title>
+    <author fullname="CATMUR, Richard">
+      <organization>Spirent Communications</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

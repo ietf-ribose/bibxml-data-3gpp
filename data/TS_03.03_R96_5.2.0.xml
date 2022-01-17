@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.03:R96/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.03/0303-520.zip">
+  <front>
+    <title>Numbering, Addressing and Identification</title>
+    <author fullname="RUSSELL, Nick">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?  /  SMG04</workgroup>
+  </front>
+</reference>

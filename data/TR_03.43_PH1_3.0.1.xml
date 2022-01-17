@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.03.43:Ph1/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.43/0343-301.zip">
+  <front>
+    <title>Support of Videotex</title>
+    <author fullname="HOLM, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

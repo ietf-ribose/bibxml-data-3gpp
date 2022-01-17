@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.995:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.995/33995-100.zip">
+  <front>
+    <title>Study on security aspects of integration of Single Sign-On (SSO) frameworks with 3GPP operator-controlled resources and mechanisms</title>
+    <author fullname="LEHTOVIRTA, Vesa">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

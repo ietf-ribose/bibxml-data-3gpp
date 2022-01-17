@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.522:Rel-15/15.3.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.522/29522-f30.zip">
+  <front>
+    <title>5G System; Network Exposure Function Northbound APIs; Stage 3</title>
+    <author fullname="YAN, Yali">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

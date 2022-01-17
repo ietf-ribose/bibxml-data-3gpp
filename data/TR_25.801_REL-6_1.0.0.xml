@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.801:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.801/25801-100.zip">
+  <front>
+    <title>Feasibility study for improved access to User Equipment (UE) measurement data for Controlling Radio Network Controller (CRNC) to support Time Division Duplex (TDD) Radio Resource Management (RRM)</title>
+    <author fullname="MILLER, James">
+      <organization>Interdigital Asia LLC</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

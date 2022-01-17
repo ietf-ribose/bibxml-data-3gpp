@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.37.823:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.823/37823-g00.zip">
+  <front>
+    <title>Coexistence between LTE-MTC and NR</title>
+    <author fullname="ZHANG, Chunhui">
+      <organization>Nanjing Ericsson Panda Com Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

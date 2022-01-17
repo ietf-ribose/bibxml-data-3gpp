@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.198-12:Rel-5/5.9.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-12/29198-12-590.zip">
+  <front>
+    <title>Open Service Access (OSA) Application Programming Interface (API); Part 12: Charging Service Capability Feature (SCF)</title>
+    <author fullname="UNMEHOPA, Musa">
+      <organization>Philips International B.V.</organization>
+    </author>
+    <workgroup>CP</workgroup>
+  </front>
+</reference>

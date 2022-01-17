@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.525:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.525/32525-910.zip">
+  <front>
+    <title>Telecommunication management; Self-Organizing Networks (SON) Policy Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) file format definition</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

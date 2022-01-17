@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.430:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.430/24430-800.zip">
+  <front>
+    <title>TISPAN; Presence Service Capability; Protocol Specification [3GPP TS 24.141 V7.0.0, modified and OMA-TS-Presence_SIMPLE-V1_0, modified]</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

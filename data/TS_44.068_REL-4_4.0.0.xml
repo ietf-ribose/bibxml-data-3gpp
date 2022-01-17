@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.44.068:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.068/44068-400.zip">
+  <front>
+    <title>Group Call Control (GCC) protocol</title>
+    <author fullname="LAUSTER, Reinhard">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>N1  /  SMG03A</workgroup>
+  </front>
+</reference>

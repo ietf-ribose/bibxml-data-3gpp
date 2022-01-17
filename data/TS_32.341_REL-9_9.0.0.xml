@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.341:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.341/32341-900.zip">
+  <front>
+    <title>Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); Requirements</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

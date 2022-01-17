@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.212:Rel-8/8.22.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.212/29212-8m0.zip">
+  <front>
+    <title>Policy and Charging Control (PCC); Reference points</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

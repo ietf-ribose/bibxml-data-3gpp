@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.824:Rel-16/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.824/38824-001.zip">
+  <front>
+    <title>Study on physical layer enhancements for NR ultra-reliable and low latency case (URLLC)</title>
+    <author fullname="CHENG, Yan">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

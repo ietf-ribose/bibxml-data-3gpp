@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.34.926:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.926/34926-600.zip">
+  <front>
+    <title>Electromagnetic compatibility (EMC); Table of international requirements for mobile terminals and ancillary equipment</title>
+    <author fullname="FENN, John B">
+      <organization>Retired friends of ETSI</organization>
+    </author>
+    <workgroup>R4</workgroup>
+    <workgroup>T1</workgroup>
+  </front>
+</reference>

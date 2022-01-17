@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.288:Rel-16/16.9.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.288/23288-g90.zip">
+  <front>
+    <title>Architecture enhancements for 5G System (5GS) to support network data analytics services</title>
+    <author fullname="WU, Xiaobo">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

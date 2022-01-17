@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.329:Rel-7/7.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.329/29329-750.zip">
+  <front>
+    <title>Sh interface based on the Diameter protocol; Protocol details</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.28.669:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.669/28669-e10.zip">
+  <front>
+    <title>Telecommunication management; Radio Planning Tool Access (RPTA) Integration Reference Point (IRP); Solution Set (SS) definitions</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

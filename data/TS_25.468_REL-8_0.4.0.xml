@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.25.468:Rel-8/0.4.0">
+  <front>
+    <title>UTRAN Iuh Interface RANAP User Adaption (RUA) signalling</title>
+    <author fullname="NG, Chenghock">
+      <organization>NEC Telecom MODUS Ltd.</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.607:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.607/24607-820.zip">
+  <front>
+    <title>Originating Identification Presentation (OIP) and Originating Identification Restriction (OIR) using IP Multimedia (IM)  Core Network (CN) subsystem; Protocol specification</title>
+    <author fullname="LEIS, Peter">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.32.106-4:R99/3.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-4/32106-4-310.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Part 4: Notification Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.08.62:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/08_series/08.62/0862-710.zip">
+  <front>
+    <title>Inband Tandem Free Operation (TFO) of Speech Codecs; Service Description; Stage 3</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4  /  SMG11</workgroup>
+  </front>
+</reference>

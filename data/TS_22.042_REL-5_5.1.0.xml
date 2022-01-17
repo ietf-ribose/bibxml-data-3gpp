@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.22.042:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.042/22042-510.zip">
+  <front>
+    <title>Network Identity and TimeZone (NITZ); Service description; Stage 1</title>
+    <author fullname="SCARRONE, Enrico">
+      <organization>TELECOM ITALIA S.p.A.</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>The feature NITZ provides the means for serving networks to transfer current identity, time, daylight saving time and the local time zone to user equipment storage and use.</abstract>
+  </front>
+</reference>

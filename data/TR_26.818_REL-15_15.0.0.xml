@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.818:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.818/26818-f00.zip">
+  <front>
+    <title>Virtual Reality (VR) streaming audio; Characterization test results</title>
+    <author fullname="TENIOU, Gilles">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

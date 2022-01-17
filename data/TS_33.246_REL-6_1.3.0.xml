@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.246:Rel-6/1.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.246/33246-130.zip">
+  <front>
+    <title>3G Security; Security of Multimedia Broadcast/Multicast Service (MBMS)</title>
+    <author fullname="ESCOTT, Adrian">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

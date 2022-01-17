@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.28.406:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.406/28406-030.zip">
+  <front>
+    <title>Telecommunication management; Quality of Experience (QoE) measurement collection; Information definition and transport</title>
+    <author fullname="PETERSEN, Robert">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

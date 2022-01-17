@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.625:Rel-6/6.7.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.625/32625-670.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP): Bulk CM eXtensible Markup Language (XML) file format definition</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.128:Rel-15/0.0.3">
+  <front>
+    <title>Security; Protocol and procedures for Lawful Interception (LI); Stage 3</title>
+    <author fullname="RAO, Nagaraja">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.22.279:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.279/22279-800.zip">
+  <front>
+    <title>Combined Circuit Switched (CS) and IP Multimedia Subsystem (IMS) sessions; Stage 1</title>
+    <author fullname="MUSTAPHA, Mona">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

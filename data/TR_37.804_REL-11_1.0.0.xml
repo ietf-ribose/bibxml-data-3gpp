@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.37.804:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.804/37804-100.zip">
+  <front>
+    <title>Study on UMTS/LTE in 900 MHz band and coexistence with 850 MHz band</title>
+    <author fullname="FUJII, Masahiro">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

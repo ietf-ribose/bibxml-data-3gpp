@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.10.02:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.02/1002-500.zip">
+  <front>
+    <title>Guidelines for the modification of the Mobile Application Part (MAP) in phase 2+</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

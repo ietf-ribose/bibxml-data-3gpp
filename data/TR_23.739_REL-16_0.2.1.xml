@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.739:Rel-16/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.739/23739-021.zip">
+  <front>
+    <title>Study on enhancement of EPC for low latency communication including device mobility</title>
+    <author fullname="PUDNEY, Chris">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

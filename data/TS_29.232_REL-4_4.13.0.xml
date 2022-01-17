@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.232:Rel-4/4.13.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.232/29232-4d0.zip">
+  <front>
+    <title>Media Gateway Controller (MGC) - Media Gateway (MGW) interface; Stage 3</title>
+    <author fullname="PARK, Ian David Chalmers">
+      <organization>VODAFONE LTD</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

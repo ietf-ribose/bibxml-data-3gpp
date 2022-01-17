@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.579-5:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-5/36579-5-d00.zip">
+  <front>
+    <title>Mission Critical (MC) services over LTE; Part 5: Abstract test suite (ATS)</title>
+    <author fullname="GENOUD, Olivier">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

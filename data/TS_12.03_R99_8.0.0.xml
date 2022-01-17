@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.12.03:R99/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.03/1203-800.zip">
+  <front>
+    <title>Security Management</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+    <workgroup>S1 / CP</workgroup>
+    <workgroup>SMG06 / SMG01 / SMG03</workgroup>
+  </front>
+</reference>

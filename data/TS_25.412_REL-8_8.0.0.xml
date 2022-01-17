@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.25.412:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.412/25412-800.zip">
+  <front>
+    <title>UTRAN Iu interface signalling transport</title>
+    <author fullname="NG, Cheng Hock">
+      <organization>NEC Corporation</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the standards for Signalling Transport to be used across Iu Interface.</abstract>
+  </front>
+</reference>

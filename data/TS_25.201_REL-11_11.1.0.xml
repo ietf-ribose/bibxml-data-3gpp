@@ -1,0 +1,12 @@
+<reference anchor="3GPP.TS.25.201:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.201/25201-b10.zip">
+  <front>
+    <title>Physical layer - general description</title>
+    <author fullname="BAKER, Matthew">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+    <abstract>This specification gives a general description of the physical layer of the UTRA radio interface.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.51.010-5:Rel-9/9.9.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-5/51010-5-990.zip">
+  <front>
+    <title>Mobile Station (MS) conformance specification; Part 5: Inter-Radio-Access-Technology (RAT) (GERAN / UTRAN) interaction Abstract Test Suite (ATS)</title>
+    <author fullname="GENOUD, Olivier">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>R5</workgroup>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

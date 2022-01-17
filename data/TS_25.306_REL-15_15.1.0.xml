@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.25.306:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.306/25306-f10.zip">
+  <front>
+    <title>UE Radio Access capabilities</title>
+    <author fullname="EKLOF, Cecilia">
+      <organization>Ericsson India Private Limited</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document identifies the parameters of the access stratum part of the UE radio access capabilities. Furthermore, some reference configurations of these values are defined. The intention is that these configurations will be used for test specifications.</abstract>
+  </front>
+</reference>

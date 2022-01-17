@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.23.016:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.016/23016-800.zip">
+  <front>
+    <title>Subscriber data management; Stage 2</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

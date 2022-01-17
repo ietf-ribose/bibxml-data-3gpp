@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.383:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.383/24383-d00.zip">
+  <front>
+    <title>Mission Critical Push To Talk (MCPTT) Management Object (MO)</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

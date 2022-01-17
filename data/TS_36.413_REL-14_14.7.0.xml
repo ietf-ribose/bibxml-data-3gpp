@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.413:Rel-14/14.7.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.413/36413-e70.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 Application Protocol (S1AP)</title>
+    <author fullname="XU, Steven">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

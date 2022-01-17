@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.37.717-21-11:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.717-21-11/37717-21-11-030.zip">
+  <front>
+    <title>Rel-17 Dual Connectivity (DC) of 2 bands LTE inter-band CA (2DL/1UL) and 1 NR band (1DL/1UL)</title>
+    <author fullname="LIU, Liehai">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

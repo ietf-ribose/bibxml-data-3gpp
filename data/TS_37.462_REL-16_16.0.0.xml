@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.37.462:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.462/37462-g00.zip">
+  <front>
+    <title>Iuant interface: Signalling transport</title>
+    <author fullname="REININGER, Philippe">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

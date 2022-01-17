@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.46.082:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/46_series/46.082/46082-g00.zip">
+  <front>
+    <title>Voice Activity Detector (VAD) for Enhanced Full Rate (EFR) speech traffic channels</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

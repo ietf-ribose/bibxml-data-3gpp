@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.903:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.903/38903-g00.zip">
+  <front>
+    <title>NR; Derivation of test tolerances and measurement uncertainty for User Equipment (UE) conformance test cases</title>
+    <author fullname="GU, Chunying">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

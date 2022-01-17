@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.230:Rel-6/0.0.0">
+  <front>
+    <title>Diameter applications; 3GPP specific codes and identifiers</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.28.555:Rel-17/1.2.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.555/28555-120.zip">
+  <front>
+    <title>Management and orchestration; Network policy management for 5G mobile networks; Stage 1</title>
+    <author fullname="GUO, Shasha">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

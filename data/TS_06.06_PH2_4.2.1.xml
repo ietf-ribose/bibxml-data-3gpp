@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.06.06:Ph2/4.2.1" target="http://www.3gpp.org/ftp/Specs/archive/06_series/06.06/0606-421.zip">
+  <front>
+    <title>Half Rate Speech:  ANSI-C Code for GSM Half Rate Speech Codec</title>
+    <author fullname="AFTELAK, Steve">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

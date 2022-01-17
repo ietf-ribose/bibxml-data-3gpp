@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.21.910:R99/0.2.0">
+  <front>
+    <title>Multi-mode UE issues; categories, principles and procedures</title>
+    <author fullname="HIETALAHTI, Hannu">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>T2</workgroup>
+  </front>
+</reference>

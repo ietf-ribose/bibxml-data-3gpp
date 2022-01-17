@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.05.22:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/05_series/05.22/0522-400.zip">
+  <front>
+    <title>Radio link management in hierarchical networks</title>
+    <author fullname="VAN BUSSEL, Han">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.789:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.789/23789-010.zip">
+  <front>
+    <title>Monitoring Enhancements</title>
+    <author fullname="JAIN, Puneet">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

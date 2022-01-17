@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.977:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.977/22977-b00.zip">
+  <front>
+    <title>Feasibility study for speech-enabled services</title>
+    <author fullname="KURZ, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

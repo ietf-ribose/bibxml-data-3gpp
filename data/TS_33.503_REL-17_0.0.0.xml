@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.503:Rel-17/0.0.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.503/33503-000.zip">
+  <front>
+    <title>Security Aspects of Proximity based Services (ProSe) in the 5G System (5GS)</title>
+    <author fullname="ZHOU, Wei">
+      <organization>CATT</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

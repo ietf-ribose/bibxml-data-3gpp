@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.22.085:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.085/22085-500.zip">
+  <front>
+    <title>Closed User Group (CUG) supplementary services; Stage 1</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>The CUG supplementary service enables subscribers, connected to a network and possibly also other networks, to form CUGs to and from which access is restricted. A specific user may be a member of one or more CUGs. Members of a specific CUG can communicate among each other but not, in general, with users outside the group.</abstract>
+  </front>
+</reference>

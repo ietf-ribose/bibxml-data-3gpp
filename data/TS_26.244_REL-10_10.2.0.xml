@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.244:Rel-10/10.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.244/26244-a20.zip">
+  <front>
+    <title>Transparent end-to-end packet switched streaming service (PSS); 3GPP file format (3GP)</title>
+    <author fullname="SINGER, David">
+      <organization>Apple (UK) Limited</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.846:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.846/36846-c00.zip">
+  <front>
+    <title>LTE in the US Wireless Communications Service (WCS) band</title>
+    <author fullname="GRANT, Marc">
+      <organization>AT&amp;T GNS Belgium SPRL</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

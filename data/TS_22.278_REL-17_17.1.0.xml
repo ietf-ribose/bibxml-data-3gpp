@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.22.278:Rel-17/17.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.278/22278-h10.zip">
+  <front>
+    <title>Service requirements for the Evolved Packet System (EPS)</title>
+    <author fullname="KURZ, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

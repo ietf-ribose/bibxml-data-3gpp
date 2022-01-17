@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.43.801:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.801/43801-c00.zip">
+  <front>
+    <title>Solutions for Voice services over Adaptive Multi-user channels on One Slot (VAMOS) enhancements</title>
+    <author fullname="LUO, Chao">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>RP</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.38.818:Rel-15/1.0.0">
+  <front>
+    <title>General aspects for Radio Resource Management (RRM) and demodulation for NR</title>
+    <author fullname="TAKADA, Takuma">
+      <organization>DOCOMO Communications Lab.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

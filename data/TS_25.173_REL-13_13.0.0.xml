@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.25.173:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.173/25173-d00.zip">
+  <front>
+    <title>Requirements for support of Assisted Galileo and Additional Navigation Satellite Systems (A-GANSS) Time Division Duplex (TDD)</title>
+    <author fullname="LING, Soonleh">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.55.241:Rel-15/15.0.1" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.241/55241-f01.zip">
+  <front>
+    <title>Specification of the GIA4 integrity algorithm for General Packet Radio Service (GPRS); GIA4 specification</title>
+    <author fullname="EVANS, Tim P.">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

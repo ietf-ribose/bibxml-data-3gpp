@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.826:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.826/25826-200.zip">
+  <front>
+    <title>3.84 Mcps TDD enhanced uplink; Physical layer aspects</title>
+    <author fullname="ANDERSON, Nicholas">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

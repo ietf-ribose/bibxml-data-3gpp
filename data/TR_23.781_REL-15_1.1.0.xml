@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.781:Rel-15/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.781/23781-110.zip">
+  <front>
+    <title>Study on migration and interconnection for mission critical services</title>
+    <author fullname="CHATER-LEA, David">
+      <organization>Motorola Solutions UK Ltd.</organization>
+    </author>
+    <workgroup>S6</workgroup>
+  </front>
+</reference>

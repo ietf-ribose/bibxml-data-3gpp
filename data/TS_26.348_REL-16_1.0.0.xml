@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.348:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.348/26348-100.zip">
+  <front>
+    <title>Northbound Application Programming Interface (API) for Multimedia Broadcast/Multicast Service (MBMS) at the xMB reference point</title>
+    <author fullname="LOHMAR, Thorsten">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

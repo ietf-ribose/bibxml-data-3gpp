@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.22.087:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.087/22087-301.zip">
+  <front>
+    <title>User-to-User Signalling (UUS); Service description; Stage 1</title>
+    <author fullname="BISCHINGER, Kurt">
+      <organization>T-Mobile Austria GmbH</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>The UUS supplementary service allows a mobile subscriber to send/receive a limited amount of information to/from another network or ISDN subscriber over the signalling channel in association with a call to the other subscriber.</abstract>
+  </front>
+</reference>

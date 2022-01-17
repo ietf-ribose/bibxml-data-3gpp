@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.09.91:Ph2/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.91/0991-401.zip">
+  <front>
+    <title>Interworking Aspects of the SIM/ME Interface Between Phase 1 and Phase 2</title>
+    <author fullname="WILLENBRINK, Udo">
+      <organization>Comprion GmbH</organization>
+    </author>
+    <workgroup>C6</workgroup>
+    <workgroup>SMG09</workgroup>
+  </front>
+</reference>

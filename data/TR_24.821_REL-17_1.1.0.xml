@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.24.821:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.821/24821-110.zip">
+  <front>
+    <title>Study on PLMN selection for satellite access </title>
+    <author fullname="CATOVIC, Amer">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

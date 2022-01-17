@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.501:Rel-17/17.1.1" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/23501-h11.zip">
+  <front>
+    <title>System architecture for the 5G System (5GS)</title>
+    <author fullname="CHANDRAMOULI, Devaki">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

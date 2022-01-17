@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.789:Rel-13/0.0.1">
+  <front>
+    <title>Multi-node tests for Licence-Assisted Access (LAA)</title>
+    <author fullname="IMADUR, Rahman">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

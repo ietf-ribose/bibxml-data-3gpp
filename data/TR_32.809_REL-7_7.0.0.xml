@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.809:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.809/32809-700.zip">
+  <front>
+    <title>Telecommunication management; Feasibility study of XML-based (SOAP/HTTP) IRP solution sets</title>
+    <author fullname="DUGUAY, Jean">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

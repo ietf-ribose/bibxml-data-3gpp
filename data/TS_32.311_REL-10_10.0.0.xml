@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.311:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.311/32311-a00.zip">
+  <front>
+    <title>Telecommunication management; Generic Integration Reference Point (IRP) management; Requirements</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

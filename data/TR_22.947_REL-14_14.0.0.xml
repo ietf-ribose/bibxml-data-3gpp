@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.947:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.947/22947-e00.zip">
+  <front>
+    <title>Study on Personal Broadcast Service (PBS)</title>
+    <author fullname="SULTAN, Alain">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

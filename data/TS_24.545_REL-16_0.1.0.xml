@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.545:Rel-16/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.545/24545-010.zip">
+  <front>
+    <title>Location Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification</title>
+    <author fullname="HERRERO-VERON, Christian">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

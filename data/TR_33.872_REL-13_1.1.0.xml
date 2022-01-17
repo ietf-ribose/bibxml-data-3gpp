@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.872:Rel-13/1.1.0">
+  <front>
+    <title>Study on security enhancements to Web Real Time Communication (WebRTC) access to IP Multimedia Subsystem (IMS)</title>
+    <author fullname="LEHTOVIRTA, Vesa">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

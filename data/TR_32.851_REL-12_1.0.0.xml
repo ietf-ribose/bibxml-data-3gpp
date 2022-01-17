@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.851:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.851/32851-100.zip">
+  <front>
+    <title>Telecommunication management; Study on Operations, Administration and Maintenance (OAM) aspects of Network Sharing</title>
+    <author fullname="SUDARSAN, Padma">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

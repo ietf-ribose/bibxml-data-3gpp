@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.819:Rel-11/0.0.0">
+  <front>
+    <title>Coordinated multi-point operation for LTE physical layer aspects</title>
+    <author fullname="CLERCKX, Bruno">
+      <organization>Samsung Electronics Co., Ltd</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="3GPP.TS.25.224:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.224/25224-700.zip">
+  <front>
+    <title>Physical layer procedures (TDD)</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+    <abstract>This specification describes the physical layer procedures in the TDD mode of UTRA.</abstract>
+  </front>
+</reference>

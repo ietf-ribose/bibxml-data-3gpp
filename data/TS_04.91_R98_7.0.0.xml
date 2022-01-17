@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.04.91:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.91/0491-700.zip">
+  <front>
+    <title>Explicit Call Transfer (ECT) Supplementary Service; Stage 3</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

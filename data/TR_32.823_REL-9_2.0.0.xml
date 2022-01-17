@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.823:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.823/32823-200.zip">
+  <front>
+    <title>Telecommunication management; Self-Organizing Networks (SON); Study on self-healing</title>
+    <author fullname="ZHU, Weihong">
+      <organization>ZTE Corporation</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.56:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.56/0356-700.zip">
+  <front>
+    <title>GSM Cordless Telephony System (CTS), Phase 1; CTS Architecture Description; Stage 2</title>
+    <author fullname="ROBERTS, Martin">
+      <organization>Nortel</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>SMG12</workgroup>
+  </front>
+</reference>

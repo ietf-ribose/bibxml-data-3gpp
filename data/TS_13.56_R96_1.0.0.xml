@@ -1,0 +1,7 @@
+<reference anchor="3GPP.TS.13.56:R96/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.56/1356-100.zip">
+  <front>
+    <title>Cordless Telephony System Mobile Stations (CTS-MS); Access</title>
+    <workgroup>-</workgroup>
+    <workgroup>SMG07</workgroup>
+  </front>
+</reference>

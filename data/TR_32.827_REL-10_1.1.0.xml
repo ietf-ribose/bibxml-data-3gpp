@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.827:Rel-10/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.827/32827-110.zip">
+  <front>
+    <title>Telecommunication management; Integration of device management information with Itf-N</title>
+    <author fullname="YAO, Yizhi">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

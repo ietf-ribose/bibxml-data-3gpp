@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.848:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.848/25848-400.zip">
+  <front>
+    <title>Physical Layer Aspects of UTRA High Speed Downlink Packet Access</title>
+    <author fullname="BAKER, Matthew">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

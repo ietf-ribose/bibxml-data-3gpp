@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.22.945:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.945/22945-300.zip">
+  <front>
+    <title>Study of provision of fax service in GSM and UMTS</title>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>T2 / SMG03</workgroup>
+  </front>
+</reference>

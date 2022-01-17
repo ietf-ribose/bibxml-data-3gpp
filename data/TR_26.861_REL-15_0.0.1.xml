@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.861:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.861/26861-001.zip">
+  <front>
+    <title>Investigations on test methodologies for immersive audio systems</title>
+    <author fullname="SCHEVCIW, Andre">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

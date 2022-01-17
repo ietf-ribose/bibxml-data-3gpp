@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.167:Rel-6/0.0.2">
+  <front>
+    <title>3GPP IMS Management Object (MO); Stage 3</title>
+    <author fullname="MONRAD, Atle">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

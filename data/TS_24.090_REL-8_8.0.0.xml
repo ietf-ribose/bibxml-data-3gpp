@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.24.090:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.090/24090-800.zip">
+  <front>
+    <title>Unstructured Supplementary Service Data (USSD); Stage 3</title>
+    <author fullname="DE GREGORIO, Jesus">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+  </front>
+</reference>

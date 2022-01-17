@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.34.121-1:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.121-1/34121-1-e10.zip">
+  <front>
+    <title>User Equipment (UE) conformance specification; Radio transmission and reception (FDD); Part 1: Conformance specification</title>
+    <author fullname="ZIRÉN, Mikael">
+      <organization>Nanjing Ericsson Panda Com Ltd</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

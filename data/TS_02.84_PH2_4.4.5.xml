@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.02.84:Ph2/4.4.5" target="http://www.3gpp.org/ftp/Specs/archive/02_series/02.84/0284-445.zip">
+  <front>
+    <title>MultiParty (MPTY) Supplementary Services; Stage 1</title>
+    <author fullname="SWETINA, Joerg">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1  /  SMG01</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.937:Rel-4/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.937/25937-000.zip">
+  <front>
+    <title>UTRAN TDD low chiprate</title>
+    <author fullname="XU, Bing">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

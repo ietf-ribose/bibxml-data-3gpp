@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.73:R98/7.2.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.73/0373-720.zip">
+  <front>
+    <title>Support of Localised Service Area (SoLSA); Stage 2</title>
+    <author fullname="SCHMITT, Peter">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>S2  /  SMG12</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.09.61:R97/6.1.0">
+  <front>
+    <title>General Packet Radio Service (GPRS); Interworking between the Public Land Mobile Network (PLMN) supporting GPRS and Packet Data Networks (PDN)</title>
+    <author fullname="EMANUELSSON, Sven-ove">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

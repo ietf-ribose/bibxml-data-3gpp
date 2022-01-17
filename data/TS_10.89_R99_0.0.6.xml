@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.10.89:R99/0.0.6" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.89/1089-006.zip">
+  <front>
+    <title>GSM to other Systems Handover and Cell Selection/Reselection; Project scheduling and open issues;</title>
+    <author fullname="ISAACS, Ken">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>GP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

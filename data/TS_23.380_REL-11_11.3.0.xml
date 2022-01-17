@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.380:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.380/23380-b30.zip">
+  <front>
+    <title>IMS Restoration Procedures</title>
+    <author fullname="BARTOLOME, Maria-Cruz">
+      <organization>Nanjing Ericsson Panda Com Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

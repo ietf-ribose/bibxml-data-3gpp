@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.817:Rel-7/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.817/25817-011.zip">
+  <front>
+    <title>UMTS 1700 Work item Technical Report</title>
+    <author fullname="NAKAMURA, Takehiro">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

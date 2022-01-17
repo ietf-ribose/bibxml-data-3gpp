@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.01.01:R99/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/01_series/01.01/0101-110.zip">
+  <front>
+    <title>Technical Specifications and Technical Reports for a GERAN-based 3GPP system</title>
+    <author fullname="MEREDITH, John M">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>SP</workgroup>
+    <workgroup>SMG</workgroup>
+  </front>
+</reference>

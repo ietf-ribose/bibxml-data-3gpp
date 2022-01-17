@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.22.094:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.094/22094-e00.zip">
+  <front>
+    <title>Follow Me service description; Stage 1</title>
+    <author fullname="BISCHINGER, Kurt">
+      <organization>T-Mobile Austria GmbH</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

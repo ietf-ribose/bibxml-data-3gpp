@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.758:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.758/36758-020.zip">
+  <front>
+    <title>TDD 3300-3400 MHz band for LTE</title>
+    <author fullname="DOLIZY, Laurent">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

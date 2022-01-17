@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.24.820:Rel-11/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.820/24820-030.zip">
+  <front>
+    <title>3GPP system to fixed broadband access network interworking</title>
+    <author fullname="ZU, Qiang">
+      <organization>Ericsson Inc.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

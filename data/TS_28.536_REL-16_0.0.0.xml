@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.28.536:Rel-16/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/28_series/28.536/28536-000.zip">
+  <front>
+    <title>Management and orchestration;  Management services for communication service assurance; Stage 2 and stage 3</title>
+    <author fullname="GROENENDIJK, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

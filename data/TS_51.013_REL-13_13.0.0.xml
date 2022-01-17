@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.51.013:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/51_series/51.013/51013-d00.zip">
+  <front>
+    <title>Test specification for Subscriber Identity Module (SIM) Application Programming Interface (API) for Java Card</title>
+    <author fullname="KRUSE, Heiko">
+      <organization>Morpho Cards GmbH</organization>
+    </author>
+    <workgroup>C6</workgroup>
+  </front>
+</reference>

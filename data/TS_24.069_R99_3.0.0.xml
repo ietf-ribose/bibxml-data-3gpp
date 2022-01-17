@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.069:R99/3.0.0">
+  <front>
+    <title>Broadcast Call Control (BCC) protocol</title>
+    <author fullname="GARAPATY, Sonia">
+      <organization>Nortel Networks (USA)</organization>
+    </author>
+    <workgroup>N1</workgroup>
+  </front>
+</reference>

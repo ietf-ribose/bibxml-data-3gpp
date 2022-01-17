@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.21.900:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.900/21900-510.zip">
+  <front>
+    <title>Technical Specification Group working methods</title>
+    <author fullname="FIRMIN, Frederic">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>SP</workgroup>
+    <workgroup>S</workgroup>
+  </front>
+</reference>

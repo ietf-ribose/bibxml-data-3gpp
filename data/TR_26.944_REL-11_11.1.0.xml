@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.944:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.944/26944-b10.zip">
+  <front>
+    <title>End-to-end multimedia services performance metrics</title>
+    <author fullname="LI, Zhiming">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

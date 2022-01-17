@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.29.998-04-1:Rel-4/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.998-04-1/29998-04-1-420.zip">
+  <front>
+    <title>Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 4: Call Control Service Mapping; Subpart 1: API to CAP Mapping</title>
+    <author fullname="UNMEHOPA, Musa">
+      <organization>Philips International B.V.</organization>
+    </author>
+    <workgroup>CP</workgroup>
+  </front>
+</reference>

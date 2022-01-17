@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.907:Rel-9/0.5.0">
+  <front>
+    <title>Evaluation of path-loss technologies for Location Services (LCS)</title>
+    <author fullname="SHAW, Norman">
+      <organization>Polaris Wireless</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.544:Rel-16/2.0.0" target="http://ftp.3gpp.org//Specs/archive/24_series/24.544/24544-200.zip">
+  <front>
+    <title>Group Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification</title>
+    <author fullname="SHAH, Sapan">
+      <organization>Samsung R&amp;D Institute India</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

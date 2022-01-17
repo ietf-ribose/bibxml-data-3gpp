@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.857-13:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.857-13/36857-13-d00.zip">
+  <front>
+    <title>LTE Advanced 5 Band Carrier Aggregation (CA) (5DL/1UL)</title>
+    <author fullname="ANDO, Kei">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

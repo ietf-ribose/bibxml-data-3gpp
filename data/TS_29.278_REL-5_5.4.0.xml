@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.29.278:Rel-5/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.278/29278-540.zip">
+  <front>
+    <title>Customized Applications for Mobile network Enhanced Logic (CAMEL) Phase 4; CAMEL Application Part (CAP) specification for IP Multimedia Subsystems (IMS)</title>
+    <author fullname="LANDAIS, Bruno">
+      <organization>Nokia France</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N2</workgroup>
+  </front>
+</reference>

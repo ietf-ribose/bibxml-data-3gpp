@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.29.813:Rel-13/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.813/29813-030.zip">
+  <front>
+    <title>Study on S6a/S6d Shared Data Update</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

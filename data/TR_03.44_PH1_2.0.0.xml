@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.03.44:Ph1/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.44/0344-200.zip">
+  <front>
+    <title>Support of Teletex in a GSM Public Land Mobile Network (PLMN)</title>
+    <author fullname="HOLM, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>SMG04</workgroup>
+  </front>
+</reference>

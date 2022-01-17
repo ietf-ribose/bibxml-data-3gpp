@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.880:Rel-15/0.9.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.880/32880-090.zip">
+  <front>
+    <title>Telecommunication management;Study on implementation for the partitioning of Itf-N</title>
+    <author fullname="HU, Yaxi">
+      <organization>China Mobile Com. Corporation</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

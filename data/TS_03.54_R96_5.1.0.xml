@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.54:R96/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.54/0354-510.zip">
+  <front>
+    <title>Description for the use of a Shared Inter Working Function (SIWF) in a GSM PLMN; Stage 2</title>
+    <author fullname="HOLM, Jan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>N3 / SMG03D</workgroup>
+  </front>
+</reference>

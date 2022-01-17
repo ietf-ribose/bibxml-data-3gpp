@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.942:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.942/36942-810.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Frequency (RF) system scenarios</title>
+    <author fullname="LAMPRECHT, Frank">
+      <organization>BIOTRONIK SE &amp; Co. KG</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.107:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.107/32107-g00.zip">
+  <front>
+    <title>Telecommunication management; Fixed Mobile Convergence (FMC) Federated Network Information Model (FNIM)</title>
+    <author fullname="POLLAKOWSKI, Olaf">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

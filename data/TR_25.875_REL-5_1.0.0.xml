@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.875:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.875/25875-100.zip">
+  <front>
+    <title>NAS node selector function</title>
+    <author fullname="MCWILLIAMS, Brendan">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

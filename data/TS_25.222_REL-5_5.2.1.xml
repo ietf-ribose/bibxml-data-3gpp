@@ -1,0 +1,12 @@
+<reference anchor="3GPP.TS.25.222:Rel-5/5.2.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.222/25222-521.zip">
+  <front>
+    <title>Multiplexing and channel coding  (TDD)</title>
+    <author fullname="MEDINA, Gerardo">
+      <organization>Ericsson Japan K.K.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+    <abstract>This specification describes multiplexing, channel coding and interleaving for UTRA physical layer TDD mode.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.26.347:Rel-14/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.347/26347-040.zip">
+  <front>
+    <title>Multimedia Broadcast/Multicast Service (MBMS); Application Programming Interface and URL</title>
+    <author fullname="BOUAZIZI, Imed">
+      <organization>Samsung Telecoms America</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

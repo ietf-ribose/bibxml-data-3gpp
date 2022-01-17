@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.512:Rel-17/17.4.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.512/29512-h40.zip">
+  <front>
+    <title>5G System; Session Management Policy Control Service; Stage 3</title>
+    <author fullname="ZHOU, Xiaoyun">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

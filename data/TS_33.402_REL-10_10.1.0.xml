@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.402:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.402/33402-a10.zip">
+  <front>
+    <title>3GPP System Architecture Evolution (SAE); Security aspects of non-3GPP accesses</title>
+    <author fullname="JERICHOW, Anja">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

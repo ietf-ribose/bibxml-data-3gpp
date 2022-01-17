@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.13:Ph2/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.13/0313-401.zip">
+  <front>
+    <title>Discontinuous Reception (DRX) in the GSM System</title>
+    <author fullname="USAI, Paolino">
+      <organization>ETSI</organization>
+    </author>
+    <workgroup>G1</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

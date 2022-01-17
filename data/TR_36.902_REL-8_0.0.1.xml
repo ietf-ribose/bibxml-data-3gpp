@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.902:Rel-8/0.0.1">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Self-configuring and self-optimizing network (SON) use cases and solutions</title>
+    <author fullname="NEUBACHER, Andreas">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="3GPP.TS.22.081:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.081/22081-e00.zip">
+  <front>
+    <title>Line Identification supplementary services; Stage 1</title>
+    <author fullname="RODERMUND, Friedhelm">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the supplementary services belonging to the group line identification supplementary services. The group of line identification supplementary services is divided into the following four supplementary services:
+CLIP:	calling line identification presentation (clause 1);
+CLIR:	calling line identification restriction (clause 2);
+ 
+COLP:	connected line identification presentation (clause 3);
+COLR:	connected line identification restriction (clause 4).</abstract>
+  </front>
+</reference>

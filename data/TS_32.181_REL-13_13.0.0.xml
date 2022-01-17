@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.181:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.181/32181-d00.zip">
+  <front>
+    <title>Telecommunication management; User Data Convergence (UDC); Framework for Model Handling and Management</title>
+    <author fullname="HESKIN, Eamon">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

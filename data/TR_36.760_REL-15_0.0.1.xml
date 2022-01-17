@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.760:Rel-15/0.0.1">
+  <front>
+    <title>LTE Advanced high power TDD UE (power class 2) for Rel-15</title>
+    <author fullname="LIU, Bo">
+      <organization>HiSilicon Technologies Co. Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

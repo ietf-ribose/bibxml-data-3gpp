@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.379:Rel-13/0.4.0">
+  <front>
+    <title>Mission Critical Push To Talk (MCPTT) call control; Protocol specification</title>
+    <author fullname="KAPALE, Kiran">
+      <organization>Samsung R&amp;D Institute India</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

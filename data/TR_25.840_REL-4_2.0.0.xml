@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.840:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.840/25840-200.zip">
+  <front>
+    <title>Terminal power saving features</title>
+    <author fullname="BAKER, Matthew">
+      <organization>Alcatel-Lucent</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

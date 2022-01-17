@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.727:Rel-16/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.727/23727-000.zip">
+  <front>
+    <title>Study on application awareness interworking between LTE and NR</title>
+    <author fullname="LONG, Biao">
+      <organization>China Telecom Corporation Ltd.</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

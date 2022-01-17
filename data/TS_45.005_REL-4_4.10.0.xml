@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.45.005:Rel-4/4.10.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.005/45005-4a0.zip">
+  <front>
+    <title>GSM/EDGE Radio transmission and reception</title>
+    <author fullname="SUNDBERG, Marten">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

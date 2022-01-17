@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.843:Rel-4/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.843/25843-410.zip">
+  <front>
+    <title>1.28 Mcps TDD UE Radio Access Capabilities</title>
+    <author fullname="ZHU, Yifei">
+      <organization>CATT</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

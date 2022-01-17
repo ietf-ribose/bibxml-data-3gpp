@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.24.380:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.380/24380-200.zip">
+  <front>
+    <title>Mission Critical Push To Talk (MCPTT) media plane control; Protocol specification</title>
+    <author fullname="AXELL, Jörgen">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

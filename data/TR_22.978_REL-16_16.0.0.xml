@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.22.978:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.978/22978-g00.zip">
+  <front>
+    <title>All-IP network (AIPN) feasibility study</title>
+    <author fullname="ISOBE, Shin-ichi">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

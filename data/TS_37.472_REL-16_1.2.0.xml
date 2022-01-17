@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.37.472:Rel-16/1.2.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.472/37472-120.zip">
+  <front>
+    <title>W1 interface; Signalling transport</title>
+    <author fullname="CAO, Gen">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

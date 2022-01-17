@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.12.01:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.01/1201-400.zip">
+  <front>
+    <title>Network Management (NM); Part 2: Common aspects of SM/DCS 1800 Network Management</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>SMG06 / SMG03</workgroup>
+  </front>
+</reference>

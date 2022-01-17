@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.305:Rel-15/0.0.1">
+  <front>
+    <title>NG Radio Access Network (NG-RAN); Stage 2 functional specification of User Equipment (UE) positioning in NG-RAN</title>
+    <author fullname="FISCHER, Sven">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="3GPP.TS.26.111:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.111/26111-800.zip">
+  <front>
+    <title>Codec for circuit switched multimedia telephony service; Modifications to H.324</title>
+    <author fullname="JUNG, Kyunghun">
+      <organization>Facebook</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4</workgroup>
+    <abstract>This specification describes the modifications applicable to the ITU-T Recommendation H.324, Annex C for the support of circuit-switched 3G-324M multimedia telephony service.</abstract>
+  </front>
+</reference>

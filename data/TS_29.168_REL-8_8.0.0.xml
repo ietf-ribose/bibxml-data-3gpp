@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.168:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.168/29168-800.zip">
+  <front>
+    <title>Cell Broadcast Centre interfaces with the Evolved Packet Core;  Stage 3</title>
+    <author fullname="TAMURA, Toshiyuki">
+      <organization>NEC Europe Ltd</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

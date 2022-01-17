@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.456:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.456/36456-d00.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); SLm interface general aspects and principles</title>
+    <author fullname="BROOKS, Terri">
+      <organization>TruePosition</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

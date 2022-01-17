@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.622-4:Rel-4/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.622-4/32622-4-200.zip">
+  <front>
+    <title>Telecommunication management; Configuration Management (CM); Part 4: UTRAN network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) solution set</title>
+    <author fullname="TOVINGER, Thomas">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

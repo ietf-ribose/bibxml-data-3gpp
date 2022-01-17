@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.29.892:Rel-16/0.0.2">
+  <front>
+    <title>Study on User Plane Protocol in 5GC</title>
+    <author fullname="MATSUSHIMA, Satoru">
+      <organization>SoftBank Corp.</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

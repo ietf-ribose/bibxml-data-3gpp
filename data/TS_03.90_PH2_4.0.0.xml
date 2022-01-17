@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.03.90:Ph2/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.90/0390-400.zip">
+  <front>
+    <title>Unstructured Supplementary Service Data (USSD)</title>
+    <author fullname="GAY, Emmanuel">
+      <organization>Orange</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4  /  SMG03?</workgroup>
+  </front>
+</reference>

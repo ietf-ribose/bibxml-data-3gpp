@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.889:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.889/36889-100.zip">
+  <front>
+    <title>Feasibility Study on Licensed-Assisted Access to Unlicensed Spectrum</title>
+    <author fullname="KOORAPATY, Havish">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

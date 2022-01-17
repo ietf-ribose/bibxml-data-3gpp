@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.153:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.153/29153-g00.zip">
+  <front>
+    <title>Service capability exposure functionality over Ns reference point</title>
+    <author fullname="YAN, Yali">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

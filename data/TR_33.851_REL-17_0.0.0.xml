@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.851:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.851/33851-000.zip">
+  <front>
+    <title>Study on security for enhanced support of Industrial Internet of Things (IIoT)</title>
+    <author fullname="JERICHOW, Anja">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

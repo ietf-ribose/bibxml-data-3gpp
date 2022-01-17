@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.806:Rel-13/0.8.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.806/33806-080.zip">
+  <front>
+    <title>Pilot development of Security Assurance Specification for MME Network Product class  for 3GPP network product classes</title>
+    <author fullname="ZUGENMAIER, Alf">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.833:Rel-12/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833/36833-020.zip">
+  <front>
+    <title>Intra-band Non-contiguous CA for Band 4 for LTE</title>
+    <author fullname="UENG, Nelson">
+      <organization>T-Mobile USA Inc.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

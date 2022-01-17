@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.978:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.978/36978-100.zip">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE) antenna test function definition for two-stage Multiple Input Multiple Output (MIMO) Over The Air (OTA) test method</title>
+    <author fullname="RUMNEY, Moray">
+      <organization>Keysight Technologies UK Ltd</organization>
+    </author>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

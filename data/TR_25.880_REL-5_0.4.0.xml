@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.880:Rel-5/0.4.0">
+  <front>
+    <title>Re-arrangement of Iub transport bearers</title>
+    <author fullname="HAUTALA, Jari">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

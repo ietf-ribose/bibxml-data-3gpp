@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.48.058:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.058/48058-400.zip">
+  <front>
+    <title>Base Station Controller - Base Transceiver Station  (BSC - BTS) Interface; Layer 3 specification</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

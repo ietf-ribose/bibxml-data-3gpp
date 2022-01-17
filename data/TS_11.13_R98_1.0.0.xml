@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.11.13:R98/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/11_series/11.13/1113-100.zip">
+  <front>
+    <title>Test specification for Subscriber Interface Module (SIM) Application Programme Interface (API) for Java card</title>
+    <author fullname="MICHEL, Alexis">
+      <organization>OBERTHUR TECHNOLOGIES</organization>
+    </author>
+    <workgroup>C6</workgroup>
+  </front>
+</reference>

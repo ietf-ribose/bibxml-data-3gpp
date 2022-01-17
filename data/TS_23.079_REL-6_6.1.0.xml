@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.23.079:Rel-6/6.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.079/23079-610.zip">
+  <front>
+    <title>Support of Optimal Routeing (SOR); Technical realization</title>
+    <author fullname="WILD, Peter A.">
+      <organization>Vodafone GmbH</organization>
+    </author>
+    <workgroup>C4</workgroup>
+    <workgroup>N4</workgroup>
+  </front>
+</reference>

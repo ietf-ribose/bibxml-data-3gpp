@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.22.240:Rel-6/2.0.0">
+  <front>
+    <title>Service requirements for 3GPP Generic User Profile (GUP); Stage 1</title>
+    <author fullname="BISCHINGER, Kurt">
+      <organization>T-Mobile Austria GmbH</organization>
+    </author>
+    <workgroup>S1</workgroup>
+  </front>
+</reference>

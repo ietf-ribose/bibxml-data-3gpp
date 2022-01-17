@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.23.700-07:Rel-17/1.1.0" target="https://www.3gpp.org/ftp//Specs/archive/23_series/23.700-07/23700-07-110.zip">
+  <front>
+    <title>Study on enhanced support of Non-Public Networks (NPN)</title>
+    <author fullname="HEDMAN, Peter">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>S3, S5</workgroup>
+  </front>
+</reference>

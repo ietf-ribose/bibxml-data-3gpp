@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.36.106:Rel-8/0.0.0">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); FDD repeater radio transmission and reception</title>
+    <author fullname="AHLSTRÖM, Alf">
+      <organization>Huawei Technologies Sweden AB</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

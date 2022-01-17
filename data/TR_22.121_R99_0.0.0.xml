@@ -1,0 +1,12 @@
+<reference anchor="3GPP.TR.22.121:R99/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.121/22121-000.zip">
+  <front>
+    <title>Service aspects; The Virtual Home Environment (VHE); Stage 1</title>
+    <author fullname="KURZ, Michael">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the content of the Stage 1 requirement for realization of VHE. VHE is defined as a concept for personal service environment (PSE) portability across network boundaries and between terminals. The concept of the VHE is such that users are consistently presented with the same personalized features, user interface customization and services in whatever network and whatever terminal (within the capabilities of the terminal and the network), wherever the user may be located.
+A key feature to support VHE is the ability to build services using a standardized application interface.</abstract>
+  </front>
+</reference>

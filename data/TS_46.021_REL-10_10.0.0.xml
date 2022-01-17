@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.46.021:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/46_series/46.021/46021-a00.zip">
+  <front>
+    <title>Half rate speech; Substitution and muting of lost frames for half rate speech traffic channels</title>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

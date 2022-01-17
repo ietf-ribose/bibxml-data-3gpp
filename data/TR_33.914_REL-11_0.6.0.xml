@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.914:Rel-11/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.914/33914-060.zip">
+  <front>
+    <title>Single Sign On (SSO) application security for common IP Multimedia Subsystem (IMS) based on SIP Digest</title>
+    <author fullname="HOLTMANNS, Silke">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

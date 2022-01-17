@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.09.95:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.95/0995-700.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Interworking between modified Public Land Mobile Network (PLMN) supporting GPRS and legacy GPRS mobiles</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
+    <workgroup>G1</workgroup>
+  </front>
+</reference>

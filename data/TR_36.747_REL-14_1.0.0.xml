@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.36.747:Rel-14/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.747/36747-100.zip">
+  <front>
+    <title>Enhanced CRS and 4Rx SU-MIMO Interference Mitigation Performance Requirements for LTE </title>
+    <author fullname="GUAN, Xiangsheng">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

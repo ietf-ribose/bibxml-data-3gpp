@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.23.251:Rel-6/6.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.251/23251-650.zip">
+  <front>
+    <title>Network sharing; Architecture and functional description</title>
+    <author fullname="NILSSON, Ulf">
+      <organization>TeliaSonera AB</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

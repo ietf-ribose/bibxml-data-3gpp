@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.259:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.259/33259-a00.zip">
+  <front>
+    <title>Key establishment between a UICC hosting device and a remote device</title>
+    <author fullname="LEHTOVIRTA, Vesa">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

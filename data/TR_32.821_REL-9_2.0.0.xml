@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.821:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.821/32821-200.zip">
+  <front>
+    <title>Telecommunication management; Study of Self-Organizing Networks (SON) related Operations, Administration and Maintenance (OAM)  for Home Node B (HNB)</title>
+    <author fullname="ZOU, Lan">
+      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

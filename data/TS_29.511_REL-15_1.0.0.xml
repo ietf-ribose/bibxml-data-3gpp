@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.511:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.511/29511-100.zip">
+  <front>
+    <title>5G System; Equipment Identity Register Services; Stage 3</title>
+    <author fullname="KOZA, Yvette">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.825:Rel-8/0.1.0">
+  <front>
+    <title>Dual-cell High Speed Downlink Packet Access (HSDPA) operation</title>
+    <author fullname="BLANZ, Josef">
+      <organization>Qualcomm UK Ltd</organization>
+    </author>
+    <workgroup>R1</workgroup>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

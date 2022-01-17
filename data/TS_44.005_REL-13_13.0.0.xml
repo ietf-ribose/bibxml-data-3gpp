@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.44.005:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.005/44005-d00.zip">
+  <front>
+    <title>GSM/EDGE Data Link (DL) Layer; General aspects</title>
+    <author fullname="ANDERSEN, Niels Peter Skov">
+      <organization>Anemone Technology</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

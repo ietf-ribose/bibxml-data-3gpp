@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.815:Rel-5/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.815/23815-030.zip">
+  <front>
+    <title>Charging implications of IMS architecture</title>
+    <author fullname="MILINSKI, Alexander">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

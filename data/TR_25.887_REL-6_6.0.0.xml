@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.887:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.887/25887-600.zip">
+  <front>
+    <title>Beamforming enhancements</title>
+    <author fullname="KAHTAVA, Jussi">
+      <organization>Allied Spectrum Associates Ltd</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

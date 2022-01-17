@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.32.111-5:Rel-6/6.3.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.111-5/32111-5-630.zip">
+  <front>
+    <title>Telecommunication management; Fault Management; Part 5: Alarm Integration Reference Point (IRP): eXtensible Markup Language (XML) definitions</title>
+    <author fullname="TOCHE, Christian">
+      <organization>Huawei Technologies France</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

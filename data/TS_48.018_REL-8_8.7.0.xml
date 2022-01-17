@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.48.018:Rel-8/8.7.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.018/48018-870.zip">
+  <front>
+    <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN); BSS GPRS protocol (BSSGP)</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

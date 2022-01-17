@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TR.25.941:R99/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.941/25941-001.zip">
+  <front>
+    <title>Document structure</title>
+    <author fullname="TAKAMI, Tadao">
+      <organization>NTT DOCOMO INC.</organization>
+    </author>
+    <workgroup>R4</workgroup>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

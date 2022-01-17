@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.839:Rel-4/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.839/25839-020.zip">
+  <front>
+    <title>Uplink Synchronous Transmission Scheme (USTS) (Iur/Iub aspects)</title>
+    <author fullname="PARK, Jin Hyo">
+      <organization>SK Telecom</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

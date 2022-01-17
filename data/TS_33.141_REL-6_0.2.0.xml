@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.141:Rel-6/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.141/33141-020.zip">
+  <front>
+    <title>Presence service; Security</title>
+    <author fullname="MATTSSON, John">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.04.04:R96/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.04/0404-500.zip">
+  <front>
+    <title>Layer 1 - General Requirements</title>
+    <author fullname="ISAACS, Ken">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>G2</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

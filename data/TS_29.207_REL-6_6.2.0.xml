@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.207:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.207/29207-620.zip">
+  <front>
+    <title>Policy control over Go interface</title>
+    <author fullname="BELLING, Thomas">
+      <organization>Nokia Networks</organization>
+    </author>
+    <workgroup>C3</workgroup>
+  </front>
+</reference>

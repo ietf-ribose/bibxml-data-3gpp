@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.32.824:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.824/32824-900.zip">
+  <front>
+    <title>Telecommunication management; Service Oriented Architecture (SOA) Integration Reference Point (IRP) study</title>
+    <author fullname="TSE, Edwin">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

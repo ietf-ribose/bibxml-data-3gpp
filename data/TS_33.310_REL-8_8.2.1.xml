@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.33.310:Rel-8/8.2.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.310/33310-821.zip">
+  <front>
+    <title>Network Domain Security (NDS); Authentication Framework (AF)</title>
+    <author fullname="JERICHOW, Anja">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

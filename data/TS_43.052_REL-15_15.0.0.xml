@@ -1,0 +1,10 @@
+<reference anchor="3GPP.TS.43.052:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.052/43052-f00.zip">
+  <front>
+    <title>GSM Cordless Telephony System (CTS), Phase 1; Lower Layers of the CTS Radio Interface, Stage 2</title>
+    <author fullname="HOFMANN, Juergen">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>SMG02</workgroup>
+  </front>
+</reference>

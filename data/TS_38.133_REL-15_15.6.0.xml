@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.133:Rel-15/15.6.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.133/38133-f60.zip">
+  <front>
+    <title>NR; Requirements for support of radio resource management</title>
+    <author fullname="YANG, Tang">
+      <organization>Apple AB</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

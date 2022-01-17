@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.943:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.943/26943-800.zip">
+  <front>
+    <title>Recognition performance evaluations of codecs for Speech Enabled Services (SES)</title>
+    <author fullname="PEARCE, David">
+      <organization>Waiting for new Company</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

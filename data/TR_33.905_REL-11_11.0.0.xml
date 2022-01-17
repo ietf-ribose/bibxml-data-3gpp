@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.33.905:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.905/33905-b00.zip">
+  <front>
+    <title>Recommendations for Trusted Open Platforms</title>
+    <author fullname="HOLTMANNS, Silke">
+      <organization>Nokia Networks Oy</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.23.842:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.842/23842-010.zip">
+  <front>
+    <title>Study on network provided location information to the IP Multimedia Subsystem (IMS)</title>
+    <author fullname="ZARRI, Michele">
+      <organization>Deutsche Telekom AG</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

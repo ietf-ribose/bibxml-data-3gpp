@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.38.463:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.463/38463-100.zip">
+  <front>
+    <title>NG-RAN; E1 Application Protocol (E1AP)</title>
+    <author fullname="MULLER, Julien">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

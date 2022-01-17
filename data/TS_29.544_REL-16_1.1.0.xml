@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.544:Rel-16/1.1.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.544/29544-110.zip">
+  <front>
+    <title>5G System; Secured Packet Application Function (SP-AF) services; Stage 3</title>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Shanghai Bell</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

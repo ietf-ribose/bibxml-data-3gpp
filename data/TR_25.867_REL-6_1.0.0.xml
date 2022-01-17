@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.25.867:Rel-6/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.867/25867-100.zip">
+  <front>
+    <title>Feasibility study for wideband distribution systems in 3rd generation networks</title>
+    <author fullname="MATARASSO, Carlo">
+      <organization>Mikom - Andrew</organization>
+    </author>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

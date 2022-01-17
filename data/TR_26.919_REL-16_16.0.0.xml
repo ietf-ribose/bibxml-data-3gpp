@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TR.26.919:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.919/26919-g00.zip">
+  <front>
+    <title>Study on media handling aspects of conversational services in 5G systems</title>
+    <author fullname="OYMAN, Ozgur">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

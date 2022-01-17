@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.869:Rel-12/0.3.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.869/37869-031.zip">
-  <front>
-    <title>Study on enhancements to Machine-Type Communications (MTC) and other mobile data applications; Radio Access Network (RAN) aspects</title>
-    <author fullname="PAROLARI, Sergio">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

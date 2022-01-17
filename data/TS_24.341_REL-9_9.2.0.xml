@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.341:Rel-9/9.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.341/24341-920.zip">
-  <front>
-    <title>Support of SMS over IP networks; Stage 3</title>
-    <author fullname="LEIS, Peter">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

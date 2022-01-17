@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.716-03-01:Rel-16/0.4.0">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-16 for 3 bands Down Link (DL) / 1 band Up Link (UL)</title>
-    <author fullname="ZHANG, Qian">
-      <organization>HiSilicon Technologies Co. Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

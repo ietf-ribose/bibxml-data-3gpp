@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.828:Rel-10/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.828/32828-150.zip">
-  <front>
-    <title>Telecommunication management; Study on alignment of 3GPP generic Network Resource Model (NRM) Integration Reference Point (IRP) and the TeleManagement Forum (TMF) Shared Information/Data (SID) model</title>
-    <author fullname="POLLAKOWSKI, Olaf">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

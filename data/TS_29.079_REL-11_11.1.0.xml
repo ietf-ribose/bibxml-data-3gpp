@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.079:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.079/29079-b10.zip">
-  <front>
-    <title>Optimal media routeing within the IP Multimedia Subsystem (IMS); Stage 3</title>
-    <author fullname="BELLING, Thomas">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

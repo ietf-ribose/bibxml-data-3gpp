@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.332:Rel-6/2.0.0">
-  <front>
-    <title>Media Gateway Control Function (MGCF) - IM Media Gateway; Mn interface</title>
-    <author fullname="SCHMITT, Peter">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

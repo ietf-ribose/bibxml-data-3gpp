@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.811:Rel-10/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.811/36811-200.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Adding 2 GHz band LTE Frequency Division Duplex (FDD) (Band 23) for Ancillary Terrestrial Component (ATC) of Mobile Satellite Services (MSS)  in North America</title>
-    <author fullname="ROBINSON, Rhys">
-      <organization>TerreStar Networks Inc.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

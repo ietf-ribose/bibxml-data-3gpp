@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.45.015:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.015/45015-800.zip">
-  <front>
-    <title>GSM/EDGE Release independent Downlink Advanced Receiver Performance (DARP); Implementation guidelines</title>
-    <author fullname="HOFMANN, Juergen">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

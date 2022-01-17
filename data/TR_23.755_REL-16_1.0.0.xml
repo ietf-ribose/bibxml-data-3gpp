@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.755:Rel-16/1.0.0" target="https://ftp.3gpp.org//Specs/archive/23_series/23.755/23755-100.zip">
-  <front>
-    <title>Study on application layer support for Unmanned Aerial Systems (UAS)</title>
-    <author fullname="AMOGH, Niranth">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>S6</workgroup>
-  </front>
-</reference>

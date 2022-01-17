@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.938:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.938/26938-200.zip">
-  <front>
-    <title>Packet-switched Streaming Service (PSS); Improved support for dynamic adaptive streaming over HTTP in 3GPP</title>
-    <author fullname="STOCKHAMMER, Thomas">
-      <organization>Qualcomm CDMA Technologies</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

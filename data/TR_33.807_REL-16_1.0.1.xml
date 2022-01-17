@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.807:Rel-16/1.0.1" target="http://ftp.3gpp.org//Specs/archive/33_series/33.807/33807-101.zip">
-  <front>
-    <title>Study on the security of the wireless and wireline convergence for the 5G system architecture  </title>
-    <author fullname="LI, He">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

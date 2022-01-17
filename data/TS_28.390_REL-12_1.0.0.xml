@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.28.390:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.390/28390-100.zip">
-  <front>
-    <title>Telecommunication management; Fixed Mobile Convergence (FMC); Interface Integration Reference Point (IRP) Solution Profiles (SPs)</title>
-    <author fullname="TOVINGER, Thomas">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

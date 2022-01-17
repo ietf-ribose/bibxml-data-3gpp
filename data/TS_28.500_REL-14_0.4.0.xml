@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.28.500:Rel-14/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.500/28500-040.zip">
-  <front>
-    <title>Telecommunication management; Management concept, architecture and requirements for mobile networks that include virtualized network functions</title>
-    <author fullname="LIU, Jinglei">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

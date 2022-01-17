@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.836:Rel-16/0.6.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.836/33836-060.zip">
-  <front>
-    <title>Study on security aspects of 3GPP support  for advanced Vehicle-to-Everything (V2X) services</title>
-    <author fullname="KIM, Dongjoo">
-      <organization>LG Electronics Inc.</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

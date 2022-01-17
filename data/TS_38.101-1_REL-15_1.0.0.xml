@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.101-1:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.101-1/38101-1-100.zip">
-  <front>
-    <title>NR; User Equipment (UE) radio transmission and reception; Part 1: Range 1 Standalone</title>
-    <author fullname="VINTOLA, Ville">
-      <organization>Qualcomm UK Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.301:Rel-11/11.12.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.301/24301-bc0.zip">
-  <front>
-    <title>Non-Access-Stratum (NAS) protocol for Evolved Packet System (EPS); Stage 3</title>
-    <author fullname="WON, Sung Hwan">
-      <organization>Nokia Korea</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.864:Rel-15/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.864/32864-050.zip">
-  <front>
-    <title>Telecommunication management;Study on management aspects of virtualized network functions that are part of the New Radio (NR)</title>
-    <author fullname="CHOU, Joey">
-      <organization>Intel Corporation (UK) Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

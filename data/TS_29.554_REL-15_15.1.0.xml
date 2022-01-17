@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.554:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.554/29554-f10.zip">
-  <front>
-    <title>5G System; Background Data Transfer Policy Control Service; Stage 3</title>
-    <author fullname="BIONDIC, Nevenka">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

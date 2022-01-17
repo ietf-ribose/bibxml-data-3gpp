@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.828:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.828/38828-g00.zip">
-  <front>
-    <title>Cross Link Interference (CLI) handling and Remote Interference Management (RIM) for NR</title>
-    <author fullname="PARK, Jongkeun">
-      <organization>LG Electronics Finland</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

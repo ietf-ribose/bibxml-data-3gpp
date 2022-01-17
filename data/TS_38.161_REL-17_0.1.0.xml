@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.161:Rel-17/0.1.0">
-  <front>
-    <title>NR; User Equipment (UE)  TRP (Total Radiated Power) and TRS (Total Radiated Sensitivity) requirements; Range 1 Standalone and Range 1 Interworking operation with other radios</title>
-    <author fullname="WANG, Ruixin">
-      <organization>vivo Communication Technology</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

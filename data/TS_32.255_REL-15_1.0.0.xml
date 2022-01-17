@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.255:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.255/32255-100.zip">
-  <front>
-    <title>Telecommunication management; Charging management; 5G data connectivity domain charging; Stage 2</title>
-    <author fullname="GARDELLA, Maryse">
-      <organization>Nokia France</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

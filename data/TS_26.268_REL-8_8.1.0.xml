@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.268:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.268/26268-810.zip">
-  <front>
-    <title>eCall data transfer; In-band modem solution; ANSI-C reference code</title>
-    <author fullname="LEUNG, Nikolai">
-      <organization>Qualcomm CDMA Technologies</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

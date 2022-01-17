@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.45.009:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.009/45009-910.zip">
-  <front>
-    <title>GSM/EDGE Link adaptation</title>
-    <author fullname="CHEN, Jun">
-      <organization>HiSilicon Technologies Co. Ltd</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

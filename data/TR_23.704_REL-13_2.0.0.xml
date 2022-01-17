@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.704:Rel-13/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.704/23704-200.zip">
-  <front>
-    <title>Study on Circuit Switched (CS) / Packet Switched (PS) coordination in shared network; Stage 2</title>
-    <author fullname="GUSTAFSSON, Roland">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.883:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.883/25883-100.zip">
-  <front>
-    <title>Direct Transport Bearers Between SRNC and Node-B</title>
-    <author fullname="VAN LIESHOUT, Gert-Jan">
-      <organization>Samsung R&amp;D Institute UK</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

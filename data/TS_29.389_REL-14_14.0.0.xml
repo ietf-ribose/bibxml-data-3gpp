@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.389:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.389/29389-e00.zip">
-  <front>
-    <title>Inter-V2X Control Function Signalling aspects (V6); Stage 3</title>
-    <author fullname="LI, Zhijun">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

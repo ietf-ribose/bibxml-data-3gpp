@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.101-4:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-4/38101-4-h20.zip">
-  <front>
-    <title>NR; User Equipment (UE) radio transmission and reception; Part 4: Performance requirements</title>
-    <author fullname="QIU, Haijie">
-      <organization>SAMSUNG Electronics Co., Ltd.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

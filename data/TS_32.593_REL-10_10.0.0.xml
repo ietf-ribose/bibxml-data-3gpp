@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.593:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.593/32593-a00.zip">
-  <front>
-    <title>Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration, Maintenance and Provisioning (OAM&amp;P); Procedure flows for Type 1 interface HeNB to HeNB Management System (HeMS)</title>
-    <author fullname="ANDRIANOV, Anatoly">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.364:Rel-8/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.364/29364-020.zip">
-  <front>
-    <title>IP Multimedia Subsystem (IMS) Application Server (AS) service data descriptions for AS interoperability</title>
-    <author fullname="WIEHE, Ulrich">
-      <organization>Nokia Solutions &amp; Networks (S)</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

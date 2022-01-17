@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.812:Rel-8/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.812/22812-030.zip">
-  <front>
-    <title>Study into network selection requirements for non-3GPP access</title>
-    <author fullname="FRIEL, Chris">
-      <organization>Telefonica Germany GmbH</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

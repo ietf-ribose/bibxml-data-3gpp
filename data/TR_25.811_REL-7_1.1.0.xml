@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.811:Rel-7/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.811/25811-110.zip">
-  <front>
-    <title>UMTS 2.6 GHz TDD Work Item Technical Report</title>
-    <author fullname="WONG, Shin horng">
-      <organization>Sony Europe Limited</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

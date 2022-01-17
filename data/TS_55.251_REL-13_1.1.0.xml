@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.55.251:Rel-13/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/55_series/55.251/55251-110.zip">
-  <front>
-    <title>Specification of the GEA5 and GIA5 encryption algorithms for General Packet Radio Service (GPRS); GEA5 and GIA5 algorithm specification</title>
-    <author fullname="EVANS, Tim P.">
-      <organization>VODAFONE Group Plc</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

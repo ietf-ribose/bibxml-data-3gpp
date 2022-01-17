@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.116:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.116/33116-010.zip">
-  <front>
-    <title>Security Assurance Specification (SCAS) for the MME network product class</title>
-    <author fullname="ZUGENMAIER, Alf">
-      <organization>NTT DOCOMO INC.</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.512:Rel-16/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.512/33512-040.zip">
-  <front>
-    <title>5G Security Assurance Specification (SCAS); Access and Mobility management Function (AMF)</title>
-    <author fullname="DENG, Juan">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

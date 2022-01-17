@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.606:Rel-12/12.1.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.606/24606-c10.zip">
-  <front>
-    <title>Message Waiting Indication (MWI) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification</title>
-    <author fullname="WEI, haitao">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.523-1:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.523-1/38523-1-100.zip">
-  <front>
-    <title>5GS; User Equipment (UE) conformance specification; Part 1: Protocol</title>
-    <author fullname="WU, Yuchun">
-      <organization>HiSilicon Technologies Co. Ltd</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

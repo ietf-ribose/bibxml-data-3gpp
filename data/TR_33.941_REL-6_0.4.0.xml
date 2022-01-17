@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.941:Rel-6/0.4.0">
-  <front>
-    <title>Presence service; Security</title>
-    <author fullname="BOMAN, Krister">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

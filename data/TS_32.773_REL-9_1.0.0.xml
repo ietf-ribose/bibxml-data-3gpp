@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.773:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.773/32773-100.zip">
-  <front>
-    <title>Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network Resource Model (NRM); Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)</title>
-    <author fullname="CHEN, Gang">
-      <organization>China Mobile US Research Cente</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

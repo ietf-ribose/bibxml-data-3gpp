@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.807:Rel-16/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.807/38807-002.zip">
-  <front>
-    <title>Study on requirements for NR beyond 52.6 GHz</title>
-    <author fullname="LEE, Daewon">
-      <organization>Intel</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

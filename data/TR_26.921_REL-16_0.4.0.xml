@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.921:Rel-16/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.921/26921-040.zip">
-  <front>
-    <title>Investigations on ambient noise reproduction systems for acoustic testing of terminals</title>
-    <author fullname="REIMES, Jan">
-      <organization>HEAD acoustics GmbH</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

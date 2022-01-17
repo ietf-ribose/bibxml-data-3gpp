@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.425:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.425/36425-f00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 interface user plane protocol</title>
-    <author fullname="VESELY, Alexander">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

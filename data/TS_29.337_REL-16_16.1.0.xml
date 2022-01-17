@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.337:Rel-16/16.1.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.337/29337-g10.zip">
-  <front>
-    <title>Diameter-based T4 Interface for communications with packet data networks and applications</title>
-    <author fullname="SHI, Susan">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.812:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.812/38812-g00.zip">
-  <front>
-    <title>Study on Non-Orthogonal Multiple Access (NOMA) for NR</title>
-    <author fullname="YUAN, Yifei">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>R1</workgroup>
-  </front>
-</reference>

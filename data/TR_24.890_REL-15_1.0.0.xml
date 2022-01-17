@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.24.890:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.890/24890-100.zip">
-  <front>
-    <title>CT WG1 aspects of 5G; System Phase 1</title>
-    <author fullname="HERRERO-VERON, Christian">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

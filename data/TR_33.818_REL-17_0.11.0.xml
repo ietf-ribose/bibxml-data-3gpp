@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.818:Rel-17/0.11.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.818/33818-0b0.zip">
-  <front>
-    <title>Security Assurance Methodology (SECAM) and Security Assurance Specification (SCAS) for 3GPP virtualized network products</title>
-    <author fullname="QI, Minpeng">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.936:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.936/26936-900.zip">
-  <front>
-    <title>Performance characterization of 3GPP audio codecs</title>
-    <author fullname="BRUHN, Stefan">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

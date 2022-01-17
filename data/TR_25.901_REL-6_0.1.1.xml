@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.901:Rel-6/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.901/25901-011.zip">
-  <front>
-    <title>Network Assisted Cell Change (NACC) from UTRAN to GERAN; Network side aspects</title>
-    <author fullname="HALL, Edward">
-      <organization>Qualcomm UK Ltd</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

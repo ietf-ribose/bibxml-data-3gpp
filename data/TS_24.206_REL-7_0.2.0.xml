@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.206:Rel-7/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.206/24206-020.zip">
-  <front>
-    <title>Voice call continuity between Circuit Switched (CS) and IP Multimedia Subsystem (IMS); Stage 3</title>
-    <author fullname="DRAGE, Keith">
-      <organization>Alcatel-Lucent Telecom Ltd</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

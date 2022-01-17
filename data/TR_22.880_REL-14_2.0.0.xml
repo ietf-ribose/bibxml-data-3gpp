@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.880:Rel-14/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.880/22880-200.zip">
-  <front>
-    <title>Feasibility study on Mission Critical (MC) data communications</title>
-    <author fullname="VILLEBRUN, Emmanuelle">
-      <organization>MINISTERE DE L'INTERIEUR</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

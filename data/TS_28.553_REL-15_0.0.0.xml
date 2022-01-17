@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.28.553:Rel-15/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.553/28553-000.zip">
-  <front>
-    <title>Management and orchestration of networks and network slicing; 5G Core Network (5GC) performance measurements and assurance data</title>
-    <author fullname="YAO, Yizhi">
-      <organization>Intel Corporation (UK) Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

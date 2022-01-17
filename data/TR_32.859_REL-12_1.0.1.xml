@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.859:Rel-12/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.859/32859-101.zip">
-  <front>
-    <title>Telecommunication management; Study on Alarm Management</title>
-    <author fullname="BERGGREN, Tommy">
-      <organization>TeliaSonera AB</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

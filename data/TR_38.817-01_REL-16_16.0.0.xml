@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.817-01:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.817-01/38817-01-g00.zip">
-  <front>
-    <title>General aspects for User Equipment (UE) Radio Frequency (RF) for NR</title>
-    <author fullname="SANO, Yousuke">
-      <organization>DOCOMO Communications Lab.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

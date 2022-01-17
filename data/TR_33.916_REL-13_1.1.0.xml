@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.916:Rel-13/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.916/33916-110.zip">
-  <front>
-    <title>Security Assurance Methodology (SECAM) for 3GPP network products</title>
-    <author fullname="ZUGENMAIER, Alf">
-      <organization>NTT DOCOMO INC.</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

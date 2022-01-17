@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.843:Rel-13/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.843/32843-050.zip">
-  <front>
-    <title>Telecommunication management; Charging management; Study on Inter-Public-Land-Mobile-Network (PLMN) Packet Switched (PS) domain online charging</title>
-    <author fullname="GARDELLA, Maryse">
-      <organization>Alcatel-Lucent</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

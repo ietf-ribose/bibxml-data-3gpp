@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.836:Rel-17/17.1.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.836/22836-h10.zip">
-  <front>
-    <title>Study on asset tracking use cases</title>
-    <author fullname="BERISOT, Thierry">
-      <organization>NOVAMINT</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

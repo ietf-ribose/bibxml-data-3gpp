@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.868:Rel-11/0.8.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.868/33868-080.zip">
-  <front>
-    <title>Study on security aspects of Machine-Type Communications (MTC) and other mobile data applications communications enhancements</title>
-    <author fullname="RAJADURAI, Rajavelsamy">
-      <organization>Samsung R&amp;D Institute UK</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

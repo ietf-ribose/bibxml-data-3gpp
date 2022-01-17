@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.582:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.582/24582-e10.zip">
-  <front>
-    <title>Mission Critical Data (MCData) media plane control; Protocol specification</title>
-    <author fullname="LAZARA, Dominic">
-      <organization>Motorola Solutions UK Ltd.</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

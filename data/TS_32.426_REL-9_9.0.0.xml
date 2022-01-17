@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.426:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.426/32426-900.zip">
-  <front>
-    <title>Telecommunication management; Performance Management (PM); Performance measurements Evolved Packet Core (EPC) network</title>
-    <author fullname="LI, Jian">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

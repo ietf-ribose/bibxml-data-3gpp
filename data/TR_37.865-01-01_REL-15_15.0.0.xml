@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.865-01-01:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.865-01-01/37865-01-01-f00.zip">
-  <front>
-    <title>NR Carrier Aggregation for intra-band (m Down Link (DL) / 1 Up Link (UL) bands) and inter-band (n Down Link (DL) / 1 Up Link (UL) bands)</title>
-    <author fullname="LINDELL, Per">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

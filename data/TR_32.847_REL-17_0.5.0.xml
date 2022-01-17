@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.847:Rel-17/0.5.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.847/32847-050.zip">
-  <front>
-    <title>Study on Charging Aspects for Network Slicing Phase 2</title>
-    <author fullname="GÖRMER, Gerald">
-      <organization>MATRIXX Software</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

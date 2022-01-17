@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.815:Rel-13/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.815/22815-030.zip">
-  <front>
-    <title>Study on Multimedia Broadcast Supplement for Public Warning System (MBSP)</title>
-    <author fullname="HALL, Edward">
-      <organization>Qualcomm UK Ltd</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

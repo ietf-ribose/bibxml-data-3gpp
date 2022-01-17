@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.833-4:Rel-12/0.6.0">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band non-contiguous Carrier Aggregation (CA) for 2 uplinks (2UL); Framework</title>
-    <author fullname="VASENKARI, Petri">
-      <organization>Nokia Networks Oy</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

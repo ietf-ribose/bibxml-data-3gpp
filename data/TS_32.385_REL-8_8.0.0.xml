@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.385:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.385/32385-800.zip">
-  <front>
-    <title>Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP): eXtensible Markup Language (XML) file format definition</title>
-    <author fullname="POLLAKOWSKI, Olaf">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

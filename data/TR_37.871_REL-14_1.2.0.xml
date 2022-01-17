@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.871:Rel-14/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.871/37871-120.zip">
-  <front>
-    <title>E-UTRA, UTRA and GSM/EDGE; Multi-Band Base Station testing with three or more bands</title>
-    <author fullname="NG, Man Hung">
-      <organization>Alcatel-Lucent</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

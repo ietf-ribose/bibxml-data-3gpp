@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.457:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.457/36457-e00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); SLm interface layer 1</title>
-    <author fullname="BROOKS, Terri">
-      <organization>TruePosition</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

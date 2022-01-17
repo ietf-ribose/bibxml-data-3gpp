@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.513:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.513/29513-100.zip">
-  <front>
-    <title>5G System; Policy and Charging Control signalling flows and QoS parameter mapping; Stage 3</title>
-    <author fullname="YAN, Xiaojian">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

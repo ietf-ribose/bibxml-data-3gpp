@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.276:Rel-16/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.276/36276-010.zip">
-  <front>
-    <title>Overall description of LTE-based 5G broadcast</title>
-    <author fullname="RICO ALVARINO, Alberto">
-      <organization>Qualcomm Incorporated</organization>
-    </author>
-    <workgroup>R1</workgroup>
-  </front>
-</reference>

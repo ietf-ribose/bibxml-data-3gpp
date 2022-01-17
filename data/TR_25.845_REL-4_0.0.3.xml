@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.845:Rel-4/0.0.3" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.845/25845-003.zip">
-  <front>
-    <title>FDD RACH and AICH performance requirements</title>
-    <author fullname="VIHRIÄLÄ, Jaakko">
-      <organization>Nokia Corporation</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.28.401:Rel-11/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.401/28401-010.zip">
-  <front>
-    <title>Telecommunication management; Performance Management (PM); Performance measurements for Core Network (CN) and non-3GPP access Interworking System</title>
-    <author fullname="CHEN, Gang">
-      <organization>China Mobile US Research Cente</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

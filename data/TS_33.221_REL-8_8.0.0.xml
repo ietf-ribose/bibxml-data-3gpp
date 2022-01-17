@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.221:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.221/33221-800.zip">
-  <front>
-    <title>Generic Authentication Architecture (GAA); Support for subscriber certificates</title>
-    <author fullname="JERICHOW, Anja">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

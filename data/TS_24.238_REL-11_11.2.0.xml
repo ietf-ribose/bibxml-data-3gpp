@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.238:Rel-11/11.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.238/24238-b20.zip">
-  <front>
-    <title>Session Initiation Protocol (SIP) based user configuration; Stage 3</title>
-    <author fullname="LEIS, Peter">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

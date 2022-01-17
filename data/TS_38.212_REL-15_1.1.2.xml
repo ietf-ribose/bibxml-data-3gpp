@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.212:Rel-15/1.1.2" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.212/38212-112.zip">
-  <front>
-    <title>NR; Multiplexing and channel coding</title>
-    <author fullname="CHENG, Yan">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>R1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.642:Rel-8/8.5.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.642/32642-850.zip">
-  <front>
-    <title>Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Network Resource Model (NRM)</title>
-    <author fullname="PETERSEN, Robert">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

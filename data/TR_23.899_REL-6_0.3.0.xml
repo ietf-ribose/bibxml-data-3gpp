@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.899:Rel-6/0.3.0">
-  <front>
-    <title>Combining Circuit Switched (CS) bearers with IP Multimeida Subsystem (IMS)</title>
-    <author fullname="WATSON, Mark">
-      <organization>Digital Fountain</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

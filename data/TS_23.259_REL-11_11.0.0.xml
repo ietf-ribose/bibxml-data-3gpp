@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.259:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.259/23259-b00.zip">
-  <front>
-    <title>Personal Network Management (PNM); Procedures and information flows; Stage 2</title>
-    <author fullname="LU, Yang">
-      <organization>Vodafone GmbH</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.857:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.857/22857-200.zip">
-  <front>
-    <title>Run-time independent framework feasibility study</title>
-    <author fullname="BERTENYI, Balazs">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

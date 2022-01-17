@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.29.935:Rel-10/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.935/29935-010.zip">
-  <front>
-    <title>Study on User Data Convergence (UDC) data model</title>
-    <author fullname="FICACCIO, Mauro">
-      <organization>TELECOM ITALIA S.p.A.</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

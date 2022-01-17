@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.48.049:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/48_series/48.049/48049-a10.zip">
-  <front>
-    <title>Base Station Controller - Cell Broadcast Centre (BSC-CBC) interface specification; Cell Broadcast Service Protocol (CBSP)</title>
-    <author fullname="PERSSON, Claes-Göran">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

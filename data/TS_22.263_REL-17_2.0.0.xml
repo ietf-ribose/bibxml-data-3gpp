@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.263:Rel-17/2.0.0" target="http://ftp.3gpp.org//Specs/archive/22_series/22.263/22263-200.zip">
-  <front>
-    <title>Service requirements for Video, Imaging and Audio for Professional Applications (VIAPA)</title>
-    <author fullname="WAGDIN, Ian">
-      <organization>BBC</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

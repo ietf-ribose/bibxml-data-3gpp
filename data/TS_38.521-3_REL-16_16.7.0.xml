@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.521-3:Rel-16/16.7.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-3/38521-3-g70.zip">
-  <front>
-    <title>NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios</title>
-    <author fullname="WANG, Kevin">
-      <organization>Qualcomm Incorporated</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

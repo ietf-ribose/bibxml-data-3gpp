@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.220:Rel-11/11.4.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.220/33220-b40.zip">
-  <front>
-    <title>Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture (GBA)</title>
-    <author fullname="JERICHOW, Anja">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

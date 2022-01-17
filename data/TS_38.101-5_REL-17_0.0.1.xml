@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.101-5:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.101-5/38101-5-001.zip">
-  <front>
-    <title>NR; User Equipment (UE) radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance requirements</title>
-    <author fullname="JIN, Yiran">
-      <organization>Samsung R&amp;D Institute UK</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

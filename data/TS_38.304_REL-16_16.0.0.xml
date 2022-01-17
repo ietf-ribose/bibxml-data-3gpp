@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.304:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.304/38304-g00.zip">
-  <front>
-    <title>NR; User Equipment (UE) procedures in idle mode and in RRC Inactive state</title>
-    <author fullname="OZTURK, Ozcan">
-      <organization>Qualcomm CDMA Technologies</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

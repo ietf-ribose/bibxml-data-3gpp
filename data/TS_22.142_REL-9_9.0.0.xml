@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.142:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.142/22142-900.zip">
-  <front>
-    <title>Value Added Services (VAS)  for Short Message Service (SMS) requirements</title>
-    <author fullname="HUANG, Qing">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

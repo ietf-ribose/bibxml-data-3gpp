@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.854:Rel-17/2.0.0" target="http://ftp.3gpp.org//Specs/archive/22_series/22.854/22854-200.zip">
-  <front>
-    <title>Feasibility Study on Multimedia Priority Service (MPS) Phase 2</title>
-    <author fullname="SINGH, Ray">
-      <organization>Vencore Labs</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

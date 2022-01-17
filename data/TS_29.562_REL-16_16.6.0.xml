@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.562:Rel-16/16.6.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.562/29562-g60.zip">
-  <front>
-    <title>5G System; Home Subscriber Server (HSS) services; Stage 3</title>
-    <author fullname="DE GREGORIO, Jesus">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

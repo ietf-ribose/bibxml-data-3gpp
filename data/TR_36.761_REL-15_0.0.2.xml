@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.761:Rel-15/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.761/36761-002.zip">
-  <front>
-    <title>Extended-Band 12 new E-UTRA Band</title>
-    <author fullname="TESTA, Patrizia">
-      <organization>Ericsson GmbH, Eurolab</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

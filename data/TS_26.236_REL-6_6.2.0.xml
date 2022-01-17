@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.236:Rel-6/6.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.236/26236-620.zip">
-  <front>
-    <title>Packet switched conversational multimedia applications; Transport protocols</title>
-    <author fullname="JUNG, Kyunghun">
-      <organization>Samsung Electronics Co., Ltd</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

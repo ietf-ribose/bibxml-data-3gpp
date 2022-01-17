@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.954:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.954/25954-400.zip">
-  <front>
-    <title>Migration to modification procedure</title>
-    <author fullname="YOSHIMURA, Takayuki">
-      <organization>Vodafone K.K.</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

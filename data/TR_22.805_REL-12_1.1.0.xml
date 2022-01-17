@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.805:Rel-12/1.1.0">
-  <front>
-    <title>Feasibility study on user plane congestion management</title>
-    <author fullname="VISSER, John">
-      <organization>KDDI Corporation</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

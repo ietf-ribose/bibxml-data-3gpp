@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.859:Rel-11/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.859/33859-200.zip">
-  <front>
-    <title>Study on the Introduction of Key Hierarchy in Universal Terrestrial Radio Access Network (UTRAN)</title>
-    <author fullname="NORRMAN, Karl">
-      <organization>Nanjing Ericsson Panda Com Ltd</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

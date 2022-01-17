@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.647:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.647/24647-910.zip">
-  <front>
-    <title>Advice Of Charge (AOC) using IP Multimedia (IM) Core Network (CN) subsystem</title>
-    <author fullname="AXELL, Jörgen">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

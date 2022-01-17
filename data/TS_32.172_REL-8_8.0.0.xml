@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.172:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.172/32172-800.zip">
-  <front>
-    <title>Telecommunication management; Subscription Management (SuM) Network Resource Model (NRM) Integration Reference Point (IRP): Information Service (IS)</title>
-    <author fullname="TOVINGER, Thomas">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

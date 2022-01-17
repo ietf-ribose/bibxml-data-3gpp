@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.946:Rel-4/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.946/25946-011.zip">
-  <front>
-    <title>RAB Quality of Service (QoS) Negotiation over Iu</title>
-    <author fullname="VESELY, Alexander">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

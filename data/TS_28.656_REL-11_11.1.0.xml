@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.28.656:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.656/28656-b10.zip">
-  <front>
-    <title>Telecommunication management; GSM/EDGE Radio Access Network (GERAN) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions</title>
-    <author fullname="TOVINGER, Thomas">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.150:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.150/26150-100.zip">
-  <front>
-    <title>Syndicated Feed Reception (SFR) within 3GPP environments; Protocols and codecs</title>
-    <author fullname="LOHMAR, Thorsten">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

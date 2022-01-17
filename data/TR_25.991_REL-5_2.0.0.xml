@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.991:Rel-5/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.991/25991-200.zip">
-  <front>
-    <title>Feasibility study on the mitigation of the effect of common pilot channel (CPICH) interference at the user equipment</title>
-    <author fullname="MOSHAVI, Shimon">
-      <organization>Marvell Semiconductor</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

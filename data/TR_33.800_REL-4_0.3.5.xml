@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.800:Rel-4/0.3.5">
-  <front>
-    <title>Principles for Network Domain Security</title>
-    <author fullname="ESCOTT, Adrian">
-      <organization>Qualcomm CDMA Technologies</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

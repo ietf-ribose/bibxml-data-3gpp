@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.163:Rel-10/10.15.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.163/29163-af0.zip">
-  <front>
-    <title>Interworking between the IP Multimedia (IM) Core Network (CN) subsystem and Circuit Switched (CS) networks</title>
-    <author fullname="BELLING, Thomas">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

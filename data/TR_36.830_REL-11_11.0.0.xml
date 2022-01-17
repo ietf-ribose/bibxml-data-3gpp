@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.830:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.830/36830-b00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced Carrier Aggregation (CA) in band 38</title>
-    <author fullname="ZHANG, Ronnie">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

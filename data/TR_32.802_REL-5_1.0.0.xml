@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.802:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.802/32802-100.zip">
-  <front>
-    <title>Telecommunication management; User Equipment Management (UEM) feasibility study</title>
-    <author fullname="TOCHE, Christian">
-      <organization>Huawei Technologies France</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

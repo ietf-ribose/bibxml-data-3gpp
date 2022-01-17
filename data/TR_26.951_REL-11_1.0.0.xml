@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.951:Rel-11/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.951/26951-100.zip">
-  <front>
-    <title>Enhancements to Multimedia (EMM); EMM, DDE and IPME Aspects</title>
-    <author fullname="LIU, Hang">
-      <organization>InterDigital Communications</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.340:Rel-15/15.14.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.340/37340-fe0.zip">
-  <front>
-    <title>NR; Multi-connectivity; Overall description; Stage-2</title>
-    <author fullname="PAROLARI, Sergio">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

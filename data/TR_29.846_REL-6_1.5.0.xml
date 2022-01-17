@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.29.846:Rel-6/1.5.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.846/29846-150.zip">
-  <front>
-    <title>Multimedia Broadcast/Multicast Service (MBMS); CN1 procedure description</title>
-    <author fullname="HERRERO-VERON, Christian">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

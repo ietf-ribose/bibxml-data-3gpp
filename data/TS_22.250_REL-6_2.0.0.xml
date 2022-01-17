@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.250:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.250/22250-200.zip">
-  <front>
-    <title>IP Multimedia Subsystem (IMS) Group Management; Stage 1</title>
-    <author fullname="MIETTINEN, Natalia">
-      <organization>NOKIA UK R&amp;D Ltd</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.825:Rel-16/0.3.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.825/37825-030.zip">
-  <front>
-    <title>High power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE TDD band + 1 NR TDD band)</title>
-    <author fullname="SHAO, Zhe">
-      <organization>China Mobile Group Device Co.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

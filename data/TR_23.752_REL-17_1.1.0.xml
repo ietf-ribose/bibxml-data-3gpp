@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.752:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.752/23752-110.zip">
-  <front>
-    <title>Study on system enhancement for Proximity based Services (ProSe) in the 5G System (5GS)</title>
-    <author fullname="DENG, Qiang">
-      <organization>CATT</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

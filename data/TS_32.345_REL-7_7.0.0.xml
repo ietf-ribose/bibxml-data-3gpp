@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.345:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.345/32345-700.zip">
-  <front>
-    <title>Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions</title>
-    <author fullname="ZOU, Lan">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

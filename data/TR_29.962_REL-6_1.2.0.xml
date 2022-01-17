@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.29.962:Rel-6/1.2.0">
-  <front>
-    <title>Signalling interworking between the 3GPP profile of the Session Initiation Protocol (SIP) and non-3GPP SIP usage</title>
-    <author fullname="BELLING, Thomas">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

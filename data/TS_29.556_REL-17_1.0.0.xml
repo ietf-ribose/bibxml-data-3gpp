@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.556:Rel-17/1.0.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.556/29556-100.zip">
-  <front>
-    <title>Edge Application Server Discovery Services; Stage 3</title>
-    <author fullname="QI, Caixia">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.117:Rel-13/13.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.117/36117-d01.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Relay conformance testing</title>
-    <author fullname="HOYMANN, Christian">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="3GPP.TS.13.02:Ph2/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/13_series/13.02/1302-401.zip">
-  <front>
-    <title>Attachment requirements for mobile stations in the DCS 1800 band and additional GSM 900 band; Access</title>
-    <workgroup>MSG</workgroup>
-    <workgroup>G3new</workgroup>
-    <workgroup>SMG07</workgroup>
-  </front>
-</reference>

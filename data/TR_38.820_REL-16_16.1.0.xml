@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.820:Rel-16/16.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.820/38820-g10.zip">
-  <front>
-    <title>Study on the 7 to 24 GHz frequency range for NR</title>
-    <author fullname="SZYDELKO, Michal">
-      <organization>Huawei Technologies Sweden AB</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

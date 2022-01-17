@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.35.223:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/35_series/35.223/35223-c00.zip">
-  <front>
-    <title>Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 &amp; EIA3; Document 3: Implementors' test data</title>
-    <author fullname="QI, Yuan">
-      <organization>RITT</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

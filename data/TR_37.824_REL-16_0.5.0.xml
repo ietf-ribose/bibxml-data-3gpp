@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.824:Rel-16/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.824/37824-050.zip">
-  <front>
-    <title>Coexistence between NB-IoT and NR</title>
-    <author fullname="SUBRAMANI, Siva">
-      <organization>Futurewei Technologies</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

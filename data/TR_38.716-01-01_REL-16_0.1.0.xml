@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.716-01-01:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.716-01-01/38716-01-01-010.zip">
-  <front>
-    <title>NR intra band Carrier Aggregation (CA) Rel-16 for xCC Down Link (DL) / yCC Up Link (UL) including contiguous and non-contiguous spectrum (x &gt;= y)</title>
-    <author fullname="LINDELL, Per">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

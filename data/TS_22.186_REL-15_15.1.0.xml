@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.186:Rel-15/15.1.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.186/22186-f10.zip">
-  <front>
-    <title>Service requirements for enhanced V2X scenarios</title>
-    <author fullname="CHUN, SungDuck">
-      <organization>LG Electronics France</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

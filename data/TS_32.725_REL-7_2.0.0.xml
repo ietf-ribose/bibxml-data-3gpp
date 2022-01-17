@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.725:Rel-7/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.725/32725-200.zip">
-  <front>
-    <title>Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition</title>
-    <author fullname="HU, Yaxi">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

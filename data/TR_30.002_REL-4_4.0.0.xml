@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.30.002:Rel-4/4.0.0" target="http://www.3gpp.org/ftp/Specs/archive/30_series/30.002/30002-400.zip">
-  <front>
-    <title>Guidelines for the modification of the Mobile Application Part (MAP)</title>
-    <author fullname="WIEHE, Ulrich">
-      <organization>Nokia Solutions &amp; Networks (S)</organization>
-    </author>
-    <workgroup>N4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.301:Rel-4/4.0.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.301/32301-401.zip">
-  <front>
-    <title>Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP); Requirements</title>
-    <author fullname="TOCHE, Christian">
-      <organization>Huawei Technologies France</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

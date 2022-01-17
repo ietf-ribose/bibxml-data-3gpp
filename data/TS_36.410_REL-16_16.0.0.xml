@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.410:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.410/36410-g00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 general aspects and principles</title>
-    <author fullname="GODIN, Philippe">
-      <organization>Alcatel-Lucent</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

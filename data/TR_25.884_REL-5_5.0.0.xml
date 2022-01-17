@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.884:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.884/25884-500.zip">
-  <front>
-    <title>Iur Neighbouring cell reporting efficiency optimisation</title>
-    <author fullname="MYHRE, Elena">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

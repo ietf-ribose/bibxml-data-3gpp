@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.29.803:Rel-8/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.803/29803-030.zip">
-  <front>
-    <title>3GPP System Architecture Evolution (SAE): CT WG4 aspects</title>
-    <author fullname="LAVASANI, Shahab">
-      <organization>Huawei Technologies Sweden AB</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

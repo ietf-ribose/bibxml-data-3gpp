@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.251:Rel-10/10.8.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.251/32251-a80.zip">
-  <front>
-    <title>Telecommunication management;Charging management;Packet Switched (PS) domain charging</title>
-    <author fullname="GARDELLA, Maryse">
-      <organization>Alcatel-Lucent</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.872:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.872/37872-030.zip">
-  <front>
-    <title>Supplementary uplink (SUL) and LTE-NR co-existence</title>
-    <author fullname="LIU, Ye">
-      <organization>Huawei Technologies France</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

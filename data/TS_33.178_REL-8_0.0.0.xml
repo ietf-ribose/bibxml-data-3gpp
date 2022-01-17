@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.178:Rel-8/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.178/33178-000.zip">
-  <front>
-    <title>Security aspects of early IP Multimedia Subsystem (IMS)</title>
-    <author fullname="HOWARD, Peter">
-      <organization>VODAFONE Group Plc</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

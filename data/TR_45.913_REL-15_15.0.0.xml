@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.45.913:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.913/45913-f00.zip">
-  <front>
-    <title>Optimized transmit pulse shape for downlink Enhanced General Packet Radio Service (EGPRS2-B)</title>
-    <author fullname="DWYER, Johanna">
-      <organization>BlackBerry UK Limited</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

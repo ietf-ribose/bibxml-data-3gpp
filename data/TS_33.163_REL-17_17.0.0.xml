@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.163:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.163/33163-h00.zip">
-  <front>
-    <title>Battery Efficient Security for very low throughput Machine Type Communication (MTC) devices (BEST)</title>
-    <author fullname="EVANS, Tim P.">
-      <organization>VODAFONE Group Plc</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

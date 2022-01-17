@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.828:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/37_series/37.828/37828-001.zip">
-  <front>
-    <title>High-power UE operation for fixed-wireless/vehicle-mounted use cases in LTE bands and NR bands</title>
-    <author fullname="VASENKARI, Petri">
-      <organization>Nokia Corporation</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

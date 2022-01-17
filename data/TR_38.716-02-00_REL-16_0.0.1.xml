@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.716-02-00:Rel-16/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.716-02-00/38716-02-00-001.zip">
-  <front>
-    <title>NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 2 bands Down Link (DL) / x bands Up Link (UL) (x = 1, 2)</title>
-    <author fullname="CAO, Aijun">
-      <organization>ZTE Wistron Telecom AB</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

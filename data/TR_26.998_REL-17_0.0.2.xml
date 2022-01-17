@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.998:Rel-17/0.0.2" target="http://ftp.3gpp.org//Specs/archive/26_series/26.998/26998-002.zip">
-  <front>
-    <title>Support of 5G glass-type Augmented Reality / Mixed Reality (AR/MR) devices</title>
-    <author fullname="LEE, Hakju Ryan">
-      <organization>Samsung R&amp;D Institute UK</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

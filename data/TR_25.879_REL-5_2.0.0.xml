@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.879:Rel-5/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.879/25879-200.zip">
-  <front>
-    <title>Separation of resource reservation and radio link activation</title>
-    <author fullname="VAN LIESHOUT, Gert-Jan">
-      <organization>Samsung R&amp;D Institute UK</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

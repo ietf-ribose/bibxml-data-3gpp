@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.884:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.884/36884-100.zip">
-  <front>
-    <title>Performance requirements of MMSE-IRC receiver for LTE BS</title>
-    <author fullname="YANG, Shan">
-      <organization>China Telecommunications</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

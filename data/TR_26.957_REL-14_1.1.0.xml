@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.957:Rel-14/1.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.957/26957-110.zip">
-  <front>
-    <title>Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP (DASH) (SAND) for 3GPP multimedia services</title>
-    <author fullname="OYMAN, Ozgur">
-      <organization>Intel Corporation (UK) Ltd</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

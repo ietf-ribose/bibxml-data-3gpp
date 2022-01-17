@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.770:Rel-13/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.770/23770-010.zip">
-  <front>
-    <title>Study on system impacts of extended Discontinuous Reception (DRX) cycle for power consumption optimization</title>
-    <author fullname="GRIOT, Miguel">
-      <organization>Qualcomm Korea</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

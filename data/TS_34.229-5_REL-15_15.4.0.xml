@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.34.229-5:Rel-15/15.4.0" target="https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-5/34229-5-f40.zip">
-  <front>
-    <title>Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 5: Protocol conformance specification using 5G System (5GS)</title>
-    <author fullname="ROHNERT, Hans">
-      <organization>ROHDE &amp; SCHWARZ</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

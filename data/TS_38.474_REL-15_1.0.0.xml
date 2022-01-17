@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.474:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.474/38474-100.zip">
-  <front>
-    <title>NG-RAN; F1 data transport</title>
-    <author fullname="HAN, Jaemin">
-      <organization>Intel Technology India Pvt Ltd</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

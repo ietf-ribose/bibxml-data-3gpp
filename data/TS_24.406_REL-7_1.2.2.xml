@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.406:Rel-7/1.2.2" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.406/24406-122.zip">
-  <front>
-    <title>TISPAN; PSTN/ISDN simulation services; Message Waiting Indication (MWI): Protocol specification</title>
-    <author fullname="LEIS, Peter">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

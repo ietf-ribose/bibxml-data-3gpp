@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.855:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.855/25855-500.zip">
-  <front>
-    <title>High Speed Downlink Packet Access (HSDPA); Overall UTRAN description</title>
-    <author fullname="KUCHIBHOTLA, Ravi">
-      <organization>Motorola Mobility UK Ltd.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

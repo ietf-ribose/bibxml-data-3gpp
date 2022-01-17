@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.815:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.815/38815-001.zip">
-  <front>
-    <title>New frequency range for NR (24.25-29.5 GHz)</title>
-    <author fullname="KIM, Taekhoon">
-      <organization>Samsung Electronics Co., Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

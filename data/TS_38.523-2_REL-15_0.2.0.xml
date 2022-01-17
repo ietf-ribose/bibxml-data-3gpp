@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.523-2:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.523-2/38523-2-020.zip">
-  <front>
-    <title>5GS; User Equipment (UE) conformance specification; Part 2: Applicability of protocol test cases</title>
-    <author fullname="CHERUVU, Bharadwaj Kumar">
-      <organization>Qualcomm CDMA Technologies</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

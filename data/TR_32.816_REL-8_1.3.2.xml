@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.816:Rel-8/1.3.2" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.816/32816-132.zip">
-  <front>
-    <title>Telecommunication management; Study on management of Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Evolved Packet Core (EPC)</title>
-    <author fullname="PETERSEN, Robert">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

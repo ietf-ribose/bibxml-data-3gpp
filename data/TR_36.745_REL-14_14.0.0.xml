@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.745:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.745/36745-e00.zip">
-  <front>
-    <title>Feasibility study on global application of LTE Band 11 and of LTE Band 21 User Equipments (UEs)</title>
-    <author fullname="KIHARA, Kenichi">
-      <organization>SoftBank Corp.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

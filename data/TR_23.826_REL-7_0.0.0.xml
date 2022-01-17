@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.826:Rel-7/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.826/23826-000.zip">
-  <front>
-    <title>Feasibility study on Voice Call Continuity (VCC) support for emergency calls</title>
-    <author fullname="EDGE, Stephen">
-      <organization>Qualcomm CDMA Technologies</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

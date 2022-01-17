@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.535:Rel-17/1.0.0" target="https://ftp.3gpp.org//Specs/archive/29_series/29.535/29535-100.zip">
-  <front>
-    <title>5G System; AKMA Anchor Services; Stage 3</title>
-    <author fullname="HUANG, Zhenning">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

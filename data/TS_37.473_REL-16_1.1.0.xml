@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.473:Rel-16/1.1.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.473/37473-110.zip">
-  <front>
-    <title>W1 interface; Application Protocol (W1AP)</title>
-    <author fullname="CAO, Gen">
-      <organization>China Unicom</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

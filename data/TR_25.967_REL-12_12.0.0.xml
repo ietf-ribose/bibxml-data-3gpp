@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.967:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.967/25967-c00.zip">
-  <front>
-    <title>Home Node B (HNB) Radio Frequency (RF) requirements (FDD)</title>
-    <author fullname="THOMAS, Howard">
-      <organization>Waiting for new Company</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

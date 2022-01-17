@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.24.883:Rel-16/0.1.1" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.883/24883-011.zip">
-  <front>
-    <title>Mission Critical (MC) systems connection to  Land Mobile Radio (LMR) systems; Stage-3</title>
-    <author fullname="MONNES, Peter">
-      <organization>L3Harris Technologies</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

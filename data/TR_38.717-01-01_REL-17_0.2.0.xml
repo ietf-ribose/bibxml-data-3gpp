@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.717-01-01:Rel-17/0.2.0">
-  <front>
-    <title>Rel-17 NR intra band Carrier Aggregation for xCC DL/yCC UL including contiguous and non-contiguous spectrum (x&gt;=y)</title>
-    <author fullname="LINDELL, Per">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

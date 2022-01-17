@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.109:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.109/24109-b30.zip">
-  <front>
-    <title>Bootstrapping interface (Ub) and network application function interface (Ua); Protocol details</title>
-    <author fullname="LEIS, Peter">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.841:Rel-15/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.841/33841-030.zip">
-  <front>
-    <title>Study on the support of 256-bit algorithms for 5G</title>
-    <author fullname="EVANS, Tim P.">
-      <organization>VODAFONE Group Plc</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

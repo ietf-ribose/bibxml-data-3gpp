@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.238:Rel-16/16.4.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.238/26238-g40.zip">
-  <front>
-    <title>Uplink streaming</title>
-    <author fullname="PARK, Kyungmo">
-      <organization>Samsung Electronics Co., Ltd</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

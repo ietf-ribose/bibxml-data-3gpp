@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.841:Rel-12/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.841/36841-101.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Intra-band non-contiguous Carrier Aggregation (CA) for band 25 for LTE</title>
-    <author fullname="BAUSTERT, Nick">
-      <organization>SPRINT Corporation</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

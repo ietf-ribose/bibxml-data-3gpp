@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.141:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.141/32141-f00.zip">
-  <front>
-    <title>Telecommunication management; Subscription Management (SuM) architecture</title>
-    <author fullname="HESKIN, Eamon">
-      <organization>Deutsche Telekom AG</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.203:Rel-10/10.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.203/33203-a30.zip">
-  <front>
-    <title>3G security; Access security for IP-based services</title>
-    <author fullname="BEN HENDA, Noamen">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

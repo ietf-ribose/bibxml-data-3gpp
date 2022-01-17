@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.999:Rel-17/0.2.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.999/26999-020.zip">
-  <front>
-    <title>Virtual Reality (VR) streaming interoperability and characterization</title>
-    <author fullname="CURCIO, Igor">
-      <organization>Nokia Corporation</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

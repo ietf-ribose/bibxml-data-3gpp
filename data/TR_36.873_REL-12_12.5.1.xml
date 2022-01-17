@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.873:Rel-12/12.5.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.873/36873-c51.zip">
-  <front>
-    <title>Study on 3D channel model for LTE</title>
-    <author fullname="MONDAL, Bishwarup">
-      <organization>Nokia Solutions &amp; Networks (I)</organization>
-    </author>
-    <workgroup>R1</workgroup>
-  </front>
-</reference>

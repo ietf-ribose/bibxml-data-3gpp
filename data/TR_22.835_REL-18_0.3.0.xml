@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.835:Rel-18/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.835/22835-030.zip">
-  <front>
-    <title>Study on enhanced access to and support of network slices</title>
-    <author fullname="CHUN, SungDuck">
-      <organization>LG Electronics France</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

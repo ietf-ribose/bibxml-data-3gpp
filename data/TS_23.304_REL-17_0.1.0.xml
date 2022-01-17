@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.304:Rel-17/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.304/23304-010.zip">
-  <front>
-    <title>Proximity based Services (ProSe) in the 5G System (5GS)</title>
-    <author fullname="LIU, Jianhua">
-      <organization>Guangdong OPPO Mobile Telecom.</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

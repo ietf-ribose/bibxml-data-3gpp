@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.215:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.215/29215-820.zip">
-  <front>
-    <title>Policy and Charging Control (PCC) over S9 reference point; Stage 3</title>
-    <author fullname="FERNANDEZ, Susana">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

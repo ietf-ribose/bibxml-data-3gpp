@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.807:Rel-10/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.807/36807-010.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception</title>
-    <author fullname="FERNANDES, Edgar">
-      <organization>Dish Network</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

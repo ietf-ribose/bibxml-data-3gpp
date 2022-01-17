@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.931:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.931/36931-c00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Frequency (RF) requirements for LTE Pico Node B</title>
-    <author fullname="YIN, Liyan">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

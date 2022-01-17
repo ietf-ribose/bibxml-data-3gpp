@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.521-2:Rel-16/16.3.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.521-2/38521-2-g30.zip">
-  <front>
-    <title>NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 2: Range 2 standalone</title>
-    <author fullname="ZHANG, Yufeng">
-      <organization>CAICT</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

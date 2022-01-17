@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.866:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.866/25866-100.zip">
-  <front>
-    <title>1.28 Mcps TDD Home Node B (HNB) study item technical report</title>
-    <author fullname="LI, Rong">
-      <organization>TD Tech Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

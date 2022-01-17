@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.908:Rel-8/1.0.0">
-  <front>
-    <title>Study on Paging Permission with Access Control (PPAC)</title>
-    <author fullname="NOGUCHI, Katsuhiro">
-      <organization>NTT DOCOMO INC.</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

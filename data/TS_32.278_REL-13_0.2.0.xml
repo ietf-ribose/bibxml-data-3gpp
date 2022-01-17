@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.278:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.278/32278-020.zip">
-  <front>
-    <title>Telecommunication management;Charging management;Monitoring event charging</title>
-    <author fullname="LI, Li">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

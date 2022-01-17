@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.472:Rel-15/0.1.0">
-  <front>
-    <title>W1 interface; Signalling transport</title>
-    <author fullname="CAO, Gen">
-      <organization>China Unicom</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

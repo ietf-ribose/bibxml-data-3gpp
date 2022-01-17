@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.412:Rel-15/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.412/38412-010.zip">
-  <front>
-    <title>NG-RAN; NG signalling transport</title>
-    <author fullname="MIN, Tianyang">
-      <organization>NTT DOCOMO INC.</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

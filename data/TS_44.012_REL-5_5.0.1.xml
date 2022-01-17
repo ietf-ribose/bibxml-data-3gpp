@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.44.012:Rel-5/5.0.1" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.012/44012-501.zip">
-  <front>
-    <title>Short Message Service Cell Broadcast (SMSCB) support on the mobile radio interface</title>
-    <author fullname="ANDERSEN, Niels Peter Skov">
-      <organization>Anemone Technology</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.141-1:Rel-15/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.141-1/38141-1-100.zip">
-  <front>
-    <title>NR; Base Station (BS) conformance testing Part 1: Conducted conformance testing</title>
-    <author fullname="LIU, Ye">
-      <organization>Huawei Technologies France</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

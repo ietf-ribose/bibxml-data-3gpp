@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.904:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.904/22904-100.zip">
-  <front>
-    <title>Study on user-centric identifiers and authentication</title>
-    <author fullname="BISCHINGER, Kurt">
-      <organization>T-Mobile Austria GmbH</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

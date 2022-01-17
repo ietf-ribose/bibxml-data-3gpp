@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.105:Rel-16/16.5.0" target="https://www.3gpp.org/ftp//Specs/archive/37_series/37.105/37105-g50.zip">
-  <front>
-    <title>Active Antenna System (AAS) Base Station (BS) transmission and reception</title>
-    <author fullname="KYBETT, Richard">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

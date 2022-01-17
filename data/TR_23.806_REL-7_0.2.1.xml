@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.806:Rel-7/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.806/23806-021.zip">
-  <front>
-    <title>Voice call continuity between Circuit Switched (CS) and IP Multimedia Subsystem (IMS) Study</title>
-    <author fullname="BENNETT, Andy">
-      <organization>Cisco Systems Belgium</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.916:Rel-13/0.1.2" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.916/26916-012.zip">
-  <front>
-    <title>Media handling and Quality aspects of SRVCC</title>
-    <author fullname="GABIN, Frederic">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

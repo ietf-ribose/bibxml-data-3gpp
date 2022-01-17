@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.45.914:Rel-8/0.0.5">
-  <front>
-    <title>Circuit switched voice capacity evolution for GSM/EDGE Radio Access Network (GERAN)</title>
-    <author fullname="HOFMANN, Juergen">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

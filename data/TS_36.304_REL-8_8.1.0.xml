@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.304:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.304/36304-810.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) procedures in idle mode</title>
-    <author fullname="KOSKELA, Jarkko">
-      <organization>Nokia Networks Oy</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

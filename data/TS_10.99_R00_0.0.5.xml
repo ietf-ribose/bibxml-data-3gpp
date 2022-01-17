@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.10.99:R00/0.0.5" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.99/1099-005.zip">
-  <front>
-    <title>GERAN project plan and open issues</title>
-    <author fullname="MUELLER, Frank">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>-</workgroup>
-  </front>
-</reference>

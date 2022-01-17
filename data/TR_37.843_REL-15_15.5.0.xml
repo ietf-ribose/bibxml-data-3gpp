@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.843:Rel-15/15.5.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.843/37843-f50.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial Radio Access (UTRA); Radio Frequency (RF) requirement background for Active Antenna System (AAS) Base Station (BS) radiated requirements</title>
-    <author fullname="KYBETT, Richard">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

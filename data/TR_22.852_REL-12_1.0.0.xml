@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.852:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.852/22852-100.zip">
-  <front>
-    <title>Study on Radio Access Network (RAN) sharing enhancements</title>
-    <author fullname="SWETINA, Joerg">
-      <organization>NEC Europe Ltd</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

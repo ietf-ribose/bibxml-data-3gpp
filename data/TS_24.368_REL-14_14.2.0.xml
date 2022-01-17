@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.368:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.368/24368-e20.zip">
-  <front>
-    <title>Non-Access Stratum (NAS) configuration Management Object (MO)</title>
-    <author fullname="SEDLACEK, Ivo">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

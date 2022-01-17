@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.423:Rel-16/16.5.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.423/38423-g50.zip">
-  <front>
-    <title>NG-RAN; Xn Application Protocol (XnAP)</title>
-    <author fullname="VESELY, Alexander">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

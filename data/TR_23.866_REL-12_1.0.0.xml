@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.866:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.866/23866-100.zip">
-  <front>
-    <title>Study on system improvements for energy efficiency</title>
-    <author fullname="MADEMANN, Frank">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

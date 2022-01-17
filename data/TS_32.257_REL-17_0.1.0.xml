@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.257:Rel-17/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.257/32257-010.zip">
-  <front>
-    <title>Telecommunication management; Charging management; Edge Computing domain charging; stage 2</title>
-    <author fullname="YAO, Yizhi">
-      <organization>Intel Corporation (UK) Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

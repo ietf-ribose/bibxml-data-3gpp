@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.521:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.521/23521-800.zip">
-  <front>
-    <title>Telecommunications and Internet converged Services and Protocols for Advanced Networks (TISPAN); Support of Short Message Service (SMS) over NGN IMS subsystem; Stage 2; [Endorsement of 3GPP TS 23.204 Release 7]</title>
-    <author fullname="BERTENYI, Balazs">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

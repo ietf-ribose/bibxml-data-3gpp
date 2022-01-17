@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.519:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.519/22519-c00.zip">
-  <front>
-    <title>Business communication requirements</title>
-    <author fullname="COVELL, Betsy">
-      <organization>Alcatel-Lucent Telecom Ltd</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

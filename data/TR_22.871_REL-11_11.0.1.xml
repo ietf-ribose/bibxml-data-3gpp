@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.871:Rel-11/11.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.871/22871-b01.zip">
-  <front>
-    <title>Study on non-voice emergency services</title>
-    <author fullname="WILLIAMS, David Hugh">
-      <organization>Qualcomm UK Ltd</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

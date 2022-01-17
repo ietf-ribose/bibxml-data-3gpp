@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.25.172:Rel-10/10.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.172/25172-a10.zip">
-  <front>
-    <title>Requirements for support of Assisted Galileo and Additional Navigation Satellite Systems (A-GANSS) Frequency Division Duplex (FDD)</title>
-    <author fullname="MONNERAT, Michel">
-      <organization>THALES</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

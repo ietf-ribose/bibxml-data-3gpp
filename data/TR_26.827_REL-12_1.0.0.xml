@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.827:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.827/26827-100.zip">
-  <front>
-    <title>IP Multimedia Subsystem (IMS) based streaming and download delivery enhancements</title>
-    <author fullname="OYMAN, Ozgur">
-      <organization>Intel Corporation (UK) Ltd</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

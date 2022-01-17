@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.717-02-01:Rel-17/0.0.1" target="http://ftp.3gpp.org//Specs/archive/36_series/36.717-02-01/36717-02-01-001.zip">
-  <front>
-    <title>Rel-17 LTE inter-band Carrier Aggregation for 2 bands DL with 1 band UL</title>
-    <author fullname="HAN, Bin">
-      <organization>Qualcomm Incorporated</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

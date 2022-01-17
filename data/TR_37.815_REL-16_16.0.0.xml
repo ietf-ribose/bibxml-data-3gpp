@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.815:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.815/37815-g00.zip">
-  <front>
-    <title>Study on high power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE FDD band + 1 NR TDD band)</title>
-    <author fullname="WANG, WEI">
-      <organization>China Unicom</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

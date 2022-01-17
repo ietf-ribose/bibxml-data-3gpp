@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.922:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.922/26922-g00.zip">
-  <front>
-    <title>Video telephony robustness improvements extensions; Performance evaluation</title>
-    <author fullname="COBAN, Muhammed">
-      <organization>Qualcomm UK Ltd</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

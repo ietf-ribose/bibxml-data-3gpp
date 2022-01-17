@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.755:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.755/32755-810.zip">
-  <front>
-    <title>Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions</title>
-    <author fullname="ZHANG, Kai">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

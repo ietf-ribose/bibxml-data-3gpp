@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.856:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.856/33856-100.zip">
-  <front>
-    <title>Study on security aspects of single radio voice continuity from 5G to UTRAN</title>
-    <author fullname="GAO, Feng">
-      <organization>China Unicom</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

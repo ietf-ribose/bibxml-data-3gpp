@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.306:Rel-15/15.5.0" target="http://www.3gpp.org/ftp//Specs/archive/38_series/38.306/38306-f50.zip">
-  <front>
-    <title>NR; User Equipment (UE) radio access capabilities</title>
-    <author fullname="LIM, Seau Sian">
-      <organization>Intel K.K.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

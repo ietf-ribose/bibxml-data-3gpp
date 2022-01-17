@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.43.935:Rel-7/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.935/43935-010.zip">
-  <front>
-    <title>Feasibility study of enhanced support for video telephony service over GERAN via the A interface</title>
-    <author fullname="ERIKSSON LÖWENMARK, Stefan">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>G1</workgroup>
-  </front>
-</reference>

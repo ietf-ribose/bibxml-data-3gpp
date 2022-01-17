@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.421:Rel-15/15.1.0" target="http://www.3gpp.org/ftp//Specs/archive/32_series/32.421/32421-f10.zip">
-  <front>
-    <title>Telecommunication management; Subscriber and equipment trace; Trace concepts and requirements</title>
-    <author fullname="ZOU, Lan">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

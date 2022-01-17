@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.32.848:Rel-15/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.848/32848-060.zip">
-  <front>
-    <title>Study on Volume based charging aspects for Voice Over LTE (VoLTE)</title>
-    <author fullname="CHEN, Ai">
-      <organization>China Mobile US Research Cente</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

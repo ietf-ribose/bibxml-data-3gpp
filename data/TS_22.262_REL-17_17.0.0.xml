@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.262:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.262/22262-h00.zip">
-  <front>
-    <title>Message service within the 5G System (5GS); Stage 1</title>
-    <author fullname="ZHENG, Jianping">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

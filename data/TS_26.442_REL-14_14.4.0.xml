@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.442:Rel-14/14.4.0" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.442/26442-e40.zip">
-  <front>
-    <title>Codec for Enhanced Voice Services (EVS); ANSI C code (fixed-point)</title>
-    <author fullname="DOEHLA, Stefan">
-      <organization>Fraunhofer IIS</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

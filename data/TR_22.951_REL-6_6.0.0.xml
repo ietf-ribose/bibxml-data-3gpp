@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.951:Rel-6/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.951/22951-600.zip">
-  <front>
-    <title>Service aspects and requirements for network sharing</title>
-    <author fullname="SULTAN, Alain">
-      <organization>ETSI</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

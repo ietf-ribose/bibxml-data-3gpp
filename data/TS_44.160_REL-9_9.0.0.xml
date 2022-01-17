@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.44.160:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/44_series/44.160/44160-900.zip">
-  <front>
-    <title>General Packet Radio Service (GPRS); Mobile Station (MS) - Base Station System (BSS) interface; Radio Link Control / Medium Access Control (RLC/MAC) protocol Iu mode</title>
-    <author fullname="SEBIRE, Guillaume">
-      <organization>MediaTek Inc.</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

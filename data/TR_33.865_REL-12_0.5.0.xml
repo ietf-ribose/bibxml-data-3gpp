@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.865:Rel-12/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.865/33865-050.zip">
-  <front>
-    <title>Security Aspects of WLAN Network Selection for 3GPP Terminals</title>
-    <author fullname="XU, Lydia">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.272:Rel-8/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.272/23272-200.zip">
-  <front>
-    <title>Circuit Switched (CS) fallback in Evolved Packet System (EPS); Stage 2</title>
-    <author fullname="DEMEL, Sabine">
-      <organization>Deutsche Telekom AG</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

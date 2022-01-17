@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.214:Rel-15/15.12.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.214/38214-fc0.zip">
-  <front>
-    <title>NR; Physical layer procedures for data</title>
-    <author fullname="ENESCU, Mihai">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>R1</workgroup>
-  </front>
-</reference>

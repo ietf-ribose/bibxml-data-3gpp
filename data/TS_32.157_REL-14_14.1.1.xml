@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.157:Rel-14/14.1.1" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.157/32157-e11.zip">
-  <front>
-    <title>Telecommunication management; Integration Reference Point (IRP) Information Service (IS) template</title>
-    <author fullname="TSE, Edwin">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

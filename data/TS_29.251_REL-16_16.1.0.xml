@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.251:Rel-16/16.1.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.251/29251-g10.zip">
-  <front>
-    <title>Gw and Gwn reference point for sponsored data connectivity</title>
-    <author fullname="ZHOU, Xiaoyun">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.446:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.446/32446-d00.zip">
-  <front>
-    <title>Telecommunication management; Trace Management Integration Reference Point (IRP); Solution Set (SS) definitions</title>
-    <author fullname="ZOU, Lan">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

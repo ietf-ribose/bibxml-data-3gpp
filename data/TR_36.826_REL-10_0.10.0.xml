@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.826:Rel-10/0.10.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.826/36826-0a0.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Relay radio transmission and reception</title>
-    <author fullname="HOYMANN, Christian">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

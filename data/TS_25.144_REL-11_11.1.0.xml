@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.25.144:Rel-11/11.1.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.144/25144-b10.zip">
-  <front>
-    <title>User Equipment (UE) and Mobile Station (MS) over the air performance requirements</title>
-    <author fullname="BERGLJUNG, Christian">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

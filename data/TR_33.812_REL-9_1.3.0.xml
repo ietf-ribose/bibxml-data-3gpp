@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.812:Rel-9/1.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.812/33812-130.zip">
-  <front>
-    <title>Feasibility study on the security aspects of remote provisioning and change of subscription for Machine to Machine (M2M) equipment</title>
-    <author fullname="LEHTOVIRTA, Vesa">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

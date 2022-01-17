@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.854:Rel-10/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.854/23854-050.zip">
-  <front>
-    <title>Enhancements for Multimedia Priority Service (MPS)</title>
-    <author fullname="KATSUTOSHI, Nishida">
-      <organization>NTT DOCOMO INC.</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

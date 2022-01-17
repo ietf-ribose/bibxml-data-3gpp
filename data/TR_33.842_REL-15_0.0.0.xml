@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.842:Rel-15/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.842/33842-000.zip">
-  <front>
-    <title>Study on Lawful Interception (LI) service in 5G</title>
-    <author fullname="MCQUAID, Gerald">
-      <organization>VODAFONE Group Plc</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

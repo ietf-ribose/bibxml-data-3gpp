@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.884:Rel-9/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.884/23884-010.zip">
-  <front>
-    <title>Local Call Local Switching, Feasibility Study</title>
-    <author fullname="HUTTON, David">
-      <organization>GSM Association</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

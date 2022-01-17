@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.793:Rel-16/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.793/23793-040.zip">
-  <front>
-    <title>Study on access traffic steering, switch and splitting support in the 5G System (5GS) architecture</title>
-    <author fullname="SO, Tricci">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

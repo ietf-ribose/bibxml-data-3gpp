@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.21.902:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.902/21902-a00.zip">
-  <front>
-    <title>Evolution of 3GPP system</title>
-    <author fullname="BISHOP, Craig">
-      <organization>Bishop Communications Ltd</organization>
-    </author>
-    <workgroup>SP</workgroup>
-  </front>
-</reference>

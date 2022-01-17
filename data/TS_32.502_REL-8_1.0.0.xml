@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.502:Rel-8/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.502/32502-100.zip">
-  <front>
-    <title>Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP); Information Service (IS)</title>
-    <author fullname="ANDRIANOV, Anatoly">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

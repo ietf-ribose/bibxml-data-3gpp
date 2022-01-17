@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.998:Rel-6/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.998/25998-001.zip">
-  <front>
-    <title>UTRAN recommendation and UE allowance for non-essential corrections of a feature made only in a later release</title>
-    <author fullname="FAUCONNIER, Denis">
-      <organization>Alcatel-Lucent</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

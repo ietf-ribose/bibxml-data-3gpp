@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.455:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.455/38455-f00.zip">
-  <front>
-    <title>NG-RAN; NR Positioning Protocol A (NRPPa)</title>
-    <author fullname="LYAZIDI, Yazid">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

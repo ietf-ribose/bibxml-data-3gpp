@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.237:Rel-9/9.4.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.237/24237-940.zip">
-  <front>
-    <title>IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem (IMS) service continuity; Stage 3</title>
-    <author fullname="SHAH, Sapan">
-      <organization>Samsung R&amp;D Institute India</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

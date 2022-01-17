@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.853:Rel-17/1.6.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.853/33853-160.zip">
-  <front>
-    <title>Study on key issues and potential solutions for integrity protection of the User Plane (UP)</title>
-    <author fullname="EVANS, Tim P.">
-      <organization>VODAFONE Group Plc</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

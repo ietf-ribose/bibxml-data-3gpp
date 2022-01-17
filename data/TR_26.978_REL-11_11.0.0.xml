@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.978:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.978/26978-b00.zip">
-  <front>
-    <title>Results of the Adaptive Multi-Rate (AMR) noise suppression selection phase</title>
-    <author fullname="USAI, Paolino">
-      <organization>ETSI</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

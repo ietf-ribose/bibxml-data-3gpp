@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.174:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.174/22174-c00.zip">
-  <front>
-    <title>Push Service; Service aspects; Stage 1</title>
-    <author fullname="MUSTAPHA, Mona">
-      <organization>VODAFONE Group Plc</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

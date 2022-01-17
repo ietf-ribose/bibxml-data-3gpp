@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.106:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.106/37106-f00.zip">
-  <front>
-    <title>User Equipment (UE) requirements for shared spectrum channel access</title>
-    <author fullname="LIU, Ye">
-      <organization>Huawei Technologies France</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.508:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.508/32508-e00.zip">
-  <front>
-    <title>Telecommunication management; Procedure flows for multi-vendor plug-and-play eNode B connection to the network</title>
-    <author fullname="ANDRIANOV, Anatoly">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

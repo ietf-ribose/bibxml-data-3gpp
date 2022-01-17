@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.275:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.275/24275-g00.zip">
-  <front>
-    <title>Management Object (MO) for Basic Communication Part (BCP) of IMS Multimedia Telephony (MMTEL) communication service</title>
-    <author fullname="LAUSTER, Reinhard">
-      <organization>Deutsche Telekom AG</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

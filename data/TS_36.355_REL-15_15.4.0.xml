@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.355:Rel-15/15.4.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.355/36355-f40.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Positioning Protocol (LPP)</title>
-    <author fullname="KITAZOE, Masato">
-      <organization>QUALCOMM JAPAN LLC.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

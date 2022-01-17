@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.335:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.335/23335-910.zip">
-  <front>
-    <title>User Data Convergence (UDC); Technical realization and information flows; Stage 2</title>
-    <author fullname="BARTOLOME, Maria-Cruz">
-      <organization>Nanjing Ericsson Panda Com Ltd</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

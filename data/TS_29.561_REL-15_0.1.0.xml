@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.561:Rel-15/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.561/29561-010.zip">
-  <front>
-    <title>5G System; Interworking between 5G Network and external Data Networks; Stage 3</title>
-    <author fullname="LIANG, Tianmei">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

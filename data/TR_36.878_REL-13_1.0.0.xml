@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.878:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.878/36878-100.zip">
-  <front>
-    <title>Study on performance enhancements for high speed scenario in LTE</title>
-    <author fullname="HAN, Jing">
-      <organization>Huawei Technologies France</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

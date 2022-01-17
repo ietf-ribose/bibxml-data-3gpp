@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.268:Rel-11/11.3.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.268/22268-b30.zip">
-  <front>
-    <title>Public Warning System (PWS) requirements</title>
-    <author fullname="YOUNGE, Mark">
-      <organization>T-Mobile USA Inc.</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

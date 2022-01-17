@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.855:Rel-13/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.855/36855-100.zip">
-  <front>
-    <title>Feasibility of positioning enhancements for E-UTRA</title>
-    <author fullname="CUI, Jie">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

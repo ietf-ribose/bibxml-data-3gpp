@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.133:Rel-14/14.14.0" target="http://www.3gpp.org/ftp//Specs/archive/36_series/36.133/36133-ee0.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for support of radio resource management</title>
-    <author fullname="THANGARASA, Santhan">
-      <organization>Ericsson Hungary Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

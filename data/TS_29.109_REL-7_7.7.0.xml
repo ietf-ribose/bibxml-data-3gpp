@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.109:Rel-7/7.7.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.109/29109-770.zip">
-  <front>
-    <title>Generic Authentication Architecture (GAA); Zh and Zn Interfaces based on the Diameter protocol; Stage 3</title>
-    <author fullname="WIEHE, Ulrich">
-      <organization>Nokia Solutions &amp; Networks (S)</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

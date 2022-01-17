@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.761:Rel-17/0.0.0" target="http://www.3gpp.org/ftp//Specs/archive/23_series/23.761/23761-000.zip">
-  <front>
-    <title>Study on system enablers for devices having multiple Universal Subscriber Identity Modules (USIM)</title>
-    <author fullname="STOJANOVSKI, Saso">
-      <organization>Intel Deutschland GmbH</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

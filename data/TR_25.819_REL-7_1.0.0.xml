@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.819:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.819/25819-100.zip">
-  <front>
-    <title>7.68 Mcps TDD option: Layer 2 and 3 protocol aspects</title>
-    <author fullname="RICHARDS, Derek">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.717-03-02:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.717-03-02/36717-03-02-030.zip">
-  <front>
-    <title>Rel-17 LTE inter-band Carrier Aggregation for x bands DL (x= 3, 4, 5) with 2 bands UL</title>
-    <author fullname="LIM, Suhwan">
-      <organization>LG Electronics Inc.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

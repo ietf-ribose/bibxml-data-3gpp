@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.654:Rel-8/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.654/24654-830.zip">
-  <front>
-    <title>Closed User Group (CUG) using IP Multimedia (IM) Core Network (CN) subsystem, Protocol Specification</title>
-    <author fullname="KREIPL, Michael">
-      <organization>Deutsche Telekom AG</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

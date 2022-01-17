@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.174:Rel-16/1.2.1" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.174/24174-121.zip">
-  <front>
-    <title>Support of multi-device and multi-identity in the IP Multimedia Subsystem (IMS); Stage 3</title>
-    <author fullname="AXELL, Jörgen">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.114:Rel-11/11.11.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.114/26114-bb0.zip">
-  <front>
-    <title>IP Multimedia Subsystem (IMS); Multimedia telephony; Media handling and interaction</title>
-    <author fullname="JUNG, Kyunghun">
-      <organization>Facebook</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

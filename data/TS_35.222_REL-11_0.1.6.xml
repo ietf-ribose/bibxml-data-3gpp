@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.35.222:Rel-11/0.1.6">
-  <front>
-    <title>Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 &amp; EIA3; Document 2: ZUC specification</title>
-    <author fullname="QI, Yuan">
-      <organization>RITT</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

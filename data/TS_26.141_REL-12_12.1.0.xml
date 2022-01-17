@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.141:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.141/26141-c10.zip">
-  <front>
-    <title>IP Multimedia System (IMS) Messaging and Presence; Media formats and codecs</title>
-    <author fullname="GABIN, Frederic">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

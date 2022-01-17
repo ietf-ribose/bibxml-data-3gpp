@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.531:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.531/29531-h10.zip">
-  <front>
-    <title>5G System; Network Slice Selection Services; Stage 3</title>
-    <author fullname="ZHANG, Hao">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>C4</workgroup>
-  </front>
-</reference>

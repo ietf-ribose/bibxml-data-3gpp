@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.926:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.926/33926-e00.zip">
-  <front>
-    <title>Security Assurance Specification (SCAS) threats and critical assets  in 3GPP network product classes</title>
-    <author fullname="WONG, Marcus">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

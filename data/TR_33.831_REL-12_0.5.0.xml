@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.831:Rel-12/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.831/33831-050.zip">
-  <front>
-    <title>Study on security on spoofed call detection and prevention (Stage 2)</title>
-    <author fullname="LI, Xiangjun">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

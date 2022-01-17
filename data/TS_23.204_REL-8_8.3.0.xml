@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.204:Rel-8/8.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.204/23204-830.zip">
-  <front>
-    <title>Support of Short Message Service (SMS) over generic 3GPP Internet Protocol (IP) access; Stage 2</title>
-    <author fullname="ZHANG, Wenlin">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.143:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.143/36143-c00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); FDD repeater conformance testing</title>
-    <author fullname="AHLSTRÖM, Alf">
-      <organization>Huawei Technologies Sweden AB</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.224:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.224/33224-c00.zip">
-  <front>
-    <title>Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture (GBA) push layer</title>
-    <author fullname="BLOM, Rolf">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

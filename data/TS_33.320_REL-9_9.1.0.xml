@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.320:Rel-9/9.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.320/33320-910.zip">
-  <front>
-    <title>Security of Home Node B (HNB) / Home evolved Node B (HeNB)</title>
-    <author fullname="WONG, Marcus">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

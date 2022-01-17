@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.809:Rel-12/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.809/36809-100.zip">
-  <front>
-    <title>Radio Frequency (RF) pattern matching location method in LTE</title>
-    <author fullname="GORDON, Scot">
-      <organization>Polaris Wireless</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

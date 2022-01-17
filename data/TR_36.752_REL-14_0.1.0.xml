@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.752:Rel-14/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.752/36752-010.zip">
-  <front>
-    <title>Study of Narrow-Band Internet of Things (NB-IoT) Radio Frequency (RF) requirement to co-existence with Code Division Multiple Access (CDMA)</title>
-    <author fullname="ZHAO, Dong">
-      <organization>China Telecommunications</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.716-41-22:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.716-41-22/37716-41-22-g00.zip">
-  <front>
-    <title>Dual Connectivity (EN-DC) of LTE inter-band CA xDL/1UL bands (x=2,3,4) and NR FR1 1DL/1UL band and NR FR2 1DL/1UL band</title>
-    <author fullname="OGUMA, Yuta">
-      <organization>NTT DOCOMO INC.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.245:Rel-6/0.1.4">
-  <front>
-    <title>Transparent end-to-end Packet switched Streaming Service (PSS); Timed text format</title>
-    <author fullname="SINGER, David">
-      <organization>Apple (UK) Limited</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.43.900:Rel-5/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.900/43900-100.zip">
-  <front>
-    <title>Support for voice optimization for the IMS in the GERAN</title>
-    <author fullname="GUARINO, Bernard">
-      <organization>Waiting for new Company</organization>
-    </author>
-    <workgroup>G1</workgroup>
-  </front>
-</reference>

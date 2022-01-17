@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.305:Rel-9/9.8.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.305/36305-980.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Stage 2 functional specification of User Equipment (UE) positioning in E-UTRAN</title>
-    <author fullname="KITAZOE, Masato">
-      <organization>QUALCOMM JAPAN LLC.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

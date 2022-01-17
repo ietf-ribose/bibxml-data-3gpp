@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.292:Rel-12/12.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.292/29292-c00.zip">
-  <front>
-    <title>Interworking between the IP Multimedia (IM) Core Network (CN) subsystem (IMS) and MSC Server for IMS Centralized Services (ICS)</title>
-    <author fullname="BIONDIC, Nevenka">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

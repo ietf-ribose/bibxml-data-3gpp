@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.749:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.749/36749-e00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); New AWS Band for LTE</title>
-    <author fullname="FERNANDES, Edgar">
-      <organization>Dish Network</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

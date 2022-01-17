@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.43.064:Rel-5/5.2.0" target="http://www.3gpp.org/ftp/Specs/archive/43_series/43.064/43064-520.zip">
-  <front>
-    <title>General Packet Radio Service (GPRS); Overall description of the GPRS radio interface; Stage 2</title>
-    <author fullname="HOFMANN, Juergen">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

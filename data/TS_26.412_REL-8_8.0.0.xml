@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.412:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.412/26412-800.zip">
-  <front>
-    <title>Source code for 3GP file format</title>
-    <author fullname="SINGER, David">
-      <organization>Apple (UK) Limited</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

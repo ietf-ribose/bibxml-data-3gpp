@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.853:Rel-11/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.853/23853-040.zip">
-  <front>
-    <title>Operator Policies for IP Interface Selection (OPIIS)</title>
-    <author fullname="KIM, Taehyeon">
-      <organization>LG Electronics France</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

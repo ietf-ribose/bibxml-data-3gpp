@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.28.633:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/28_series/28.633/28633-b00.zip">
-  <front>
-    <title>Telecommunication management; Inventory Management (IM) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions</title>
-    <author fullname="ZHU, Weihong">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.451:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.451/24451-810.zip">
-  <front>
-    <title>TISPAN; Support of SMS and MMS over NGN IMS subsystem; Stage 3 [Endorsement of 3GPP TS 24.341 Release 7]</title>
-    <author fullname="LEIS, Peter">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

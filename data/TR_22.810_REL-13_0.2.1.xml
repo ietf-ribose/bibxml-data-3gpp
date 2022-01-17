@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.810:Rel-13/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.810/22810-021.zip">
-  <front>
-    <title>Study of enhanced call information presentation</title>
-    <author fullname="LI, Xiaofan">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.25.703:Rel-12/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.703/25703-040.zip">
-  <front>
-    <title>Universal Terrestrial Radio Access (E-UTRA); Study on Home Node B (HNB) emergency warning area</title>
-    <author fullname="SHI, Nianshan">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

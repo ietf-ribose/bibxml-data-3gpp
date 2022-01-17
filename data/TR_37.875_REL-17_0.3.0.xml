@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.875:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.875/37875-030.zip">
-  <front>
-    <title>Band combinations for Uu and V2X con-current operation</title>
-    <author fullname="SONG, Yuexia">
-      <organization>CATT</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

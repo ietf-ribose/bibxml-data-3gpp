@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.240:Rel-5/0.6.1">
-  <front>
-    <title>3GPP Generic User Profile (GUP); Architecture (Stage 2)</title>
-    <author fullname="KOSKINEN, Harri">
-      <organization>VTT</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.23.069:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.069/23069-300.zip">
-  <front>
-    <title>Voice Broadcast service (VBS); Stage 2</title>
-    <author fullname="DETTNER, Harald">
-      <organization>Hillebrand GmbH</organization>
-    </author>
-    <workgroup>N1</workgroup>
-  </front>
-</reference>

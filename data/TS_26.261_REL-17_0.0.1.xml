@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.26.261:Rel-17/0.0.1" target="http://www.3gpp.org/ftp//Specs/archive/26_series/26.261/26261-001.zip">
-  <front>
-    <title>Terminal audio quality performance requirements for immersive audio services</title>
-    <author fullname="RAGOT, Stephane">
-      <organization>Orange</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

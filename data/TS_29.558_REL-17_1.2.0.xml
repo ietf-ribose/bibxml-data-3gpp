@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.29.558:Rel-17/1.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.558/29558-120.zip">
-  <front>
-    <title>Enabling Edge Applications; Application Programming Interface (API) specification; Stage 3</title>
-    <author fullname="TANGUDU, Narendranath Durga">
-      <organization>Samsung R&amp;D Institute India</organization>
-    </author>
-    <workgroup>C3</workgroup>
-  </front>
-</reference>

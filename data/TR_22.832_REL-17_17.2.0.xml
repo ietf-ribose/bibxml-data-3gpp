@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.832:Rel-17/17.2.0" target="http://www.3gpp.org/ftp//Specs/archive/22_series/22.832/22832-h20.zip">
-  <front>
-    <title>Study on enhancements for cyber-physical control applications in vertical domains</title>
-    <author fullname="BAHR, Michael">
-      <organization>Siemens AG</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

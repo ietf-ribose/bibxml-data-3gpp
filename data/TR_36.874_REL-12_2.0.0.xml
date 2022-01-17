@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.874:Rel-12/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.874/36874-200.zip">
-  <front>
-    <title>Coordinated multi-point operation for LTE with non-ideal backhaul</title>
-    <author fullname="LEE, Hyojin">
-      <organization>Samsung Electronics Co., Ltd</organization>
-    </author>
-    <workgroup>R1</workgroup>
-  </front>
-</reference>

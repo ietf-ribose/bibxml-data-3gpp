@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.705:Rel-12/0.7.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.705/23705-070.zip">
-  <front>
-    <title>Study on system enhancements for user plane congestion management</title>
-    <author fullname="GOLDNER, Alla">
-      <organization>Allot Communications Ltd.</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

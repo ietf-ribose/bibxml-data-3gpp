@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.952:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.952/22952-b00.zip">
-  <front>
-    <title>Priority service guide</title>
-    <author fullname="GARRAHAN, James">
-      <organization>Applied Communication Sciences</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

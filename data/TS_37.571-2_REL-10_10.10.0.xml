@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.571-2:Rel-10/10.10.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-2/37571-2-aa0.zip">
-  <front>
-    <title>User Equipment (UE) conformance specification for UE positioning; Part 2: Protocol conformance</title>
-    <author fullname="CATMUR, Richard">
-      <organization>Spirent Communications</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

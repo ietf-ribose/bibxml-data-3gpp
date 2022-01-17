@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.852:Rel-12/1.7.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.852/23852-171.zip">
-  <front>
-    <title>Study on S2a Mobility based on GPRS Tunnelling Protocol (GTP) and Wireless Local Area Network (WLAN) access to the Enhanced Packet Core (EPC) network (SaMOG); Stage 2</title>
-    <author fullname="ZHU, Chunhui">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

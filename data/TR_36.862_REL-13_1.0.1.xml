@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.862:Rel-13/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.862/36862-101.zip">
-  <front>
-    <title>Technical Report for 2 GHz Band in Region 1</title>
-    <author fullname="KIM, John">
-      <organization>Dish Network</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.109:Rel-6/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.109/33109-030.zip">
-  <front>
-    <title>Bootstrapping of application security using AKA and support for subscriber certificates; System description</title>
-    <author fullname="HAUKKA, Tao">
-      <organization>Nokia Corporation</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

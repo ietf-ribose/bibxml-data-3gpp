@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.463:Rel-13/1.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.463/36463-130.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Wireless Local Area Network (WLAN); Xw application protocol (XwAP)</title>
-    <author fullname="OZTURK, Ozcan">
-      <organization>Qualcomm CDMA Technologies</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

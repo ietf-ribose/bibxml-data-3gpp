@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.234:Rel-8/8.1.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.234/22234-811.zip">
-  <front>
-    <title>Requirements on 3GPP system to Wireless Local Area Network (WLAN) interworking</title>
-    <author fullname="BOOTE, Michael">
-      <organization>Alcatel-Lucent Telecom Ltd</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

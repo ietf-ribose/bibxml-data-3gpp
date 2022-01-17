@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.432:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.432/32432-d00.zip">
-  <front>
-    <title>Telecommunication management; Performance measurement: File format definition</title>
-    <author fullname="ZOU, Lan">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

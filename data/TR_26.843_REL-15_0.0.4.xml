@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.843:Rel-15/0.0.4" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.843/26843-004.zip">
-  <front>
-    <title>Codec for Enhanced Voice Services (EVS); Study on non-bit-exact conformance criteria and tools for floating-point EVS codec</title>
-    <author fullname="PLANTE, Fabrice">
-      <organization>Intel Deutschland GmbH</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.548:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.548/24548-030.zip">
-  <front>
-    <title>Network Resource Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification</title>
-    <author fullname="HERRERO-VERON, Christian">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.703:Rel-12/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.703/23703-010.zip">
-  <front>
-    <title>Study on architecture enhancements to support Proximity-based Services (ProSe)</title>
-    <author fullname="ZISIMOPOULOS, Haris">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

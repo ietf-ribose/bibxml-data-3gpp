@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.804:Rel-14/0.7.1" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.804/38804-071.zip">
-  <front>
-    <title>Study on new radio access technology Radio interface protocol aspects</title>
-    <author fullname="TAKAHASHI, Hideaki">
-      <organization>DOCOMO Communications Lab.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.886:Rel-16/16.2.0" target="https://www.3gpp.org/ftp//Specs/archive/38_series/38.886/38886-g20.zip">
-  <front>
-    <title>V2X Services based on NR; User Equipment (UE) radio transmission and reception</title>
-    <author fullname="LIM, Suhwan">
-      <organization>LG Electronics Inc.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

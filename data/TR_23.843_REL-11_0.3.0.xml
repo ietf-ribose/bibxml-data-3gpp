@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.843:Rel-11/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.843/23843-030.zip">
-  <front>
-    <title>Study on Core Network Overload (CNO) solutions</title>
-    <author fullname="SCHRAMM, Mirko">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

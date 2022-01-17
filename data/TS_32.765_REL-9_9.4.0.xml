@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.765:Rel-9/9.4.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.765/32765-940.zip">
-  <front>
-    <title>Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions</title>
-    <author fullname="LI, Gang">
-      <organization>Nokia Networks</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

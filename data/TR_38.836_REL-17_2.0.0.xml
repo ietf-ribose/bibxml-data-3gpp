@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.836:Rel-17/2.0.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.836/38836-200.zip">
-  <front>
-    <title>Study on NR sidelink relay</title>
-    <author fullname="LU, Qianxi">
-      <organization>Guangdong OPPO Mobile Telecom.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

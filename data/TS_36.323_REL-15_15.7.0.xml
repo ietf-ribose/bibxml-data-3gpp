@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.36.323:Rel-15/15.7.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.323/36323-f70.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Packet Data Convergence Protocol (PDCP) specification</title>
-    <author fullname="YI, SeungJune">
-      <organization>LG Electronics Inc.</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

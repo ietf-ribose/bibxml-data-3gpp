@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.717-00-00:Rel-17/0.2.0">
-  <front>
-    <title>Rel-17 band combinations for SA NR supplementary uplink (SUL), NSA NR SUL, NSA NR SUL with UL sharing from the UE perspective (ULSUP)</title>
-    <author fullname="ZHANG, Peng">
-      <organization>HUAWEI Technologies Japan K.K.</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

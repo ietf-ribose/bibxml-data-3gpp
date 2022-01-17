@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.801:Rel-14/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.801/38801-060.zip">
-  <front>
-    <title>Study on new radio access technology: Radio access architecture and interfaces</title>
-    <author fullname="UMESH, Anil">
-      <organization>NTT DOCOMO INC.</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

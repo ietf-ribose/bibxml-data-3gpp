@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.822:Rel-11/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.822/36822-200.zip">
-  <front>
-    <title>LTE Radio Access Network (RAN) enhancements for diverse data applications</title>
-    <author fullname="YOUNG, Gordon">
-      <organization>BlackBerry UK Limited</organization>
-    </author>
-    <workgroup>R2</workgroup>
-  </front>
-</reference>

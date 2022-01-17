@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.126:Rel-15/0.0.5" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.126/33126-005.zip">
-  <front>
-    <title>Lawful Interception requirements</title>
-    <author fullname="JASPERS, Koen">
-      <organization>PIDS</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

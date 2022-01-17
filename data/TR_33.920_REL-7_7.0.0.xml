@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.920:Rel-7/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.920/33920-700.zip">
-  <front>
-    <title>SIM card based Generic Bootstrapping Architecture (GBA); Early implementation feature</title>
-    <author fullname="HOLTMANNS, Silke">
-      <organization>Nokia Networks Oy</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.411:Rel-8/8.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.411/24411-820.zip">
-  <front>
-    <title>TISPAN; PSTN/ISDN simulation services: Anonymous Communication Rejection (ACR) and Communication Barring (CB); Protocol specification</title>
-    <author fullname="LEIS, Peter">
-      <organization>Nokia Germany</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.22.243:Rel-5/0.0.2">
-  <front>
-    <title>Speech recognition framework for automated voice services; Stage 1</title>
-    <author fullname="WILLIAMS, David Hugh">
-      <organization>Qualcomm UK Ltd</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.21.202:Rel-11/11.0.1" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.202/21202-b01.zip">
-  <front>
-    <title>Technical Specifications and Technical Reports relating to the Common IP Multimedia Subsystem (IMS)</title>
-    <author fullname="FIRMIN, Frederic">
-      <organization>ETSI</organization>
-    </author>
-    <workgroup>SP</workgroup>
-  </front>
-</reference>

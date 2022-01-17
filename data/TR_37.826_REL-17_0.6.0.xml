@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.826:Rel-17/0.6.0">
-  <front>
-    <title>High power UE (power class 2) for EN-DC with 1 LTE band + 1 NR TDD band</title>
-    <author fullname="BASAIER, JIALADE">
-      <organization>China Unicom</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

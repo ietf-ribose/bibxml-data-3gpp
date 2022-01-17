@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.716-00-00:Rel-16/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.716-00-00/37716-00-00-001.zip">
-  <front>
-    <title>Band combinations for Stand-Alone (SA) NR Supplementary UpLink (SUL), Non-Stand-Alone (NSA) NR SUL, NSA NR SUL with UL sharing from the UE perspective (ULSUP)</title>
-    <author fullname="LIU, Ye">
-      <organization>Huawei Technologies France</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

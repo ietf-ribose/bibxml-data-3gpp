@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.37.810:Rel-12/12.1.1" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.810/37810-c11.zip">
-  <front>
-    <title>Study of Base Station (BS) specification structure</title>
-    <author fullname="SKOLD, Johan">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.861:Rel-16/1.6.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.861/33861-160.zip">
-  <front>
-    <title>Study on evolution of Cellular Internet of Things (CIoT) security for the 5G System</title>
-    <author fullname="NORMANN, Henrik Andreas">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

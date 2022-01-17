@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.23.702:Rel-14/0.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.702/23702-000.zip">
-  <front>
-    <title>Study on 3GPP PS Data Off</title>
-    <author fullname="CAILLIERE, David">
-      <organization>Orange</organization>
-    </author>
-    <workgroup>S2</workgroup>
-  </front>
-</reference>

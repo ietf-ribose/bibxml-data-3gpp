@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.821:Rel-16/0.9.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.821/38821-090.zip">
-  <front>
-    <title>Solutions for NR to support Non-Terrestrial Networks (NTN)</title>
-    <author fullname="CHUBERRE, Nicolas">
-      <organization>THALES</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

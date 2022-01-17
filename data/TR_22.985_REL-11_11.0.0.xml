@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.22.985:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.985/22985-b00.zip">
-  <front>
-    <title>Service requirements for the User Data Convergence (UDC)</title>
-    <author fullname="LAN, Sizhong">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>S1</workgroup>
-  </front>
-</reference>

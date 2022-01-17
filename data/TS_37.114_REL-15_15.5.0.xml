@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.114:Rel-15/15.5.0" target="http://www.3gpp.org/ftp//Specs/archive/37_series/37.114/37114-f50.zip">
-  <front>
-    <title>Active Antenna System (AAS) Base Station (BS) Electromagnetic Compatibility (EMC)</title>
-    <author fullname="KYBETT, Richard">
-      <organization>Huawei Tech.(UK) Co.. Ltd</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

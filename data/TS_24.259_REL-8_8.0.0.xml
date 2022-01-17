@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.259:Rel-8/8.0.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.259/24259-800.zip">
-  <front>
-    <title>Personal Network Management (PNM); Stage 3</title>
-    <author fullname="LU, Yang">
-      <organization>Vodafone GmbH</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

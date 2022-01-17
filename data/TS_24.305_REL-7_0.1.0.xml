@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.305:Rel-7/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.305/24305-010.zip">
-  <front>
-    <title>Selective Disabling of 3GPP User Equipment Capabilities (SDoUE) Management Object (MO)</title>
-    <author fullname="HERRERO-VERON, Christian">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

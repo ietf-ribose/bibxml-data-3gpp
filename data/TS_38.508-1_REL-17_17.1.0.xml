@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.508-1:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-h10.zip">
-  <front>
-    <title>5GS; User Equipment (UE) conformance specification; Part 1: Common test environment</title>
-    <author fullname="JÖNSSON, Bo">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

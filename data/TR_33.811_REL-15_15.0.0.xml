@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.33.811:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.811/33811-f00.zip">
-  <front>
-    <title>Study on security aspects of 5G network slicing management</title>
-    <author fullname="LEI, Zander (Zhongding)">
-      <organization>HuaWei Technologies Co., Ltd</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

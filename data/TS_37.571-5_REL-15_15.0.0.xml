@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.37.571-5:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-5/37571-5-f00.zip">
-  <front>
-    <title>User Equipment (UE) conformance specification for UE positioning; Part 5: Test scenarios and assistance data</title>
-    <author fullname="CATMUR, Richard">
-      <organization>Spirent Communications</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

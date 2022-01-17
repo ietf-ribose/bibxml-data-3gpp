@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.43.129:Rel-6/0.1.0">
-  <front>
-    <title>Packet-switched handover for GERAN A/Gb mode; Stage 2</title>
-    <author fullname="DIACHINA, John">
-      <organization>Ericsson Inc.</organization>
-    </author>
-    <workgroup>RP</workgroup>
-  </front>
-</reference>

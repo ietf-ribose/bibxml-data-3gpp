@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.24.615:Rel-8/0.0.0">
-  <front>
-    <title>Communication Waiting (CW) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol Specification</title>
-    <author fullname="KREIPL, Michael">
-      <organization>Deutsche Telekom AG</organization>
-    </author>
-    <workgroup>C1</workgroup>
-  </front>
-</reference>

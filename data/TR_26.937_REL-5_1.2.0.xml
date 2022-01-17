@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.937:Rel-5/1.2.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.937/26937-120.zip">
-  <front>
-    <title>Transparent end-to-end Packet-switched Streaming Service (PSS); Real-time Transport Protocol (RTP) usage model</title>
-    <author fullname="CURCIO, Igor">
-      <organization>Nokia Corporation</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

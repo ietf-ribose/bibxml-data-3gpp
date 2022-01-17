@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.32.240:Rel-14/14.2.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.240/32240-e20.zip">
-  <front>
-    <title>Telecommunication management; Charging management; Charging architecture and principles</title>
-    <author fullname="GARDELLA, Maryse">
-      <organization>Alcatel-Lucent</organization>
-    </author>
-    <workgroup>S5</workgroup>
-  </front>
-</reference>

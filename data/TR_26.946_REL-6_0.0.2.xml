@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.26.946:Rel-6/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.946/26946-002.zip">
-  <front>
-    <title>Multimedia Broadcast/Multicast Service (MBMS) user service guidelines</title>
-    <author fullname="LOHMAR, Thorsten">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>S4</workgroup>
-  </front>
-</reference>

@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.36.904:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.904/36904-d00.zip">
-  <front>
-    <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Derivation of test tolerances for User Equipment (UE) radio reception conformance tests</title>
-    <author fullname="KOLODZIEJ, Jakub">
-      <organization>Ericsson LM</organization>
-    </author>
-    <workgroup>R5</workgroup>
-  </front>
-</reference>

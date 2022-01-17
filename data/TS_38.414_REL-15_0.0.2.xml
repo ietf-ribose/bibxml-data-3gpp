@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.414:Rel-15/0.0.2" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.414/38414-002.zip">
-  <front>
-    <title>NG-RAN; NG data transport</title>
-    <author fullname="LI, Dapeng">
-      <organization>ZTE Corporation</organization>
-    </author>
-    <workgroup>R3</workgroup>
-  </front>
-</reference>

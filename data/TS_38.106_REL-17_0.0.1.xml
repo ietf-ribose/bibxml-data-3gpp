@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.106:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.106/38106-001.zip">
-  <front>
-    <title>NR repeater radio transmission and reception</title>
-    <author fullname="ZHANG, Xiaoran">
-      <organization>China Mobile Com. Corporation</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

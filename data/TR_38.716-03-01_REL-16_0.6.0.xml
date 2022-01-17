@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TR.38.716-03-01:Rel-16/0.6.0">
-  <front>
-    <title>NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 3 bands Down Link (DL) / 1 bands Up Link (UL)</title>
-    <author fullname="SONG, Yuexia">
-      <organization>CATT</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

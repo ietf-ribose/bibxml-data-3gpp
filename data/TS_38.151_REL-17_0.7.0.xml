@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.38.151:Rel-17/0.7.0">
-  <front>
-    <title>NR; User Equipment (UE)  Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance requirements</title>
-    <author fullname="WANG, Ruixin">
-      <organization>vivo Communication Technology</organization>
-    </author>
-    <workgroup>R4</workgroup>
-  </front>
-</reference>

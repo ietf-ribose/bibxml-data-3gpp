@@ -1,9 +1,0 @@
-<reference anchor="3GPP.TS.33.226:Rel-17/0.1.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.226/33226-010.zip">
-  <front>
-    <title>Security assurance for IP Multimedia Subsystem (IMS)</title>
-    <author fullname="ZHANG, Bo">
-      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
-    </author>
-    <workgroup>S3</workgroup>
-  </front>
-</reference>

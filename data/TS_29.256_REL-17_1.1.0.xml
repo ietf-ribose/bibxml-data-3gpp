@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.256:Rel-17/1.1.0">
+  <front>
+    <title>Uncrewed Aerial Systems Network Function (UAS-NF); Aerial Management Services; Stage 3</title>
+    <author fullname="ZIA, Waqar">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

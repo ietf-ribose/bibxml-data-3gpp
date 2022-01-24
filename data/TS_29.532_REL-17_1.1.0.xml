@@ -1,0 +1,9 @@
+<reference anchor="3GPP.TS.29.532:Rel-17/1.1.0">
+  <front>
+    <title>5G System; 5G Multicast-Broadcast Session Management Services; Stage 3</title>
+    <author fullname="GULBANI, Giorgi">
+      <organization>Huawei Technologies Sweden AB</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

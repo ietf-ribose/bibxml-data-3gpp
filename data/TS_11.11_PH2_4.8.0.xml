@@ -1,6 +1,9 @@
 <reference anchor="3GPP.TS.11.11:Ph2/4.8.0">
   <front>
     <title>Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) Interface</title>
+    <author fullname="L'HERITEAU, Denis">
+      <organization>Waiting for new Company</organization>
+    </author>
     <workgroup>C6</workgroup>
     <workgroup>SMG09</workgroup>
   </front>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.26.445:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.445/26445-e00.zip">
   <front>
     <title>Codec for Enhanced Voice Services (EVS); Detailed algorithmic description</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WANG, Bin">
       <organization>HUAWEI TECH. GmbH</organization>
     </author>

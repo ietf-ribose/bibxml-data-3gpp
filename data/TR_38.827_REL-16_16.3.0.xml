@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.38.827:Rel-16/16.3.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.827/38827-g30.zip">
   <front>
     <title>Study on radiated metrics and test methodology for the verification of multi-antenna reception performance of NR User Equipment (UE)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WANG, Ruixin">
       <organization>vivo Communication Technology</organization>
     </author>

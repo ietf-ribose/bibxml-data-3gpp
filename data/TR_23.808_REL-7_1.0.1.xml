@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.23.808:Rel-7/1.0.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.808/23808-101.zip">
   <front>
     <title>Supporting Globally Routable User Agent URI in IMS; Report and conclusions</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="BUCKLEY, Adrian">
       <organization>BlackBerry UK Limited</organization>
     </author>

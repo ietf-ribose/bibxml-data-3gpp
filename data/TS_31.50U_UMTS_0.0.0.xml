@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.31.50U:UMTS/0.0.0">
   <front>
     <title>Essential requirements for UMTS Mobile Stations (ME) operating within frequency bands 1885-1980, 2010-2025 and 2110-2200 MHz</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <workgroup/>
   </front>
 </reference>

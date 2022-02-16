@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.13.11:R98/1.1.4">
   <front>
     <title>Mobiles stations in the GSM 900 and DCS 1800 bands covering essential requirements under article 3.2 of the R&amp;TTE Directive</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <workgroup>MSG</workgroup>
     <workgroup>G3new</workgroup>
     <workgroup>SMG07</workgroup>

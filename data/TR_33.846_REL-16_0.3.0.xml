@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.33.846:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.846/33846-030.zip">
   <front>
     <title>Study on authentication enhancements in the 5G System (5GS)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="TSIATSIS, Vlasios">
       <organization>Ericsson LM</organization>
     </author>

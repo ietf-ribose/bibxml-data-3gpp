@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.03.82:Ph2/4.5.1" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.82/0382-451.zip">
   <front>
     <title>Call Forwarding (CF) Supplementary Services; Stage 2</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SCHMITT, Peter">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>

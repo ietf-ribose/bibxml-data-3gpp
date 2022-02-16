@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.25.430:Rel-9/9.0.1" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.430/25430-901.zip">
   <front>
     <title>UTRAN Iub Interface: general aspects and principles</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WILSON, Mick">
       <organization>FUJITSU Laboratories of Europe</organization>
     </author>

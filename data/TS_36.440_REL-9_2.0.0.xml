@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.36.440:Rel-9/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.440/36440-200.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); General aspects and principles for interfaces supporting Multimedia Broadcast Multicast Service (MBMS) within E-UTRAN</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="GODIN, Philippe">
       <organization>Alcatel-Lucent</organization>
     </author>

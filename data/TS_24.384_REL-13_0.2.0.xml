@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.24.384:Rel-13/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.384/24384-020.zip">
   <front>
     <title>Mission Critical Push To Talk (MCPTT) configuration management; Protocol specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="OPRESCU, Val">
       <organization>AT&amp;T</organization>
     </author>

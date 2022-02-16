@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.04.90:R97/6.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.90/0490-600.zip">
   <front>
     <title>Unstructured Supplementary Service Data (USSD)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HODGES, Phil">
       <organization>Ericsson LM</organization>
     </author>

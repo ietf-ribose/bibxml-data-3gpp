@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.55.236:Rel-6/0.1.0">
   <front>
     <title>Specification of A8_V MILENAGE Algorithm: An example algorithm for the key generation function A8_V</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="JERICHOW, Anja">
       <organization>Nokia Germany</organization>
     </author>

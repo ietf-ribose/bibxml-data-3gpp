@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.23.818:Rel-7/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.818/23818-010.zip">
   <front>
     <title>Optimisations and Enhancements for Realtime IMS Communication</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="TERRILL, Stephen">
       <organization>Ericsson LM</organization>
     </author>

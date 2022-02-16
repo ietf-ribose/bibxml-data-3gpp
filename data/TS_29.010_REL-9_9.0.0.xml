@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.010:Rel-9/9.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.010/29010-900.zip">
   <front>
     <title>Information element mapping between Mobile Station - Base Station System (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MSC); Signalling Procedures and the Mobile Application Part (MAP)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SCHMITT, Peter">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>

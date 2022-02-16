@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.09.78:R96/5.4.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.78/0978-540.zip">
   <front>
     <title>CAMEL Application Part phase 2 (stage 3)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HODGES, Phil">
       <organization>Ericsson LM</organization>
     </author>

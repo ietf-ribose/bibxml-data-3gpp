@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.328:Rel-12/12.4.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.328/29328-c40.zip">
   <front>
     <title>IP Multimedia (IM) Subsystem Sh interface; Signalling flows and message contents</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WIEHE, Ulrich">
       <organization>Nokia Solutions &amp; Networks (S)</organization>
     </author>

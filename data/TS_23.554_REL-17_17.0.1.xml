@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.23.554:Rel-17/17.0.1" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.554/23554-h01.zip">
   <front>
     <title>Application architecture for MSGin5G Service; Stage 2</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LIU, Yue">
       <organization>China Mobile Com. Corporation</organization>
     </author>

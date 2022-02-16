@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.23.746:Rel-14/0.4.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.746/23746-040.zip">
   <front>
     <title>Study on System Architecture Enhancements to eMBMS for Television Video Service</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="GRIOT, Miguel">
       <organization>Qualcomm UK Ltd</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.33.326:Rel-17/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.326/33326-030.zip">
   <front>
     <title>Security Assurance Specification (SCAS) for the Network Slice-Specific Authentication and Authorization Function (NSSAAF) network product class</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="RONG, Wu">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>

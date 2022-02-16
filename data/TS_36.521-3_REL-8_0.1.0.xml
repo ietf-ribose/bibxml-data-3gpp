@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.36.521-3:Rel-8/0.1.0">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Radio Resource Management (RRM) conformance testing</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="VORA, Mayur">
       <organization>Qualcomm UK Ltd</organization>
     </author>

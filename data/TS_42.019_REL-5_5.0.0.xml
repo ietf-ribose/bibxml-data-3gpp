@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.42.019:Rel-5/5.0.0" target="http://www.3gpp.org/ftp/Specs/archive/42_series/42.019/42019-500.zip">
   <front>
     <title>Subscriber Identity Module Application Programming Interface (SIM API); Stage 1</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HANS, Sebastian">
       <organization>Oracle Corporation</organization>
     </author>

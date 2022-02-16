@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.833-4:Rel-12/0.5.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-4/36833-4-050.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band non-contiguous Carrier Aggregation (CA) for 2 uplinks (2UL); Framework</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="VASENKARI, Petri">
       <organization>Nokia Networks Oy</organization>
     </author>

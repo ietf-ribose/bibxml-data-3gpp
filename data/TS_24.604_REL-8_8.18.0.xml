@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.24.604:Rel-8/8.18.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.604/24604-8I0.zip">
   <front>
     <title>Communication Diversion (CDIV) using IP Multimedia (IM) Core Network (CN) subsystem;  Protocol specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="BAKKER, John-Luc">
       <organization>BlackBerry UK Limited</organization>
     </author>

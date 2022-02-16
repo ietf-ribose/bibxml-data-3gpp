@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.24.980:Rel-13/2.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.980/24980-210.zip">
   <front>
     <title>Minimum requirements for support of MCPTT service over the Gm reference point</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="PATEL, Milan">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.503:Rel-15/15.4.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.503/29503-f40.zip">
   <front>
     <title>5G System; Unified Data Management Services; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WIEHE, Ulrich">
       <organization>Nokia Shanghai Bell</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.22.083:R99/3.0.1" target="http://www.3gpp.org/ftp/Specs/archive/22_series/22.083/22083-301.zip">
   <front>
     <title>Call Waiting (CW) and Call Holding (HOLD); Supplementary Services; Stage 1</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SCARRONE, Enrico">
       <organization>TELECOM ITALIA S.p.A.</organization>
     </author>

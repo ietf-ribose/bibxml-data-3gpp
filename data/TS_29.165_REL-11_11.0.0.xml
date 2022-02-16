@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.165:Rel-11/11.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.165/29165-b00.zip">
   <front>
     <title>Inter-IMS Network to Network Interface (NNI)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="QUERIO, Roberto">
       <organization>TELECOM ITALIA S.p.A.</organization>
     </author>

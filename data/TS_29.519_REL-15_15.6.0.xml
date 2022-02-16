@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.519:Rel-15/15.6.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.519/29519-f60.zip">
   <front>
     <title>5G System; Usage of the Unified Data Repository Service for Policy Data, Application Data and Structured Data for Exposure; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="YAN, Yali">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>

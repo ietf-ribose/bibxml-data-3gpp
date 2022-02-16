@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.23.261:Rel-10/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.261/23261-021.zip">
   <front>
     <title>IP flow mobility and seamless Wireless Local Area Network (WLAN) offload; Stage 2</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="GIARETTA, Gerardo">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>

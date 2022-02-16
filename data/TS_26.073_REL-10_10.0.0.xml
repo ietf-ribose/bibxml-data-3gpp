@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.26.073:Rel-10/10.0.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.073/26073-a00.zip">
   <front>
     <title>ANSI-C code for the Adaptive Multi Rate (AMR) speech codec</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="BRUHN, Stefan">
       <organization>Dolby Laboratories Inc.</organization>
     </author>

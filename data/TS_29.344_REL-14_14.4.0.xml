@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.344:Rel-14/14.4.0" target="http://www.3gpp.org/ftp//Specs/archive/29_series/29.344/29344-e40.zip">
   <front>
     <title>Proximity-services (ProSe) function to Home Subscriber Server (HSS) aspects; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SHI, Susan">
       <organization>HuaWei Technologies Co., Ltd</organization>
     </author>

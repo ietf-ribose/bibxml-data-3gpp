@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.120:Rel-15/15.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.120/29120-f00.zip">
   <front>
     <title>Mobile Application Part (MAP) specification for Gateway Location Register (GLR)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="MATSUURA, Takaaki">
       <organization>NTT DOCOMO INC.</organization>
     </author>

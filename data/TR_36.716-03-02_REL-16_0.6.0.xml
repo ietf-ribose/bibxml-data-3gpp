@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.716-03-02:Rel-16/0.6.0" target="http://ftp.3gpp.org//Specs/archive/36_series/36.716-03-02/36716-03-02-060.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-16 for x bands Down Link (DL) (x = 3, 4, 5) / 2 band Up Link (UL)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LIM, Suhwan">
       <organization>LG Electronics Inc.</organization>
     </author>

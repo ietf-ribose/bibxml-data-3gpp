@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.03.06:Ph1/0.3.0">
   <front>
     <title>Availability and Reliability Objectives</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <workgroup>SMG3</workgroup>
   </front>
 </reference>

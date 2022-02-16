@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.10.60:R96/5.3.1" target="http://www.3gpp.org/ftp/Specs/archive/10_series/10.60/1060-531.zip">
   <front>
     <title>General Packet Radio Services (GPRS); Project Scheduling and Open Issues</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="PETERSEN, Johan">
       <organization>Apica IT</organization>
     </author>

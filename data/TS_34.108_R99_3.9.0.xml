@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.34.108:R99/3.9.0" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-390.zip">
   <front>
     <title>Common test environments for User Equipment (UE); Conformance testing</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="MATTISSON, Leif">
       <organization>Ericsson LM</organization>
     </author>

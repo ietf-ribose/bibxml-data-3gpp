@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.32.765:Rel-8/8.1.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.765/32765-810.zip">
   <front>
     <title>Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LI, Gang">
       <organization>Nokia Networks</organization>
     </author>

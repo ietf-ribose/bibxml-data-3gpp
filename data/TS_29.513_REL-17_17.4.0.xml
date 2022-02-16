@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.29.513:Rel-17/17.4.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.513/29513-h40.zip">
   <front>
     <title>5G System; Policy and Charging Control signalling flows and QoS parameter mapping; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="YAN, Xiaojian">
       <organization>ZTE Corporation</organization>
     </author>

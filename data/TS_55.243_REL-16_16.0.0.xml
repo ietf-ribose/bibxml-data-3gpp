@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.55.243:Rel-16/16.0.0" target="http://www.3gpp.org/ftp//Specs/archive/55_series/55.243/55243-g00.zip">
   <front>
     <title>Specification of the GIA4 integrity algorithm for General Packet Radio Service (GPRS); Design conformance test data</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="EVANS, Tim P.">
       <organization>VODAFONE Group Plc</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.23.715:Rel-15/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.715/23715-010.zip">
   <front>
     <title>Study on system enhancements for provision of access to restricted local operator services by an unauthenticated User Equipment (UE)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="DREVON, Nicolas">
       <organization>Nokia Corporation</organization>
     </author>

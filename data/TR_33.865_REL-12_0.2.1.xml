@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.33.865:Rel-12/0.2.1" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.865/33865-021.zip">
   <front>
     <title>Security Aspects of WLAN Network Selection for 3GPP Terminals</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="XU, Lydia">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>

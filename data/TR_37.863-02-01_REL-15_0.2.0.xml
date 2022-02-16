@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.37.863-02-01:Rel-15/0.2.0" target="http://www.3gpp.org/ftp/Specs/archive/37_series/37.863-02-01/37863-02-01-020.zip">
   <front>
     <title>E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 2 Down Link (DL) / 1 Up Link (UL) and 1 NR band</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LIU, Ye">
       <organization>Huawei Technologies France</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.23.527:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.527/23527-h10.zip">
   <front>
     <title>5G System; Restoration procedures</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WILD, Peter A.">
       <organization>Vodafone GmbH</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.45.926:Rel-11/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.926/45926-060.zip">
   <front>
     <title>Solutions for GSM/EDGE Base Transceiver Station (BTS) energy saving</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HOFMANN, Juergen">
       <organization>Nokia Germany</organization>
     </author>

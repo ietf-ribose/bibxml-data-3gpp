@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.34.171:Rel-7/7.0.1" target="http://www.3gpp.org/ftp/Specs/archive/34_series/34.171/34171-701.zip">
   <front>
     <title>Terminal conformance specification; Assisted Global Positioning System (A-GPS); Frequency Division Duplex (FDD)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="CATMUR, Richard">
       <organization>Spirent Communications</organization>
     </author>

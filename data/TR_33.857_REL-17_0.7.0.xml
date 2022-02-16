@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.33.857:Rel-17/0.7.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.857/33857-070.zip">
   <front>
     <title>Study on enhanced security support for Non-Public Networks (NPN)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="JOST, Christine">
       <organization>Ericsson LM</organization>
     </author>

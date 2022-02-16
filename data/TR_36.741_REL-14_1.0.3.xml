@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.741:Rel-14/1.0.3">
   <front>
     <title>Study on further enhancements to Coordinated Multi-Point (CoMP) operation for LTE</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="ALEXEI, Davydov">
       <organization>Intel Corporation (UK) Ltd</organization>
     </author>

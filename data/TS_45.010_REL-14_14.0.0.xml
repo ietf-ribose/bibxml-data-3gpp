@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.45.010:Rel-14/14.0.0" target="http://www.3gpp.org/ftp/Specs/archive/45_series/45.010/45010-e00.zip">
   <front>
     <title>GSM/EDGE Radio subsystem synchronization</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LIBERG, Olof">
       <organization>Ericsson LM</organization>
     </author>

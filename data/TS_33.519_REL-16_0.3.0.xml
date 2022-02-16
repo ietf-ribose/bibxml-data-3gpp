@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.33.519:Rel-16/0.3.0" target="http://www.3gpp.org/ftp//Specs/archive/33_series/33.519/33519-030.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS) for the Network Exposure Function (NEF) network product class</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="PENG, Jin">
       <organization>ZTE Corporation</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.33.516:Rel-16/1.0.0" target="http://ftp.3gpp.org//Specs/archive/33_series/33.516/33516-100.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS) for the Authentication Server Function (AUSF) network product class</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="JOST, Christine">
       <organization>Ericsson LM</organization>
     </author>

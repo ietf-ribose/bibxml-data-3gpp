@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.04.85:R98/7.0.0" target="http://www.3gpp.org/ftp/Specs/archive/04_series/04.85/0485-700.zip">
   <front>
     <title>Closed User Group (CUG) Supplementary Services; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WIEHE, Ulrich">
       <organization>Nokia Solutions &amp; Networks (S)</organization>
     </author>

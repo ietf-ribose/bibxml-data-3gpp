@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.25.813:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.813/25813-100.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Radio interface protocol aspects</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SEBIRE, Benoist">
       <organization>Nokia Networks</organization>
     </author>

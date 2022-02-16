@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.38.826:Rel-16/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/38_series/38.826/38826-100.zip">
   <front>
     <title>Study on evaluation for 2 receiver exception in Rel-15 vehicle mounted User Equipment (UE) for NR</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LIM, Suhwan">
       <organization>LG Electronics Inc.</organization>
     </author>

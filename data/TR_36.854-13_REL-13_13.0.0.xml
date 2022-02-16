@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.854-13:Rel-13/13.0.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.854-13/36854-13-d00.zip">
   <front>
     <title>LTE Advanced 4 Band Carrier Aggregation (CA) (4DL/1UL)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="VASENKARI, Petri">
       <organization>Nokia Networks Oy</organization>
     </author>

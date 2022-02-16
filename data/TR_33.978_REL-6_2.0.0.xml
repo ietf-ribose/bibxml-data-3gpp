@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.33.978:Rel-6/2.0.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.978/33978-200.zip">
   <front>
     <title>Security aspects of early IP Multimedia Subsystem (IMS)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HOWARD, Peter">
       <organization>VODAFONE Group Plc</organization>
     </author>

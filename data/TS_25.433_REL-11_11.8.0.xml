@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.25.433:Rel-11/11.8.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.433/25433-b80.zip">
   <front>
     <title>UTRAN Iub interface Node B Application Part (NBAP) signalling</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HAN, Feng">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>

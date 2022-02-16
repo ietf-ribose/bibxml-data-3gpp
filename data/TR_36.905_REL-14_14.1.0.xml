@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.905:Rel-14/14.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.905/36905-e10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Derivation of test points for radio transmission and reception conformance test cases</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="ZIRÉN, Mikael">
       <organization>Nanjing Ericsson Panda Com Ltd</organization>
     </author>

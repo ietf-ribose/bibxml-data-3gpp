@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.37.873:Rel-16/0.1.0" target="http://ftp.3gpp.org//Specs/archive/37_series/37.873/37873-010.zip">
   <front>
     <title>Study on optimizations of UE radio capability signalling; NR / Evolved Universal Terrestrial Radio Access Network (E-UTRAN) aspects</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HSU, Alex">
       <organization>MediaTek Inc.</organization>
     </author>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.26.204:Rel-5/5.1.0" target="http://www.3gpp.org/ftp/Specs/archive/26_series/26.204/26204-510.zip">
   <front>
     <title>Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; ANSI-C code</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="BRUHN, Stefan">
       <organization>Ericsson LM</organization>
     </author>

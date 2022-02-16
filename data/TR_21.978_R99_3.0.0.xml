@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.21.978:R99/3.0.0" target="http://www.3gpp.org/ftp/Specs/archive/21_series/21.978/21978-300.zip">
   <front>
     <title>Feasibility Technical Report; CAMEL Control of VoIP Services</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SMITH, David">
       <organization>Telefonica Germany GmbH</organization>
     </author>

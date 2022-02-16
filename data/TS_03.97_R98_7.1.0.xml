@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.03.97:R98/7.1.0" target="http://www.3gpp.org/ftp/Specs/archive/03_series/03.97/0397-710.zip">
   <front>
     <title>Multiple subscriber Profile (MSP); Stage 2</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="RUSSELL, Nick">
       <organization>BlackBerry UK Limited</organization>
     </author>

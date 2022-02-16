@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TR.28.824:Rel-17/0.5.0">
+  <front>
+    <title>Study on on network slice management capability exposure</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="YU, Xiaobo">
+      <organization>Alibaba (China) Group., Ltd.</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.25.828:Rel-8/0.3.0" target="http://www.3gpp.org/ftp/Specs/archive/25_series/25.828/25828-030.zip">
   <front>
     <title>UMTS 2300 TDD Work Item Technical Report</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SONG, Yuexia">
       <organization>CATT</organization>
     </author>

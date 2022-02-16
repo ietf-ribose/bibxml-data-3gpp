@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.32.848:Rel-15/0.6.0" target="http://www.3gpp.org/ftp/Specs/archive/32_series/32.848/32848-060.zip">
   <front>
     <title>Study on Volume based charging aspects for Voice Over LTE (VoLTE)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="CHEN, Ai">
       <organization>China Mobile US Research Cente</organization>
     </author>

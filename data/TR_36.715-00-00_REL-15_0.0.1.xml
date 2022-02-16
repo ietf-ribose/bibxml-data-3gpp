@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.715-00-00:Rel-15/0.0.1" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.715-00-00/36715-00-00-001.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced intra-band Carrier Aggregation (CA) Rel-15 for x Down Link (DL) / y Up Link (UL) including contiguous and non-contiguous spectrum</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LINDELL, Per">
       <organization>Ericsson LM</organization>
     </author>

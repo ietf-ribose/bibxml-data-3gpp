@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.09.12:Ph2/4.2.0" target="http://www.3gpp.org/ftp/Specs/archive/09_series/09.12/0912-420.zip">
   <front>
     <title>Application of ISDN User Part (ISUP) Version 2 for the Integrated Services Digital Network (ISDN) - Public Land Mobile Network (PLMN) signalling interface; Part 1: Protocol specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HÄNDIG, Peter">
       <organization>Waiting for new Company</organization>
     </author>

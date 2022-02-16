@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.12.01:Ph2/4.1.0" target="http://www.3gpp.org/ftp/Specs/archive/12_series/12.01/1201-410.zip">
   <front>
     <title>Network Management (NM); Part 2: Common aspects of SM/DCS 1800 Network Management</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="TOCHE, Christian">
       <organization>Huawei Technologies France</organization>
     </author>

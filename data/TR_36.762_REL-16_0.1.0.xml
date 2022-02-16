@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.762:Rel-16/0.1.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.762/36762-010.zip">
   <front>
     <title>410 – 430 MHz Evolved Universal Terrestrial Radio Access (E-UTRA) Frequency Division Duplex (FDD) Band(s) for LTE Public Protection and Disaster Relief (PPDR) and Professional Mobile Radio (PMR) / Public Access Mobile Radio (PAMR) in Europe</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="VASENKARI, Petri">
       <organization>Nokia Corporation</organization>
     </author>

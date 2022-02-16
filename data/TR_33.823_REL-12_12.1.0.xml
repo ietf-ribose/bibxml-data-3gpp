@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.33.823:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/33_series/33.823/33823-c10.zip">
   <front>
     <title>Security for usage of Generic Bootstrapping Architecture (GBA) with a User Equipment (UE) browser</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="HOLTMANNS, Silke">
       <organization>Nokia Networks Oy</organization>
     </author>

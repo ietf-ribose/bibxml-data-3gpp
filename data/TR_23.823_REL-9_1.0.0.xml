@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.23.823:Rel-9/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/23_series/23.823/23823-100.zip">
   <front>
     <title>Intra Domain Connection of RAN Nodes to Multiple CN Nodes</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="LIU, Hong">
       <organization>China Mobile Com. Corporation</organization>
     </author>

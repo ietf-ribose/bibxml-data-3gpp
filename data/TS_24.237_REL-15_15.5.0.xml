@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.24.237:Rel-15/15.5.0" target="http://www.3gpp.org/ftp//Specs/archive/24_series/24.237/24237-f50.zip">
   <front>
     <title>IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem (IMS) service continuity; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="SHAH, Sapan">
       <organization>Samsung R&amp;D Institute India</organization>
     </author>

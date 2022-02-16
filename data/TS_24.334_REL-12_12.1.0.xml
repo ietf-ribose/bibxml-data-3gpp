@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TS.24.334:Rel-12/12.1.0" target="http://www.3gpp.org/ftp/Specs/archive/24_series/24.334/24334-c10.zip">
   <front>
     <title>Proximity-services (ProSe) User Equipment (UE) to ProSe function protocol aspects; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="CHAPONNIERE, Lena">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>

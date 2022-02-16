@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.36.805:Rel-9/1.3.0" target="http://www.3gpp.org/ftp/Specs/archive/36_series/36.805/36805-130.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Study on minimization of drive-tests in next generation networks</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="KITAZOE, Masato">
       <organization>QUALCOMM JAPAN LLC.</organization>
     </author>

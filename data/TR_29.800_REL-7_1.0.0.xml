@@ -1,6 +1,17 @@
 <reference anchor="3GPP.TR.29.800:Rel-7/1.0.0" target="http://www.3gpp.org/ftp/Specs/archive/29_series/29.800/29800-100.zip">
   <front>
     <title>Signalling System No. 7 (SS7) Security Gateway; Architecture, functional description and protocol details</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
     <author fullname="WIEHE, Ulrich">
       <organization>Nokia Solutions &amp; Networks (S)</organization>
     </author>

@@ -15,6 +15,7 @@
     <author fullname="KOTTKAMP, Meik">
       <organization>ROHDE &amp; SCHWARZ</organization>
     </author>
+    <date year="2005" month="December" day="22"/>
     <workgroup>R4</workgroup>
     <workgroup>R4</workgroup>
     <abstract>This specification describes the minimum RF characteristics of the TDD mode of UTRA. The values in the TS make no allowance for measurements uncertainties in conformance testing. Test limit to be used for conformance testing are specified separately in the base station conformance test Specification TS 25.142.</abstract>

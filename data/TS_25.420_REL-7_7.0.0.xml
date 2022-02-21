@@ -15,6 +15,7 @@
     <author fullname="HELMERS, Hakon">
       <organization>Alcatel-Lucent</organization>
     </author>
+    <date year="2006" month="March" day="24"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes an introduction to the TSG RAN TS 25.42x series of technical specifications that define the Iur interface. It is a logical interface for the interconnection of two RNC components of the UTRAN.</abstract>

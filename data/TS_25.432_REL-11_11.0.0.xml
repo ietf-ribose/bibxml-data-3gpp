@@ -15,6 +15,7 @@
     <author fullname="WILSON, Mick">
       <organization>FUJITSU Laboratories of Europe</organization>
     </author>
+    <date year="2012" month="September" day="24"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the signalling transport related to the Node B application part (NBAP) signalling to be used across the Iub interface. The Iub interface is a logical interface for the interconnection of Node B and RNC components of the UTRAN. The RNC signalling between these nodes is based on NBAP.</abstract>

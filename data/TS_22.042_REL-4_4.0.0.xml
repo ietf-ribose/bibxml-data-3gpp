@@ -15,6 +15,7 @@
     <author fullname="SCARRONE, Enrico">
       <organization>TELECOM ITALIA S.p.A.</organization>
     </author>
+    <date year="2001" month="April" day="2"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>The feature NITZ provides the means for serving networks to transfer current identity, time, daylight saving time and the local time zone to user equipment storage and use.</abstract>

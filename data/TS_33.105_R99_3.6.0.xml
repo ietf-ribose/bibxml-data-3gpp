@@ -15,6 +15,7 @@
     <author fullname="CHIKAZAWA, Takeshi">
       <organization>Mitsubishi Electric Corp</organization>
     </author>
+    <date year="2000" month="December" day="22"/>
     <workgroup>S3</workgroup>
     <workgroup>S3</workgroup>
     <abstract>Defines requirements for standard cipher and integrity algorithm.</abstract>

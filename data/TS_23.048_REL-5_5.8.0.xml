@@ -15,6 +15,7 @@
     <author fullname="PHAN, Ly Thanh">
       <organization>Gemalto N.V.</organization>
     </author>
+    <date year="2004" month="January" day="12"/>
     <workgroup>C6</workgroup>
     <abstract>This document specifies the structure of the Secured Packets in a general format and in implementations using Short Message Service Point to Point (SMS-PP) and Short Message Service Cell Broadcast (SMS-CB).</abstract>
   </front>

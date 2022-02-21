@@ -15,6 +15,7 @@
     <author fullname="KULAKOV, Alexey">
       <organization>Vodafone GmbH</organization>
     </author>
+    <date year="2017" month="January" day="11"/>
     <workgroup>R3</workgroup>
     <workgroup>R4</workgroup>
     <abstract>This document specifies the standards allowed to implement Layer 1 on the Iuant interface. The specification of transmission delay requirements and O&amp;M requirements are not in the scope of the present document.</abstract>

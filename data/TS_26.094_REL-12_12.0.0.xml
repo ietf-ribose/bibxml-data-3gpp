@@ -15,6 +15,7 @@
     <author fullname="USAI, Paolino">
       <organization>ETSI</organization>
     </author>
+    <date year="2014" month="September" day="26"/>
     <workgroup>S4</workgroup>
     <workgroup>S4</workgroup>
     <abstract>This specification describes two alternatives for the VAD to be used during SCR operation in conjunction with the AMR codec.</abstract>

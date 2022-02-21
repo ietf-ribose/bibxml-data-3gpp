@@ -15,6 +15,7 @@
     <author fullname="VIRK, Amandeep">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>
+    <date year="2009" month="March" day="27"/>
     <workgroup>C6</workgroup>
     <workgroup>T3</workgroup>
     <abstract>The present document provides the Conformance Test Specification for a UICC defined in TS 31.101 with Universal Subscriber Identity Module (USIM) defined in 3G TS 31.102.</abstract>

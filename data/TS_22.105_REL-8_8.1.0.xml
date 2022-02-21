@@ -15,6 +15,7 @@
     <author fullname="BISCHINGER, Kurt">
       <organization>T-Mobile Austria GmbH</organization>
     </author>
+    <date year="2006" month="October" day="4"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>Pre-UMTS systems have largely standardized the complete sets of bearer services, teleservices and supplementary services which they provide. One major difference between UMTS and pre-UMTS systems is that service capabilities rather than services are standardized for UMTS, allowing service differentiation and system continuity. This document describes how and what kind of services the UMTS user has access to.</abstract>

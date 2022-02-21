@@ -15,6 +15,7 @@
     <author fullname="KRUSE, Heiko">
       <organization>IDEMIA</organization>
     </author>
+    <date year="1999" month="December" day="17"/>
     <workgroup>C6</workgroup>
     <workgroup>T3</workgroup>
     <abstract>This document describes the numbering system for Application IDentifiers (AID) for 3G telecommunication Integrated Circuits (IC) card applications. The numbering system provides a means for an application and related services offered by a provider to identify if a given card contains the elements required by its application and related services.</abstract>

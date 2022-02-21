@@ -15,6 +15,7 @@
     <author fullname="HORN, Guenther">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2001" month="October" day="3"/>
     <workgroup>S3</workgroup>
     <workgroup>S3</workgroup>
     <abstract>Formal analysis using BAN and temporal logic of authentication mechanism.</abstract>

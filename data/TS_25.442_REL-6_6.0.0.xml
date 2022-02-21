@@ -15,6 +15,7 @@
     <author fullname="HAUSER, Alexander">
       <organization>Deutsche Telekom AG</organization>
     </author>
+    <date year="2004" month="January" day="13"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the transport of implementation specific O&amp;M signalling between Node B and the management platform in case that the transport is routed via the RNC.</abstract>

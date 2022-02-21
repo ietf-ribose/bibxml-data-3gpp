@@ -15,6 +15,7 @@
     <author fullname="KULAKOV, Alexey">
       <organization>Vodafone GmbH</organization>
     </author>
+    <date year="2019" month="April" day="19"/>
     <workgroup>R3</workgroup>
     <abstract>This document is an introduction to the TSG RAN TS 25.46x series of UMTS Technical Specifications that define the Iuant Interface. The logical Iuant interface is a Node B internal interface between the implementation specific O&amp;M function and the Remote Electrical Tilting (RET) Antenna Control unit function of the Node B.</abstract>
   </front>

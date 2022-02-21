@@ -15,6 +15,7 @@
     <author fullname="FLORE, Dino">
       <organization>Qualcomm Incorporated</organization>
     </author>
+    <date year="2015" month="December" day="23"/>
     <workgroup>R3</workgroup>
     <abstract>The present document specifies the standards allowed to implement Layer 1 on the Iupc interface.</abstract>
   </front>

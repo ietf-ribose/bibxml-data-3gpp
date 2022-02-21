@@ -15,6 +15,7 @@
     <author fullname="FLORE, Dino">
       <organization>Qualcomm Incorporated</organization>
     </author>
+    <date year="2001" month="July" day="5"/>
     <workgroup>R3</workgroup>
     <abstract>The present document is an introduction to the TSG RAN TS 25.45z series of UMTS Technical Specifications that define the Iupc Interface. The Iupc interface is a logical interface for the interconnection of Standalone SMLC (SAS) and Radio Network Controller (RNC) components of the Universal Terrestrial Radio Access Network (UTRAN) for the UMTS system.</abstract>
   </front>

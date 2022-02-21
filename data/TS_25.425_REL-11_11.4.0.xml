@@ -15,6 +15,7 @@
     <author fullname="SHI, Nianshan">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2015" month="March" day="21"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the UTRAN RNS-RNS (Iur) interface user plane protocols for common transport channel data streams.</abstract>

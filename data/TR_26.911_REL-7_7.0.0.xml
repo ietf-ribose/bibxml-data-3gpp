@@ -15,6 +15,7 @@
     <author fullname="JUNG, Kyunghun">
       <organization>Facebook</organization>
     </author>
+    <date year="2005" month="October" day="12"/>
     <workgroup>S4</workgroup>
     <workgroup>S4</workgroup>
     <abstract>This report describes non-mandatory Recommendations for the use of the different codec implementation options for the circuit-switched 3G-324M multimedia telephony service based on ITU-T Recommendation H.324, Annex C. These Recommendations address issues specific to the third generation operating environment, including guaranteeing sufficient error resilience and inter-working between terminals.</abstract>

@@ -15,6 +15,7 @@
     <author fullname="SHI, Nianshan">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2006" month="December" day="18"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the radio network layer signalling procedures between RNCs in UTRAN.</abstract>

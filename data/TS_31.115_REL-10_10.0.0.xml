@@ -15,6 +15,7 @@
     <author fullname="PHAN, Ly Thanh">
       <organization>Gemalto N.V.</organization>
     </author>
+    <date year="2011" month="April" day="8"/>
     <workgroup>C6</workgroup>
     <abstract>This document specifies the structure of the Secured Packets in implementations using Short Message Service and Cell Broadcast Service. It is applicable to the exchange of secured packets between an entity in a 3G or GSM PLMN and an entity in the (U)SIM.</abstract>
   </front>

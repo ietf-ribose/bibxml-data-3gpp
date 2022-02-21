@@ -15,6 +15,7 @@
     <author fullname="BRENK, Lars">
       <organization>Waiting for new Company</organization>
     </author>
+    <date year="2014" month="September" day="22"/>
     <workgroup>S2</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This TS describes the functional capabilities and the security architecture of the Mobile Execution Environment.</abstract>

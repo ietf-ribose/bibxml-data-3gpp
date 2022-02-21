@@ -15,6 +15,7 @@
     <author fullname="LOTTIN, Philippe">
       <organization>Orange</organization>
     </author>
+    <date year="2002" month="January" day="10"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the service access procedures as presented to the user. The document contains definitions and procedures are provided for international roaming, national roaming and regionally provided service. These are mandatory in relation to the technical realization of the UE.</abstract>

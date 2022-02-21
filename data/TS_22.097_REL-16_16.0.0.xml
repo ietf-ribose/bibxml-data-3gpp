@@ -15,6 +15,7 @@
     <author fullname="DEOL, Amar">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2020" month="July" day="16"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>MSP is an optional service to enable mobile subscribers to have several profiles associated with a single subscriber identity (SIM) and a single international mobile subscriber identity (IMSI), with each profile being a subscription option. Each profile may be used for mobile originated and mobile terminated calls. 

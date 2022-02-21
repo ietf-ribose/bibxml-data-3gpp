@@ -15,6 +15,7 @@
     <author fullname="KRUSE, Heiko">
       <organization>IDEMIA</organization>
     </author>
+    <date year="2007" month="June" day="19"/>
     <workgroup>C6</workgroup>
     <abstract>This document specifies a system to make Mobile Operator services, based on USAT functionality and USIM based security functionality, available to an internet environment. This is achieved by specifying the necessary components and protocols for a secure narrow band channel between the internet application and an USAT Interpreter on the USIM.</abstract>
   </front>

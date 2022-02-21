@@ -15,6 +15,7 @@
     <author fullname="HERRERO-VERON, Christian">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2001" month="April" day="11"/>
     <workgroup>C1</workgroup>
     <workgroup>N1</workgroup>
     <abstract>This specification shall give an overview of the tasks undertaken by a Mobile Station (MS) when in idle mode, that is, switched on but not having a dedicated channel allocated, e.g. not making or receiving a call, or when in group receive mode, that is, receiving a group call or broadcast call but not having a dedicated connection. It also describes the corresponding network functions.</abstract>

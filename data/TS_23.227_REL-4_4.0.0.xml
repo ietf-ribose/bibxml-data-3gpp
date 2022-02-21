@@ -15,6 +15,7 @@
     <author fullname="BERTENYI, Balazs">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2001" month="April" day="2"/>
     <workgroup>S2</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This Technical Specification defines the principles for scheduling resources between applications in different application execution environment (e.g. MExE, USAT etc.) and internal and external peripherals (e.g. infra-red, Bluetooth, USIM, radio interface, MMI, memory etc.).</abstract>

@@ -15,6 +15,7 @@
     <author fullname="CHIN, ChenHo">
       <organization>Guangdong OPPO Mobile Telecom.</organization>
     </author>
+    <date year="2000" month="October" day="12"/>
     <workgroup>C1</workgroup>
     <workgroup>N1</workgroup>
     <abstract>This specification describes the procedures used at the radio interface for CC, MM and SM.

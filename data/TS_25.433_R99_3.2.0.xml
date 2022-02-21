@@ -15,6 +15,7 @@
     <author fullname="HAN, Feng">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2000" month="June" day="23"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the standards for NBAP specification to be used over Iub interface.</abstract>

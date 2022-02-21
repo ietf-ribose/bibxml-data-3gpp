@@ -15,6 +15,7 @@
     <author fullname="IGNATIUS, Jan">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2004" month="December" day="23"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>There are two modes of USSD: MMI-mode and application mode. MMI-mode USSD is for the transparent transport of MMI strings entered by the user to the network and for the transparent transport of text strings from the network that are displayed by the mobile for user information.

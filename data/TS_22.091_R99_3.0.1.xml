@@ -15,6 +15,7 @@
     <author fullname="SWETINA, Joerg">
       <organization>NEC Europe Ltd</organization>
     </author>
+    <date year="1999" month="October" day="13"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>The ECT supplementary service enables the served mobile subscriber (subscriber A) who has two calls, each of which can be an incoming or outgoing call, to connect the other parties in the two calls and release the served mobile subscribers own connection.</abstract>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.851:Rel-17/0.4.0">
+<reference anchor="3GPP.TR.38.851:Rel-17/0.4.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.851/38851-040.zip">
   <front>
     <title>User Equipment (UE) Further enhancements of NR RF requirements for frequency range 2 (FR2)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="VASENKARI, Petri">
       <organization>Nokia Corporation</organization>
     </author>
+    <date year="2022" month="February" day="14"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

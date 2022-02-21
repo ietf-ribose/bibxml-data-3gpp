@@ -15,6 +15,7 @@
     <author fullname="HOWELL, Andrew">
       <organization>HOME OFFICE</organization>
     </author>
+    <date year="2000" month="March" day="15"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This 3G specification describes a set of bearer services to be provided to 3G subscribers by a 3G network itself and in connection with other networks. This document is also be used as a reference for defining the corresponding required mobile network capabilities which are specified by means of the connection type concept.</abstract>

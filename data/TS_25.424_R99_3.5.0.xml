@@ -15,6 +15,7 @@
     <author fullname="ZHANG, Hongzhuo">
       <organization>HuaWei Technologies Co., Ltd</organization>
     </author>
+    <date year="2000" month="December" day="21"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the UTRAN RNS-RNS (Iur) interface data transport and transport signalling for common transport channel data streams.</abstract>

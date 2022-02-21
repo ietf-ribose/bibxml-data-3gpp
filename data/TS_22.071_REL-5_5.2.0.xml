@@ -15,6 +15,7 @@
     <author fullname="DEOL, Amar">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2003" month="September" day="30"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>LCS is a network provided enabling technology consisting of standardized service capabilities which enables the provision of location applications. This application may be service provider specific. The description of the numerous and varied possible location applications which are enabled by this technology are outside the scope of this specification. However, clarifying examples of how the functionality being specified may be used to provide specific LCS is included in various sections of the specification.</abstract>

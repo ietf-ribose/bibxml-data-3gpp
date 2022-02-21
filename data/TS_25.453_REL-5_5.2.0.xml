@@ -15,6 +15,7 @@
     <author fullname="OZTURK, Ozcan">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>
+    <date year="2002" month="January" day="11"/>
     <workgroup>R3</workgroup>
     <abstract>The present document specifies the Positioning Calculation Application Part (PCAP) between the Radio Network Controller (RNC) and the Stand-alone SMLC (SAS).</abstract>
   </front>

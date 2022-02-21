@@ -15,6 +15,7 @@
     <author fullname="MONRAD, Atle">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2002" month="June" day="26"/>
     <workgroup>C1</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes a definition of a wide area synchronization protocol. The synchron¬ization protocol is based upon infrared mobile communication (IrMC) Level 4 for Release 99. The synchronization protocol is based upon SyncML from Release 4 onwards.</abstract>

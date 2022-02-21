@@ -15,6 +15,7 @@
     <author fullname="GODARD, Tania">
       <organization>Alcatel-Lucent</organization>
     </author>
+    <date year="2004" month="September" day="23"/>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <abstract>This document is a technical specification of the overall support of high data rates in the uplink through the use of the E-DCH transport channel.</abstract>

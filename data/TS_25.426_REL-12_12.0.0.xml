@@ -15,6 +15,7 @@
     <author fullname="AHMED, Ayaz">
       <organization>Nokia Solutions &amp; Networks (I)</organization>
     </author>
+    <date year="2014" month="September" day="22"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the transport bearers for the DCH data streams on UTRAN Iur and Iub interfaces. The corresponding transport network control plane is also specified. The physical layer for the transport bearers is outside the scope of this TS.</abstract>

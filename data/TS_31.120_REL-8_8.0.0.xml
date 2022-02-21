@@ -15,6 +15,7 @@
     <author fullname="PHAN, Ly Thanh">
       <organization>Gemalto N.V.</organization>
     </author>
+    <date year="2009" month="February" day="16"/>
     <workgroup>C6</workgroup>
     <workgroup>T3</workgroup>
     <abstract>This document tests the physical, electrical and logical requirements as specified in TS 31.101.</abstract>

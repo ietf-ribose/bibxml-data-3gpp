@@ -15,6 +15,7 @@
     <author fullname="BRUHN, Stefan">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2020" month="July" day="21"/>
     <workgroup>S4</workgroup>
     <workgroup>S4</workgroup>
     <abstract>This specification describes the detailed requirements for the correct operation of the background acoustic noise evaluation, noise parameter encoding/decoding and comfort noise generation for the AMR speech codec during source controlled rate (SCR) operation.</abstract>

@@ -15,6 +15,7 @@
     <author fullname="SWETINA, Joerg">
       <organization>NEC Europe Ltd</organization>
     </author>
+    <date year="2016" month="January" day="14"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the Stage 1 description of the enhanced multi-level precedence and pre-emption (eMLPP) service. This service has two parts: precedence and pre-emption. Precedence involves assigning a priority level to a call in combination with fast call set-up. Pre-emption involves the seizing of resources, which are in use by a call of a lower precedence, by a higher level precedence call in the absence of idle resources. Pre-emption can also involve the disconnection of an on-going call of lower precedence to accept an incoming call of higher precedence.</abstract>

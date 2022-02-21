@@ -15,6 +15,7 @@
     <author fullname="MIETTINEN, Natalia">
       <organization>NOKIA UK R&amp;D Ltd</organization>
     </author>
+    <date year="2014" month="October" day="3"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the Stage 1 description of HSCSD. HSCSD is a feature that allows users subscribing to the general bearer services to access user rates that can be achieved with one or more traffic channel. HSCSD also defines a flexible use of air interface resources, which makes efficient and flexible use of higher user rates feasible.</abstract>

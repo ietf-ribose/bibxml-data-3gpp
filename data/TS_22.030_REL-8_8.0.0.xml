@@ -15,6 +15,7 @@
     <author fullname="IGNATIUS, Jan">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2008" month="March" day="26"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the requirements for and gives guidelines on the MMI for calls on the 3G UE. This includes the requirements of the user procedures for call control and supplementary service control, the requirements on the physical input media and the output, such as indications and displayed information.</abstract>

@@ -15,6 +15,7 @@
     <author fullname="RODERMUND, Friedhelm">
       <organization>VODAFONE Group Plc</organization>
     </author>
+    <date year="2002" month="January" day="10"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the Stage 1 description for CAMEL feature which provides the mechanisms to support services consistently independently of the serving network. The CAMEL features shall facilitate service control of operator specific services external from the serving network. The CAMEL feature is a network feature and not a supplementary service. It is a tool to help the network operator to provide the subscribers with the operator specific services even when roaming outside the home network.</abstract>

@@ -15,6 +15,7 @@
     <author fullname="HOWELL, Andrew">
       <organization>HOME OFFICE</organization>
     </author>
+    <date year="2002" month="December" day="20"/>
     <workgroup>CP</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This TS describes the MMS network architecture, the application protocol framework and the technical realization of service features needed to support the non-realtime Multimedia Messaging Service.</abstract>

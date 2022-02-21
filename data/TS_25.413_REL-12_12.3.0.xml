@@ -15,6 +15,7 @@
     <author fullname="AHMED, Ayaz">
       <organization>Nokia Solutions &amp; Networks (I)</organization>
     </author>
+    <date year="2014" month="December" day="26"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the signalling between the CN and the UTRAN over the Iu interface.</abstract>

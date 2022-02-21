@@ -15,6 +15,7 @@
     <author fullname="TOWLE, Thomas">
       <organization>Qualcomm Incorporated</organization>
     </author>
+    <date year="2016" month="September" day="26"/>
     <workgroup>S2</workgroup>
     <workgroup>S2</workgroup>
     <abstract>This specifications describes the architectural requirement for an IP Multimedia Components incorporated in an UMTS System as well as second generation systems for GSM inside the core network and identify relevant interfaces to the existing system and the new one in between the new components incorporated.</abstract>

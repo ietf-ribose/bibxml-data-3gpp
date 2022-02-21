@@ -15,6 +15,7 @@
     <author fullname="AGHILI, Behrouz">
       <organization>InterDigital Communications</organization>
     </author>
+    <date year="1999" month="June" day="18"/>
     <workgroup>C1</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes three interface protocols for control of SMS functions within a GSM mobile telephone from a remote terminal via an asynchronous interface.</abstract>

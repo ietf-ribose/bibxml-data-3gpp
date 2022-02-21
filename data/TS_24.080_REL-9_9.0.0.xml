@@ -15,6 +15,7 @@
     <author fullname="WIEHE, Ulrich">
       <organization>Nokia Solutions &amp; Networks (S)</organization>
     </author>
+    <date year="2009" month="December" day="18"/>
     <workgroup>C4</workgroup>
     <workgroup>N4 (ex NSS)</workgroup>
     <abstract>This specification describes the coding of information necessary for support of supplementary service operation on the mobile radio interface L3. Details will be specified in other documents.</abstract>

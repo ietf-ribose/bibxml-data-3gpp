@@ -15,6 +15,7 @@
     <author fullname="KULAKOV, Alexey">
       <organization>Vodafone GmbH</organization>
     </author>
+    <date year="2004" month="August" day="30"/>
     <workgroup>R3</workgroup>
     <abstract>This document specifies the Remote Electrical Tilting Application Part (RETAP) between the implementation specific O&amp;M function and the RET Antenna Control unit function of the Node B. It defines the Iuant interface and its associated signaling procedures.</abstract>
   </front>

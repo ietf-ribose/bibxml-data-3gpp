@@ -15,6 +15,7 @@
     <author fullname="ESPI, Sergi">
       <organization>G+D MS</organization>
     </author>
+    <date year="2005" month="June" day="15"/>
     <workgroup>C6</workgroup>
     <workgroup>T3</workgroup>
     <abstract>This document defines the USIM application for 3G telecom network operation. The present document specifies, command parameters, file structures and content, security functions and the application protocol to be used on the interface between UICC (USIM) and ME.</abstract>

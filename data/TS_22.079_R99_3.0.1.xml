@@ -15,6 +15,7 @@
     <author fullname="SCARRONE, Enrico">
       <organization>TELECOM ITALIA S.p.A.</organization>
     </author>
+    <date year="1999" month="October" day="13"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>Support of optimal routing is a network feature to reduce the number of unnecessary inter-network call legs when the subscriber is roaming.</abstract>

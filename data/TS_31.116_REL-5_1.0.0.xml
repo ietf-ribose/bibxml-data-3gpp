@@ -15,6 +15,7 @@
     <author fullname="PHAN, Ly Thanh">
       <organization>Gemalto N.V.</organization>
     </author>
+    <date year="2002" month="March" day="19"/>
     <workgroup>C6</workgroup>
     <abstract>This document defines the remote management of files and applets on the SIM/USIM.</abstract>
   </front>

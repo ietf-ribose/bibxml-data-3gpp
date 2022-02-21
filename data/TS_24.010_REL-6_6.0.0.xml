@@ -15,6 +15,7 @@
     <author fullname="SUBRAMANIAN, Ramachandran">
       <organization>Qualcomm UK Ltd</organization>
     </author>
+    <date year="2005" month="January" day="3"/>
     <workgroup>C4</workgroup>
     <workgroup>N4 (ex NSS)</workgroup>
     <abstract>This specification describes the general aspects of the specification of supplementary services at the Layer 3 radio interface. Details will be specified in other documents.</abstract>

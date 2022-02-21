@@ -15,6 +15,7 @@
     <author fullname="MARQUORDT, Arne">
       <organization>Comprion GmbH</organization>
     </author>
+    <date year="2015" month="March" day="27"/>
     <workgroup>C6</workgroup>
     <workgroup>T3</workgroup>
     <abstract>This document provides the UICC-Terminal Interface Conformance Test Specification between the 3G Terminal and USIM (Universal Subscriber Identity Module) as an application on the UICC and the Terminal for 3G telecom network operation.</abstract>

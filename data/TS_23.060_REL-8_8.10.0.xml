@@ -15,6 +15,7 @@
     <author fullname="SALKINTZIS, Apostolis">
       <organization>Motorola Mobility UK Ltd.</organization>
     </author>
+    <date year="2010" month="September" day="29"/>
     <workgroup>S2</workgroup>
     <workgroup>S2</workgroup>
     <abstract>This specification describes a general overview over the GPRS architecture as well as a more detailled overview of the MS – CN protocol architecture. Details of the protocols will be specified in companion documents.</abstract>

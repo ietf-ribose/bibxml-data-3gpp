@@ -15,6 +15,7 @@
     <author fullname="BELLING, Thomas">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2005" month="January" day="7"/>
     <workgroup>C3</workgroup>
     <workgroup>N3</workgroup>
     <abstract>This specification describes the RLP for data transmission over the UMTS public land mobile network (PLMN). RLP covers the Layer 2 functionality of the ISO OSI reference model (IS 7498). It is based on ideas contained in IS 3309, IS 4335 and IS 7809 (HDLC of ISO) as well as ITU-T Recommendations X.25, Q.921 and Q.922 (LAP-B and LAP-D, respectively). RLP has been tailored to the special needs of digital radio transmission. RLP provides to its users the OSI data link service (IS 8886).</abstract>

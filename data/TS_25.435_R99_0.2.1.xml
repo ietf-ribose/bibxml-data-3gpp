@@ -15,6 +15,7 @@
     <author fullname="NG, Cheng Hock">
       <organization>NEC Corporation</organization>
     </author>
+    <date year="1999" month="June" day="23"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the UTRAN RNC-Node B (Iub) interface user plane protocols for common transport channel data streams.</abstract>

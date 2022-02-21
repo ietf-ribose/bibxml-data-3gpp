@@ -15,6 +15,7 @@
     <author fullname="FLORE, Dino">
       <organization>Qualcomm Incorporated</organization>
     </author>
+    <date year="2011" month="June" day="24"/>
     <workgroup>R3</workgroup>
     <abstract>The present document specifies the signalling transport related to PCAP signalling to be used across the Iupc interface.</abstract>
   </front>

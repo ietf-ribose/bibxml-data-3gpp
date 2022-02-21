@@ -15,6 +15,7 @@
     <author fullname="MATTISSON, Leif">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2018" month="September" day="21"/>
     <workgroup>R5</workgroup>
     <workgroup>T1</workgroup>
     <abstract>This document contains definitions of reference conditions and test signals, default parameters, reference Radio Bearer configurations, common requirements for test equipment and generic set-up procedures for use in UE conformance tests.</abstract>

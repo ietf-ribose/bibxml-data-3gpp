@@ -15,6 +15,7 @@
     <author fullname="FERNANDES, Edgar">
       <organization>Dish Network</organization>
     </author>
+    <date year="2003" month="October" day="10"/>
     <workgroup>R4</workgroup>
     <workgroup>R4</workgroup>
     <abstract>This document establishes the minimum RF characteristics of the UTRA User Equipment (UE) operating in the FDD mode. The values in the TS make no allowance for measurement uncertainty in conformance testing. Test limits to be used for conformance testing are specified separately in the UE conformance test specifications TS 34.121.</abstract>

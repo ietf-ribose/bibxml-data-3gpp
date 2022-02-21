@@ -15,6 +15,7 @@
     <author fullname="EKLOF, Cecilia">
       <organization>Ericsson India Private Limited</organization>
     </author>
+    <date year="2010" month="June" day="21"/>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <abstract>This document identifies the parameters of the access stratum part of the UE radio access capabilities. Furthermore, some reference configurations of these values are defined. The intention is that these configurations will be used for test specifications.</abstract>

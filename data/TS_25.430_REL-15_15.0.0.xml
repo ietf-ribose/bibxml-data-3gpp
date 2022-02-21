@@ -15,6 +15,7 @@
     <author fullname="WILSON, Mick">
       <organization>FUJITSU Laboratories of Europe</organization>
     </author>
+    <date year="2018" month="July" day="2"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the TSG RAN TS 25.43x series of UMTS technical specifications that define the Iub interface. The Iub interface is a logical interface for the interconnection of Node B and RNC components of the UTRAN.</abstract>

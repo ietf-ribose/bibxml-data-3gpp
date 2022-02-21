@@ -15,6 +15,7 @@
     <author fullname="CHIN, ChenHo">
       <organization>Guangdong OPPO Mobile Telecom.</organization>
     </author>
+    <date year="2005" month="January" day="5"/>
     <workgroup>C1</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes the compression algorithm for text messaging services.</abstract>

@@ -15,6 +15,7 @@
     <author fullname="SWETINA, Joerg">
       <organization>NEC Europe Ltd</organization>
     </author>
+    <date year="1999" month="October" day="13"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>The CUG supplementary service enables subscribers, connected to a network and possibly also other networks, to form CUGs to and from which access is restricted. A specific user may be a member of one or more CUGs. Members of a specific CUG can communicate among each other but not, in general, with users outside the group.</abstract>

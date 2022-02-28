@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.31.127:Rel-17/0.1.3">
+<reference anchor="3GPP.TS.31.127:Rel-17/0.1.3" target="https://ftp.3gpp.org//Specs/archive/31_series/31.127/31127-013.zip">
   <front>
     <title>UICC-terminal interaction; non-removable Universal Subscriber Identity Module (nrUSIM) application behavioural test specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="MARQUORDT, Arne">
       <organization>Comprion GmbH</organization>
     </author>
+    <date year="2022" month="February" day="23"/>
     <workgroup>C6</workgroup>
   </front>
 </reference>

@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.33.526:Rel-18/0.0.0">
+  <front>
+    <title>Security Assurance Specification for Management Function (MnF)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="BEN HENDA, Noamen">
+      <organization>Huawei Technologies Sweden AB</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

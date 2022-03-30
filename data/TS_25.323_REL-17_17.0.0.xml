@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.25.323:Rel-17/17.0.0">
+  <front>
+    <title>Packet Data Convergence Protocol (PDCP) specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="SHRESTHA, Bharat">
+      <organization>Intel Corporation (UK) Ltd</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document provides the description of the Packet Data Convergence Protocol (PDCP). PDCP provides its services to the NAS at the UE or the relay at the Radio Network Controller (RNC). PDCP uses the services provided by the Radio Link Control (RLC) sublayer.</abstract>
+  </front>
+</reference>

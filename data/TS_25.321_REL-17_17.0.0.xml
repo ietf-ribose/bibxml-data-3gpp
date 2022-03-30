@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.25.321:Rel-17/17.0.0">
+  <front>
+    <title>Medium Access Control (MAC) protocol specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="AHMED, Ayaz">
+      <organization>Nokia Solutions &amp; Networks (I)</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This specification describes the MAC protocol.</abstract>
+  </front>
+</reference>

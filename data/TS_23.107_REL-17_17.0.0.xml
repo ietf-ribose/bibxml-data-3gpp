@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.23.107:Rel-17/17.0.0">
+  <front>
+    <title>Quality of Service (QoS) concept and architecture</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="RINNE, Janne">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>S2</workgroup>
+    <workgroup>S2</workgroup>
+    <abstract>This specification describes the framework for QoS in UMTS. The document shall be used as a living document which will cover all issues related QoS in UMTS.</abstract>
+  </front>
+</reference>

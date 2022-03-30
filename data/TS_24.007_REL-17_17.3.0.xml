@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.24.007:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-h30.zip">
+  <front>
+    <title>Mobile radio interface signalling layer 3; General Aspects</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="CHIN, ChenHo">
+      <organization>Guangdong OPPO Mobile Telecom.</organization>
+    </author>
+    <date year="2022" month="March" day="26"/>
+    <workgroup>C1</workgroup>
+    <workgroup>N1</workgroup>
+    <abstract>This specification describes the principal architecture of Layer 3 and its sub-layers on the GSM Um interface, i.e. the interface between mobile station (MS) and network; for the CM sub-layer, the description is restricted to paradigmatic examples, CC, supplementary services, and short message services for non-general packet radio service (GPRS) services. It also defines the basic message format and error handling applied by the Layer 3 protocols.</abstract>
+  </front>
+</reference>

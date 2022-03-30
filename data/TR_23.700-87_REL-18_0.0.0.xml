@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-87:Rel-18/0.0.0">
+<reference anchor="3GPP.TR.23.700-87:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-87/23700-87-000.zip">
   <front>
     <title>Study on system architecture enhancement for next generation real time communication</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JIANG, Yi">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="March" day="4"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

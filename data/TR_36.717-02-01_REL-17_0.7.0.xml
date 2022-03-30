@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.36.717-02-01:Rel-17/0.7.0">
+<reference anchor="3GPP.TR.36.717-02-01:Rel-17/0.7.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.717-02-01/36717-02-01-070.zip">
   <front>
     <title>Rel-17 LTE inter-band Carrier Aggregation for 2 bands DL with 1 band UL</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="HAN, Bin">
       <organization>Qualcomm Incorporated</organization>
     </author>
+    <date year="2022" month="March" day="15"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

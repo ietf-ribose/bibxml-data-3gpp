@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.526:Rel-18/0.0.0">
+<reference anchor="3GPP.TS.33.526:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.526/33526-000.zip">
   <front>
     <title>Security Assurance Specification for Management Function (MnF)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BEN HENDA, Noamen">
       <organization>Huawei Technologies Sweden AB</organization>
     </author>
+    <date year="2022" month="March" day="10"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

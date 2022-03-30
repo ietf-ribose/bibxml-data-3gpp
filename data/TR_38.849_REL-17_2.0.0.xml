@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TR.38.849:Rel-17/2.0.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.849/38849-200.zip">
+  <front>
+    <title>Introduction of 6GHz NR unlicensed operation</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="HEJSELBAEK, Johannes">
+      <organization>Nokia Denmark</organization>
+    </author>
+    <date year="2022" month="March" day="10"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

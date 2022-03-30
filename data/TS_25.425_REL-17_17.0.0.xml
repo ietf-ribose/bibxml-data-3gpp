@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.25.425:Rel-17/17.0.0">
+  <front>
+    <title>UTRAN Iur interface user plane protocols for Common Transport Channel data streams</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="SHI, Nianshan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This specification describes the UTRAN RNS-RNS (Iur) interface user plane protocols for common transport channel data streams.</abstract>
+  </front>
+</reference>

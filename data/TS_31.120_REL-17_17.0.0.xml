@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.31.120:Rel-17/17.0.0">
+  <front>
+    <title>UICC-terminal interface; Physical, electrical and logical test specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="PHAN, Ly Thanh">
+      <organization>Gemalto N.V.</organization>
+    </author>
+    <workgroup>C6</workgroup>
+    <workgroup>T3</workgroup>
+    <abstract>This document tests the physical, electrical and logical requirements as specified in TS 31.101.</abstract>
+  </front>
+</reference>

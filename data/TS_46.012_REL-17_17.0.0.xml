@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.46.012:Rel-17/17.0.0">
+  <front>
+    <title>Full rate speech; Comfort noise aspect for full rate speech traffic channels</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="JÄRVINEN, Kari">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>SMG11</workgroup>
+  </front>
+</reference>

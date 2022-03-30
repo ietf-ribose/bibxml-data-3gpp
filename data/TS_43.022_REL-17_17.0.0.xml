@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.43.022:Rel-17/17.0.0">
+  <front>
+    <title>Functions related to Mobile Station (MS) in idle mode and group receive mode</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="DIACHINA, John">
+      <organization>Ericsson Inc.</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>C1</workgroup>
+    <workgroup>SMG02 / N1  /  SMG03A</workgroup>
+  </front>
+</reference>

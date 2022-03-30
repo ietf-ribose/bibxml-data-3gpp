@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-58:Rel-18/0.0.0">
+<reference anchor="3GPP.TR.23.700-58:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-58/23700-58-000.zip">
   <front>
     <title>Study of further architecture enhancements for uncrewed aerial systems and urban air mobility</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="STEFANO, Faccin">
       <organization>QUALCOMM Europe Inc. - Italy</organization>
     </author>
+    <date year="2022" month="March" day="18"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

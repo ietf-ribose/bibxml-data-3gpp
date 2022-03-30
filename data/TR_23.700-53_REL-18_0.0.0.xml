@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-53:Rel-18/0.0.0">
+<reference anchor="3GPP.TR.23.700-53:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-53/23700-53-000.zip">
   <front>
     <title>Study on access traffic steering, switching and splitting support in the 5G system architecture; Phase 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SALKINTZIS, Apostolis">
       <organization>Lenovo Mobile Com. Technology</organization>
     </author>
+    <date year="2022" month="March" day="2"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

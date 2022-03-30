@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.22.024:Rel-17/17.0.0">
+  <front>
+    <title>Description of Charge Advice Information (CAI)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="DEOL, Amar">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes an overall view of how the charging advice supplementary service shall operate both in the network and within the UE. The charging supplementary service is described in TS 22.086.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.22.135:Rel-17/17.0.0">
+  <front>
+    <title>Multicall; Service description; Stage 1</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="MIETTINEN, Natalia">
+      <organization>NOKIA UK R&amp;D Ltd</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes multicall scenarios and requirements for UMTS phase 1 release 1999.
+Multicall feature specifies functionality and interactions related to usage of several simultaneous bearers between a terminal and a network. Multicall features allows both circuit-switched call(s) and packet session(s) to exist simulta¬neously.</abstract>
+  </front>
+</reference>

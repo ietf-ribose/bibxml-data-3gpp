@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.22.004:Rel-17/17.0.0">
+  <front>
+    <title>General on supplementary services</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="HOWELL, Andrew">
+      <organization>HOME OFFICE</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes a recommended set of supplementary services to the teleservices and bearer services which will be supported by a 3G network in connection with other networks as a basis for the definition of the network capabilities required.</abstract>
+  </front>
+</reference>

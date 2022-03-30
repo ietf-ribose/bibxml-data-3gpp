@@ -1,6 +1,6 @@
 <reference anchor="3GPP.TS.38.351:Rel-17/0.4.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.351/38351-040.zip">
   <front>
-    <title>NR; Sidelink Adaptation Layer Protocol</title>
+    <title>NR; Sidelink Relay Adaptation Protocol (SRAP) Specification</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>

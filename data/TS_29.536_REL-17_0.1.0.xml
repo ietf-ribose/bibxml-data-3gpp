@@ -1,6 +1,6 @@
 <reference anchor="3GPP.TS.29.536:Rel-17/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.536/29536-010.zip">
   <front>
-    <title>5G System; Network Slice Admission Control Service; Stage 3</title>
+    <title>5G System; Network Slice Admission Control Services; Stage 3</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>

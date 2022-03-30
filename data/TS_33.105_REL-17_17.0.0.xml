@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.33.105:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.105/33105-h00.zip">
+  <front>
+    <title>3G Security; Cryptographic algorithm requirements</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="CHIKAZAWA, Takeshi">
+      <organization>Mitsubishi Electric Corp</organization>
+    </author>
+    <date year="2022" month="March" day="29"/>
+    <workgroup>S3</workgroup>
+    <workgroup>S3</workgroup>
+    <abstract>Defines requirements for standard cipher and integrity algorithm.</abstract>
+  </front>
+</reference>

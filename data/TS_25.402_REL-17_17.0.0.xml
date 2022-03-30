@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.25.402:Rel-17/17.0.0">
+  <front>
+    <title>Synchronisation in UTRAN Stage 2</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="AHMED, Ayaz">
+      <organization>Nokia Solutions &amp; Networks (I)</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This document constitutes the stage 2 specification of different synchronisation mechanisms in UTRAN and on Uu.</abstract>
+  </front>
+</reference>

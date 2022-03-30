@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.22.086:Rel-17/17.0.0">
+  <front>
+    <title>Advice of Charge (AoC) supplementary services; Stage 1</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="DEOL, Amar">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>These services are designed to supply to a mobile user sufficient information to allow a real time estimate to be made of the bill which will eventually be levied in the home public land mobile network (PLMN) on the mobile station subscriber.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.51.010-4:Rel-17/17.0.0">
+  <front>
+    <title>Mobile Station (MS) conformance specification; Part 4: Subscriber Identity Module (SIM) application toolkit conformance test specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="VIRK, Amandeep">
+      <organization>Qualcomm CDMA Technologies</organization>
+    </author>
+    <workgroup>C6</workgroup>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

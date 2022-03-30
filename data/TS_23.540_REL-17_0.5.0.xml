@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.540:Rel-17/0.5.0">
+<reference anchor="3GPP.TS.23.540:Rel-17/0.5.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.540/23540-050.zip">
   <front>
     <title>5G System: Technical realization of Service Based Short Message Service; Stage 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LIU, Liu">
       <organization>China Telecom Corporation Ltd.</organization>
     </author>
+    <date year="2022" month="March" day="4"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

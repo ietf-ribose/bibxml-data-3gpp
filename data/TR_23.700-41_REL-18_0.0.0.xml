@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-41:Rel-18/0.0.0">
+<reference anchor="3GPP.TR.23.700-41:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-41/23700-41-000.zip">
   <front>
     <title>Study on enhancement of network slicing; Phase 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHU, Jinguo">
       <organization>ZTE Corporation</organization>
     </author>
+    <date year="2022" month="March" day="4"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

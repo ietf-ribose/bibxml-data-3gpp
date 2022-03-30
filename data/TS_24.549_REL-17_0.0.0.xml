@@ -1,6 +1,6 @@
 <reference anchor="3GPP.TS.24.549:Rel-17/0.0.0" target="https://ftp.3gpp.org//Specs/archive/24_series/24.549/24549-000.zip">
   <front>
-    <title>Network slice capability management SEAL service; Protocol Specifications;</title>
+    <title>Network slice capability enablement- Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification; Stage 3</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>

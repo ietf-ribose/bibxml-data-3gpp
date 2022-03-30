@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.23.042:Rel-17/17.0.0">
+  <front>
+    <title>Compression algorithm for text messaging services</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="CHIN, ChenHo">
+      <organization>Guangdong OPPO Mobile Telecom.</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>T2</workgroup>
+    <abstract>This specification describes the compression algorithm for text messaging services.</abstract>
+  </front>
+</reference>

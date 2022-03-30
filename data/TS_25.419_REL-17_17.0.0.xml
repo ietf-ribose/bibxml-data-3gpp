@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.25.419:Rel-17/17.0.0">
+  <front>
+    <title>UTRAN Iu-BC interface: Service Area Broadcast Protocol (SABP)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="MCWILLIAMS, Brendan">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <workgroup>R3</workgroup>
+    <abstract>This document specifies the Service Area Broadcast Protocol (SABP) between the Cell Broadcast Centre (CBC) and the Radio Network Controller (RNC).</abstract>
+  </front>
+</reference>

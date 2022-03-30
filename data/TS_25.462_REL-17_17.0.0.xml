@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.25.462:Rel-17/17.0.0">
+  <front>
+    <title>UTRAN Iuant interface: Signalling transport</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="KULAKOV, Alexey">
+      <organization>Vodafone GmbH</organization>
+    </author>
+    <workgroup>R3</workgroup>
+    <abstract>This document specifies the signalling transport related to RETAP signalling to be used across the Iuant interface.</abstract>
+  </front>
+</reference>

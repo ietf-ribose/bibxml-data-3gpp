@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.25.104:Rel-17/17.0.0">
+  <front>
+    <title>Base Station (BS) radio transmission and reception (FDD)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="SKOLD, Johan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>R4</workgroup>
+    <workgroup>R4</workgroup>
+    <abstract>This specification describes the base station minimum RF characteristics of the FDD mode of UTRA. The values in the TS make no allowance for measurements uncertainties in conformance testing. Test limit to be used for conformance testing are specified separately in the BS conformance test Specification TS 25.141.</abstract>
+  </front>
+</reference>

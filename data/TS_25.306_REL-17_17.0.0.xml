@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.25.306:Rel-17/17.0.0">
+  <front>
+    <title>UE Radio Access capabilities</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="EKLOF, Cecilia">
+      <organization>Ericsson India Private Limited</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R2</workgroup>
+    <abstract>This document identifies the parameters of the access stratum part of the UE radio access capabilities. Furthermore, some reference configurations of these values are defined. The intention is that these configurations will be used for test specifications.</abstract>
+  </front>
+</reference>

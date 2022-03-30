@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="BARRETT, Stephen">
+      <organization>BlackBerry UK Limited</organization>
+    </author>
     <date year="2013" month="September" day="12"/>
     <workgroup>S2</workgroup>
   </front>

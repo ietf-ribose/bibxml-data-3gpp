@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.25.214:Rel-17/17.0.0">
+  <front>
+    <title>Physical layer procedures (FDD)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="COZZO, Carmela">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>RP</workgroup>
+    <workgroup>R1</workgroup>
+    <workgroup>R1</workgroup>
+    <abstract>This specification describes and establishes the characteristics of the physical layer procedures in the FDD mode of UTRA.</abstract>
+  </front>
+</reference>

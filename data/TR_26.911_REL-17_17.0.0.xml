@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TR.26.911:Rel-17/17.0.0">
+  <front>
+    <title>Codec(s) for Circuit-Switched (CS) multimedia telephony service; Terminal implementor’s guide</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="JUNG, Kyunghun">
+      <organization>Meta Ireland</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4</workgroup>
+    <abstract>This report describes non-mandatory Recommendations for the use of the different codec implementation options for the circuit-switched 3G-324M multimedia telephony service based on ITU-T Recommendation H.324, Annex C. These Recommendations address issues specific to the third generation operating environment, including guaranteeing sufficient error resilience and inter-working between terminals.</abstract>
+  </front>
+</reference>

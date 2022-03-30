@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-17:Rel-18/0.0.0">
+<reference anchor="3GPP.TR.23.700-17:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-17/23700-17-000.zip">
   <front>
     <title>Study on support for 5WWC; Phase 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="THIEBAUT, Laurent">
       <organization>Nokia France</organization>
     </author>
+    <date year="2022" month="March" day="2"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

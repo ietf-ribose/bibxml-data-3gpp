@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.527:Rel-18/0.1.0">
+<reference anchor="3GPP.TS.33.527:Rel-18/0.1.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.527/33527-010.zip">
   <front>
     <title>Security Assurance Specification (SCAS) for 3GPP virtualized network products </title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="QI, Minpeng">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="March" day="4"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

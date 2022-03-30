@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.35.205:Rel-17/17.0.0">
+  <front>
+    <title>3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 1: General</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="EVANS, Tim P.">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.22.078:Rel-17/17.0.0">
+  <front>
+    <title>Customised Applications for Mobile network Enhanced Logic (CAMEL); Service description; Stage 1</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="RODERMUND, Friedhelm">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the Stage 1 description for CAMEL feature which provides the mechanisms to support services consistently independently of the serving network. The CAMEL features shall facilitate service control of operator specific services external from the serving network. The CAMEL feature is a network feature and not a supplementary service. It is a tool to help the network operator to provide the subscribers with the operator specific services even when roaming outside the home network.</abstract>
+  </front>
+</reference>

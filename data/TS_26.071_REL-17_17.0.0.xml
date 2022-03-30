@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.26.071:Rel-17/17.0.0">
+  <front>
+    <title>Mandatory speech CODEC speech processing functions; AMR speech Codec; General description</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="BRUHN, Stefan">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>S4</workgroup>
+    <workgroup>S4</workgroup>
+    <abstract>This specification describes an introduction to the set of the adaptive multi-rate (AMR) specifications.</abstract>
+  </front>
+</reference>

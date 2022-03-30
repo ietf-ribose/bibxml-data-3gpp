@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-27:Rel-18/0.0.0">
+<reference anchor="3GPP.TR.23.700-27:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-27/23700-27-000.zip">
   <front>
     <title>Study on support of satellite backhauling in 5GS</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WANG, Hucheng">
       <organization>CATT</organization>
     </author>
+    <date year="2022" month="March" day="7"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

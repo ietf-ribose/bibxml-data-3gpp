@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TR.37.717-11-21:Rel-17/0.8.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.717-11-21/37717-11-21-080.zip">
+  <front>
+    <title>Rel-17 Dual Connectivity (DC) of x bands (x=1,2,3,4) LTE inter-band CA (xDL/1UL) and 2 bands NR inter-band CA (2DL/1UL)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="LIM, Suhwan">
+      <organization>LG Electronics Inc.</organization>
+    </author>
+    <date year="2022" month="March" day="15"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

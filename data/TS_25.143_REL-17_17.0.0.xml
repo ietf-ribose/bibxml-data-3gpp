@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.25.143:Rel-17/17.0.0">
+  <front>
+    <title>UTRA repeater conformance testing</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="KUMMETZ, Thomas">
+      <organization>Andrew Wireless Systems GmbH</organization>
+    </author>
+    <workgroup>R4</workgroup>
+    <workgroup>R4</workgroup>
+    <abstract>The present document specifies the Radio Frequency (RF) test methods and Minimum Requirements for UTRA Repeaters. These have been derived from, and are consistent with the UTRA Repeater specifications defined in TS 25.106.</abstract>
+  </front>
+</reference>

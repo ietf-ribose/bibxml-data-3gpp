@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.22.087:Rel-17/17.0.0">
+  <front>
+    <title>User-to-User Signalling (UUS); Service description; Stage 1</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="BISCHINGER, Kurt">
+      <organization>T-Mobile Austria GmbH</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>The UUS supplementary service allows a mobile subscriber to send/receive a limited amount of information to/from another network or ISDN subscriber over the signalling channel in association with a call to the other subscriber.</abstract>
+  </front>
+</reference>

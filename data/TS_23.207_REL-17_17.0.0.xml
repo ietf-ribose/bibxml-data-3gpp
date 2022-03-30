@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.23.207:Rel-17/17.0.0">
+  <front>
+    <title>End-to-end Quality of Service (QoS) concept and architecture</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="OYAMA, Johnson">
+      <organization>Nippon Ericsson K.K.</organization>
+    </author>
+    <workgroup>S2</workgroup>
+  </front>
+</reference>

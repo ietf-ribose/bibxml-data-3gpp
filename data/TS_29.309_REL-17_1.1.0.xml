@@ -1,6 +1,6 @@
-<reference anchor="3GPP.TS.29.309:Rel-17/1.1.0">
+<reference anchor="3GPP.TS.29.309:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.309/29309-110.zip">
   <front>
-    <title>Bootstrapping Server Function (GBA's BSF) Services </title>
+    <title>Bootstrapping Server Function (GBA BSF) Services</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>
@@ -15,6 +15,7 @@
     <author fullname="DE GREGORIO, Jesus">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="March" day="5"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

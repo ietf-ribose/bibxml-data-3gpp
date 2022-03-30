@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-86:Rel-18/0.0.0">
+<reference anchor="3GPP.TR.23.700-86:Rel-18/0.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-86/23700-86-000.zip">
   <front>
     <title>Study on Architecture Enhancement to support Ranging based services and sidelink positioning</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SHEN, Yang">
       <organization>Beijing Xiaomi Mobile Softwar</organization>
     </author>
+    <date year="2022" month="March" day="4"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

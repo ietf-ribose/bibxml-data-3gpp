@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TR.33.874:Rel-17/0.6.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.874/33874-060.zip">
+  <front>
+    <title>Study on enhanced security for Phase 2 network slicing</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="LEI, Zander (Zhongding)">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <date year="2022" month="March" day="10"/>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

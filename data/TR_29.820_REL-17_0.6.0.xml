@@ -1,6 +1,6 @@
 <reference anchor="3GPP.TR.29.820:Rel-17/0.6.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.820/29820-060.zip">
   <front>
-    <title>Study on Best Practices for Packet Forwarding Control Protocol (PFCP)</title>
+    <title>Study on Best Practice of PFCP</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>

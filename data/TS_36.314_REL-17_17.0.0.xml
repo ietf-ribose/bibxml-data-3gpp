@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.36.314:Rel-17/17.0.0">
+  <front>
+    <title>Evolved Universal Terrestrial Radio Access  (E-UTRA); Layer 2 - Measurements</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="CHEN, Jun">
+      <organization>HiSilicon Technologies Co. Ltd</organization>
+    </author>
+    <workgroup>R2</workgroup>
+  </front>
+</reference>

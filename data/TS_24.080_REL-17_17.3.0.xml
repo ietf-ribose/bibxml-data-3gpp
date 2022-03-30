@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.24.080:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.080/24080-h30.zip">
+  <front>
+    <title>Mobile radio interface layer 3 supplementary services specification; Formats and coding</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="WIEHE, Ulrich">
+      <organization>Nokia Solutions &amp; Networks (S)</organization>
+    </author>
+    <date year="2022" month="March" day="18"/>
+    <workgroup>C4</workgroup>
+    <workgroup>N4 (ex NSS)</workgroup>
+    <abstract>This specification describes the coding of information necessary for support of supplementary service operation on the mobile radio interface L3. Details will be specified in other documents.</abstract>
+  </front>
+</reference>

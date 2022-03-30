@@ -1,6 +1,6 @@
 <reference anchor="3GPP.TR.33.824:Rel-16/0.7.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.824/33824-070.zip">
   <front>
-    <title>Study on security aspects of Integrated Access and Backhaul (IAB) for Next Radio (NR)</title>
+    <title>Study on Security for Next Radio (NR) Integrated Access and Backhaul (IAB)</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>

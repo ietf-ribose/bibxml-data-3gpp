@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.22.041:Rel-17/17.0.0">
+  <front>
+    <title>Operator Determined Barring (ODB)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="RODERMUND, Friedhelm">
+      <organization>VODAFONE Group Plc</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>The feature operator determined barring (ODB) allows the network operator or service provider to regulate, by means of an exceptional procedure, access by the subscribers to 3G services, by the barring of certain categories of outgoing or incoming calls or of roaming. ODB shall take effect immediately and shall terminate ongoing calls and bar future calls. The purpose of this network feature is to be able to limit the service provider’s financial exposure to new subscribers, or to those who have not promptly paid their bills. It may only be applied to the service provider’s own subscribers.</abstract>
+  </front>
+</reference>

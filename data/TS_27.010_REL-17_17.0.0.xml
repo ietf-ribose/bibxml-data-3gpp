@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.27.010:Rel-17/17.0.0">
+  <front>
+    <title>Terminal Equipment to User Equipment (TE-UE) multiplexer protocol</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="BIONDIC, Nevenka">
+      <organization>Ericsson LM</organization>
+    </author>
+    <workgroup>C3</workgroup>
+    <workgroup>T2</workgroup>
+    <abstract>This specification describes a multiplexing protocol between a mobile station and an external data terminal for the purposes of enabling multiple channels to be established for different purposes (e.g. simultaneous SMS and data call).</abstract>
+  </front>
+</reference>

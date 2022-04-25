@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.45.912:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.45.912:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/45_series/45.912/45912-h00.zip">
   <front>
     <title>Feasibility study for evolved GSM/EDGE Radio Access Network (GERAN)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="RIDDINGTON, Eddie">
       <organization>Nokia Networks Oy</organization>
     </author>
+    <date year="2022" month="April" day="8"/>
     <workgroup>RP</workgroup>
     <workgroup>R5, RP</workgroup>
   </front>

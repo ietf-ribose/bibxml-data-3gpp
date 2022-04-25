@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.518:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.33.518:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.518/33518-h00.zip">
   <front>
     <title>5G Security Assurance Specification (SCAS) for  the Network Repository Function (NRF) network product class</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BYKAMPADI, Nagendra">
       <organization>Nokia France</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

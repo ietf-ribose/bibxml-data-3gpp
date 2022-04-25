@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.278:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.32.278:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.278/32278-h00.zip">
   <front>
     <title>Telecommunication management;Charging management;Monitoring event charging</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LI, Li">
       <organization>HuaWei Technologies Co., Ltd</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

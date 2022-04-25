@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.22.083:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.22.083:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.083/22083-h00.zip">
   <front>
     <title>Call Waiting (CW) and Call Holding (HOLD); Supplementary Services; Stage 1</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SCARRONE, Enrico">
       <organization>TELECOM ITALIA S.p.A.</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the supplementary services belonging to the group call completion supplementary services which are divided into the following two supplementary services:

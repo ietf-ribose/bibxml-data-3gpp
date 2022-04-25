@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.22.979:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.22.979:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.979/22979-h00.zip">
   <front>
     <title>Feasibility study on combined Circuit Switched (CS) calls and IP Multimedia Subsystem (IMS) sessions</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="FRANK, Robert">
       <organization>TeliaSonera AB</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

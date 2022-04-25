@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.116:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.33.116:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.116/33116-h00.zip">
   <front>
     <title>Security Assurance Specification (SCAS) for the MME network product class</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZUGENMAIER, Alf">
       <organization>NTT DOCOMO INC.</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

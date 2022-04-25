@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.950:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.26.950:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.950/26950-h00.zip">
   <front>
     <title>Study on Surround Sound codec extension for Packet Switched Streaming (PSS) and Multimedia Broadcast/Multicast Service (MBMS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="PLOGSTIES, Jan">
       <organization>Fraunhofer IIS</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

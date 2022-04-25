@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.35.223:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.35.223:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/35_series/35.223/35223-h00.zip">
   <front>
     <title>Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 &amp; EIA3; Document 3: Implementors' test data</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="QI, Yuan">
       <organization>RITT</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.25.324:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.25.324:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/25_series/25.324/25324-h00.zip">
   <front>
     <title>Broadcast/Multicast Control (BMC)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="PICA, Francesco">
       <organization>Qualcomm Incorporated</organization>
     </author>
+    <date year="2022" month="April" day="8"/>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

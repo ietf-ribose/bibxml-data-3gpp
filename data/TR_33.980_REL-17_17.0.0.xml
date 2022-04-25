@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.33.980:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.33.980:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.980/33980-h00.zip">
   <front>
     <title>Liberty Alliance and 3GPP security interworking; Interworking of Liberty Alliance Identity Federation Framework (ID-FF), Identity Web Services Framework (ID-WSF) and Generic Authentication Architecture (GAA)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="HOLTMANNS, Silke">
       <organization>Nokia Networks Oy</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

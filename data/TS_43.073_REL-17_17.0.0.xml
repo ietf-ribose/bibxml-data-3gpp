@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.43.073:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.43.073:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/43_series/43.073/43073-h00.zip">
   <front>
     <title>Support of Localised Service Area (SoLSA); Stage 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SCHMITT, Peter">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

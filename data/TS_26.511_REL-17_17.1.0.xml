@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.511:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.26.511:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.511/26511-h10.zip">
   <front>
     <title>5G Media Streaming (5GMS); Profiles, codecs and formats</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="TENIOU, Gilles">
       <organization>Orange</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

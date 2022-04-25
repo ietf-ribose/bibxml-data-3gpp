@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.36.201:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.36.201:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.201/36201-h00.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); LTE physical layer; General description</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BAKER, Matthew">
       <organization>Alcatel-Lucent</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>R1</workgroup>
   </front>
 </reference>

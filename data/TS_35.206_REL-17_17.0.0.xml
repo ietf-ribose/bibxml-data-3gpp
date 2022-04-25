@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.35.206:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.35.206:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/35_series/35.206/35206-h00.zip">
   <front>
     <title>3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 2: Algorithm specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="EVANS, Tim P.">
       <organization>VODAFONE Group Plc</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

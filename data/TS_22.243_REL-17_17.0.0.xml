@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.22.243:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.22.243:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.243/22243-h00.zip">
   <front>
     <title>Speech recognition framework for automated voice services; Stage 1</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WILLIAMS, David Hugh">
       <organization>Qualcomm UK Ltd</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

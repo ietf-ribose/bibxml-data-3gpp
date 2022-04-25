@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.531:Rel-17/1.2.0">
+<reference anchor="3GPP.TS.26.531:Rel-17/1.2.0" target="https://ftp.3gpp.org//Specs/archive/26_series/26.531/26531-120.zip">
   <front>
     <title>Data Collection and Reporting; General Description and Architecture</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BRADBURY, Richard">
       <organization>BBC</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

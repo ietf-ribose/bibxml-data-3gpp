@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.862:Rel-17/1.0.0">
+<reference anchor="3GPP.TR.26.862:Rel-17/1.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.862/26862-100.zip">
   <front>
     <title>Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT) Use Cases, Requirements and Potential Solutions</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="GUNKEL, Simon">
       <organization>TNO</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.55.236:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.55.236:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/55_series/55.236/55236-h00.zip">
   <front>
     <title>Specification of A8_V MILENAGE Algorithm: An example algorithm for the key generation function A8_V</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JERICHOW, Anja">
       <organization>Nokia Germany</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

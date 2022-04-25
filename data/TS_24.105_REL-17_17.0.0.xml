@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.105:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.24.105:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.105/24105-h00.zip">
   <front>
     <title>Application specific Congestion control for Data Communication (ACDC) Management Object (MO)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="PARK, Sang Min">
       <organization>LG Electronics France</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.22.988:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.22.988:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.988/22988-h00.zip">
   <front>
     <title>Study on alternatives to E.164 for Machine-Type Communications (MTC)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JONES, Gary">
       <organization>T-Mobile USA Inc.</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

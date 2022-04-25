@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.22.519:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.22.519:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.519/22519-h00.zip">
   <front>
     <title>Business communication requirements</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="COVELL, Betsy">
       <organization>Alcatel-Lucent Telecom Ltd</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

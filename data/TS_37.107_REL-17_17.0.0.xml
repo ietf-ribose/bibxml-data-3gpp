@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.107:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.37.107:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.107/37107-h00.zip">
   <front>
     <title>Base Station (BS) requirements and conformance tests for shared spectrum channel access</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="NURMINEN, Riikka">
       <organization>Nokia Corporation</organization>
     </author>
+    <date year="2022" month="April" day="4"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

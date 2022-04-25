@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.217:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.29.217:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.217/29217-h00.zip">
   <front>
     <title>Policy and Charging Control (PCC); Congestion reporting over Np reference point</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHOU, Xiaoyun">
       <organization>ZTE Corporation</organization>
     </author>
+    <date year="2022" month="March" day="29"/>
     <workgroup>C3</workgroup>
   </front>
 </reference>

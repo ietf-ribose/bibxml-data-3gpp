@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.909:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.26.909:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.909/26909-h00.zip">
   <front>
     <title>Study on improved streaming Quality of Experience (QoE) reporting in 3GPP services and networks</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LI, Zhiming">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

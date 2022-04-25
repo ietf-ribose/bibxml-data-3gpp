@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.132:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.26.132:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.132/26132-h10.zip">
   <front>
     <title>Speech and video telephony terminal acoustic test specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="USAI, Paolino">
       <organization>ETSI</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>S4</workgroup>
     <workgroup>S4</workgroup>
   </front>

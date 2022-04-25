@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.37.867:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.37.867:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.867/37867-h00.zip">
   <front>
     <title>Downlink interruption for band combinations to conduct dynamic Tx Switching</title>
     <author>
@@ -12,9 +12,10 @@
         </postal>
       </address>
     </author>
-    <author fullname="SONG, Yuexia">
+    <author fullname="SHAN, Huiping">
       <organization>CATT</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

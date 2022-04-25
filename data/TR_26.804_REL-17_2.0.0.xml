@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.804:Rel-17/2.0.0">
+<reference anchor="3GPP.TR.26.804:Rel-17/2.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.804/26804-200.zip">
   <front>
     <title>Study on 5G media streaming extensions</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LOHMAR, Thorsten">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

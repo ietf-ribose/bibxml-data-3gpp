@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.44.018:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.44.018:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/44_series/44.018/44018-h00.zip">
   <front>
     <title>Mobile radio interface layer 3 specification; GSM/EDGE Radio Resource Control (RRC) protocol</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="HOWELL, Andrew">
       <organization>HOME OFFICE</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>RP</workgroup>
     <workgroup>SMG02</workgroup>
   </front>

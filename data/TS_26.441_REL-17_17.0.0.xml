@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.441:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.26.441:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.441/26441-h00.zip">
   <front>
     <title>Codec for Enhanced Voice Services (EVS); General overview</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WANG, Bin">
       <organization>HUAWEI TECH. GmbH</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

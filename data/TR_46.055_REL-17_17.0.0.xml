@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.46.055:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.46.055:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/46_series/46.055/46055-h00.zip">
   <front>
     <title>Performance characterization of the GSM Enhanced Full Rate (EFR) speech codec</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="USAI, Paolino">
       <organization>ETSI</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
     <workgroup>SMG11</workgroup>
   </front>

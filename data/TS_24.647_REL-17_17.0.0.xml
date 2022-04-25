@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.647:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.24.647:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.647/24647-h00.zip">
   <front>
     <title>Advice Of Charge (AOC) using IP Multimedia (IM) Core Network (CN) subsystem</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="AXELL, Jörgen">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="April" day="4"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

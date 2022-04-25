@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.37.902:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.37.902:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.902/37902-h00.zip">
   <front>
     <title>Measurements of User Equipment (UE) radio performances for LTE/UMTS terminals; Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="AN, Xudong">
       <organization>CATR</organization>
     </author>
+    <date year="2022" month="April" day="4"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

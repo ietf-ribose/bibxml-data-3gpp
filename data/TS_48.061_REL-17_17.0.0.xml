@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.48.061:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.48.061:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/48_series/48.061/48061-h00.zip">
   <front>
     <title>In-band control of remote transcoders and rate adaptors for half rate traffic channels</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ANDERSEN, Niels Peter Skov">
       <organization>Anemone Technology</organization>
     </author>
+    <date year="2022" month="April" day="8"/>
     <workgroup>RP</workgroup>
     <workgroup>CP</workgroup>
     <workgroup>SMG02  /  SMG03</workgroup>

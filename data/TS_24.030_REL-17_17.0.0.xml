@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.030:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.24.030:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.030/24030-h00.zip">
   <front>
     <title>Location Services (LCS); Supplementary service operations; Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WILD, Peter A.">
       <organization>Vodafone GmbH</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>C4</workgroup>
     <workgroup>N4 / SMG03</workgroup>
   </front>

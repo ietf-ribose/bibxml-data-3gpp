@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.260:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.26.260:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.260/26260-h00.zip">
   <front>
     <title>Objective test methodologies for the evaluation of immersive audio systems</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SCHEVCIW, Andre">
       <organization>Qualcomm UK Ltd</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

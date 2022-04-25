@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.25.331:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.25.331:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-h00.zip">
   <front>
     <title>Radio Resource Control (RRC); Protocol specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SHREEVASTAV, Ritesh">
       <organization>Ericsson India Private Limited</organization>
     </author>
+    <date year="2022" month="April" day="9"/>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

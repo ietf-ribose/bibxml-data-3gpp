@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.25.452:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.25.452:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/25_series/25.452/25452-h00.zip">
   <front>
     <title>UTRAN Iupc interface: signalling transport</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="FLORE, Dino">
       <organization>Qualcomm Incorporated</organization>
     </author>
+    <date year="2022" month="April" day="5"/>
     <workgroup>R3</workgroup>
     <abstract>The present document specifies the signalling transport related to PCAP signalling to be used across the Iupc interface.</abstract>
   </front>

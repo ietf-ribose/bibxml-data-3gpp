@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.33.919:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.33.919:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.919/33919-h00.zip">
   <front>
     <title>3G Security; Generic Authentication Architecture (GAA); System description</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="VAN MOFFAERT, Annelies">
       <organization>Alcatel-Lucent Bell NV</organization>
     </author>
+    <date year="2022" month="March" day="30"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

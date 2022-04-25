@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.382:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.32.382:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.382/32382-h00.zip">
   <front>
     <title>Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); Information Service (IS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="POLLAKOWSKI, Olaf">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

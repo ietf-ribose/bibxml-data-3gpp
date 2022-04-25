@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.22.967:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.22.967:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.967/22967-h00.zip">
   <front>
     <title>Transferring of emergency call data</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WU, Jian (Jim) Jun">
       <organization>Samsung R&amp;D Institute UK</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

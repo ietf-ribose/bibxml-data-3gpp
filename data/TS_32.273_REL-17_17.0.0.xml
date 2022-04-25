@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.273:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.32.273:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.273/32273-h00.zip">
   <front>
     <title>Telecommunication management; Charging management; Multimedia Broadcast and Multicast Service (MBMS) charging</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="MCNAMEE, Alan">
       <organization>Openet Telecom</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

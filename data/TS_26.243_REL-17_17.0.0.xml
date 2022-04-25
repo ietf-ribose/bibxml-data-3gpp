@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.243:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.26.243:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.243/26243-h00.zip">
   <front>
     <title>ANSI-C code for the fixed-point distributed speech recognition extended advanced front-end</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="PEARCE, David">
       <organization>Waiting for new Company</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

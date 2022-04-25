@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.108:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.23.108:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.108/23108-h00.zip">
   <front>
     <title>Mobile radio interface layer 3 specification, core network protocols; Stage 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CHIN, ChenHo">
       <organization>Guangdong OPPO Mobile Telecom.</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>C1</workgroup>
     <workgroup>N1</workgroup>
     <abstract>This specification describes the procedures used at the radio interface for call control (CC), mobility management (MM) and session management (SM). It shall hold examples of the structured procedures.</abstract>

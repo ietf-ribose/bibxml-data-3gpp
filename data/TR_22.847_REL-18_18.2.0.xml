@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.22.847:Rel-18/18.2.0">
+<reference anchor="3GPP.TR.22.847:Rel-18/18.2.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.847/22847-i20.zip">
   <front>
     <title>Study on supporting tactile and multi-modality communication services </title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WANG, Shuo">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.22.024:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.22.024:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.024/22024-h00.zip">
   <front>
     <title>Description of Charge Advice Information (CAI)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="DEOL, Amar">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes an overall view of how the charging advice supplementary service shall operate both in the network and within the UE. The charging supplementary service is described in TS 22.086.</abstract>

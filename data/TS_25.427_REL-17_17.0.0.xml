@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.25.427:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.25.427:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/25_series/25.427/25427-h00.zip">
   <front>
     <title>UTRAN Iub/Iur interface user plane protocol for DCH data streams</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="AHMED, Ayaz">
       <organization>Nokia Solutions &amp; Networks (I)</organization>
     </author>
+    <date year="2022" month="April" day="5"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
     <abstract>This specification describes the UTRAN Iur and Iub interfaces user plane protocols for dedicated transport channel data streams.</abstract>

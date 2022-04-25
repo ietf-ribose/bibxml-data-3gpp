@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.44.013:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.44.013:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/44_series/44.013/44013-h00.zip">
   <front>
     <title>Performance requirements on the mobile radio interface</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LU, Yang">
       <organization>Vodafone GmbH</organization>
     </author>
+    <date year="2022" month="April" day="5"/>
     <workgroup>C1</workgroup>
     <workgroup>N1  /  SMG03A</workgroup>
   </front>

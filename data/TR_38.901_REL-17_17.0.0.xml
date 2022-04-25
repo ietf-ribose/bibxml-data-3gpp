@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.901:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.38.901:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.901/38901-h00.zip">
   <front>
     <title>Study on channel model for frequencies from 0.5 to 100 GHz</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JANG, Youngrok">
       <organization>Samsung Electronics Co., Ltd</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>R1</workgroup>
     <workgroup>R2, R3, R4</workgroup>
   </front>

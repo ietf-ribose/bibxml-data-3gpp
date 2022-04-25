@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.150:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.26.150:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.150/26150-h00.zip">
   <front>
     <title>Syndicated Feed Reception (SFR) within 3GPP environments; Protocols and codecs</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LOHMAR, Thorsten">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.192:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.26.192:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.192/26192-h00.zip">
   <front>
     <title>Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Comfort noise aspects</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BRUHN, Stefan">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

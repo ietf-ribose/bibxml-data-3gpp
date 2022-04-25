@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.27.010:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.27.010:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/27_series/27.010/27010-h00.zip">
   <front>
     <title>Terminal Equipment to User Equipment (TE-UE) multiplexer protocol</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BIONDIC, Nevenka">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="March" day="29"/>
     <workgroup>C3</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes a multiplexing protocol between a mobile station and an external data terminal for the purposes of enabling multiple channels to be established for different purposes (e.g. simultaneous SMS and data call).</abstract>

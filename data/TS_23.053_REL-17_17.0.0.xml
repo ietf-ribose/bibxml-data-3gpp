@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.053:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.23.053:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.053/23053-h00.zip">
   <front>
     <title>Tandem Free Operation (TFO); Service description; Stage 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="HELLWIG, Karl">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="April" day="7"/>
     <workgroup>S4</workgroup>
     <workgroup>S2</workgroup>
   </front>

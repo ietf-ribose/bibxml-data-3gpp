@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.335:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.23.335:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.335/23335-h00.zip">
   <front>
     <title>User Data Convergence (UDC); Technical realization and information flows; Stage 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BARTOLOME, Maria-Cruz">
       <organization>Nanjing Ericsson Panda Com Ltd</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

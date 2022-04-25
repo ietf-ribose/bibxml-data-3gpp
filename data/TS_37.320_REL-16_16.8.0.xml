@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.320:Rel-16/16.8.0">
+<reference anchor="3GPP.TS.37.320:Rel-16/16.8.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.320/37320-g80.zip">
   <front>
     <title>Radio measurement collection for Minimization of Drive Tests (MDT); Overall description; Stage 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="TOMALA, Malgorzata">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2022" month="April" day="15"/>
     <workgroup>R2</workgroup>
   </front>
 </reference>

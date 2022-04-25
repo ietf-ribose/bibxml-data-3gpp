@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.594:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.32.594:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.594/32594-h00.zip">
   <front>
     <title>Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration, Maintenance and Provisioning (OAM&amp;P); XML definitions for Type 1 interface HeNB to HeNB Management System (HeMS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ANDRIANOV, Anatoly">
       <organization>Nokia Germany</organization>
     </author>
+    <date year="2022" month="April" day="6"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

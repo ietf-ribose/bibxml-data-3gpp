@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.25.914:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.25.914:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/25_series/25.914/25914-h00.zip">
   <front>
     <title>Measurements of radio performances for UMTS terminals in speech mode</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BERGLJUNG, Christian">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="April" day="4"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

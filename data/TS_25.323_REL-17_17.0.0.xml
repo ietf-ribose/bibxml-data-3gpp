@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.25.323:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.25.323:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/25_series/25.323/25323-h00.zip">
   <front>
     <title>Packet Data Convergence Protocol (PDCP) specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SHRESTHA, Bharat">
       <organization>Intel Corporation (UK) Ltd</organization>
     </author>
+    <date year="2022" month="April" day="8"/>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

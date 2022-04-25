@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.22.281:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.22.281:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.281/22281-h00.zip">
   <front>
     <title>Mission Critical (MC) video</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="VILLEBRUN, Emmanuelle">
       <organization>MINISTERE DE L'INTERIEUR</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

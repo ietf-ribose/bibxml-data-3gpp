@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.468:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.23.468:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.468/23468-h00.zip">
   <front>
     <title>Group Communication System Enablers for LTE (GCSE_LTE); Stage 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LIEBHART, Rainer">
       <organization>Nokia Networks</organization>
     </author>
+    <date year="2022" month="March" day="31"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

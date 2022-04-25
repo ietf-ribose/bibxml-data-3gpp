@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.417:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.24.417:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.417/24417-h00.zip">
   <front>
     <title>Management Object (MO) for Originating Identification Presentation (OIP) and Originating Identification Restriction (OIR) using IP Multimedia (IM) Core Network (CN) subsystem</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SKROCKI, Mariusz">
       <organization>Orange</organization>
     </author>
+    <date year="2022" month="April" day="4"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.480:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.37.480:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.480/37480-h00.zip">
   <front>
     <title>E1 general aspects and principles</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ARJONA, Andres">
       <organization>Nokia Japan</organization>
     </author>
+    <date year="2022" month="March" day="29"/>
     <workgroup>R3</workgroup>
   </front>
 </reference>

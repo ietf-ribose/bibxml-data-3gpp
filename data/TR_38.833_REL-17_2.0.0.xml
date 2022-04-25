@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.833:Rel-17/2.0.0">
+<reference anchor="3GPP.TR.38.833:Rel-17/2.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.833/38833-200.zip">
   <front>
     <title>Further enhancement on NR demodulation performance</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YANG, Shan">
       <organization>China Telecommunications</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

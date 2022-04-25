@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.483:Rel-17/1.0.0">
+<reference anchor="3GPP.TS.37.483:Rel-17/1.0.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.483/37483-100.zip">
   <front>
     <title>E1 Application Protocol (E1AP)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="MULLER, Julien">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="April" day="6"/>
     <workgroup>R3</workgroup>
   </front>
 </reference>

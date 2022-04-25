@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.205:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.29.205:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.205/29205-h00.zip">
   <front>
     <title>Application of Q.1900 series to bearer independent Circuit Switched (CS) core network architecture; Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BIONDIC, Nevenka">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

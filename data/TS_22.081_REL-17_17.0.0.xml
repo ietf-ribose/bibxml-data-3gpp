@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.22.081:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.22.081:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.081/22081-h00.zip">
   <front>
     <title>Line Identification supplementary services; Stage 1</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="RODERMUND, Friedhelm">
       <organization>VODAFONE Group Plc</organization>
     </author>
+    <date year="2022" month="April" day="1"/>
     <workgroup>S1</workgroup>
     <workgroup>S1</workgroup>
     <abstract>This specification describes the supplementary services belonging to the group line identification supplementary services. The group of line identification supplementary services is divided into the following four supplementary services:

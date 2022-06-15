@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.858:Rel-18/0.0.1">
+<reference anchor="3GPP.TR.38.858:Rel-18/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.858/38858-001.zip">
   <front>
     <title>Study on evolution of NR duplex operation</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WANG, FEI">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="April" day="29"/>
     <workgroup>R1</workgroup>
     <workgroup>R4</workgroup>
   </front>

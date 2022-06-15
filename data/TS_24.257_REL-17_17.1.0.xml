@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.24.257:Rel-17/17.1.0">
+  <front>
+    <title>Uncrewed Aerial System (UAS) Application Enabler (UAE) layer; Protocol aspects; Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="SHU, Lin">
+      <organization>HuaWei Technologies Co., Ltd</organization>
+    </author>
+    <workgroup>C1</workgroup>
+  </front>
+</reference>

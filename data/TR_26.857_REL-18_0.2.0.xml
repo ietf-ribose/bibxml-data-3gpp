@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.857:Rel-18/0.2.0">
+<reference anchor="3GPP.TR.26.857:Rel-18/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.857/26857-020.zip">
   <front>
     <title>5G Media Service Enablers</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="STOCKHAMMER, Thomas">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>
+    <date year="2022" month="May" day="20"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

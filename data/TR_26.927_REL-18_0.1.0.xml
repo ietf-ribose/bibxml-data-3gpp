@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.927:Rel-18/0.1.0">
+<reference anchor="3GPP.TR.26.927:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.927/26927-010.zip">
   <front>
     <title>Study on Artificial Intelligence and Machine learning in 5G media services</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="TENIOU, Gilles">
       <organization>Tencent</organization>
     </author>
+    <date year="2022" month="May" day="2"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

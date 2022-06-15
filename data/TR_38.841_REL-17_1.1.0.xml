@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.841:Rel-17/1.1.0">
+<reference anchor="3GPP.TR.38.841:Rel-17/1.1.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.841/38841-110.zip">
   <front>
     <title>High power UE for NR inter-band Carrier Aggregation with 2 bands downlink and x bands uplink (x =1,2)</title>
     <author>
@@ -13,8 +13,9 @@
       </address>
     </author>
     <author fullname="LIU, Bo">
-      <organization>China Telecom Corporation Ltd.</organization>
+      <organization>Chinatelecom Cloud</organization>
     </author>
+    <date year="2022" month="May" day="30"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

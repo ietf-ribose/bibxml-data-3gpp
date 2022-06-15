@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TR.38.785:Rel-17/1.3.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.785/38785-130.zip">
+  <front>
+    <title>User Equipment (UE) radio transmission and reception for enhanced NR sidelink</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="LEE, Sang-wook">
+      <organization>LG Electronics Deutschland</organization>
+    </author>
+    <date year="2022" month="May" day="30"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

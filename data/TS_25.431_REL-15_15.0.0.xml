@@ -18,7 +18,7 @@
     <date year="2018" month="July" day="2"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
-    <abstract>This specification describes the standards allowed to implement Layer 1 on the Iub interface.&#13;
-The specification of transmission delay requirements and O&amp;M requirements is not in the scope of this specification.</abstract>
+    <abstract>This specification describes the standards allowed to implement Layer 1 on the Iub interface.
+The specification of transmission delay requirements and O requirements is not in the scope of this specification.</abstract>
   </front>
 </reference>

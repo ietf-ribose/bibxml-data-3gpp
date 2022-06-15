@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.38.108:Rel-17/1.0.0" target="https://ftp.3gpp.org//Specs/archive/38_series/38.108/38108-100.zip">
+  <front>
+    <title>NR; Satellite Node radio transmission and reception</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="PANAITOPOL, Dorin">
+      <organization>THALES</organization>
+    </author>
+    <date year="2022" month="May" day="30"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

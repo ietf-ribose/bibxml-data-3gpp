@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TR.33.809:Rel-18/0.19.0">
+  <front>
+    <title>Study on 5G security enhancements against False Base Stations (FBS)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="GUO, Ivy">
+      <organization>Apple Computer Trading Co. Ltd</organization>
+    </author>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TR.38.864:Rel-18/0.0.2" target="https://ftp.3gpp.org//Specs/archive/38_series/38.864/38864-002.zip">
+  <front>
+    <title>Study on network energy savings for NR</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="WANG, Yi">
+      <organization>HUAWEI Technologies Japan K.K.</organization>
+    </author>
+    <date year="2022" month="May" day="26"/>
+    <workgroup>R1</workgroup>
+    <workgroup>R2, R3</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TR.33.876:Rel-17/0.2.0" target="https://ftp.3gpp.org//Specs/archive/33_series/33.876/33876-020.zip">
+  <front>
+    <title>Study on automated certificate management in Service-Based Architecture (SBA)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="PEINADO, German">
+      <organization>Nokia Germany</organization>
+    </author>
+    <date year="2022" month="May" day="25"/>
+    <workgroup>S3</workgroup>
+  </front>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.864:Rel-18/0.0.1">
+<reference anchor="3GPP.TR.38.864:Rel-18/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.864/38864-001.zip">
   <front>
     <title>Study on network energy savings for NR</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WANG, Yi">
       <organization>HUAWEI Technologies Japan K.K.</organization>
     </author>
+    <date year="2022" month="April" day="29"/>
     <workgroup>R1</workgroup>
     <workgroup>R2, R3</workgroup>
   </front>

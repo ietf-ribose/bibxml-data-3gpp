@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.955:Rel-17/1.6.0">
+<reference anchor="3GPP.TR.26.955:Rel-17/1.6.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.955/26955-160.zip">
   <front>
     <title>Video codec characteristics for 5G-based services and applications</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="STOCKHAMMER, Thomas">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>
+    <date year="2022" month="May" day="2"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

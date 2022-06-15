@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.38.523-1:Rel-16/16.11.2" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-1/38523-1-gb2.zip">
+  <front>
+    <title>5GS; User Equipment (UE) conformance specification; Part 1: Protocol</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="YANG, zhaobing">
+      <organization>HiSilicon Technologies Co. Ltd</organization>
+    </author>
+    <date year="2022" month="June" day="3"/>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

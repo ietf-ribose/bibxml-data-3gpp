@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.38.213:Rel-16/16.10.0">
+  <front>
+    <title>NR; Physical layer procedures for control</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="PAPASAKELLARIOU, Aris">
+      <organization>Samsung Research America</organization>
+    </author>
+    <workgroup>R1</workgroup>
+  </front>
+</reference>

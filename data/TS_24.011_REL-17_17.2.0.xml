@@ -1,0 +1,23 @@
+<reference anchor="3GPP.TS.24.011:Rel-17/17.2.0">
+  <front>
+    <title>Point-to-Point  (PP) Short Message Service (SMS) support on mobile radio interface</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="NASSAR, Mohamed Amin">
+      <organization>Nokia Germany</organization>
+    </author>
+    <workgroup>C1</workgroup>
+    <workgroup>CP</workgroup>
+    <workgroup>N1 / T2</workgroup>
+    <abstract>This specification describes the procedures used across the mobile radio interface by the signalling Layer 3 function short message control (SMC) and short message relay (SM-RL) function for both circuit-switched GSM and GPRS.</abstract>
+  </front>
+</reference>

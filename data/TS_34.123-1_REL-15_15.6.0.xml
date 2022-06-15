@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.34.123-1:Rel-15/15.6.0">
+  <front>
+    <title>User Equipment (UE) conformance specification; Part 1: Protocol conformance specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="CHEN, Xiaozhong">
+      <organization>CATT</organization>
+    </author>
+    <workgroup>R5</workgroup>
+    <workgroup>T1</workgroup>
+    <abstract>This document specifies the protocol conformance testing for the 3rd Generation User Equipment (UE). This is the first part of a multi-part test specification.</abstract>
+  </front>
+</reference>

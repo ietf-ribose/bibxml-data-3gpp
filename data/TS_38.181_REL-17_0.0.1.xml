@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.181:Rel-17/0.0.1">
+<reference anchor="3GPP.TS.38.181:Rel-17/0.0.1" target="https://ftp.3gpp.org//Specs/archive/38_series/38.181/38181-001.zip">
   <front>
     <title>NR; Satellite Access Node conformance testing</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SONG, Yuexia">
       <organization>CATT</organization>
     </author>
+    <date year="2022" month="April" day="25"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

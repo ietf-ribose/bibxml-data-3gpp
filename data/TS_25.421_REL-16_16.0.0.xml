@@ -18,7 +18,7 @@
     <date year="2020" month="July" day="16"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
-    <abstract>This specification describes the standards allowed to implement Layer 1 on the Iur interface.&#13;
-The specification of transmission delay requirements and O&amp;M requirements are not in the scope of this specification.</abstract>
+    <abstract>This specification describes the standards allowed to implement Layer 1 on the Iur interface.
+The specification of transmission delay requirements and O requirements are not in the scope of this specification.</abstract>
   </front>
 </reference>

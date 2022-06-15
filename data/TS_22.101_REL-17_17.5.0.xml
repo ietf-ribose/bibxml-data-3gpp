@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.22.101:Rel-17/17.5.0">
+  <front>
+    <title>Service aspects; Service principles</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="DEOL, Amar">
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
+    </author>
+    <workgroup>S1</workgroup>
+    <workgroup>S1</workgroup>
+    <abstract>This specification describes the service principles of the UMTS.</abstract>
+  </front>
+</reference>

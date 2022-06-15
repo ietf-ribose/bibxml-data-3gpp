@@ -18,6 +18,6 @@
     <date year="2006" month="March" day="24"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
-    <abstract>This specification describes the transport of implementation specific O&amp;M signalling between Node B and the management platform in case that the transport is routed via the RNC.</abstract>
+    <abstract>This specification describes the transport of implementation specific O signalling between Node B and the management platform in case that the transport is routed via the RNC.</abstract>
   </front>
 </reference>

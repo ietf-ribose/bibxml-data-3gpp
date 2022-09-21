@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="ZONG, Zaifeng">
+      <organization>ZTE Corporation</organization>
+    </author>
     <date year="2012" month="July" day="16"/>
     <workgroup>S2</workgroup>
     <workgroup>S1</workgroup>

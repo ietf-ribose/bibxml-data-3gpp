@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.22.840:Rel-19/0.1.0">
+<reference anchor="3GPP.TR.22.840:Rel-19/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.840/22840-010.zip">
   <front>
     <title>Study on Ambient power-enabled Internet of Things</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SO, Tricci">
       <organization>ZTE Corporation</organization>
     </author>
+    <date year="2022" month="July" day="4"/>
     <workgroup>S1</workgroup>
     <workgroup>S5</workgroup>
   </front>

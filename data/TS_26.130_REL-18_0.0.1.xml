@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.26.130:Rel-18/0.0.1" target="https://ftp.3gpp.org//Specs/archive/26_series/26.130/26130-001.zip">
+  <front>
+    <title>Speech/Audio Codec RTP Payload Format Conformance for UE Testing</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="RAGOT, Stephane">
+      <organization>Orange</organization>
+    </author>
+    <date year="2022" month="August" day="11"/>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

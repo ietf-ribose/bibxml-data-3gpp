@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.281:Rel-17/17.3.0">
+<reference anchor="3GPP.TS.29.281:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.281/29281-h30.zip">
   <front>
     <title>General Packet Radio System (GPRS) Tunnelling Protocol User Plane (GTPv1-U)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YANG, Yong">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="23"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

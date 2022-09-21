@@ -1,6 +1,6 @@
-<reference anchor="3GPP.TR.38.918:Rel-18/0.5.0">
+<reference anchor="3GPP.TR.38.918:Rel-18/0.5.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.918/38918-050.zip">
   <front>
-    <title>Study on 5G NR UE full stack testing for Network Slicing</title>
+    <title>Study on 5G NR User Equipment (UE) full stack testing for Network Slicing</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>
@@ -15,6 +15,7 @@
     <author fullname="SONG, Dan">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="June" day="25"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

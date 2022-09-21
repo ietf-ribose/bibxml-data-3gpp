@@ -1,6 +1,6 @@
-<reference anchor="3GPP.TS.38.108:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.38.108:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.108/38108-h00.zip">
   <front>
-    <title>NR; Satellite Node radio transmission and reception</title>
+    <title>NR; Satellite Access Node radio transmission and reception</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>
@@ -15,6 +15,7 @@
     <author fullname="PANAITOPOL, Dorin">
       <organization>THALES</organization>
     </author>
+    <date year="2022" month="June" day="24"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.571-3:Rel-16/16.12.0">
+<reference anchor="3GPP.TS.37.571-3:Rel-16/16.12.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-3/37571-3-gc0.zip">
   <front>
     <title>User Equipment (UE) conformance specification for UE positioning; Part 3: Implementation Conformance Statement (ICS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CARDALDA GARCIA, Adrian">
       <organization>ROHDE &amp; SCHWARZ</organization>
     </author>
+    <date year="2022" month="June" day="30"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

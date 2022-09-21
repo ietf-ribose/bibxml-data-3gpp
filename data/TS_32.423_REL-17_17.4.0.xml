@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.423:Rel-17/17.4.0">
+<reference anchor="3GPP.TS.32.423:Rel-17/17.4.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.423/32423-h40.zip">
   <front>
     <title>Telecommunication management; Subscriber and equipment trace; Trace data definition and management</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="TOCHE, Christian">
       <organization>Huawei Technologies France</organization>
     </author>
+    <date year="2022" month="June" day="16"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

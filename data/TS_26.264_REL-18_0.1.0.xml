@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.26.264:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-010.zip">
+  <front>
+    <title>IMS-based AR Real-Time Communication</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="YANG, Hyun-Koo">
+      <organization>Samsung Electronics Co., Ltd</organization>
+    </author>
+    <date year="2022" month="September" day="7"/>
+    <workgroup>S4</workgroup>
+  </front>
+</reference>

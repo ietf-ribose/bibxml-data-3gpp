@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.29.274:Rel-17/17.7.0">
+  <front>
+    <title>3GPP Evolved Packet System (EPS); Evolved General Packet Radio Service (GPRS) Tunnelling Protocol for Control plane (GTPv2-C); Stage 3</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="LANDAIS, Bruno">
+      <organization>Nokia France</organization>
+    </author>
+    <workgroup>C4</workgroup>
+  </front>
+</reference>

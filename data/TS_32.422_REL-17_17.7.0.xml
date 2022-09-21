@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.422:Rel-17/17.7.0">
+<reference anchor="3GPP.TS.32.422:Rel-17/17.7.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.422/32422-h70.zip">
   <front>
     <title>Telecommunication management; Subscriber and equipment trace; Trace control and configuration management</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZOU, Lan">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>
+    <date year="2022" month="June" day="16"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

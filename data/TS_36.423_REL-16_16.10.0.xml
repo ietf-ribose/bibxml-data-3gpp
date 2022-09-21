@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.36.423:Rel-16/16.10.0">
+<reference anchor="3GPP.TS.36.423:Rel-16/16.10.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.423/36423-ga0.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 Application Protocol (X2AP)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="QIU, Liwei">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="23"/>
     <workgroup>R3</workgroup>
   </front>
 </reference>

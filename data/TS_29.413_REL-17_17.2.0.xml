@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.29.413:Rel-17/17.2.0">
+  <front>
+    <title>Application of the NG Application Protocol (NGAP) to non-3GPP access</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="XU, Steven">
+      <organization>Nokia Korea</organization>
+    </author>
+    <workgroup>R3</workgroup>
+  </front>
+</reference>

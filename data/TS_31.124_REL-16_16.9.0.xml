@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TS.31.124:Rel-16/16.9.0">
+  <front>
+    <title>Mobile Equipment (ME) conformance test specification; Universal Subscriber Identity Module Application Toolkit (USAT) conformance test specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="MARQUORDT, Arne">
+      <organization>Comprion GmbH</organization>
+    </author>
+    <workgroup>C6</workgroup>
+  </front>
+</reference>

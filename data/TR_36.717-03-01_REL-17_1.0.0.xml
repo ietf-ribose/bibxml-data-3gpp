@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.36.717-03-01:Rel-17/1.0.0">
+<reference anchor="3GPP.TR.36.717-03-01:Rel-17/1.0.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.717-03-01/36717-03-01-100.zip">
   <front>
     <title>Rel-17 LTE inter-band Carrier Aggregation for 3 bands DL with 1 band UL</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHANG, Qian">
       <organization>HiSilicon Technologies Co. Ltd</organization>
     </author>
+    <date year="2022" month="June" day="22"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

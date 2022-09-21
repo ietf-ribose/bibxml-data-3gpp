@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.36.171:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.36.171:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.171/36171-h10.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for Support of Assisted Global Navigation Satellite System (A-GNSS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="NG, Man Hung">
       <organization>Alcatel-Lucent</organization>
     </author>
+    <date year="2022" month="June" day="24"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

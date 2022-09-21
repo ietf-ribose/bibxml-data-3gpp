@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.304:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.38.304:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.304/38304-h10.zip">
   <front>
     <title>NR; User Equipment (UE) procedures in idle mode and in RRC Inactive state</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="OZTURK, Ozcan">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>
+    <date year="2022" month="July" day="17"/>
     <workgroup>R2</workgroup>
   </front>
 </reference>

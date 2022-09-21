@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.842:Rel-17/17.0.0">
+<reference anchor="3GPP.TR.38.842:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.842/38842-h00.zip">
   <front>
     <title>High power User Equipment (UE) (power class 2) for NR inter-band Carrier Aggregation (CA) and Supplementary Uplink (SUL) configurations with x (x&gt;2) bands DL and y (y=1, 2) bands UL</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WANG, Jin">
       <organization>Huawei Technologies R&amp;D UK</organization>
     </author>
+    <date year="2022" month="June" day="24"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

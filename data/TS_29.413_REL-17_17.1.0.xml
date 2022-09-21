@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.413:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.29.413:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.413/29413-h10.zip">
   <front>
     <title>Application of the NG Application Protocol (NGAP) to non-3GPP access</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="XU, Steven">
       <organization>Nokia Korea</organization>
     </author>
+    <date year="2022" month="June" day="23"/>
     <workgroup>R3</workgroup>
   </front>
 </reference>

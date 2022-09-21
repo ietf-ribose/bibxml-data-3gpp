@@ -1,6 +1,6 @@
 <reference anchor="3GPP.TR.33.874:Rel-17/0.6.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.874/33874-060.zip">
   <front>
-    <title>Study on enhanced security for Phase 2 network slicing</title>
+    <title>Study on enhanced security for network slicing phase 2</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>

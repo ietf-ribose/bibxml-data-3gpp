@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.22.268:Rel-18/18.1.0">
+<reference anchor="3GPP.TS.22.268:Rel-18/18.1.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.268/22268-i10.zip">
   <front>
     <title>Public Warning System (PWS) requirements</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YOUNGE, Mark">
       <organization>T-Mobile USA Inc.</organization>
     </author>
+    <date year="2022" month="June" day="16"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

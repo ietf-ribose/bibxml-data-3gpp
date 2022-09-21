@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.323:Rel-16/16.7.0">
+<reference anchor="3GPP.TS.38.323:Rel-16/16.7.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.323/38323-g70.zip">
   <front>
     <title>NR; Packet Data Convergence Protocol (PDCP) specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YI, SeungJune">
       <organization>LG Electronics Inc.</organization>
     </author>
+    <date year="2022" month="July" day="17"/>
     <workgroup>R2</workgroup>
   </front>
 </reference>

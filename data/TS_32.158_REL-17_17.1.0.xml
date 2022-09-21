@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.158:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.32.158:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.158/32158-h10.zip">
   <front>
     <title>Management and orchestration;Design rules for REpresentational State Transfer (REST) Solution Sets (SS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="POLLAKOWSKI, Olaf">
       <organization>Nokia Germany</organization>
     </author>
+    <date year="2022" month="June" day="23"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

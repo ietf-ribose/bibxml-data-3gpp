@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.355:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.37.355:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.355/37355-h10.zip">
   <front>
     <title>LTE Positioning Protocol (LPP)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="KITAZOE, Masato">
       <organization>QUALCOMM JAPAN LLC.</organization>
     </author>
+    <date year="2022" month="July" day="20"/>
     <workgroup>R2</workgroup>
   </front>
 </reference>

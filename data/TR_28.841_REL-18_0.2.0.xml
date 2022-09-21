@@ -1,0 +1,20 @@
+<reference anchor="3GPP.TR.28.841:Rel-18/0.2.0">
+  <front>
+    <title>Study on management aspects of IoT NTN enhancements</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="SUN, Mingrui">
+      <organization>China Unicom</organization>
+    </author>
+    <workgroup>S5</workgroup>
+  </front>
+</reference>

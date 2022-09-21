@@ -1,0 +1,22 @@
+<reference anchor="3GPP.TS.31.102:Rel-16/16.12.0">
+  <front>
+    <title>Characteristics of the Universal Subscriber Identity Module (USIM) application</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="ESPI, Sergi">
+      <organization>G+D MS</organization>
+    </author>
+    <workgroup>C6</workgroup>
+    <workgroup>T3</workgroup>
+    <abstract>This document defines the USIM application for 3G telecom network operation. The present document specifies, command parameters, file structures and content, security functions and the application protocol to be used on the interface between UICC (USIM) and ME.</abstract>
+  </front>
+</reference>

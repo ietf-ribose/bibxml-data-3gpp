@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.33.737:Rel-18/0.1.0">
+<reference anchor="3GPP.TR.33.737:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.737/33737-010.zip">
   <front>
     <title>Study on Authentication and Key Management for Applications (AKMA) phase 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="HUANG, Xiaoting">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="June" day="17"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

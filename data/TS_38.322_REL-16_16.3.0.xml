@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.322:Rel-16/16.3.0">
+<reference anchor="3GPP.TS.38.322:Rel-16/16.3.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.322/38322-g30.zip">
   <front>
     <title>NR; Radio Link Control (RLC) protocol specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHANG, Yuanyuan">
       <organization>MediaTek Inc.</organization>
     </author>
+    <date year="2022" month="July" day="17"/>
     <workgroup>R2</workgroup>
   </front>
 </reference>

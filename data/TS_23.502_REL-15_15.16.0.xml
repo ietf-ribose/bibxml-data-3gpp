@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.502:Rel-15/15.16.0">
+<reference anchor="3GPP.TS.23.502:Rel-15/15.16.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.502/23502-fg0.zip">
   <front>
     <title>Procedures for the 5G System (5GS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="HEDMAN, Peter">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="15"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

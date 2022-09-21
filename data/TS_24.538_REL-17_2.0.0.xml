@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.538:Rel-17/2.0.0">
+<reference anchor="3GPP.TS.24.538:Rel-17/2.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.538/24538-200.zip">
   <front>
     <title>Enabling MSGin5G Service; Protocol specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LIU, Yue">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="June" day="24"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

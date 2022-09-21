@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.36.579-7:Rel-15/15.3.0">
+<reference anchor="3GPP.TS.36.579-7:Rel-15/15.3.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.579-7/36579-7-f30.zip">
   <front>
     <title>Mission Critical (MC) services over LTE; Part 7: Mission Critical Data (MCData) User Equipment (UE) Protocol conformance specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="KAHN, Jason">
       <organization>NIST</organization>
     </author>
+    <date year="2022" month="June" day="30"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

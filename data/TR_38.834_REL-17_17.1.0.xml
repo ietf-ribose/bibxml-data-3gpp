@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.834:Rel-17/17.1.0">
+<reference anchor="3GPP.TR.38.834:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.834/38834-h10.zip">
   <front>
     <title>Measurements of User Equipment (UE) Over-the-Air (OTA) performance for NR FR1; Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LIU, Qifei">
       <organization>OPPO</organization>
     </author>
+    <date year="2022" month="June" day="24"/>
     <workgroup>R4</workgroup>
     <workgroup>R5</workgroup>
   </front>

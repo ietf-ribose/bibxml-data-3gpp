@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.461:Rel-16/16.1.0">
+<reference anchor="3GPP.TS.37.461:Rel-16/16.1.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.461/37461-g10.zip">
   <front>
     <title>Iuant interface: Layer 1</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="REININGER, Philippe">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>
+    <date year="2022" month="June" day="23"/>
     <workgroup>R3</workgroup>
   </front>
 </reference>

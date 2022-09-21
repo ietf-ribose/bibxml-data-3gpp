@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TR.37.829:Rel-18/0.0.1" target="https://ftp.3gpp.org//Specs/archive/37_series/37.829/37829-001.zip">
+  <front>
+    <title>High-power UE operation for fixed-wireless/vehicle-mounted use cases in LTE bands and NR bands for Rel-18</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="VASENKARI, Petri">
+      <organization>Nokia Corporation</organization>
+    </author>
+    <date year="2022" month="August" day="10"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

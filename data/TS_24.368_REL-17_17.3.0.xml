@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.368:Rel-17/17.3.0">
+<reference anchor="3GPP.TS.24.368:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.368/24368-h30.zip">
   <front>
     <title>Non-Access Stratum (NAS) configuration Management Object (MO)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SEDLACEK, Ivo">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="24"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

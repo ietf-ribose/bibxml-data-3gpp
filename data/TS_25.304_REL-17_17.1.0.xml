@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.25.304:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.25.304:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-h10.zip">
   <front>
     <title>User Equipment (UE) procedures in idle mode and procedures for cell reselection in connected mode</title>
     <author>
@@ -13,8 +13,9 @@
       </address>
     </author>
     <author fullname="CHEN, Jun">
-      <organization>HiSilicon Technologies Co. Ltd</organization>
+      <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2022" month="July" day="1"/>
     <workgroup>RP</workgroup>
     <workgroup>R2</workgroup>
     <workgroup>R2</workgroup>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.351:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.38.351:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.351/38351-h10.zip">
   <front>
     <title>NR; Sidelink Relay Adaptation Protocol (SRAP) Specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LU, Qianxi">
       <organization>Guangdong OPPO Mobile Telecom.</organization>
     </author>
+    <date year="2022" month="July" day="17"/>
     <workgroup>R2</workgroup>
   </front>
 </reference>

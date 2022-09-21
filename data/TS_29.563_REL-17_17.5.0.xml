@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.563:Rel-17/17.5.0">
+<reference anchor="3GPP.TS.29.563:Rel-17/17.5.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.563/29563-h50.zip">
   <front>
     <title>5G System; Home Subscriber Server (HSS) services for interworking with Unified Data Management (UDM); Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="DE GREGORIO, Jesus">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="21"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

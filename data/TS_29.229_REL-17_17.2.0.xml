@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.229:Rel-17/17.2.0">
+<reference anchor="3GPP.TS.29.229:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.229/29229-h20.zip">
   <front>
     <title>Cx and Dx interfaces based on the Diameter protocol; Protocol details</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="BARTOLOME, Maria-Cruz">
       <organization>Nanjing Ericsson Panda Com Ltd</organization>
     </author>
+    <date year="2022" month="June" day="23"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

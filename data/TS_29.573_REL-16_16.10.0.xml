@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.573:Rel-16/16.10.0">
+<reference anchor="3GPP.TS.29.573:Rel-16/16.10.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.573/29573-ga0.zip">
   <front>
     <title>5G System; Public Land Mobile Network (PLMN) Interconnection; Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="QI, Caixia">
       <organization>HuaWei Technologies Co., Ltd</organization>
     </author>
+    <date year="2022" month="June" day="21"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

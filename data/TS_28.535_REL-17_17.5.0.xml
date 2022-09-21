@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.28.535:Rel-17/17.5.0">
+<reference anchor="3GPP.TS.28.535:Rel-17/17.5.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.535/28535-h50.zip">
   <front>
     <title>Management and orchestration; Management services for communication service assurance; Requirements</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="GROENENDIJK, Jan">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="16"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

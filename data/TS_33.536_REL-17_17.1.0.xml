@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.536:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.33.536:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.536/33536-h10.zip">
   <front>
     <title>Security aspects of 3GPP support for advanced Vehicle-to-Everything (V2X) services</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="KIM, Dongjoo">
       <organization>LG Electronics Inc.</organization>
     </author>
+    <date year="2022" month="June" day="17"/>
     <workgroup>S3</workgroup>
     <workgroup>S2</workgroup>
   </front>

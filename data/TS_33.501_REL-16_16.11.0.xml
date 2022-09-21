@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.501:Rel-16/16.11.0">
+<reference anchor="3GPP.TS.33.501:Rel-16/16.11.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.501/33501-gb0.zip">
   <front>
     <title>Security architecture and procedures for 5G System</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZUGENMAIER, Alf">
       <organization>NTT DOCOMO INC.</organization>
     </author>
+    <date year="2022" month="June" day="17"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

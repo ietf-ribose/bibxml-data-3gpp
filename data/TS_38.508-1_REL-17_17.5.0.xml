@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.508-1:Rel-17/17.5.0">
+<reference anchor="3GPP.TS.38.508-1:Rel-17/17.5.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-h50.zip">
   <front>
     <title>5GS; User Equipment (UE) conformance specification; Part 1: Common test environment</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JÖNSSON, Bo">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="July" day="1"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

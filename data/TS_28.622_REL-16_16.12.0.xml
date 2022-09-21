@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.28.622:Rel-16/16.12.0">
+<reference anchor="3GPP.TS.28.622:Rel-16/16.12.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.622/28622-gc0.zip">
   <front>
     <title>Telecommunication management; Generic Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SCOTT, Mark">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="16"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

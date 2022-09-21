@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TR.21.917:Rel-17/0.7.0" target="https://www.3gpp.org/ftp/Specs/archive/21_series/21.917/21917-070.zip">
+  <front>
+    <title>Release 17 Description; Summary of Rel-17 Work Items</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="SULTAN, Alain">
+      <organization>ETSI</organization>
+    </author>
+    <date year="2022" month="July" day="1"/>
+    <workgroup>SP</workgroup>
+  </front>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.171:Rel-16/16.4.0">
+<reference anchor="3GPP.TS.38.171:Rel-16/16.4.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.171/38171-g40.zip">
   <front>
     <title>NR; Requirements for support of Assisted Global Navigation Satellite System (A-GNSS)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CATMUR, Richard">
       <organization>Spirent Communications</organization>
     </author>
+    <date year="2022" month="June" day="24"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

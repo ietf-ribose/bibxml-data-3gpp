@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.128:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.33.128:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.128/33128-i00.zip">
   <front>
     <title>Security; Protocol and procedures for Lawful Interception (LI); Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="RAO, Nagaraja">
       <organization>Nokia Germany</organization>
     </author>
+    <date year="2022" month="June" day="16"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

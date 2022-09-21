@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.518:Rel-16/16.12.0">
+<reference anchor="3GPP.TS.29.518:Rel-16/16.12.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.518/29518-gc0.zip">
   <front>
     <title>5G System; Access and Mobility Management Services; Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YANG, Yong">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="June" day="21"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

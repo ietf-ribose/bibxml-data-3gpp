@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.523-1:Rel-17/17.0.0">
+<reference anchor="3GPP.TS.38.523-1:Rel-17/17.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-1/38523-1-h00.zip">
   <front>
     <title>5GS; User Equipment (UE) conformance specification; Part 1: Protocol</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YANG, zhaobing">
       <organization>HiSilicon Technologies Co. Ltd</organization>
     </author>
+    <date year="2022" month="October" day="5"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

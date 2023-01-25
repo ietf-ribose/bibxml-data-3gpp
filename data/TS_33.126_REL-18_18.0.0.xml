@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.126:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.33.126:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.126/33126-i00.zip">
   <front>
     <title>Lawful Interception requirements</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JASPERS, Koen">
       <organization>PIDS</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

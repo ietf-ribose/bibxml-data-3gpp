@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.254:Rel-17/17.2.0">
+<reference anchor="3GPP.TS.32.254:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.254/32254-h20.zip">
   <front>
     <title>Telecommunication management; Charging management; Exposure function Northbound Application Program Interfaces (APIs) charging</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CHEN, SHAN">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

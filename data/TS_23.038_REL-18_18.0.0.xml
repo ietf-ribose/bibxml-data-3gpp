@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.038:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.23.038:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.038/23038-i00.zip">
   <front>
     <title>Alphabets and language-specific information</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CHIN, ChenHo">
       <organization>Guangdong OPPO Mobile Telecom.</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>C1</workgroup>
     <workgroup>T2</workgroup>
     <abstract>This specification describes the language specific requirements for the terminals including character coding.</abstract>

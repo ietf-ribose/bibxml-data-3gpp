@@ -1,6 +1,6 @@
-<reference anchor="3GPP.TR.38.879:Rel-18/0.0.1">
+<reference anchor="3GPP.TR.38.879:Rel-18/0.0.1" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.879/38879-001.zip">
   <front>
-    <title>Study on enhancements for resiliency of gNB-CU</title>
+    <title>Study on enhancement for Resiliency of gNB-CU-CP</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>
@@ -15,6 +15,7 @@
     <author fullname="INOUE, Shoki">
       <organization>NTT DOCOMO INC.</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>R3</workgroup>
   </front>
 </reference>

@@ -1,0 +1,18 @@
+<reference anchor="3GPP.TS.38.521-5:Rel-17/0.0.1" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-5/38521-5-001.zip">
+  <front>
+    <title>User Equipment (UE) conformance specification; Radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance requirements</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="December" day="13"/>
+    <workgroup>R5</workgroup>
+  </front>
+</reference>

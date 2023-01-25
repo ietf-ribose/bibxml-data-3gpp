@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.257:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.32.257:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.257/32257-h10.zip">
   <front>
     <title>Telecommunication management; Charging management; Edge computing domain charging</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YAO, Yizhi">
       <organization>Intel Corporation (UK) Ltd</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

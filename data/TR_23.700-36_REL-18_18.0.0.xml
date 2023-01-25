@@ -1,6 +1,6 @@
-<reference anchor="3GPP.TR.23.700-36:Rel-18/18.0.0">
+<reference anchor="3GPP.TR.23.700-36:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-36/23700-36-i00.zip">
   <front>
-    <title>Study on Analytics Enablement Service</title>
+    <title>Study on Application Data Analytics Enablement Service</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>
@@ -15,6 +15,7 @@
     <author fullname="PATEROMICHELAKIS, Emmanouil">
       <organization>Lenovo Future Communications</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S6</workgroup>
   </front>
 </reference>

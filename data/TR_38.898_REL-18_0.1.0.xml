@@ -1,0 +1,18 @@
+<reference anchor="3GPP.TR.38.898:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.898/38898-010.zip">
+  <front>
+    <title>High power UE for FR1 for DC_R18_xBLTE_yBNR_zDLnUL with power class m (x= 1, 2, 3, 4; y=1, 2; m&lt;3)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="December" day="11"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

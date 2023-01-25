@@ -1,0 +1,21 @@
+<reference anchor="3GPP.TS.31.127:Rel-17/0.1.8" target="https://ftp.3gpp.org//Specs/archive/31_series/31.127/31127-018.zip">
+  <front>
+    <title>UICC-terminal interaction; non-removable Universal Subscriber Identity Module (nrUSIM) application behavioural test specification</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <author fullname="MARQUORDT, Arne">
+      <organization>Comprion GmbH</organization>
+    </author>
+    <date year="2022" month="November" day="11"/>
+    <workgroup>C6</workgroup>
+  </front>
+</reference>

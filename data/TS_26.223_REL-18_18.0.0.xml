@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.223:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.26.223:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.223/26223-i00.zip">
   <front>
     <title>Telepresence using the IP Multimedia Subsystem (IMS); Media handling and interaction</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CURCIO, Igor">
       <organization>Nokia Corporation</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

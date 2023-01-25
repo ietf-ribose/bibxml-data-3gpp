@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.257:Rel-17/17.2.0">
+<reference anchor="3GPP.TS.24.257:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.257/24257-h20.zip">
   <front>
     <title>Uncrewed Aerial System (UAS) Application Enabler (UAE) layer; Protocol aspects; Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SHU, Lin">
       <organization>HuaWei Technologies Co., Ltd</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.558:Rel-17/17.2.0">
+<reference anchor="3GPP.TS.33.558:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.558/33558-h20.zip">
   <front>
     <title>Security aspects of enhancement of support for enabling edge applications</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHANG, Bo">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

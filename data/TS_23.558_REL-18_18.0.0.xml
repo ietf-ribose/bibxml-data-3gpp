@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.23.558:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.23.558:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.558/23558-i00.zip">
   <front>
     <title>Architecture for enabling Edge Applications</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="PATTAN, Basavaraj (Basu)">
       <organization>Samsung R&amp;D Institute UK</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S6</workgroup>
   </front>
 </reference>

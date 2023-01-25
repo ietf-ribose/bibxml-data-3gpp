@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.22.989:Rel-19/19.1.0">
+<reference anchor="3GPP.TR.22.989:Rel-19/19.1.0" target="https://www.3gpp.org/ftp/Specs/archive/22_series/22.989/22989-j10.zip">
   <front>
     <title>Study on Future Railway Mobile Communication System</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="NORP, Toon">
       <organization>TNO</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S1</workgroup>
   </front>
 </reference>

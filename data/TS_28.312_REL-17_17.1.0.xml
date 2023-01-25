@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.28.312:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.28.312:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.312/28312-h10.zip">
   <front>
     <title>Management and orchestration; Intent driven management services for mobile networks</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="XU, Ruiyue">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

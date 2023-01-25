@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.893:Rel-18/0.0.1">
+<reference anchor="3GPP.TR.38.893:Rel-18/0.0.1" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.893/38893-001.zip">
   <front>
     <title>Study on UE support of regionally-defined subsets of an NR band</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="FONG, Gene">
       <organization>Qualcomm Korea</organization>
     </author>
+    <date year="2022" month="October" day="4"/>
     <workgroup>RP</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.23.700-68:Rel-18/18.0.0">
+<reference anchor="3GPP.TR.23.700-68:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-68/23700-68-i00.zip">
   <front>
     <title>Study on Support of reduced capability NR devices; Phase 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CHEN, Qian">
       <organization>Nanjing Ericsson Panda Com Ltd</organization>
     </author>
+    <date year="2022" month="September" day="21"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

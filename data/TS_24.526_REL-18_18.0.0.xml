@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.526:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.24.526:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.526/24526-i00.zip">
   <front>
     <title>User Equipment (UE) policies for 5G System (5GS); Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHOU, Xingyue">
       <organization>ZTE Corporation</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

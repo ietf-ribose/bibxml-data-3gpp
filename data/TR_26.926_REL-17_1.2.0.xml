@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.26.926:Rel-17/1.2.0">
+<reference anchor="3GPP.TR.26.926:Rel-17/1.2.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.926/26926-120.zip">
   <front>
     <title>Traffic Models and Quality Evaluation Methods for Media and XR Services in 5G Systems </title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="STOCKHAMMER, Thomas">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

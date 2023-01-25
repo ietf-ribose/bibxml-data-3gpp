@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.113:Rel-18/0.1.0" target="https://ftp.3gpp.org//Specs/archive/26_series/26.113/26113-010.zip">
+<reference anchor="3GPP.TS.26.113:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.113/26113-010.zip">
   <front>
     <title>Enabler for Immersive Real-time Communication</title>
     <author>
@@ -15,7 +15,7 @@
     <author fullname="JUNG, Kyunghun">
       <organization>Meta Ireland</organization>
     </author>
-    <date year="2022" month="May" day="5"/>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

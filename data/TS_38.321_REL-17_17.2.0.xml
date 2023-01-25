@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.321:Rel-17/17.2.0">
+<reference anchor="3GPP.TS.38.321:Rel-17/17.2.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.321/38321-h20.zip">
   <front>
     <title>NR; Medium Access Control (MAC) protocol specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JANG, Jaehyuk">
       <organization>SAMSUNG Electronics Co., Ltd.</organization>
     </author>
+    <date year="2022" month="October" day="1"/>
     <workgroup>R2</workgroup>
   </front>
 </reference>

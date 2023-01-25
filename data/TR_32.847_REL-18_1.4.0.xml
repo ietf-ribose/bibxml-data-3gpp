@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.32.847:Rel-18/1.4.0">
+<reference anchor="3GPP.TR.32.847:Rel-18/1.4.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.847/32847-140.zip">
   <front>
     <title>Study on Charging Aspects for Network Slicing Phase 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="GÖRMER, Gerald">
       <organization>MATRIXX Software</organization>
     </author>
+    <date year="2022" month="September" day="21"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

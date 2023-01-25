@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.101-5:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.38.101-5:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-5/38101-5-h10.zip">
   <front>
     <title>NR; User Equipment (UE) radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance requirements</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="JIN, Yiran">
       <organization>Samsung R&amp;D Institute UK</organization>
     </author>
+    <date year="2022" month="September" day="27"/>
     <workgroup>R4</workgroup>
   </front>
 </reference>

@@ -1,0 +1,18 @@
+<reference anchor="3GPP.TR.38.870:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.870/38870-010.zip">
+  <front>
+    <title>Enhanced Over-the-Air (OTA) test methods for NR FR1 Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="December" day="11"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

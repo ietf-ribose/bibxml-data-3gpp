@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.38.867:Rel-18/18.0.0">
+<reference anchor="3GPP.TR.38.867:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.867/38867-i00.zip">
   <front>
     <title>Study on NR Network-controlled Repeaters</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHANG, Nan">
       <organization>ZTE Corporation</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>R1</workgroup>
     <workgroup>R2, R3</workgroup>
   </front>

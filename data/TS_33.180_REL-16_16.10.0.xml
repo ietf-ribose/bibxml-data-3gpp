@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.180:Rel-16/16.10.0">
+<reference anchor="3GPP.TS.33.180:Rel-16/16.10.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.180/33180-ga0.zip">
   <front>
     <title>Security of the Mission Critical (MC) service</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WOODWARD, Tim">
       <organization>Motorola Solutions Danmark A/S</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

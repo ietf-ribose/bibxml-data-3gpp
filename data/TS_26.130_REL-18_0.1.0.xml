@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.26.130:Rel-18/0.1.0">
+<reference anchor="3GPP.TS.26.130:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.130/26130-010.zip">
   <front>
     <title>Speech/Audio Codec RTP Payload Format Conformance for UE Testing</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="RAGOT, Stephane">
       <organization>Orange</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S4</workgroup>
   </front>
 </reference>

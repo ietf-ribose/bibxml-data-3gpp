@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.533:Rel-17/17.4.0">
+<reference anchor="3GPP.TS.38.533:Rel-17/17.4.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.533/38533-h40.zip">
   <front>
     <title>NR; User Equipment (UE) conformance specification; Radio Resource Management (RRM)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CARDALDA GARCIA, Adrian">
       <organization>ROHDE &amp; SCHWARZ</organization>
     </author>
+    <date year="2022" month="October" day="7"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.29.579:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.29.579:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/29_series/29.579/29579-h10.zip">
   <front>
     <title>5G System; Interworking MSC For Short Message Services; Stage 3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="LIU, Liu">
       <organization>China Telecom Corporation Ltd.</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>C4</workgroup>
   </front>
 </reference>

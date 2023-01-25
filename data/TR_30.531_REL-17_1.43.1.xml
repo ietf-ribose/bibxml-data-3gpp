@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.30.531:Rel-17/1.43.1">
+<reference anchor="3GPP.TR.30.531:Rel-17/1.43.1" target="https://www.3gpp.org/ftp/Specs/archive/30_series/30.531/30531-014301.zip">
   <front>
     <title>Work Plan and Working Procedures - RAN WG3</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="KORHONEN, Juha">
       <organization>ETSI</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>R3</workgroup>
     <workgroup>R3</workgroup>
   </front>

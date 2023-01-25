@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.33.877:Rel-18/0.2.0">
+<reference anchor="3GPP.TR.33.877:Rel-18/0.2.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.877/33877-020.zip">
   <front>
     <title>Study on the security aspects of Artificial Intelligence (AI)/Machine Learning (ML) for the NG-RAN</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="TSIATSIS, Vlasios">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

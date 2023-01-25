@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.303:Rel-17/17.1.0">
+<reference anchor="3GPP.TS.33.303:Rel-17/17.1.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.303/33303-h10.zip">
   <front>
     <title>Proximity-based Services (ProSe); Security aspects</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ESCOTT, Adrian">
       <organization>Qualcomm CDMA Technologies</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

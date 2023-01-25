@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.33.936:Rel-18/0.3.0">
+<reference anchor="3GPP.TR.33.936:Rel-18/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.936/33936-030.zip">
   <front>
     <title>Security Assurance Methodology (SECAM) for 3GPP virtualized network products</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="QI, Minpeng">
       <organization>China Mobile Com. Corporation</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

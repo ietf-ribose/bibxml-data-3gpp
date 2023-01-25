@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.281:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.24.281:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.281/24281-i00.zip">
   <front>
     <title>Mission Critical Video (MCVideo) signalling control; Protocol specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="WEI, haitao">
       <organization>HUAWEI TECHNOLOGIES Co. Ltd.</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

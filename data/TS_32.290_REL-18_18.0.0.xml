@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.32.290:Rel-18/18.0.0">
+<reference anchor="3GPP.TS.32.290:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/32_series/32.290/32290-i00.zip">
   <front>
     <title>Telecommunication management; Charging management; 5G system; Services, operations and procedures of charging using Service Based Interface (SBI)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CHEN, SHAN">
       <organization>Huawei Tech.(UK) Co.. Ltd</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

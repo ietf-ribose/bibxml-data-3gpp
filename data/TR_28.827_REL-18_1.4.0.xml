@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.28.827:Rel-18/1.4.0">
+<reference anchor="3GPP.TR.28.827:Rel-18/1.4.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.827/28827-140.zip">
   <front>
     <title>Study on 5G charging for additional roaming scenarios and actors </title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="TÖRNKVIST, Robert">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="September" day="21"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

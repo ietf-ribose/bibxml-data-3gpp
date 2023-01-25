@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.38.509:Rel-16/16.5.0">
+<reference anchor="3GPP.TS.38.509:Rel-16/16.5.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.509/38509-g50.zip">
   <front>
     <title>5GS; Special conformance testing functions for User Equipment (UE)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="THIRUVATHIRAI, Ramakrishnan">
       <organization>ROHDE &amp; SCHWARZ</organization>
     </author>
+    <date year="2022" month="October" day="4"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

@@ -1,0 +1,18 @@
+<reference anchor="3GPP.TR.38.899:Rel-18/0.1.0" target="https://www.3gpp.org/ftp/Specs/archive/38_series/38.899/38899-010.zip">
+  <front>
+    <title>High power UE for FR1 NR inter-band CA/DC or NR SUL (supplementary uplink) band combination with y bands downlink (1&lt;y&lt;=6) and x bands uplink (x=1,2) and power class m (m&lt;3) and high power on TDD band(s)</title>
+    <author>
+      <organization abbrev="3GPP">3GPP</organization>
+      <address>
+        <postal>
+          <city>Sophia Antipolis Cedex</city>
+          <code>06921</code>
+          <country>France</country>
+          <street>c/o ETSI 650, route des Lucioles</street>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="December" day="11"/>
+    <workgroup>R4</workgroup>
+  </front>
+</reference>

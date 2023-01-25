@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.36.523-1:Rel-17/17.3.0">
+<reference anchor="3GPP.TS.36.523-1:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-h30.zip">
   <front>
     <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 1: Protocol conformance specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="YANG, zhaobing">
       <organization>HiSilicon Technologies Co. Ltd</organization>
     </author>
+    <date year="2022" month="October" day="4"/>
     <workgroup>R5</workgroup>
   </front>
 </reference>

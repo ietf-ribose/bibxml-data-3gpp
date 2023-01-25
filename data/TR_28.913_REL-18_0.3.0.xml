@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.28.913:Rel-18/0.3.0">
+<reference anchor="3GPP.TR.28.913:Rel-18/0.3.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.913/28913-030.zip">
   <front>
     <title>Study on new aspects of EE for 5G networks phase 2</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="CORNILY, Jean Michel">
       <organization>Orange</organization>
     </author>
+    <date year="2022" month="September" day="21"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

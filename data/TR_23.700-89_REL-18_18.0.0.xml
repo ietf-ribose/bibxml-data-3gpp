@@ -1,6 +1,6 @@
-<reference anchor="3GPP.TR.23.700-89:Rel-18/18.0.0">
+<reference anchor="3GPP.TR.23.700-89:Rel-18/18.0.0" target="https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-89/23700-89-i00.zip">
   <front>
-    <title>Study on enhancement of 5G AM Policy</title>
+    <title>Study on 5G AM Policy</title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>
@@ -15,6 +15,7 @@
     <author fullname="CHEN, Zhuoyi">
       <organization>China Telecom Corporation Ltd.</organization>
     </author>
+    <date year="2022" month="September" day="21"/>
     <workgroup>S2</workgroup>
   </front>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TR.28.864:Rel-18/0.4.0">
+<reference anchor="3GPP.TR.28.864:Rel-18/0.4.0" target="https://www.3gpp.org/ftp/Specs/archive/28_series/28.864/28864-040.zip">
   <front>
     <title>Study on Enhancement of the management aspects related to NetWork Data Analytics Functions (NWDAF)</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="ZHAO, Song">
       <organization>China Telecom Corporation Ltd.</organization>
     </author>
+    <date year="2022" month="September" day="21"/>
     <workgroup>S5</workgroup>
   </front>
 </reference>

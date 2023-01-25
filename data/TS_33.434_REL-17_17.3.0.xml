@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.33.434:Rel-17/17.3.0">
+<reference anchor="3GPP.TS.33.434:Rel-17/17.3.0" target="https://www.3gpp.org/ftp/Specs/archive/33_series/33.434/33434-h30.zip">
   <front>
     <title>Security aspects of Service Enabler Architecture Layer (SEAL) for verticals</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="RAJADURAI, Rajavelsamy">
       <organization>Samsung R&amp;D Institute UK</organization>
     </author>
+    <date year="2022" month="September" day="22"/>
     <workgroup>S3</workgroup>
   </front>
 </reference>

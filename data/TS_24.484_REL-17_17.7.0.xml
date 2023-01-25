@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.24.484:Rel-17/17.7.0">
+<reference anchor="3GPP.TS.24.484:Rel-17/17.7.0" target="https://www.3gpp.org/ftp/Specs/archive/24_series/24.484/24484-h70.zip">
   <front>
     <title>Mission Critical Services (MCS) configuration management; Protocol specification</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="OPRESCU, Val">
       <organization>AT&amp;T</organization>
     </author>
+    <date year="2022" month="September" day="23"/>
     <workgroup>C1</workgroup>
   </front>
 </reference>

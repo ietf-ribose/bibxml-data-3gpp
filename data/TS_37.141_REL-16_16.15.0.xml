@@ -1,4 +1,4 @@
-<reference anchor="3GPP.TS.37.141:Rel-16/16.15.0">
+<reference anchor="3GPP.TS.37.141:Rel-16/16.15.0" target="https://www.3gpp.org/ftp/Specs/archive/37_series/37.141/37141-gf0.zip">
   <front>
     <title>NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) conformance testing</title>
     <author>
@@ -15,6 +15,7 @@
     <author fullname="SKOLD, Johan">
       <organization>Ericsson LM</organization>
     </author>
+    <date year="2022" month="September" day="26"/>
     <workgroup>R4</workgroup>
     <workgroup>RP</workgroup>
   </front>

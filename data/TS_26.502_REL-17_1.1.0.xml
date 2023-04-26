@@ -1,6 +1,6 @@
 <reference anchor="3GPP.TS.26.502:Rel-17/1.1.0" target="https://www.3gpp.org/ftp/Specs/archive/26_series/26.502/26502-110.zip">
   <front>
-    <title>5G Multicast-Broadcast User Service Architecture </title>
+    <title>5G multicast-broadcast services; User service architecture </title>
     <author>
       <organization abbrev="3GPP">3GPP</organization>
       <address>

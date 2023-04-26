@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="SZINI, Istvan">
+      <organization>Apple AB</organization>
+    </author>
     <date year="2022" month="November" day="5"/>
     <workgroup>R5</workgroup>
   </front>

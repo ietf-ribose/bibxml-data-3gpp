@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="BALASUBRAMANIAN, Vijay">
+      <organization>Qualcomm Technologies Int</organization>
+    </author>
     <date year="2022" month="December" day="13"/>
     <workgroup>R5</workgroup>
   </front>

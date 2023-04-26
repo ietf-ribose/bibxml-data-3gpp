@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="WANG, Ruixin">
+      <organization>vivo Communication Technology</organization>
+    </author>
     <date year="2022" month="September" day="30"/>
     <workgroup>R4</workgroup>
   </front>

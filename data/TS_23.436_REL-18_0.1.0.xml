@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="PATEROMICHELAKIS, Emmanouil">
+      <organization>Lenovo Future Communications</organization>
+    </author>
     <date year="2022" month="October" day="24"/>
     <workgroup>S6</workgroup>
   </front>

@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="KONG, Lingyu">
+      <organization>HiSilicon Technologies Co. Ltd</organization>
+    </author>
     <date year="2022" month="November" day="7"/>
     <workgroup>R4</workgroup>
   </front>

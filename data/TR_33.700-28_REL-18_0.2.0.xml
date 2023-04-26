@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="LU, Wei">
+      <organization>Xiaomi Technology</organization>
+    </author>
     <date year="2022" month="November" day="25"/>
     <workgroup>S3</workgroup>
   </front>

@@ -12,6 +12,9 @@
         </postal>
       </address>
     </author>
+    <author fullname="WANG, Jin">
+      <organization>Huawei Technologies R&amp;D UK</organization>
+    </author>
     <date year="2022" month="November" day="7"/>
     <workgroup>R4</workgroup>
   </front>
